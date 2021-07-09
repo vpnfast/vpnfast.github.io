@@ -16,12 +16,12 @@
 
 ![Panda VPN](image/panda-min.png)
 
-> - <a rel="nofollow noopener" href="https://qiangwaikan.com/go/panda" target="_blank">>> Panda VPN（买一年送一年优惠连链接）</a>，这款综合性价比最高，我已经使用了2年左右。总体来讲，在过去2年的使用时间里，全年可用率基本能达到95%左右，服务器也会常年更新。**在国内的Windows、Mac和安卓用户可以找客服要精简客户端V1 app，在中国登录和连接更为顺畅**，而官网的标准客户端在敏感时期大封锁的时候可能会出现连接问题，需等一段时间更新之后才能恢复正常，**国内用户最好直接使用适合中国地区使用的简化版客户端的OpenVPN协议进行连接，下文中有教程**。目前Panda有打折的优惠券可以使用，**Panda翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度不是刚需的用户也够用了**。
+> - <a rel="nofollow noopener" href="https://qiangwaikan.com/go/panda" target="_blank">>> Panda VPN（买一年送一年优惠连链接）</a>，这款综合性价比最高，我已经使用了2年左右。总体来讲，在过去2年的使用时间里，全年可用率基本能达到95%左右，服务器也会常年更新。在国内的Windows、Mac和安卓用户可以找客服要精简客户端V1 app，在中国登录和连接更为顺畅，而官网的标准客户端在敏感时期大封锁的时候可能会出现连接问题，需等一段时间更新之后才能恢复正常，国内用户最好直接使用适合中国地区使用的简化版客户端的OpenVPN协议进行连接，下文中有教程。目前Panda有打折的优惠券可以使用，**Panda翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度不是刚需的用户也够用了**。
 
 ![ExpressVPN](image/express-vpn.png)
 
 > 
-> - <a rel="nofollow noopener" href="https://qiangwaikan.com/go/express" target="_blank">>> ExpressVPN（买一年送3月优惠链接）</a>，这款在国内体验最好，速度在我所用过的VPN中最快，也是我自己很喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新和联系客服使用，<a rel="nofollow noopener" href="https://qiangwaikan.com/go/express" target="_blank">打开ExpressVPN官网</a>需其他梯子。它设备支持最全面，iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选，已经运营了13年（至2021年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。平时使用建议OpenVPN或Lightway协议（Automatic也可以），Lightway协议是Express官方2021年独家研发的最新VPN协议，在国内的连接成功率很高。敏感时期遇到墙升级，官方推荐的中国地区优化服务器线路如果遇到连接问题，可以切换L2TP协议连接其他节点，这个协议也有一些线路在敏感时期仍然可用，可以作为备用选择。
+> - <a rel="nofollow noopener" href="https://qiangwaikan.com/go/express" target="_blank">>> ExpressVPN（买一年送3月优惠链接）</a>，这款在国内体验最好，速度在我所用过的VPN中最快，也是我自己很喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新和联系客服使用，<a rel="nofollow noopener" href="https://qiangwaikan.com/go/express" target="_blank">打开ExpressVPN官网</a>需其他梯子。**它设备支持最全面，iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选**，已经运营了13年（至2021年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。平时使用建议OpenVPN或Lightway协议（Automatic也可以），Lightway协议是Express官方2021年独家研发的最新VPN协议，在国内的连接成功率很高。敏感时期遇到墙升级，官方推荐的中国地区优化服务器线路如果遇到连接问题，可以切换L2TP协议连接其他节点，这个协议也有一些线路在敏感时期仍然可用，可以作为备用选择。
 >
 
 如果目前没有梯子或是想挑选高性价比、符合自己需求的翻墙软件，也可以参考下文推荐的VPN进行对比和选择。
