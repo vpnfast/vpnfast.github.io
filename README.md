@@ -16,7 +16,7 @@
 
 ![Panda VPN](image/panda-min.png)
 
-> - <a rel="nofollow noopener" href="https://qiangwaikan.com/go/panda" target="_blank">>> Panda VPN（买一年送一年优惠连链接）</a>，这款综合性价比最高，我已经使用了2年左右。总体来讲，在过去2年的使用时间里，全年可用率基本能达到95%左右，服务器也会常年更新。**在国内的Windows、Mac和安卓用户可以找客服要精简客户端V1 app，在中国登录和连接更为顺畅**，而官网的标准客户端在敏感时期大封锁的时候可能会出现连接问题，需等一段时间更新之后才能恢复正常，**国内用户最好直接使用适合中国地区使用的简化版客户端的OpenVPN协议进行连接，下文中有教程**。iPhone手机由于iOS系统的封闭，没有中国专属的APP，稳定性不如其他几种系统，iPhone用户建议还是选择<a rel="nofollow noopener" href="https://qiangwaikan.com/go/express" target="_blank">ExpressVPN</a>。目前Panda有打折的优惠券可以使用，**Panda翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度不是刚需的用户也够用了**。Panda VPN官网域名在中国被墙（软件APP能正常使用），[国内的本地网络打开Panda VPN官网](#如何打开pandavpn官网)需要改电脑host文件才可以访问，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能顺利访问官网。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要使用本地网络访问，这点比较坑。
+> - <a rel="nofollow noopener" href="https://qiangwaikan.com/go/panda" target="_blank">>> Panda VPN（买一年送一年优惠连链接）</a>，这款综合性价比最高，我已经使用了2年左右。总体来讲，在过去2年的使用时间里，全年可用率基本能达到95%左右，服务器也会常年更新。**在国内的Windows、Mac和安卓用户可以找客服要精简客户端V1 app，在中国登录和连接更为顺畅**，而官网的标准客户端在敏感时期大封锁的时候可能会出现连接问题，需等一段时间更新之后才能恢复正常，**国内用户最好直接使用适合中国地区使用的简化版客户端的OpenVPN协议进行连接，下文中有教程**。目前Panda有打折的优惠券可以使用，**Panda翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度不是刚需的用户也够用了**。
 
 ![ExpressVPN](image/express-vpn.png)
 
