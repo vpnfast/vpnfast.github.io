@@ -189,22 +189,21 @@ Surfshark成立于2018年，公司总部位于英属维尔京群岛，也是一�
 
 ![Surfshark](image/website-surfshark.jpg  "Surfshark：最经济实惠的中国VPN")
 
-翻墙能力：VPN软件的翻墙能力对中国VPN用户来说非常重要，而Surfshark独有的NoBorders模式可以很好地混淆和伪装用户的流量，从而实现科学上网的目的。
+**翻墙能力**：VPN软件的翻墙能力对中国VPN用户来说非常重要，而Surfshark独有的NoBorders模式可以很好地混淆和伪装用户的流量，从而实现科学上网的目的。
 
-安全性：Surfshark采用的是业内最先进的AES-256位加密技术、严格的零日志策略、专用的DNS和多种内置的高级功能，能彻底隐藏用户的真实IP地址，让用户在互联网上始终保持匿名状态，用户的上网数据也不可能被任何人所破解。值得一提的是，Surfshark还通过了第三方安全机构的权威认证。
+**安全性**：Surfshark采用的是业内最先进的AES-256位加密技术、严格的零日志策略、专用的DNS和多种内置的高级功能，能彻底隐藏用户的真实IP地址，让用户在互联网上始终保持匿名状态，用户的上网数据也不可能被任何人所破解。值得一提的是，Surfshark还通过了第三方安全机构的权威认证。
 
-解锁能力：Surfshark在全球的65个国家部署了3200多台服务器，包括北美洲、南美洲、欧洲、非洲、中东、亚洲、大洋洲等。中国VPN用户可借助Surfshark遍布全世界的VPN节点去解锁Netflix、HBO、BBC iPlayer、Hulu、Disney+、YouTube、Facebook、Reddit、Twitter、Instagram等网站。Surfshark也没有任何带宽和流量限制，国内VPN用户可尽情地观看流媒体视频节目。
+**解锁能力**：Surfshark在全球的65个国家部署了3200多台服务器，包括北美洲、南美洲、欧洲、非洲、中东、亚洲、大洋洲等。中国VPN用户可借助Surfshark遍布全世界的VPN节点去解锁Netflix、HBO、BBC iPlayer、Hulu、Disney+、YouTube、Facebook、Reddit、Twitter、Instagram等网站。Surfshark也没有任何带宽和流量限制，国内VPN用户可尽情地观看流媒体视频节目。
 
-兼容性：Surfshark目前除了不支持路由器之外，其他主流的设备都可以支持，包括Windows、Android、MacOS、iOS、Linux、智能电视、游戏机等设备，以及Chrome、Firefox、Safari等浏览器。
+**兼容性**：Surfshark目前除了不支持路由器之外，其他主流的设备都可以支持，包括Windows、Android、MacOS、iOS、Linux、智能电视、游戏机等设备，以及Chrome、Firefox、Safari等浏览器。
 
-价格：Surfshark的价格在业内算是比较便宜的，每月仅需2.30美金，而且每年的重要节假日还有大优惠折扣。Surfshark支持的付款方式有PayPal、信用卡、支付宝、Google Pay、Amazon Pay和加密货币。
+**价格**：Surfshark的价格在业内算是比较便宜的，每月仅需2.30美金，而且每年的重要节假日还有大优惠折扣。Surfshark支持的付款方式有PayPal、信用卡、支付宝、Google Pay、Amazon Pay和加密货币。
 
 ![Surfshark价格](image/price-surfshark.jpg  "Surfshark价格")
 
-客户支持和退款政策：与ExpressVPN一样，Surfshark也提供24/7在线客户支持和为期30天的退款保证。你也可以通过Email和表单等形式与客户团队取得联系。
+**客户支持和退款政策**：与ExpressVPN一样，Surfshark也提供24/7在线客户支持和为期30天的退款保证。你也可以通过Email和表单等形式与客户团队取得联系。
 
-立即获取Surfshark
-重点：Surfshark是不限制登录设备数的，也就是说你可以在十几台、甚至几十台设备上登录同一个付费帐号。换句话说，你可以与几十个朋友共享同一个付费帐号。Surfshark是我们整个VPN排行榜中性价比最高的一个。
+**重点**：Surfshark是不限制登录设备数的，也就是说你可以在十几台、甚至几十台设备上登录同一个付费帐号。换句话说，你可以与几十个朋友共享同一个付费帐号。Surfshark是我们整个VPN排行榜中性价比最高的一个。
 
 #### Surfshark VPN中国使用小提示：
 
