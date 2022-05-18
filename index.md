@@ -410,7 +410,7 @@ VPN中国使用步骤如下：
 
 能！
 
-虽然说Netflix打击VPN的力度很大，但是我们VPN排行榜单中的这些VPN软件可以完美地解锁Netflix的地域限制，你可以自由地观看Netflix美国区的影视剧集，也可以观看Netflix英国、Netflix法国、Netflix澳大利亚、Netflix香港、Netflix日本等地区的影视内容。
+虽然说Netflix打击VPN的力度很大，但是我们VPN排行榜单中的这些VPN软件可以完美地解锁Netflix的地域限制，你可以自由地观看Netflix美国区的影视剧集。也可以观看Netflix英国、Netflix法国、Netflix澳大利亚、Netflix香港、Netflix日本等地区的影视内容。
 
 ### 在中国香港和中国台湾需要使用VPN软件吗？
 
