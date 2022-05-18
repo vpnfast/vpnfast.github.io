@@ -1,4 +1,4 @@
-# 2022年5月最好用的中国VPN推荐，翻墙软件VPN排行
+# 2022年5月最好用的中国VPN推荐，翻墙VPN软件排行
 
 ![好用的翻墙VPN推荐](image/the-best-vpn-for-china.jpg "VPN推荐")
 
