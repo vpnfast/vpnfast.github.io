@@ -34,18 +34,7 @@
 
 在我们整个VPN推荐列表中，熊猫VPN算是一个比较特殊的存在，价格也很便宜，速度快，非常适合中国网民使用，它是我们VPN排行榜的第二名。
 
-### VPN中国（三）：[Surfshark](https://qiangup.com/go/surfshark) – 最经济实惠的中国VPN
-
-![surfshark](image/surfshark.png  "surfshark Logo")
-
->- 2018年在英属维尔京群岛成立，它虽然比较年轻，但却是近两年来最稳定、最好用的中国VPN之一，也是为数不多的仍能在中国稳定使用的翻墙软件之一。
->- 在全球65个国家部署了3200多台高速服务器，完全能满足国内VPN用户日常访问海外网站的需求。
->- 为所有主流的设备都提供了简单易用的APP客户端，且支持无数台设备同时登录使用，整体性价比很高。
->- 价格便宜，也提供24/7在线客服和为期30天的退款保证。
-
-总得来说，Surfshark也是一款值得尝试的翻墙软件（尤其适合设备较多，或者想与多个朋友共享同一个付费帐号的用户），它是我们[VPN推荐](https://qiangwaikan.com/best-vpn-china/)榜的第三名。
-
-### VPN中国（四）：[PureVPN](https://qiangup.com/go/purevpn) – 最老牌的翻墙VPN之一
+### VPN中国（三）：[PureVPN](https://qiangup.com/go/purevpn) – 最老牌的翻墙VPN之一
 
 ![purevpn](image/purevpn.png  "purevpn Logo")
 
@@ -56,6 +45,17 @@
 >- 价格便宜，提供24/7在线客服支持和为期31天的无理由退款保证。
 
 PureVPN虽然在2021年的10月8日搬迁到了英属维尔京群岛，但经过我们的实测之后发现，PureVPN依然是最佳的中国VPN之一，而且还是我们VPN推荐榜的第四名。
+
+### VPN中国（四）：[Surfshark](https://qiangup.com/go/surfshark) – 最经济实惠的中国VPN
+
+![surfshark](image/surfshark.png  "surfshark Logo")
+
+>- 2018年在英属维尔京群岛成立，它虽然比较年轻，但却是近两年来最稳定、最好用的中国VPN之一，也是为数不多的仍能在中国稳定使用的翻墙软件之一。
+>- 在全球65个国家部署了3200多台高速服务器，完全能满足国内VPN用户日常访问海外网站的需求。
+>- 为所有主流的设备都提供了简单易用的APP客户端，且支持无数台设备同时登录使用，整体性价比很高。
+>- 价格便宜，也提供24/7在线客服和为期30天的退款保证。
+
+总得来说，Surfshark也是一款值得尝试的翻墙软件（尤其适合设备较多，或者想与多个朋友共享同一个付费帐号的用户），它是我们[VPN推荐](https://qiangwaikan.com/best-vpn-china/)榜的第三名。
 
 #### 小提示：
 
@@ -205,7 +205,7 @@ PureVPN于2006年在中国香港成立，它非常熟悉中国的互联网环境
 >- 中国VPN用户请优先选择中国台湾和中国香港的VPN节点。
 >- 看视频可选Stream（流媒体）模式，翻墙可选Internet Freedom（畅享互联网）模式。
 
-### VPN中国（三）：[Surfshark](https://qiangup.com/go/surfshark) – 最经济实惠的中国VPN
+### VPN中国（四）：[Surfshark](https://qiangup.com/go/surfshark) – 最经济实惠的中国VPN
 
 Surfshark成立于2018年，公司总部位于英属维尔京群岛，也是一款比较好用的翻墙软件。首先，Surfshark采用独特的NoBorders模式，可轻松地绕过GFW的检测和封锁，能为中国VPN用户提供稳定的翻墙服务。其次，Surfshark在隐私安全、解锁能力、兼容性和易用性等方面都表现良好。最后，Surfshark价格便宜，支持30天退款保证，而且还允许无数台设备同时登录使用，性价比非常高。
 
