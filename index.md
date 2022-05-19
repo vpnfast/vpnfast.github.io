@@ -1,8 +1,8 @@
 # 2022年5月最好用的中国VPN推荐，翻墙VPN软件排行
 
-![好用的翻墙VPN推荐](image/the-best-vpn-for-china.jpg "VPN推荐")
-
 因为GFW的封杀，2022年还能在中国使用的VPN软件已经所剩无几了。为了寻找安全且好用的中国VPN，我们在大陆实测了上百款VPN软件，下面是我们基于VPN中国实测后给出的最佳VPN推荐，以及VPN排行。
+
+![好用的翻墙VPN推荐](image/the-best-vpn-for-china.jpg "VPN推荐")
 
 如果你不想花费太多时间来阅读全文，而只想快速了解并选择一款好用的VPN，那么请查看我们下方的VPN中国简讯（如果你需要长期使用VPN来翻墙访问海外Google、Youtube、Netflix等网站，那么我们还是建议你花点时间来阅读全文）。
 
