@@ -4,7 +4,7 @@
 
 也就是说，科学上网（即“翻墙”）已逐渐成为很多中国网民工作和生活的一部分了。接下来我们将会为大家详细介绍如何科学上网、如何翻墙、如何选择最佳翻墙软件、以及翻墙需要注意的事项等，我们也会给大家推荐几款在中国最好用的翻墙VPN。
 
-![好用的翻墙VPN推荐](image/the-best-vpn-for-china.jpg "VPN推荐")
+![好用的翻墙VPN推荐](https://hotlinkgo.com/wp-content/uploads/2022/05/the-best-vpn-for-china.jpg "VPN推荐")
 
 ## 科学上网工具和方法
 
@@ -18,13 +18,13 @@
 
 ### 翻墙VPN推荐（简讯）：
 
-![ExpressVPN](image/expressvpn.png  "ExpressVPN Logo")
+![ExpressVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/expressvpn.png  "ExpressVPN Logo")
 - **翻墙VPN首选**：[ExpressVPN](https://qiangup.com/go/expressvpn) – 翻墙稳定、连接速度业内最快、强大的加密功能、解锁能力强、简单易于使用、兼容所有设备、24/7在线客服、30天退款保证。
 
-![surfshark](image/surfshark.png  "surfshark Logo")
+![surfshark](https://hotlinkgo.com/wp-content/uploads/2022/05/surfshark.png  "surfshark Logo")
 - **翻墙VPN（二）**：[Surfshark](https://qiangup.com/go/surfshark) – 能在中国使用、允许无数台设备同时登录使用、性价比很高
 
-![purevpn](image/purevpn.png  "purevpn Logo")
+![purevpn](https://hotlinkgo.com/wp-content/uploads/2022/05/purevpn.png  "purevpn Logo")
 - **翻墙VPN（三）**：[PureVPN](https://qiangup.com/go/purevpn) – 最老牌的翻墙VPN之一、安全好用、价格便宜
 
 #### 翻墙VPN优点：
@@ -42,7 +42,7 @@
 
 ## 翻墙软件（翻墙梯子/机场VPN）推荐（简讯）：
 
-![PandaVPN](image/pandavpn.png  "PandaVPN Logo")
+![PandaVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/pandavpn.png  "PandaVPN Logo")
 
 **翻墙软件首选**：[熊猫VPN](https://qiangup.com/go/pandavpn) – 为翻墙而生，连接速度快
 
@@ -134,7 +134,7 @@ VPN是2000年左右问世的，至今已有20多年的历史了。VPN最初的�
 
 ExpressVPN成立于2007年，至今已稳定运营了十几年了，它是业内最顶级的VPN品牌，也是最佳的[中国VPN](https://qiangup.com/best-vpn-china/)。ExpressVPN自主研发了一套专门针对GFW的Lightway协议，该协议翻墙效果非常好。ExpressVPN在隐私安全、兼容性、易用性、连接速度、解锁能力、客户支持等方面也表现非常突出。
 
-![ExpressVPN](image/website-expressvpn.jpg  "ExpressVPN：翻墙VPN首选")
+![ExpressVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/website-expressvpn.jpg  "ExpressVPN：翻墙VPN首选")
 
 
 ExpressVPN在中国是非常好用的，主要是因为它自主研发的Lightway翻墙协议增加了混淆流量的功能，可以有效地绕过GFW的检测和封锁。而且ExpressVPN实力非常雄厚，也非常重视中国市场，所以ExpressVPN每年都会投入大量的人力和财力来维护其APP客户端和服务器网络，以确保中国用户可以稳定地翻墙。
@@ -145,7 +145,7 @@ ExpressVPN采用的是军事级别的AES-256位加密技术和严格的零日志
 
 ExpressVPN可以完美地兼容所有的设备，包括Windows、MacOS、Linux等操作系统的电脑，Android、iOS等操作系统的手机和平板电脑，Google Chrome、Firefox、Safari等浏览器，以及路由器、智能电视、游戏机等设备。ExpressVPN还允许五台设备同时登录使用。
 
-![ExpressVPN价格](image/price-expressvpn.jpg  "ExpressVPN价格")
+![ExpressVPN价格](https://hotlinkgo.com/wp-content/uploads/2022/05/price-expressvpn.jpg  "ExpressVPN价格")
 
 ExpressVPN提供三种价格套餐，其中12个月套餐价格最优惠，每月仅需6.67美金（买12个月赠送3个月）。ExpressVPN还提供24/7在线客服支持和为期30天的无理由退款保证。
 
@@ -155,7 +155,7 @@ ExpressVPN提供三种价格套餐，其中12个月套餐价格最优惠，每�
 
 Surfshark成立于2018年，总部位于英属维尔京群岛。Surfshark的运营时间虽然不是很长，但它却是VPN行业内的一匹黑马。Surfshark是最好用的翻墙VPN之一，它可以成功地绕过GFW的检测和封锁，提供强大的隐私安全保护，能解锁大部分海外网站和流媒体平台，兼容所有主流的设备，连接速度也较快。Surfshark价格便宜，允许无数台设备同时登录使用，性价比非常高。
 
-![Surfshark](image/website-surfshark.jpg  "Surfshark：最佳的翻墙VPN之一")
+![Surfshark](https://hotlinkgo.com/wp-content/uploads/2022/05/website-surfshark.jpg  "Surfshark：最佳的翻墙VPN之一")
 
 最近两年，经过我们多次跟踪测试之后发现，Surfshark是一款非常好用的翻墙VPN，它拥有一个独特的NoBorders模式，可以很好地伪装用户的上网流量，从而实现科学上网的目的。
 
@@ -165,7 +165,7 @@ Surfshark在全球的65个国家部署了3200多台服务器，庞大的服务�
 
 Surfshark也可以兼容市面上大部分设备和平台，包括Windows、Linux、MacOS、iOS、Android等设备，你也可以在Google Chrome和FireFox等浏览器上使用它。
 
-![Surfshark价格](image/price-surfshark.jpg  "Surfshark价格")
+![Surfshark价格](https://hotlinkgo.com/wp-content/uploads/2022/05/price-surfshark.jpg  "Surfshark价格")
 
 Surfshark的价格也比较便宜，两年套餐每月仅需2.49美金，相当于打2折。Surfshark也提供24/7在线客服和为期30天的退款保证。
 
@@ -175,13 +175,13 @@ Surfshark的价格也比较便宜，两年套餐每月仅需2.49美金，相当�
 
 PureVPN于2006年在中国香港成立，是一家历史比较悠久的老牌翻墙VPN。PureVPN非常熟悉中国网络环境，也比较重视中国用户，后来虽然因为某些原因将公司总部搬迁到了英属维尔京群岛，但它依然能为中国用户提供稳定的翻墙服务。
 
-![PureVPN](image/website-purevpn.jpg  "PureVPN：最佳的翻墙VPN之一")
+![PureVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/website-purevpn.jpg  "PureVPN：最佳的翻墙VPN之一")
 
 PureVPN在全世界的78个国家部署了6500多台服务器，包括北美洲、南美洲、欧洲、东南亚、中东等地区。借助PureVPN庞大的服务器网络，中国用户不仅可以解锁包括Netflix在内的大部分受地域限制的网站和服务，而且还可以流畅地看视频、玩游戏、下载种子。
 
 PureVPN也同样可以兼容所有主流的设备和平台，它为Windows、MacOS、Android、iOS、Linux等系统都提供了专用的APP客户端。用户可以通过PureVPN官网来下载对应的APP，并按照提示进行安装，然后就可以一键翻墙出国了。PureVPN还拥有中文版本的官网和APP客户端，对中国用户非常友好。PureVPN也允许十台设备同时登录使用，也就是说你可以与九个朋友共享同一个付费帐号。
 
-![purevpn价格](image/price-purevpn.jpg  "purevpn价格")
+![purevpn价格](https://hotlinkgo.com/wp-content/uploads/2022/05/price-purevpn.jpg  "purevpn价格")
 
 PureVPN的价格也比较优惠，每月仅需1.99美金，而且它也提供24/7在线客服和为期31天的退款保证。
 
@@ -195,7 +195,7 @@ PureVPN的价格也比较优惠，每月仅需1.99美金，而且它也提供24/
 
 在众多的科学上网工具中，熊猫VPN是比较特殊的。从翻墙原理上来讲，熊猫VPN属于机场一类的翻墙软件，但它却有着与传统VPN一样的安全性。熊猫VPN为翻墙而生，连接稳定，且速度几乎可以与ExpressVPN媲美。
 
-![PandaVPN](image/website-pandavpn.jpg  "熊猫VPN：最佳的翻墙软件")
+![PandaVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/website-pandavpn.jpg  "熊猫VPN：最佳的翻墙软件")
 
 熊猫VPN于2018年在塞舌尔成立，该地区也没有数据保留法，对VPN服务商非常友好。熊猫VPN采用的是自主研发的ECC协议，该协议完美地结合了SSR的翻墙能力和OpenVPN的安全性，不仅可以为用户提供快速且稳定的翻墙服务，而且还可以提供较高的隐私安全保护。
 
@@ -205,7 +205,7 @@ PureVPN的价格也比较优惠，每月仅需1.99美金，而且它也提供24/
 
 与ExpressVPN相比，熊猫VPN的兼容性稍微弱了一点，但它依然为Android、iOS、Windows、MacOS、Linux等主流设备提供了简单易用的APP客户端，并且允许三台设备同时登录使用。
 
-![熊猫VPN价格](image/price-pandavpn.jpg  "熊猫VPN价格")
+![熊猫VPN价格](https://hotlinkgo.com/wp-content/uploads/2022/05/price-pandavpn.jpg  "熊猫VPN价格")
 
 熊猫VPN的价格也比较亲民，其一年套餐，每月仅需2.77美金。它也提供24/7（中文）在线客服支持和为期7天的退款保证。
 
