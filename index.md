@@ -4,8 +4,6 @@
 
 <div style="border-top: solid #155D94 8px;border-radius: 6px;background-color:#ececec;padding:10px;">如果你不想花费太多时间来阅读全文，而只想快速了解并选择一款好用的VPN，那么请查看我们下方的VPN中国简讯（如果你需要长期使用VPN来翻墙访问海外Google、Youtube、Netflix等网站，那么我们还是建议你花点时间来阅读文后关于翻墙软件的详细内容）。</div>
 
-![好用的翻墙VPN推荐](https://hotlinkgo.com/wp-content/uploads/2022/05/the-best-vpn-for-china.jpg "VPN推荐")
-
 ## 中国VPN推荐排行
 
 ### VPN中国首选：[ExpressVPN](https://qiangup.com/go/expressvpn) – 速度最快的中国VPN
@@ -68,6 +66,8 @@ PureVPN虽然在2021年的10月8日搬迁到了英属维尔京群岛，但经过
 此外，我们还基于VPN中国实测之后，为大家挑选了几款适用于电脑、iPhobe/iPad、安卓等设备的VPN软件。
 
 ## 如何挑选中国VPN软件？
+
+![好用的翻墙VPN推荐](https://hotlinkgo.com/wp-content/uploads/2022/05/the-best-vpn-for-china.jpg "VPN推荐")
 
 每个人使用VPN的目的都不一样，有的人是想访问Google查找资料，有的人是想观看Netflix上的美剧，有的人是想登录他的海外金融帐号。所以，一款真正值得被推荐的VPN必须具备以下几个条件（这也是我们在挑选最佳中国VPN和做VPN排行榜单时的标准）：
 
