@@ -1,6 +1,6 @@
 # 2022年5月翻墙软件中国VPN排行，最好用的翻墙VPN推荐
 
-![VPN推荐](https://hotlinkgo.com/wp-content/uploads/2022/05/the-best-vpn-for-china.jpg)
+![好用的VPN, VPN推荐, 翻墙软件, 翻墙VPN, VPN中国, VPN排行](https://hotlinkgo.com/wp-content/uploads/2022/05/the-best-vpn-for-china.jpg)
 
 因为GFW的封杀，2022年还能在中国使用的VPN翻墙软件已经所剩无几了。为了寻找安全且好用的中国VPN，我们在大陆实测了上百款VPN软件，下面是我们基于VPN中国实测后给出的最佳VPN推荐，以及VPN排行。
 
