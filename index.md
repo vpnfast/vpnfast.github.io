@@ -253,13 +253,13 @@ Surfshark成立于2018年，公司总部位于英属维尔京群岛，也是一�
 
 ![ExpressVPN官网](https://hotlinkgo.com/wp-content/uploads/2022/05/website-expressvpn.jpg  "ExpressVPN官网")
 
-#### 2.选择你需要的套餐时长，购买包年套餐可享买一年送一年优惠。
+#### 2.选择你需要的套餐时长，一般来说包年套餐最划算，然后通过银联、PayPal、Visa信用卡等支付方式购买。
 
-![ExpressVPN价格](https://hotlinkgo.com/wp-content/uploads/2022/05/price-expressvpn.jpg  "ExpressVPN价格")
+![通过银联、PayPal、Visa信用卡购买ExpressVPN套餐](https://hotlinkgo.com/wp-content/uploads/2022/05/paymethod-expressvpn.jpg  "通过银联、PayPal、Visa信用卡购买ExpressVPN套餐")
 
 #### 3.从ExpressVPN后台下载适用于你设备的APP客户端，常用的设备包括：Windows、MacOS、iOS、Android等。
 
-![ExpressVPN下载客户端软件](https://hotlinkgo.com/wp-content/uploads/2022/05/download-expressvpn.jpg  "ExpressVPN下载客户端软件")
+![ExpressVPN下载客户端软件](https://hotlinkgo.com/wp-content/uploads/2022/05/download-expressvpn.jpg  "下载ExpressVPN电脑、手机、安卓、苹果客户端软件")
 
 #### 4.打开APP客户端，登录付费账号密码，然后点击一键连接，开始自由地访问海外互联网。
 
@@ -270,6 +270,8 @@ Surfshark成立于2018年，公司总部位于英属维尔京群岛，也是一�
 ## 为什么要使用中国VPN？
 
 虽然说VPN软件最主要/最核心的功能是加密和保护个人隐私，但在中国网民眼中VPN≈翻墙工具。对于身处中国的网民来说，他们使用VPN的主要目的是翻墙出国，访问被GFW屏蔽的Google、Facebook、Youtube等网站，以及受地域限制的Netflix、HBO、Hulu等流媒体平台。对于身处海外的华人来说，他们使用VPN的主要目的是翻墙回国，访问国内腾讯视频、爱奇艺、优酷视频、网易云音乐、QQ音乐等网站和平台。除此之外，VPN还会顺带被用于保护个人隐私。
+
+![中国VPN翻墙访问Google、Facebook、Youtube](https://hotlinkgo.com/wp-content/uploads/2022/05/unblock-social-media.jpg  "中国VPN翻墙访问Google、Facebook、Youtube")
 
 ### 翻墙出国
 
@@ -307,7 +309,11 @@ Surfshark成立于2018年，公司总部位于英属维尔京群岛，也是一�
 
 ### 优先选择中国周边地区的VPN节点
 
-理论上来讲，VPN节点的物理距离越近，连接越稳定，速度也越快。我们VPN推荐榜单中的那些VPN品牌，虽然在全球所有主流国家都部署了VPN节点，但对于身处中国的网民来说，并不是所有的VPN节点都适合你。我们建议你优先选择中国台湾、中国香港、日本、韩国、新加坡等中国周边地区的VPN节点。你也可以选择美国的VPN节点，毕竟美国是世界互联网的中心，不仅拥有大量的VPN节点，而且连接速度也不错。如果不是特殊需求，我们不建议你选择欧洲、非洲等地区的VPN节点，因为这些地区的VPN节点连接速度基本上都比较慢，延迟也很高。
+理论上来讲，VPN节点的物理距离越近，连接越稳定，速度也越快。我们VPN推荐榜单中的那些VPN品牌，虽然在全球所有主流国家都部署了VPN节点，但对于身处中国的网民来说，并不是所有的VPN节点都适合你。我们建议你优先选择中国台湾、中国香港、日本、韩国、新加坡等中国周边地区的VPN节点。
+
+![中国大陆近距离翻墙VPN服务器香港、台湾、新加坡、韩国、日本](https://hotlinkgo.com/wp-content/uploads/2022/05/vpn-server-location.jpg  "中国大陆近距离翻墙VPN服务器香港、台湾、新加坡、韩国、日本")
+
+你也可以选择美国的VPN节点，毕竟美国是世界互联网的中心，不仅拥有大量的VPN节点，而且连接速度也不错。如果不是特殊需求，我们不建议你选择欧洲、非洲等地区的VPN节点，因为这些地区的VPN节点连接速度基本上都比较慢，延迟也很高。
 
 ### 选择针对GFW的专用VPN协议
 
@@ -343,6 +349,8 @@ Surfshark成立于2018年，公司总部位于英属维尔京群岛，也是一�
 
 ## 我可以使用免费的中国VPN软件吗？
 
+![免费VPN下载](https://hotlinkgo.com/wp-content/uploads/2022/05/free-vpn-collection.png  "免费VPN")
+
 不要再浪费时间去寻找和尝试那些免费的中国VPN软件了。原因有三：
 
 首先，我们可以很肯定地告诉你，能在中国使用，且完全免费的VPN根本不存在。现如今，能在中国使用的付费VPN都寥寥无几，更不要说免费VPN了。为了与GFW抗衡，以ExpressVPN为首的几个顶级的VPN服务商每年都会投入大量的人力和财力。即便如此，在每年的特殊时期，ExpressVPN也偶尔会出现短暂无法连接的情况。而完全免费的VPN拿什么跟GFW相抗衡呢？
@@ -363,6 +371,8 @@ Surfshark成立于2018年，公司总部位于英属维尔京群岛，也是一�
 ## 我可以自己搭建翻墙软件吗？
 
 可以，但不建议！
+
+![翻墙VPS搬瓦工、Vultr搭建Shadowsocks、V2ray梯子](https://hotlinkgo.com/wp-content/uploads/2022/05/fanqiang-vps.jpg  "翻墙VPS")
 
 很多技术大牛非常热衷于自己搭建中国VPN软件，有些人甚至想私自搭建翻墙软件之后来售卖。如果你是程序员，或者是技术大牛，那么请忽略本文。如果你是普通的VPN中国用户，或者完全是一个技术小白，那么我们完全不建议你自己搭建翻墙VPN。
 
