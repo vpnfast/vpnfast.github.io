@@ -1,4 +1,4 @@
-# 2022年5月翻墙软件中国VPN排行，最好用的翻墙VPN推荐
+# 2022年5月翻墙软件中国VPN排行，好用的翻墙VPN推荐
 
 ![好用的VPN, VPN推荐, 翻墙软件, 翻墙VPN, VPN中国, VPN排行](https://hotlinkgo.com/wp-content/uploads/2022/05/the-best-vpn-for-china.jpg)
 
