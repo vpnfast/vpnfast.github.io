@@ -8,7 +8,7 @@
 
 ## 中国VPN推荐排行
 
-### VPN中国首选：[ExpressVPN](https://qiangup.com/go/expressvpn) – 速度最快的中国VPN
+### VPN推荐首选：[ExpressVPN](https://qiangup.com/go/expressvpn) – 速度最快的中国VPN
 
 ![ExpressVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/expressvpn.png  "ExpressVPN Logo")
 
@@ -24,7 +24,7 @@
 
 <hr>
 
-### VPN中国（二）：[熊猫VPN](https://qiangup.com/go/pandavpn) – 中国VPN市场专供翻墙软件
+### VPN推荐（二）：[熊猫VPN](https://qiangup.com/go/pandavpn) – 中国VPN市场专供翻墙软件
 
 ![PandaVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/pandavpn.png  "PandaVPN Logo")
 
@@ -38,7 +38,7 @@
 
 <hr>
 
-### VPN中国（三）：[PureVPN](https://qiangup.com/go/purevpn) – 最老牌的翻墙VPN之一
+### VPN推荐（三）：[PureVPN](https://qiangup.com/go/purevpn) – 最老牌的翻墙VPN之一
 
 ![purevpn](https://hotlinkgo.com/wp-content/uploads/2022/05/purevpn.png  "purevpn Logo")
 
@@ -52,7 +52,7 @@ PureVPN虽然在2021年的10月8日搬迁到了英属维尔京群岛，但经过
 
 <hr>
 
-### VPN中国（四）：[Surfshark](https://qiangup.com/go/surfshark) – 最经济实惠的中国VPN
+### VPN推荐（四）：[Surfshark](https://qiangup.com/go/surfshark) – 最经济实惠的中国VPN
 
 ![surfshark](https://hotlinkgo.com/wp-content/uploads/2022/05/surfshark.png  "surfshark Logo")
 
@@ -75,17 +75,18 @@ PureVPN虽然在2021年的10月8日搬迁到了英属维尔京群岛，但经过
 
 >## 本文内容快速一览
 >#### 1.[如何挑选中国VPN软件？](#如何挑选中国vpn软件)
->#### 2.[最好用的中国VPN推荐](#最好用的中国vpn推荐)
->#### 3.[如何使用中国VPN翻墙？](#如何使用中国vpn翻墙)
+>#### 2.[最好用的VPN推荐](#最好用的vpn推荐)
+>#### 3.[如何使用翻墙VPN？](#如何使用翻墙vpn)
 >#### 4.[为什么要使用中国VPN？](#为什么要使用中国vpn)
 >#### 5.[VPN中国使用须知](#vpn中国使用须知)
 >#### 6.[使用翻墙软件注意事项](#使用翻墙软件注意事项)
->#### 7.[我可以使用免费的中国vpn软件吗？](#我可以使用免费的中国vpn软件吗)
+>#### 7.[我可以使用免费的中国VPN软件吗？](#我可以使用免费的中国vpn软件吗)
 >#### 8.[我可以自己搭建翻墙软件吗？](#我可以自己搭建翻墙软件吗)
->#### 9.[VPN中国不能用怎么办？](#vpn中国不能用怎么办)
+>#### 9.[VPN不能用怎么办？](#vpn不能用怎么办)
 >#### 10.[访问哪些网站需要使用中国VPN软件？](#访问哪些网站需要使用中国vpn软件)
->#### 11.[不推荐使用的VPN软件](#不推荐使用的vpn软件)
+>#### 11.[不推荐使用的翻墙VPN](#不推荐使用的翻墙vpn)
 >#### 12.[中国VPN翻墙软件常见问题](#中国vpn翻墙软件常见问题)
+>#### 12.[翻墙软件VPN排行总结](#翻墙软件vpn排行总结)
 
 ## 如何挑选中国VPN软件？
 
@@ -123,7 +124,7 @@ PureVPN虽然在2021年的10月8日搬迁到了英属维尔京群岛，但经过
 
 如果你是第一次购买VPN软件，或者第一次使用某个品牌的VPN产品，那么至少30天的退款保证就非常有必要了。在VPN的退款保证期内，你可以尽情地测试它，一旦发现它不好用，或者无法满足你的需求，那么你可以随时申请全额退款，不会有任何资金风险。反之，一个没有退款保证期的翻墙VPN软件，一旦你购买了，即便是它完全无法在中国使用，那么你的钱也只能打水漂。
 
-## 最好用的中国VPN推荐
+## 最好用的VPN推荐
 
 一款优秀的中国VPN软件，必须能稳定地翻墙，有强大的隐私安全保护功能，稳定且快速的连接，能解锁大部分受地域限制的网站，完美兼容所有主流的设备和平台，简单易用的APP客户端，较高的性价比，提供24/7在线客服和至少30天的退款保证。下面是我们基于VPN中国实测后给出的最佳VPN推荐，以及VPN排行：
 
@@ -259,7 +260,7 @@ Surfshark成立于2018年，公司总部位于英属维尔京群岛，也是一�
 
 <hr>
 
-## 如何使用中国VPN翻墙？
+## 如何使用翻墙VPN？
 
 以下是在中国使用ExpressVPN的步骤：
 
@@ -408,7 +409,7 @@ Surfshark成立于2018年，公司总部位于英属维尔京群岛，也是一�
 
 小结：如果你是技术小白，或者仅仅只是一个普通用户，请直接选择一款安全且好用的中国VPN（更安全、更省心、更便宜、更好用）。切勿私自搭建VPN软件。
 
-## VPN中国不能用怎么办？
+## VPN不能用怎么办？
 
 如果你在工作和生活中，需要长期使用翻墙软件，那么就难免会遇到VPN中国无法使用的情况，这也是我们在“VPN中国使用须知”中建议你至少准备两个以上VPN软件的原因。不过话说回来，如果你遇到了VPN中国无法使用，或者无法连接的情况时，请尝试以下几个步骤：
 
@@ -466,7 +467,7 @@ Surfshark成立于2018年，公司总部位于英属维尔京群岛，也是一�
 
 市面上还有一些常用到的搜索引擎、博客网站、在线教育平台等，它们也都需要使用中国VPN才能访问，包括：Google、Bing、Yandex、Yahoo、Ask、DuckDuckGo、Spotify、Wordpress、Blogspot、Google Play、Coursera、Skillshare、Future Learn、Codecademy、Udacity、Udemy、edX、TED、Lynda等。
 
-## 不推荐使用的VPN软件
+## 不推荐使用的翻墙VPN
 
 近两年来，GFW打击VPN的力度在不断地加强，很多前两年还非常好用的VPN现在已完全无法使用了，还有一些VPN软件在“能用”和“不能用”之间徘徊，而有的翻墙VPN则直接卷钱跑路了。但是，网上有很多VPN推荐博客，在没有实测的情况下，就胡乱地给读者推荐VPN，导致新手用户踩了很多不必要的坑。接下来，我们将会给大家罗列一些知名度较高，经常被一些博客推荐，但却完全无法在中国使用的VPN翻墙软件：
 
@@ -566,7 +567,7 @@ VPN的英文全称叫：Virtual Private Network。VPN最初被用作于保护企
 
 我们VPN推荐榜单中的这些翻墙软件都允许多台设备同时登录使用。比如ExpressVPN允许五台设备同时登录，那么你就可以与你的四个便宜一起共享同一个付费账号；PureVPN允许十台设备同时登录，那么你就可以与九个朋友一起共享同一个付费账号；Surfshark允许无数台设备同时登录使用，那么你就可以与几十甚至几百个朋友一起共享同一个付费账号。
 
-## VPN中国总结
+## 翻墙软件VPN排行总结
 
 现如今，能在中国使用，且好用的VPN已经越来越少了，大家且用且珍惜吧。
 
