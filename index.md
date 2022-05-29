@@ -52,7 +52,7 @@ PureVPN虽然在2021年的10月8日搬迁到了英属维尔京群岛，但经过
 
 <hr>
 
-### VPN中国（四）：[Surfshark](https://qiangup.com/go/surfshark) – 最经济实惠的中国VPN
+### VPN中国（四）：[Surfshark](https://qiangwaikan.com/go/surfshark) – 最经济实惠的中国VPN
 
 ![surfshark](https://hotlinkgo.com/wp-content/uploads/2022/05/surfshark.png  "surfshark Logo")
 
@@ -518,7 +518,7 @@ VPN的英文全称叫：Virtual Private Network。VPN最初被用作于保护企
 
 首先，无论什么翻墙VPN软件，或多或少地都会影响一点连接速度，这是因为VPN软件会层层加密你的上网数据，然后再经过海外的VPN节点与外界进行交互。牛逼的翻墙软件可让你感觉不到网速的变化，而比较垃圾的VPN会严重降低你的连接速度。
 
-如果你的[VPN中国](https://qiangup.com/best-vpn-china/)速度很慢，可尝试更换一个VPN节点，或者选择中国周边的VPN节点，你也可以直接找在线客服寻求帮助。
+如果你的VPN中国速度很慢，可尝试更换一个VPN节点，或者选择中国周边的VPN节点，你也可以直接找在线客服寻求帮助。
 
 ### VPN中国能看Netflix吗？
 

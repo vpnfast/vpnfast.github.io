@@ -22,7 +22,7 @@
 - **翻墙VPN首选**：[ExpressVPN](https://qiangup.com/go/expressvpn) – 翻墙稳定、连接速度业内最快、强大的加密功能、解锁能力强、简单易于使用、兼容所有设备、24/7在线客服、30天退款保证。
 
 ![surfshark](https://hotlinkgo.com/wp-content/uploads/2022/05/surfshark.png  "surfshark Logo")
-- **翻墙VPN（二）**：[Surfshark](https://qiangup.com/go/surfshark) – 能在中国使用、允许无数台设备同时登录使用、性价比很高
+- **翻墙VPN（二）**：[Surfshark](https://qiangwaikan.com/go/surfshark) – 能在中国使用、允许无数台设备同时登录使用、性价比很高
 
 ![purevpn](https://hotlinkgo.com/wp-content/uploads/2022/05/purevpn.png  "purevpn Logo")
 - **翻墙VPN（三）**：[PureVPN](https://qiangup.com/go/purevpn) – 最老牌的翻墙VPN之一、安全好用、价格便宜
