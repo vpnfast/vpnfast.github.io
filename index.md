@@ -573,3 +573,7 @@ VPN的英文全称叫：Virtual Private Network。VPN最初被用作于保护企
 我们VPN推荐榜中的这些好用的[科学上网](https://github.com/vpnfast/vpnfast.github.io)翻墙软件都是经过我们实测之后，并根据隐私安全性、易用性、速度、兼容性、解锁能力、价格、客服支持、退款保证等因素挑选出来的最佳中国VPN，大家可以放心地购买使用。
 
 此外，我们建议你优先选择中国周边地区的VPN节点，这样可以享受最快的连接速度和最低的延迟。尽量避免使用国内VPN软件，禁止使用中国VPN去浏览和传播敏感信息，更不要私自搭建和售卖翻墙软件。
+
+<hr>
+
+2022 CopyRight 版权所有 [翻墙软件中国VPN排行，好用的翻墙VPN推荐 | 快翻墙](https://vpnfast.github.io/)
