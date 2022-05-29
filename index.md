@@ -10,7 +10,7 @@
 
 ### VPN中国首选：[ExpressVPN](https://qiangup.com/go/expressvpn) – 速度最快的中国VPN
 
-![ExpressVPN](https://qiangwaikan.com/wp-content/uploads/2022/05/expressvpn-old.png  "ExpressVPN Logo")
+![ExpressVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/expressvpn.png  "ExpressVPN Logo")
 
 >- 成立于2009年，总部位于英属维尔京群岛，至今已运营十多年了，是全球最顶级的VPN服务商。
 >- 自主研发的LightWay协议可有效地绕过GFW的封锁和干扰，为中国网民提供稳定且快速的翻墙服务。
@@ -20,7 +20,7 @@
 >- 在中国周边地区（中国香港、中国台湾、日本、韩国、新加坡、美国等）部署了大量的高速服务器，可为国内VPN用户提供超快的连接。
 >- 提供24/7在线客服，支持30天无理由退款等。
 
-总得来说，ExpressVPN是一款非常值得推荐的翻墙软件（安全、快速、简单易用），它也是我们VPN排行榜单的第一名。
+总得来说，[ExpressVPN](https://qiangwaikan.com/express-review/)是一款非常值得推荐的翻墙软件（安全、快速、简单易用），它也是我们VPN排行榜单的第一名。
 
 <hr>
 
@@ -40,7 +40,7 @@
 
 ### VPN中国（三）：[PureVPN](https://qiangup.com/go/purevpn) – 最老牌的翻墙VPN之一
 
-![purevpn](https://qiangup.com/wp-content/uploads/2022/05/purevpn-old.png  "purevpn Logo")
+![purevpn](https://hotlinkgo.com/wp-content/uploads/2022/05/purevpn.png  "purevpn Logo")
 
 >- 2006年在中国香港成立（算得上是最老牌的翻墙软件之一），非常清楚中国网民的需求，也非常重视国内VPN用户。
 >- 采用AES-256位加密技术和零日志策略，并在APP客户端中内置了多种高级功能，是一款安全且好用的VPN。
@@ -61,7 +61,7 @@ PureVPN虽然在2021年的10月8日搬迁到了英属维尔京群岛，但经过
 >- 为所有主流的设备都提供了简单易用的APP客户端，且支持无数台设备同时登录使用，整体性价比很高。
 >- 价格便宜，也提供24/7在线客服和为期30天的退款保证。
 
-总得来说，Surfshark也是一款值得尝试的翻墙软件（尤其适合设备较多，或者想与多个朋友共享同一个付费帐号的用户），它是我们VPN推荐榜的第三名。
+总得来说，[Surfshark](https://qiangup.com/surfshark-review/)也是一款值得尝试的翻墙软件（尤其适合设备较多，或者想与多个朋友共享同一个付费帐号的用户），它是我们VPN推荐榜的第三名。
 
 #### 小提示：
 
