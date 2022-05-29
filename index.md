@@ -10,7 +10,7 @@
 
 ### VPN中国首选：[ExpressVPN](https://qiangup.com/go/expressvpn) – 速度最快的中国VPN
 
-![ExpressVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/expressvpn.png  "ExpressVPN Logo")
+![ExpressVPN](https://qiangwaikan.com/wp-content/uploads/2022/05/expressvpn-old.png  "ExpressVPN Logo")
 
 >- 成立于2009年，总部位于英属维尔京群岛，至今已运营十多年了，是全球最顶级的VPN服务商。
 >- 自主研发的LightWay协议可有效地绕过GFW的封锁和干扰，为中国网民提供稳定且快速的翻墙服务。
@@ -40,7 +40,7 @@
 
 ### VPN中国（三）：[PureVPN](https://qiangup.com/go/purevpn) – 最老牌的翻墙VPN之一
 
-![purevpn](https://hotlinkgo.com/wp-content/uploads/2022/05/purevpn.png  "purevpn Logo")
+![purevpn](https://qiangup.com/wp-content/uploads/2022/05/purevpn-old.png  "purevpn Logo")
 
 >- 2006年在中国香港成立（算得上是最老牌的翻墙软件之一），非常清楚中国网民的需求，也非常重视国内VPN用户。
 >- 采用AES-256位加密技术和零日志策略，并在APP客户端中内置了多种高级功能，是一款安全且好用的VPN。
@@ -52,7 +52,7 @@ PureVPN虽然在2021年的10月8日搬迁到了英属维尔京群岛，但经过
 
 <hr>
 
-### VPN中国（四）：[Surfshark](https://qiangwaikan.com/go/surfshark) – 最经济实惠的中国VPN
+### VPN中国（四）：[Surfshark](https://qiangup.com/go/surfshark) – 最经济实惠的中国VPN
 
 ![surfshark](https://hotlinkgo.com/wp-content/uploads/2022/05/surfshark.png  "surfshark Logo")
 

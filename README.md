@@ -22,7 +22,7 @@
 - **翻墙VPN首选**：[ExpressVPN](https://qiangup.com/go/expressvpn) – 翻墙稳定、连接速度业内最快、强大的加密功能、解锁能力强、简单易于使用、兼容所有设备、24/7在线客服、30天退款保证。
 
 ![surfshark](https://hotlinkgo.com/wp-content/uploads/2022/05/surfshark.png  "surfshark Logo")
-- **翻墙VPN（二）**：[Surfshark](https://qiangwaikan.com/go/surfshark) – 能在中国使用、允许无数台设备同时登录使用、性价比很高
+- **翻墙VPN（二）**：[Surfshark](https://qiangup.com/go/surfshark) – 能在中国使用、允许无数台设备同时登录使用、性价比很高
 
 ![purevpn](https://hotlinkgo.com/wp-content/uploads/2022/05/purevpn.png  "purevpn Logo")
 - **翻墙VPN（三）**：[PureVPN](https://qiangup.com/go/purevpn) – 最老牌的翻墙VPN之一、安全好用、价格便宜
@@ -621,3 +621,13 @@ VPN于2011年在美国成立，它为用户提供免费版和付费版两种服�
 >- 5，尽量选择那些提供24/7在线客服和30天退款保证的翻墙工具，有问题找客服，不好用就退款。
 >- 6，优先选择中国台湾、中国香港、日本、韩国、新加坡、美国等地区的服务器节点。
 >- 7，远离黄赌毒，禁止浏览和传播与政治、经济、文化、宗教相关的信息。
+
+#### 翻墙软件推荐排行
+
+![ExpressVPN](https://qiangwaikan.com/wp-content/uploads/2022/05/expressvpn-old.png  "ExpressVPN Logo")
+- **翻墙软件首选**：[ExpressVPN](https://qiangup.com/go/expressvpn)
+
+![surfshark](https://hotlinkgo.com/wp-content/uploads/2022/05/surfshark.png  "surfshark Logo")
+- **翻墙软件（二）**：[Surfshark](https://qiangup.com/go/surfshark)
+![purevpn](https://qiangup.com/wp-content/uploads/2022/05/purevpn-old.png  "purevpn Logo")
+- **翻墙软件（三）**：[PureVPN](https://qiangup.com/go/purevpn) 
