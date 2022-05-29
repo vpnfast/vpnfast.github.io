@@ -576,4 +576,4 @@ VPN的英文全称叫：Virtual Private Network。VPN最初被用作于保护企
 
 <hr>
 
-2022 CopyRight 版权所有 [翻墙软件中国VPN排行，好用的翻墙VPN推荐 | 快翻墙](https://vpnfast.github.io/)
+2022 CopyRight 版权所有 [翻墙软件中国VPN排行，好用的翻墙VPN推荐|快翻墙](https://vpnfast.github.io/)
