@@ -2,6 +2,8 @@
 
 ![翻墙, 科学上网, VPN梯子, 翻墙教程, 翻墙工具, 翻墙梯子](https://hotlinkgo.com/wp-content/uploads/2022/05/the-best-vpn-for-china.jpg)
 
+更新日期：`2022年6月23日`
+
 因为某些原因，中国大陆网民无法自由访问Google、Facebook、Youtube、Netflix等海外网站和APP，但因为工作和学习的需要，很多人又必须借助Google去查找资料，必须借助Gmail、Skype等工具去开发和维护客户，也需要借助Youtube、Netflix等平台去追剧。
 
 >也就是说，科学上网（即“翻墙”）已逐渐成为很多中国网民工作和生活的一部分了。接下来我们将会为大家详细介绍如何科学上网、如何翻墙、如何选择最佳翻墙软件、以及翻墙需要注意的事项等，我们也会给大家推荐几款在中国最好用的翻墙VPN。
