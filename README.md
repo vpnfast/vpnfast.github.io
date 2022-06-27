@@ -21,13 +21,13 @@
 ### 翻墙VPN推荐（简讯）：
 
 ![ExpressVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/expressvpn.png  "ExpressVPN Logo")
-- **翻墙VPN首选**：[ExpressVPN](https://qiangup.com/go/expressvpn) – 翻墙稳定、连接速度业内最快、强大的加密功能、解锁能力强、简单易于使用、兼容所有设备、24/7在线客服、30天退款保证。
+- **翻墙VPN首选**：[ExpressVPN](https://hotlinkgo.com/go/expressvpn) – 翻墙稳定、连接速度业内最快、强大的加密功能、解锁能力强、简单易于使用、兼容所有设备、24/7在线客服、30天退款保证。
 
 ![surfshark](https://hotlinkgo.com/wp-content/uploads/2022/05/surfshark.png  "surfshark Logo")
-- **翻墙VPN（二）**：[Surfshark](https://qiangup.com/go/surfshark) – 能在中国使用、允许无数台设备同时登录使用、性价比很高
+- **翻墙VPN（二）**：[Surfshark](https://hotlinkgo.com/go/surfshark) – 能在中国使用、允许无数台设备同时登录使用、性价比很高
 
 ![purevpn](https://hotlinkgo.com/wp-content/uploads/2022/05/purevpn.png  "purevpn Logo")
-- **翻墙VPN（三）**：[PureVPN](https://qiangup.com/go/purevpn) – 最老牌的翻墙VPN之一、安全好用、价格便宜
+- **翻墙VPN（三）**：[PureVPN](https://hotlinkgo.com/go/purevpn) – 最老牌的翻墙VPN之一、安全好用、价格便宜
 
 #### 翻墙VPN优点：
 
@@ -46,7 +46,7 @@
 
 ![PandaVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/pandavpn.png  "PandaVPN Logo")
 
-**翻墙软件首选**：[熊猫VPN](https://qiangup.com/go/pandavpn) – 为翻墙而生，连接速度快
+**翻墙软件首选**：[熊猫VPN](https://hotlinkgo.com/go/pandavpn) – 为翻墙而生，连接速度快
 
 #### 翻墙软件优点：
 
@@ -134,7 +134,7 @@
 
 我们对市面上上百款主流的VPN软件进行了实测，并根据这些VPN的翻墙能力、安全性、解锁能力、连接速度、兼容性、易用性、价格、客户支持能力、退款政策等因素进行综合评估，然后挑选出了下面这几款能在中国使用的最佳翻墙VPN：
 
-### 翻墙VPN首选：[ExpressVPN](https://qiangup.com/go/expressvpn) – 翻墙稳定、连接速度业内最快、各方面表现都非常突出
+### 翻墙VPN首选：[ExpressVPN](https://hotlinkgo.com/go/expressvpn) – 翻墙稳定、连接速度业内最快、各方面表现都非常突出
 
 ExpressVPN成立于2007年，至今已稳定运营了十几年了，它是业内最顶级的VPN品牌，也是最佳的中国VPN。ExpressVPN自主研发了一套专门针对GFW的Lightway协议，该协议翻墙效果非常好。ExpressVPN在隐私安全、兼容性、易用性、连接速度、解锁能力、客户支持等方面也表现非常突出。
 
@@ -157,7 +157,7 @@ ExpressVPN提供三种价格套餐，其中12个月套餐价格最优惠，每�
 
 <hr>
 
-### 翻墙VPN（二）：[Surfshark](https://qiangup.com/go/surfshark) – 能在中国使用、允许无数台设备同时登录使用、性价比很高
+### 翻墙VPN（二）：[Surfshark](https://hotlinkgo.com/go/surfshark) – 能在中国使用、允许无数台设备同时登录使用、性价比很高
 
 Surfshark成立于2018年，总部位于英属维尔京群岛。Surfshark的运营时间虽然不是很长，但它却是VPN行业内的一匹黑马。Surfshark是最好用的翻墙VPN之一，它可以成功地绕过GFW的检测和封锁，提供强大的隐私安全保护，能解锁大部分海外网站和流媒体平台，兼容所有主流的设备，连接速度也较快。Surfshark价格便宜，允许无数台设备同时登录使用，性价比非常高。
 
@@ -179,7 +179,7 @@ Surfshark的价格也比较便宜，两年套餐每月仅需2.49美金，相当�
 
 <hr>
 
-### 翻墙VPN（三）：[PureVPN](https://qiangup.com/go/purevpn) – 最老牌的翻墙VPN之一、安全好用、价格便宜
+### 翻墙VPN（三）：[PureVPN](https://hotlinkgo.com/go/purevpn) – 最老牌的翻墙VPN之一、安全好用、价格便宜
 
 PureVPN于2006年在中国香港成立，是一家历史比较悠久的老牌翻墙VPN。PureVPN非常熟悉中国网络环境，也比较重视中国用户，后来虽然因为某些原因将公司总部搬迁到了英属维尔京群岛，但它依然能为中国用户提供稳定的翻墙服务。
 
@@ -201,7 +201,7 @@ PureVPN的价格也比较优惠，每月仅需1.99美金，而且它也提供24/
 
 市面上的翻墙梯子和机场VPN多如牛毛，但它们中的大多数都不值尝试。因为这些翻墙软件运营者要么是国人（容易被请喝茶），要么是个人（容易跑路），而且兼容性、易用性、安全性都非常堪忧。我们在测试了几十款知名度较高、用户量较大的翻墙梯子和机场VPN之后，从中挑选出了几款最佳翻墙软件：
 
-### 翻墙软件首选：[熊猫VPN](https://qiangup.com/go/pandavpn) – 为翻墙而生，连接速度快
+### 翻墙软件首选：[熊猫VPN](https://hotlinkgo.com/go/pandavpn) – 为翻墙而生，连接速度快
 
 在众多的科学上网工具中，熊猫VPN是比较特殊的。从翻墙原理上来讲，熊猫VPN属于机场一类的翻墙软件，但它却有着与传统VPN一样的安全性。熊猫VPN为翻墙而生，连接稳定，且速度几乎可以与ExpressVPN媲美。
 
