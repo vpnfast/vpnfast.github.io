@@ -2,7 +2,7 @@
 
 ![好用的VPN, VPN推荐, 翻墙软件, 翻墙VPN, VPN中国, VPN排行](https://hotlinkgo.com/wp-content/uploads/2022/05/the-best-vpn-for-china.jpg)
 
-更新日期：`2022年7月1日`
+更新日期：`2022年7月5日`
 
 因为防火长城的封杀，2022年还能在中国使用的VPN翻墙软件屈指可数。为了寻找安全靠谱且好用的中国VPN，我们在大陆实测了上百款VPN软件，下面是我们基于VPN中国实测后给出的最佳VPN推荐，以及VPN排行。
 
