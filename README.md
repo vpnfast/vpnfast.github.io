@@ -1,8 +1,8 @@
-# 2022年7月翻墙软件与科学上网，中国翻墙梯子工具
+# 2022年8月翻墙软件与科学上网，中国翻墙梯子工具
 
 ![翻墙, 科学上网, VPN梯子, 翻墙教程, 翻墙工具, 翻墙梯子](https://hotlinkgo.com/wp-content/uploads/2022/05/the-best-vpn-for-china.jpg)
 
-更新日期：`2022年7月5日`
+更新日期：`2022年8月1日`
 
 因为某些原因，中国大陆网民无法自由访问Google、Facebook、Youtube、Netflix等海外网站和APP，但因为工作和学习的需要，很多人又必须借助Google去查找资料，必须借助Gmail、Skype等工具去开发和维护客户，也需要借助Youtube、Netflix等平台去追剧。
 
