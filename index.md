@@ -15,7 +15,7 @@
 #### 相关文章
 
 - <a href="https://qiangwaikan.com/gfw/">翻墙科学上网</a>
-- <a href="http://qiangup.com/best-vpn-china/">中国好用的翻墙VPN推荐</a>
+- <a href="https://qiangup.com/best-vpn-china/">中国好用的翻墙VPN推荐</a>
 
 ## 科学上网工具和方法
 

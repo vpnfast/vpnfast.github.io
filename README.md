@@ -19,7 +19,7 @@
 #### 相关文章
 
 - <a href="https://qiangwaikan.com/gfw/">翻墙科学上网</a>
-- <a href="http://qiangup.com/best-vpn-china/">中国好用的翻墙VPN推荐</a>
+- <a href="https://qiangup.com/best-vpn-china/">中国好用的翻墙VPN推荐</a>
 
 如果你没有太多时间阅读本文，却又想寻找一款安全且好用的科学上网工具，那么请查看我们的简讯（如果你有长期翻墙的需求，并且比较在意安全问题，那么我们建议你认真阅读完本文）：
 
