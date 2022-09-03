@@ -1,8 +1,8 @@
-# 2022年8月翻墙软件中国VPN排行，好用的翻墙VPN推荐
+# 2022年9月翻墙软件中国VPN排行，好用的翻墙VPN推荐
 
 ![好用的VPN, VPN推荐, 翻墙软件, 翻墙VPN, VPN中国, VPN排行, 翻墙, 科学上网](https://hotlinkgo.com/wp-content/uploads/2022/05/the-best-vpn-for-china.jpg)
 
-更新日期：`2022年8月2日`
+更新日期：`2022年9月2日`
 
 **声明**：本人尊重原创，请vpncn自行删除从vpnfast复制的全部内容，并承诺你的相关网站从今以后不再像素级抄袭本人相关网站内容，本人会将vpnfast内容恢复到我最初的原创版本。如果同意，可以在github issue回复。
 
