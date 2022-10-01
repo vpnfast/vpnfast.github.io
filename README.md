@@ -1,6 +1,6 @@
 # 2022中国最好用的翻墙软件VPN推荐，翻墙必备VPN
 
-![https://hotlinkgo.com/wp-content/uploads/2022/05/the-best-vpn-for-china.jpg](/image/wall.jpg "vpn")
+![好用的VPN，中国VPN，翻墙软件，科学上网，翻墙VPN，VPN推荐，VPN排行](https://hotlinkgo.com/wp-content/uploads/2022/05/the-best-vpn-for-china.jpg "vpn")
 
 最近更新：`2022年10月1日`
 
