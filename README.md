@@ -1,6 +1,6 @@
 # 2022中国最好用的翻墙软件VPN推荐，翻墙必备VPN
 
-![好用的VPN，国内VPN，中国VPN，VPN中国，翻墙软件，VPN推荐](/image/wall.jpg "vpn")
+![https://hotlinkgo.com/wp-content/uploads/2022/05/the-best-vpn-for-china.jpg](/image/wall.jpg "vpn")
 
 最近更新：`2022年10月1日`
 
@@ -10,7 +10,7 @@
 
 ### 1. <a href="https://hotlinkgo.com/go/expressvpn" target="_blank">>> ExpressVPN</a>（强烈推荐）
 
-![ExpressVPN](/image/express.png)
+![ExpressVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/expressvpn.png)
 
 ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能力和快速反应中国国内网络封锁的能力，成为了翻墙到国外最好用的VPN，绝对是VPN排名第一
 
@@ -32,7 +32,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 
 ### 2. <a href="https://hotlinkgo.com/go/pandavpn" target="_blank">PandaVPN</a>
 
-![PandaVPN](/image/panda.png)
+![PandaVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/pandavpn.png)
 
 Panda VPN相比其他几家来说要小众一些，所以价格也相对便宜，但速度表现非常出色。除此之外中文支持好，操作简单方便，平时优惠活动很多，是一款便宜好用的VPN
 
@@ -54,7 +54,7 @@ Panda VPN相比其他几家来说要小众一些，所以价格也相对便宜�
 
 ### 3. <a href="https://hotlinkgo.com/go/vyprvpn" target="_blank">VyprVPN</a>
 
-![VyprVPN](/image/vypr.jpg)
+![VyprVPN](https://hotlinkgo.com/wp-content/uploads/2022/10/vypr.jpg)
 
 VyprVPN成立于瑞士，是一家几乎和互联网同龄的公司，非常注重中国市场，在中国拥有大量用户，变色龙协议专门针对防火长城设计，拥有澳门等近距离节点，特别是iOS翻墙非常稳定，唯一的小问题是Ping值显示有问题，但并不影响使用。VyprVPN目前不支持支付宝，据说正在积极开发中
 
@@ -76,7 +76,7 @@ VyprVPN支持30天退款保证，如果觉得不好用，可以通过在线客�
 
 ### 4. <a href="https://hotlinkgo.com/go/purevpn" target="_blank">PureVPN</a>
 
-![PureVPN](/image/pure.png)
+![PureVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/purevpn.png)
 
 PureVPN也是一家在香港创立的老牌商家，常用近距离节点有台湾、香港、新加坡等，客户端启动连接快速。不过最近连接不是稳定，推荐使用前面几家。支持5种设备同时在线，你可以与朋友在不同设备上共用此账号。
 
@@ -98,7 +98,7 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 ### 5. <a href="https://hotlinkgo.com/go/sufshark" target="_blank">Surfshark</a>
 
-![Surfshark](/image/surfshark.png)
+![Surfshark](https://hotlinkgo.com/wp-content/uploads/2022/05/surfshark.png)
 
 Surfshark中文支持友好，不限制设备数量，这算是非常大的一个特点了，一般VPN商家都会限制设备数量，就稳定性和性价比都不错。
 
@@ -124,7 +124,7 @@ Surfshark中文支持友好，不限制设备数量，这算是非常大的一�
 
 ### 6. <a href="https://hotlinkgo.com/go/nordvpn" target="_blank">NordVPN</a>
 
-![NordVPN](/image/nord.png)
+![NordVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/nordvpn.png)
 
 NordVPN之前在中国的速度表现也非常不错，目前三年优惠活动也比较划算。拥有军用级别的加密技术，以及高级混淆协议，可以绕过防火长城的封锁。NordVPN在58个国家/地区拥有5600多个VPN服务器，这在IP封锁严重的时候非常有用，可以使用备用节点度过这段时期。
 
@@ -146,7 +146,7 @@ NordVPN是国外知名商家，如果不能使用，也完全不用担心退款�
 
 ## 翻墙软件VPN推荐的标准
 
-![VPN推荐](/image/standard.jpg)
+![VPN推荐](https://hotlinkgo.com/wp-content/uploads/2022/10/standard.jpg)
 
 我们的youtube推荐的中国VPN<a href="https://qiangwaikan.com/best-vpn-china/">翻墙软件</a>基于这些标准，所以我们也建议大家考虑下面这些选择标准，或者参考上面的VPN排名，而不是盲目的付费购买。
 
@@ -220,7 +220,7 @@ Shadowsocks搭建教程有详细的搭建过程，V2Ray最近也比较火，跟S
 
 ## 关于VPN的一些问题
 
-![VPN是什么](/image/question.jpg)
+![VPN是什么](https://hotlinkgo.com/wp-content/uploads/2022/10/question.jpg)
 
 ### VPN的基本原理是什么？
 
