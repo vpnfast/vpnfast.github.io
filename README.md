@@ -30,51 +30,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 
 30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
 
-### 2. <a href="https://hotlinkgo.com/go/pandavpn" target="_blank">PandaVPN</a>
-
-![PandaVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/pandavpn.png)
-
-Panda VPN相比其他几家来说要小众一些，所以价格也相对便宜，但速度表现非常出色。除此之外中文支持好，操作简单方便，平时优惠活动很多，是一款便宜好用的VPN
-
-- 银行级的虚拟网络安全保护
-
-不管再任何公共场合访问网络，都会受到256位银行级的加密的保护，保证个人隐私不被运营商窥探。
-
-- 操作简单
-
-同样支持Windows，Mac，iOS，Android这些常见客户端，UI做的非常简洁大方，只需要一个开关按钮就能连接VPN。
-
-- 全球技术支持
-
-在使用过程中遇到任何问题，都可以联系技术人员解决
-
-- 7天退款保证
-
-虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
-
-### 3. <a href="https://hotlinkgo.com/go/vyprvpn" target="_blank">VyprVPN</a>
-
-![VyprVPN](https://hotlinkgo.com/wp-content/uploads/2022/10/vypr.jpg)
-
-VyprVPN成立于瑞士，是一家几乎和互联网同龄的公司，非常注重中国市场，在中国拥有大量用户，变色龙协议专门针对防火长城设计，拥有澳门等近距离节点，特别是iOS翻墙非常稳定，唯一的小问题是Ping值显示有问题，但并不影响使用。VyprVPN目前不支持支付宝，据说正在积极开发中
-
-- 注重中国市场
-
-VyprVPN对中国用户的重视，甚至有双十一的优惠活动，VyprVPN对抗防火长城而设计的变色龙协议，翻墙效果非常出色。
-
-- 高级加密
-
-使用目前顶级的工业级AES 256位加密方式，并提供DNS保护。
-
-- 流畅观看视频
-
-VyprVPN能够流畅观看Netflix、YouTube、Hulu、HBO、BBC iPlayer等高清视频资源，并且解锁区域封锁的限制
-
-- 30天退款保证
-
-VyprVPN支持30天退款保证，如果觉得不好用，可以通过在线客服或者邮件的方式退款。
-
-### 4. <a href="https://hotlinkgo.com/go/purevpn" target="_blank">PureVPN</a>
+### 2. <a href="https://hotlinkgo.com/go/purevpn" target="_blank">PureVPN</a>
 
 ![PureVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/purevpn.png)
 
@@ -96,7 +52,29 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 31天，比30天多一天，比32天少一天
 
-### 5. <a href="https://hotlinkgo.com/go/sufshark" target="_blank">Surfshark</a>
+### 3. <a href="https://hotlinkgo.com/go/pandavpn" target="_blank">PandaVPN</a>
+
+![PandaVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/pandavpn.png)
+
+Panda VPN相比其他几家来说要小众一些，所以价格也相对便宜，但速度表现非常出色。除此之外中文支持好，操作简单方便，平时优惠活动很多，是一款便宜好用的VPN
+
+- 银行级的虚拟网络安全保护
+
+不管再任何公共场合访问网络，都会受到256位银行级的加密的保护，保证个人隐私不被运营商窥探。
+
+- 操作简单
+
+同样支持Windows，Mac，iOS，Android这些常见客户端，UI做的非常简洁大方，只需要一个开关按钮就能连接VPN。
+
+- 全球技术支持
+
+在使用过程中遇到任何问题，都可以联系技术人员解决
+
+- 7天退款保证
+
+虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
+
+### 4. <a href="https://hotlinkgo.com/go/sufshark" target="_blank">Surfshark</a>
 
 ![Surfshark](https://hotlinkgo.com/wp-content/uploads/2022/05/surfshark.png)
 
@@ -122,7 +100,7 @@ Surfshark中文支持友好，不限制设备数量，这算是非常大的一�
 
 业界标准，30天退款保证。
 
-### 6. <a href="https://hotlinkgo.com/go/nordvpn" target="_blank">NordVPN</a>
+### 5. <a href="https://hotlinkgo.com/go/nordvpn" target="_blank">NordVPN</a>
 
 ![NordVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/nordvpn.png)
 
@@ -143,6 +121,28 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 - 30退款保证
 
 NordVPN是国外知名商家，如果不能使用，也完全不用担心退款问题。
+
+### 6. <a href="https://hotlinkgo.com/go/vyprvpn" target="_blank">VyprVPN</a>
+
+![VyprVPN](https://hotlinkgo.com/wp-content/uploads/2022/10/vypr.jpg)
+
+VyprVPN成立于瑞士，是一家几乎和互联网同龄的公司，非常注重中国市场，在中国拥有大量用户，变色龙协议专门针对防火长城设计，拥有澳门等近距离节点，特别是iOS翻墙非常稳定，唯一的小问题是Ping值显示有问题，但并不影响使用。VyprVPN目前不支持支付宝，据说正在积极开发中
+
+- 注重中国市场
+
+VyprVPN对中国用户的重视，甚至有双十一的优惠活动，VyprVPN对抗防火长城而设计的变色龙协议，翻墙效果非常出色。
+
+- 高级加密
+
+使用目前顶级的工业级AES 256位加密方式，并提供DNS保护。
+
+- 流畅观看视频
+
+VyprVPN能够流畅观看Netflix、YouTube、Hulu、HBO、BBC iPlayer等高清视频资源，并且解锁区域封锁的限制
+
+- 30天退款保证
+
+VyprVPN支持30天退款保证，如果觉得不好用，可以通过在线客服或者邮件的方式退款。
 
 ## 翻墙软件VPN推荐的标准
 
