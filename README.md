@@ -20,7 +20,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 
 - 全世界都能访问
 
-因为版权保护，很多时候访问视频、音乐、社交媒体都会有限制。ExpressVPN为了应对内容限制和审查制度，做了许多工作，并且在香港等地都有中国VPN服务器。
+因为版权保护，很多时候访问视频、音乐、社交媒体都会有限制。ExpressVPN为了应对内容限制和审查制度，做了许多工作，并且在香港等地都有[中国VPN](https://vpnfast.gitbook.io/bestchinavpn/)服务器。
 
 - 24小时在线客服
 
@@ -34,51 +34,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 
 30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
 
-### 2. <a href="https://hotlinkgo.com/go/purevpn" target="_blank">PureVPN</a>
-
-![PureVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/purevpn.png)
-
-PureVPN也是一家在香港创立的老牌商家，常用近距离节点有台湾、香港、新加坡等，客户端启动连接快速。不过最近连接不是稳定，推荐使用前面几家。支持5种设备同时在线，你可以与朋友在不同设备上共用此账号。
-
-- 隐私保护
-
-PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保护功能。其中就有保护连接断开切换的机制，以防在连接中断之后，出现数据泄露的风险。PureVPN承诺不会记录行为日志，并且不会将数据分享给任何的第三方机构。
-
-- 全球可访问
-
-PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是Netflix。不管身在何处，都能稳定快速的访问资源。
-
-- 对抗审查制度
-
-墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。
-
-- 31天退款保证
-
-31天，比30天多一天，比32天少一天
-
-### 3. <a href="https://hotlinkgo.com/go/pandavpn" target="_blank">PandaVPN</a>
-
-![PandaVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/pandavpn.png)
-
-Panda VPN相比其他几家来说要小众一些，所以价格也相对便宜，但速度表现非常出色。除此之外中文支持好，操作简单方便，平时优惠活动很多，是一款便宜好用的VPN
-
-- 银行级的虚拟网络安全保护
-
-不管再任何公共场合访问网络，都会受到256位银行级的加密的保护，保证个人隐私不被运营商窥探。
-
-- 操作简单
-
-同样支持Windows，Mac，iOS，Android这些常见客户端，UI做的非常简洁大方，只需要一个开关按钮就能连接VPN。
-
-- 全球技术支持
-
-在使用过程中遇到任何问题，都可以联系技术人员解决
-
-- 7天退款保证
-
-虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
-
-### 4. <a href="https://hotlinkgo.com/go/sufshark" target="_blank">Surfshark</a>
+### 2. <a href="https://hotlinkgo.com/go/sufshark" target="_blank">Surfshark</a>
 
 ![Surfshark](https://hotlinkgo.com/wp-content/uploads/2022/05/surfshark.png)
 
@@ -104,7 +60,7 @@ Surfshark中文支持友好，不限制设备数量，这算是非常大的一�
 
 业界标准，30天退款保证。
 
-### 5. <a href="https://hotlinkgo.com/go/nordvpn" target="_blank">NordVPN</a>
+### 3. <a href="https://hotlinkgo.com/go/nordvpn" target="_blank">NordVPN</a>
 
 ![NordVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/nordvpn.png)
 
@@ -126,7 +82,7 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 NordVPN是国外知名商家，如果不能使用，也完全不用担心退款问题。
 
-### 6. <a href="https://hotlinkgo.com/go/vyprvpn" target="_blank">VyprVPN</a>
+### 4. <a href="https://hotlinkgo.com/go/vyprvpn" target="_blank">VyprVPN</a>
 
 ![VyprVPN](https://hotlinkgo.com/wp-content/uploads/2022/10/vypr.jpg)
 
@@ -148,11 +104,57 @@ VyprVPN能够流畅观看Netflix、YouTube、Hulu、HBO、BBC iPlayer等高清�
 
 VyprVPN支持30天退款保证，如果觉得不好用，可以通过在线客服或者邮件的方式退款。
 
+### 5. <a href="https://hotlinkgo.com/go/purevpn" target="_blank">PureVPN</a>
+
+![PureVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/purevpn.png)
+
+PureVPN也是一家在香港创立的老牌商家，常用近距离节点有台湾、香港、新加坡等，客户端启动连接快速。不过最近连接不是稳定，推荐使用前面几家。支持5种设备同时在线，你可以与朋友在不同设备上共用此账号。
+
+- 隐私保护
+
+PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保护功能。其中就有保护连接断开切换的机制，以防在连接中断之后，出现数据泄露的风险。PureVPN承诺不会记录行为日志，并且不会将数据分享给任何的第三方机构。
+
+- 全球可访问
+
+PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是Netflix。不管身在何处，都能稳定快速的访问资源。
+
+- 对抗审查制度
+
+墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。
+
+- 31天退款保证
+
+31天，比30天多一天，比32天少一天
+
+### 6. ~~PandaVPN(已跑路)~~
+
+![PandaVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/pandavpn.png)
+
+Panda VPN相比其他几家来说要小众一些，所以价格也相对便宜，但速度表现非常出色。除此之外中文支持好，操作简单方便，平时优惠活动很多，是一款便宜好用的VPN
+
+- 银行级的虚拟网络安全保护
+
+不管再任何公共场合访问网络，都会受到256位银行级的加密的保护，保证个人隐私不被运营商窥探。
+
+- 操作简单
+
+同样支持Windows，Mac，iOS，Android这些常见客户端，UI做的非常简洁大方，只需要一个开关按钮就能连接VPN。
+
+- 全球技术支持
+
+在使用过程中遇到任何问题，都可以联系技术人员解决
+
+- 7天退款保证
+
+虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
+
+
+
 ## 翻墙软件VPN推荐的标准
 
 ![VPN推荐](https://hotlinkgo.com/wp-content/uploads/2022/10/standard.jpg)
 
-我们的youtube推荐的中国VPN<a href="https://qiangwaikan.com/best-vpn-china/">翻墙软件</a>基于这些标准，所以我们也建议大家考虑下面这些选择标准，或者参考上面的VPN排名，而不是盲目的付费购买。
+我们的youtube推荐的中国VPN[翻墙软件](https://qiangwaikan.com/best-vpn-china/)基于这些标准，所以我们也建议大家考虑下面这些选择标准，或者参考上面的[VPN排名](http://qiangup.com/best-vpn-china/)，而不是盲目的付费购买。
 
 ### 推荐稳定可靠的VPN
 
@@ -182,7 +184,7 @@ VyprVPN支持30天退款保证，如果觉得不好用，可以通过在线客�
 
 想必大家也听说过一些公司或个人从事VPN售卖被抓的新闻吧。所以国内VPN服务商跑路是迟早的事，只是时间早晚。
 
-并且一旦该公司被查封了，肯定会把你的VPN使用记录上交，以后你就是重点防范对象。如果你不巧向<a href="https://qiangup.com/gfw/">翻墙</a>商家交了年费，那么退款肯定是不可能的事，本来使用VPN就是违法行为，你也不可能走法律程序。
+并且一旦该公司被查封了，肯定会把你的VPN使用记录上交，以后你就是重点防范对象。如果你不巧向翻墙商家交了年费，那么退款肯定是不可能的事，本来使用VPN就是违法行为，你也不可能走法律程序。
 
 而国外商家不受中国法律监管，不会存在被查的情况，只需要挑选知名的VPN商家就行了。
 
