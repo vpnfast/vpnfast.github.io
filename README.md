@@ -132,6 +132,8 @@ VPN 翻墙软件有免费和付费之分，我们在使用翻墙软件科学上�
 
 ExpressVPN 于 2009 年成立，历史比较悠久，注册地维京群岛，不受十四眼联盟监控，安全隐私性强。ExpressVPN 在 **94 个国家、地区拥有 3000 多台服务器**，广泛覆盖全球各个地区。 ExpressVPN 曾被评为最安全好用以及最适合中国用户的 VPN。
 
+![ExpressVPN官网](https://itkumao.com/wp-content/uploads/2022/06/expressvpn-homepage.jpg)
+
 **推荐理由：**
 
 **1、高速连接速度，超低延迟**
@@ -175,6 +177,8 @@ ExpressVPN 采用可信服务器技术服务器的创新方法可确保不会将
 ### **2、[PrivateVPN](https://qiangup.com/go/privatevpn)——中国翻墙软件性价比超高**
 
 PrivateVPN 是市面上性价比最高的 VPN 翻墙软件，也是最好用的 VPN 之一，当前有 5000 万活跃用户使用。PrivateVPN 总部位于塞舌尔，**在全球的 80 个国家 170 多个地点，PrivateVPN 拥有 3000 多台服务器**，超多科学上网节点，不受五眼联盟约束，能够虚拟、隐藏全球各国各地区的 IP 地址，无论你想连接哪个国家的线路，基本都能找到合适并且高速的线路。
+
+![PrivateVPN官网](https://itkumao.com/wp-content/uploads/2022/06/privatevpn-homepage.jpg)
 
 **推荐理由：**
 
