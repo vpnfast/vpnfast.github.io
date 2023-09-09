@@ -26,6 +26,32 @@
 
 虽然在特殊时期，每家VPN服务都无法完全保证稳定性，但是它们都提供了退款保证，以便当出现问题时能够及时解决或退款。因此，我们将定期更新当前适用于中国的VPN服务推荐列表，以确保你始终使用最合适的VPN服务。
 
+#### 1.[ExpressVPN](https://qiangup.com/go/expressvpn)
+
+![ExpressVPN](https://itkumao.com/wp-content/uploads/2022/06/expressvpn-logo.png)
+
+ExpressVPN是一家优质的VPN提供商，提供超过11年的翻墙服务，以其稳定性和速度的快捷著称。
+
+- 他们已在全球94个国家和地区配置了VPN服务器，包括了香港、台湾、美国、新加坡等地，可供全球用户选择。
+
+- ExpressVPN拥有自行研发的LightWay协议，相比于传统的VPN协议，LightWay具有更高的伪装性和更好的易用性。通过拆分隧道功能（Split Tunneling），用户能更灵活地选择将哪些应用程序或网站路由到VPN上，从而让用户同时访问中国和国外网站变得更加便利。
+
+- ExpressVPN支持多种平台设备，包括但不限于：安卓、苹果手机设备、macOS和Windows PC、Linux和安卓电视等。用户可以在设备上安装相应的客户端应用程序，方便快捷地使用VPN服务。在我们推荐的VPN排行榜中，ExpressVPN名列前茅，是一款极具优势的VPN产品。
+
+#### 2.[PrivateVPN](https://qiangup.com/go/privatevpn)
+
+![PrivateVPN](https://itkumao.com/wp-content/uploads/2022/06/privatevpn-logo.png)
+
+PrivateVPN是一款突出安全性、好用且价格便宜的VPN。
+
+- 支持Windows、Mac、Linux、苹果、安卓和路由器等主流设备。
+- 内置专业翻墙协议，短小精悍，启动连接速度快，支持10台设备同时使用。
+- 支持HTTP和SOCKS5代理协议，使用Stealth VPN翻墙功能，更好地伪装流量，在翻墙的时候具有更好的稳定性和速度。
+- 提供延迟低速度快的IP节点，包括香港、台湾、韩国、新加坡等节点。
+- 严格遵守零/无日志策略，使用目前市面上最高级别的AES-256进行2048位加密，确保用户数据安全。
+- 提供多种套餐时长选择，价格便宜，支持30天退款保证，在试用期内可以测试其在中国的速度和稳定性。
+- 提供24/7在线客服和远程帮助。
+
 ### **二、Proxy**
 
 代理也就是会有一个代理服务器（Proxy Server）的存在，代理服务器是充当你的计算机系统和 Internet 之间的中介的计算机。代理网站使用以下两种不同协议之一与 Internet 通信：HTTP 或 SOCKS。也就是说，用户不用安装客户端，可直接通过在浏览器或具体 App 内进行代理地址和端口设置，以创建连接到代理服务器。连接成功后，代理服务器就会使用代理协议来对目标网络地址或者服务器资源进行连接请求，实现翻墙的可能。
