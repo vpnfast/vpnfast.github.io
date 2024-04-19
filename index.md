@@ -94,7 +94,7 @@
 
 世界上的VPN软件成千上万，愿意为中国用户提供镜像站的一只手数得过来，[ExpressVPN的镜像站](https://nicechinavpn.com/go/expressvpn)（**很遗憾，已失效，中国大陆不再能直接访问购买**），对中国用户始终保持着可访问。
 
-客户端[好用的VPN](https://qiangup.com/best-vpn-china/)不少，但提供无需Google Play Store和苹果美国商店即可安装客户端的VPN厂商，恐怕ExpressVPN是仅有的几家之一。
+客户端[好用的VPN](https://vpnfast.gitbook.io/bestchinavpn)不少，但提供无需Google Play Store和苹果美国商店即可安装客户端的VPN厂商，恐怕ExpressVPN是仅有的几家之一。
 
 推荐香港、日本、新加坡、美国节点，提供国内能打开的镜像站，~不翻墙即可购买~，真正全终端覆盖，电脑（Windows，MacOS，Linux），手机（安卓，iOS：iPhone，iPad），路由器，游戏主机（PS2，XBox）等，安卓手机无需Google Play也可安装，iOS设备无需访问苹果商店也可安装，同时5台设备，单独配置哪些应用走VPN哪些不走（Split Tunneling） ，**买一年送3个月，30天无理由退款**，[买一年送3个月](https://nicechinavpn.com/go/expressvpn)，支持支付宝付款，支持P2P下载，不限流量。
 
