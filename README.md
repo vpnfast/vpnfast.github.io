@@ -15,10 +15,10 @@
 **列表可能随时变化，可以收藏本帖，保持关注。**
 
 > - 1.  如果你能买到[ExpressVPN](https://nicechinavpn.com/go/expressvpn)，用它翻墙是最可靠的。设备支持非常全（Windows、Mac、Linux、Android、iPhone、路由器 …），安全性高，隐私保护有保障。前两年这个VPN的连通率和速度都不快，但自从加入Lightway协议后连通率和速度大幅提升，这是我自己每次回国前必买的工具，长期使用有优惠。ExpressVPN的提供香港、日本、美国洛杉矶、新加坡四处节点，香港、洛杉矶、日本的连通率和稳定性最佳。
-- 2.  如果你预算充足，也可以考虑[PrivateVPN](https://nicechinavpn.com/go/privatevpn)，这是目前国内很多老外在用的VPN。这个VPN非常低调，但一直保持着较高的连通率，据我国内的朋友反馈，多数时候速度也不错，缺点是设备支持相对没那么全，价钱偏贵。
-- 3.  如果你买不到ExpressVPN或PrivateVPN，你可以考虑用[PureVPN](https://nicechinavpn.com/go/purevpn)，国内应该还可以买到。这应该是目前翻墙节点最多的类SSR科学上网工具，付费版提供的SVIP节点覆盖香港、台湾、韩国、日本、美国等到中国大陆最理想的线路。实用的智能模式可以只代理被墙网站。缺点是隐私政策不是很透明，个人觉得不适合对上网数据安全特别敏感的用户。
-- 4.  如果你的设备特别多（5台以上），[SurfShark](https://nicechinavpn.com/go/surfshark)可以考虑，它是目前市场上唯一允许无限设备连接的翻墙VPN，价格适中，性价比很高。但连通率和线路稳定性要比ExpressPVN、PrivateVPN、PureVPN等差一些。
-5.  如果你不想花太多钱买商业VPN，而更喜欢自己架设，或者用自己的客户端软件，那么你可以考虑用SSR翻墙，自己架设的服务器有较大风险被墙，建议用更加可靠的商业节点如JustMySocks。
+> - 2.  如果你预算充足，也可以考虑[PrivateVPN](https://nicechinavpn.com/go/privatevpn)，这是目前国内很多老外在用的VPN。这个VPN非常低调，但一直保持着较高的连通率，据我国内的朋友反馈，多数时候速度也不错，缺点是设备支持相对没那么全，价钱偏贵。
+> - 3.  如果你买不到ExpressVPN或PrivateVPN，你可以考虑用[PureVPN](https://nicechinavpn.com/go/purevpn)，国内应该还可以买到。这应该是目前翻墙节点最多的类SSR科学上网工具，付费版提供的SVIP节点覆盖香港、台湾、韩国、日本、美国等到中国大陆最理想的线路。实用的智能模式可以只代理被墙网站。缺点是隐私政策不是很透明，个人觉得不适合对上网数据安全特别敏感的用户。
+> - 4.  如果你的设备特别多（5台以上），[SurfShark](https://nicechinavpn.com/go/surfshark)可以考虑，它是目前市场上唯一允许无限设备连接的翻墙VPN，价格适中，性价比很高。但连通率和线路稳定性要比ExpressPVN、PrivateVPN、PureVPN等差一些。
+> 5.  如果你不想花太多钱买商业VPN，而更喜欢自己架设，或者用自己的客户端软件，那么你可以考虑用SSR翻墙，自己架设的服务器有较大风险被墙，建议用更加可靠的商业节点如JustMySocks。
 
 - [2024年翻墙软件和科学上网，中国VPN软件推荐指南](#%E5%B9%B4%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6%E5%92%8C%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E4%B8%AD%E5%9B%BDvpn%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90%E6%8C%87%E5%8D%97)
     - [翻墙是否违法？](#%E7%BF%BB%E5%A2%99%E6%98%AF%E5%90%A6%E8%BF%9D%E6%B3%95)
