@@ -2,7 +2,7 @@
 
 最近更新：`2024年4月8日`
 
-本文出处：https://github.com/vpnfast/vpnfast.github.io
+本文出处：[https://github.com/vpnfast/vpnfast.github.io](https://github.com/vpnfast/vpnfast.github.io)
 
 ## 翻墙VPN软件现状
 
