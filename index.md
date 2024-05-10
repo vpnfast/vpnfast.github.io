@@ -754,7 +754,7 @@ OpenVPN需要特别的客户端，搭建好服务器以后，搜索并下载适�
 
 假如今天你花钱买了一个vpn服务，你会希望这个服务的其他客户连着P2P下东西吗？P2P是机器消耗网络资源的服务，一台主机的连接资源，带宽资源是有限的，一两个用户同时开P2P服务，可以轻而易举地消耗掉其他用户的资源。一个vpn厂商要支撑P2P用户的服务所需要的成本，最终转嫁到所有用户的头上。扩展P2P所需要的服务资源，会最终成为厂商技术团队的主要负担。所以我个人从不考虑允许P2P的vpn厂商。我更信任专注做好vpn服务的厂商。况且，国内的P2P环境其实比国外更加泛滥，开着到国外的vpn做P2P下载，未必优于国内的线路。
 
-本文会根据测评情况，定期更新排名，如果觉得内容有用的话，欢迎添加收藏[中国VPN推荐](http://vpnfast.github.io/)或[翻墙软件](https://github.com/vpnfast/vpnfast.github.io)测评。阅读更多相关文章，请点击查看[科学上网](https://github.com/vpnfast/vpnfast.github.io/wiki)指南。
+本文会根据测评情况，定期更新排名，如果觉得内容有用的话，欢迎添加收藏[中国VPN推荐](http://vpnfast.github.io/)或[翻墙软件](https://github.com/vpnfast/vpnfast.github.io)测评。阅读更多相关[翻墙](https://vpnfast.gitbook.io/bestchinavpn)文章，请点击查看[科学上网](https://github.com/vpnfast/vpnfast.github.io/wiki)指南。
 
 ---
 

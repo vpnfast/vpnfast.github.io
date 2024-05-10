@@ -927,7 +927,7 @@ VPN 和代理都执行相同的任务来保护在线用户的身份。但使用�
 
 以上只是简单的一小部分匿名科学上网步骤，但对于普通人十分麻烦且没有必要，因为我们只是简单的翻墙上网而已，不存在国家之间的间谍行为，因此仅作了解，也不要尝试以身试法。
 
-本文会根据测评情况，定期更新排名，如果觉得内容有用的话，欢迎添加收藏[中国VPN推荐](http://vpnfast.github.io/)或[翻墙软件](https://github.com/vpnfast/vpnfast.github.io)测评。阅读更多相关文章，请点击查看[科学上网](https://github.com/vpnfast/vpnfast.github.io/wiki)指南。
+本文会根据测评情况，定期更新排名，如果觉得内容有用的话，欢迎添加收藏[中国VPN推荐](http://vpnfast.github.io/)或[翻墙软件](https://github.com/vpnfast/vpnfast.github.io)测评。阅读更多相关[翻墙](https://vpnfast.gitbook.io/bestchinavpn)文章，请点击查看[科学上网](https://github.com/vpnfast/vpnfast.github.io/wiki)指南。
 
 ---
 
