@@ -598,7 +598,7 @@ PrivateVPN 还有一键屏蔽恶意网站和冗余广告，还你一片绿色的
 
 ### 翻墙软件推荐三：[PureVPN](https://kanvpn.com/go/purevpn)
 
-![purevpn](https://kanvpn.com/wp-content/uploads/2023/07/purevpn-homepage.jpg)
+![purevpn](https://kanvpn.com/wp-content/uploads/2023/03/purevpn-homepage.jpg)
 
 PureVPN 在 59 个国家/地区的逾 5400 台 PureVPN 服务器，其安全保护功能是强项之一，PureVPN 提供**强大的 256 位加密**以及高度安全的 VPN 协议（OpenVPN 和 IKEv2 / IPSec）的超强组合。
 
