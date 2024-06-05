@@ -8,7 +8,7 @@
 
 市场上的翻墙软件多如牛毛，如果你有幸访问国外苹果/安卓应用商店，搜一下”VPN”，能找到几十上百款APP，其中大部分我都试过，没几个能用的。我原本想做一次地毯式测试，但后来失去了耐心，实在太多，就没有继续测了，我可以肯定99.9%都不好用，尤其是那些声称自己“免费”的，你也别浪费时间。我写这篇中国VPN推荐花了很长时间，是我亲自使用过十几款付费VPN后的总结。新手可以读一读我的翻墙与科学上网指南，如果你对国外的网站和应用感兴趣，可以看我写的翻墙后看什么。
 
-![好用的VPN，中国VPN，翻墙软件，科学上网，翻墙VPN，VPN推荐，VPN排行](https://nicechinavpn.com/wp-content/uploads/2023/04/firewall_escape.png)
+![好用的VPN，中国VPN，翻墙软件，科学上网，翻墙VPN，VPN推荐，VPN排行](https://kanvpn.com/wp-content/uploads/2023/04/firewall_escape.png)
 
 令人眼花缭乱的翻墙软件市场，但能在中国大陆使用的却凤毛麟角
 
@@ -30,15 +30,15 @@
 
 长话短说：这是我的中国VPN推荐，也是我个人用过并确认过的最可靠的几款翻墙软件：
 
-- 1.[ExpressVPN](https://nicechinavpn.com/go/expressvpn)：世界VPN排行第一品牌，服务中国用户10余年 （可惜须翻墙才能买到）
-- 2.[PrivateVPN](https://nicechinavpn.com/go/privatevpn)：后起之秀，使用类SSR技术，连接速度快
-- 3.[PureVPN](https://nicechinavpn.com/go/purevpn)：完成技术更新，可以稳定使用了
+- 1.[ExpressVPN](https://kanvpn.com/go/expressvpn)：世界VPN排行第一品牌，服务中国用户10余年 （可惜须翻墙才能买到）
+- 2.[PrivateVPN](https://kanvpn.com/go/privatevpn)：后起之秀，使用类SSR技术，连接速度快
+- 3.[PureVPN](https://kanvpn.com/go/purevpn)：完成技术更新，可以稳定使用了
 
 **没有完美的翻墙软件**。所以我自己常年备着五六个工具，这3个是我最想推荐给你的，**我建议你至少常备2个或以上**。我平时70%的时间用ExpressVPN，25%的时间用PureVPN，剩下5%的时间用别的。ExpressVPN已经运营了10来年 ，设备支持最全，国内外口碑都极好， 仍是我个人最信任的翻墙软件，它在国内有大量活跃用户，在中国生活的几十万老外，用得最多的是ExpressVPN，有这个人群的背书，你应该可以更加放心，因为他们比中国用户有更迫切的翻墙上网需求，否则可能连Facebook都更不了。
 
-[PrivateVPN](https://nicechinavpn.com/go/privatevpn)的运营时间虽然不长，但非常好用，连接速度快，提供香港/美国/台湾/日韩等多国节点，甚至还有有中国大陆节点可以翻墙回国，虽然设备支持远没有ExpressVPN全，隐私保护政策也显模糊，但日常使用是个很好的工具。如果你用PrivateVPN，请连备用节点，因为用户数增长太快，原节点很多经常爆满，备用节点更新得很快也很多，可以放心使用。
+[PrivateVPN](https://kanvpn.com/go/privatevpn)的运营时间虽然不长，但非常好用，连接速度快，提供香港/美国/台湾/日韩等多国节点，甚至还有有中国大陆节点可以翻墙回国，虽然设备支持远没有ExpressVPN全，隐私保护政策也显模糊，但日常使用是个很好的工具。如果你用PrivateVPN，请连备用节点，因为用户数增长太快，原节点很多经常爆满，备用节点更新得很快也很多，可以放心使用。
 
-<table><tbody><tr><td></td><td>1. <a href="https://nicechinavpn.com/go/expressvpn">ExpressVPN</a></td><td>2. <a href="https://nicechinavpn.com/go/privatevpn">PrivateVPN</a></td><td>3. <a href="https://nicechinavpn.com/go/purevpn">PureVPN</a></td></tr><tr><td>综合评分</td><td>4.9</td><td>4.8</td><td>4.8</td></tr><tr><td>价格</td><td>高</td><td>低</td><td>高</td></tr><tr><td>运营时间</td><td>长</td><td>短</td><td>长</td></tr><tr><td>近中国节点选择</td><td>多</td><td>多</td><td>多</td></tr><tr><td>连通率</td><td>高</td><td>高</td><td>高</td></tr><tr><td>建立连接速度</td><td>较慢</td><td>快</td><td>较快</td></tr><tr><td>连接稳定性（相对）</td><td>稳定</td><td>一般</td><td>稳定</td></tr><tr><td>传输速度</td><td>很快</td><td>快</td><td>快</td></tr><tr><td>隐私安全</td><td>高</td><td>中</td><td>高</td></tr><tr><td>设备支持</td><td>全</td><td>不支持路由器</td><td>较全</td></tr><tr><td>支付宝</td><td>支持</td><td>支持</td><td>支持</td></tr><tr><td>镜像站点</td><td>提供</td><td>提供</td><td>提供</td></tr><tr><td>客户端快速下载</td><td>可以</td><td>可以</td><td>可以</td></tr><tr><td>优惠</td><td><a href="https://nicechinavpn.com/go/expressvpn">年付送3个月</a></td><td><a href="https://nicechinavpn.com/go/privatevpn">买一年送一年</a></td><td><a href="https://nicechinavpn.com/go/purevpn">年付-40%</a></td></tr></tbody></table>
+<table><tbody><tr><td></td><td>1. <a href="https://kanvpn.com/go/expressvpn">ExpressVPN</a></td><td>2. <a href="https://kanvpn.com/go/privatevpn">PrivateVPN</a></td><td>3. <a href="https://kanvpn.com/go/purevpn">PureVPN</a></td></tr><tr><td>综合评分</td><td>4.9</td><td>4.8</td><td>4.8</td></tr><tr><td>价格</td><td>高</td><td>低</td><td>高</td></tr><tr><td>运营时间</td><td>长</td><td>短</td><td>长</td></tr><tr><td>近中国节点选择</td><td>多</td><td>多</td><td>多</td></tr><tr><td>连通率</td><td>高</td><td>高</td><td>高</td></tr><tr><td>建立连接速度</td><td>较慢</td><td>快</td><td>较快</td></tr><tr><td>连接稳定性（相对）</td><td>稳定</td><td>一般</td><td>稳定</td></tr><tr><td>传输速度</td><td>很快</td><td>快</td><td>快</td></tr><tr><td>隐私安全</td><td>高</td><td>中</td><td>高</td></tr><tr><td>设备支持</td><td>全</td><td>不支持路由器</td><td>较全</td></tr><tr><td>支付宝</td><td>支持</td><td>支持</td><td>支持</td></tr><tr><td>镜像站点</td><td>提供</td><td>提供</td><td>提供</td></tr><tr><td>客户端快速下载</td><td>可以</td><td>可以</td><td>可以</td></tr><tr><td>优惠</td><td><a href="https://kanvpn.com/go/expressvpn">年付送3个月</a></td><td><a href="https://kanvpn.com/go/privatevpn">买一年送一年</a></td><td><a href="https://kanvpn.com/go/purevpn">年付-40%</a></td></tr></tbody></table>
 
 你可能在别的网站看到对**TunnelBear，CyberGhost，ProtonVPN**的VPN推荐，不要浪费时间，我都亲自试用过， **这些翻墙软件不适合在中国使用**。要么是根本连不上，要么是要繁琐的手动配置才能连得上，或者是一开始能连但一段时间后完全不能用。这里最让人气愤的是NordVPN，很多人都在推荐它，但我自己从来没成功连上过，所以我怀疑很多人推荐NordVPN只是因为高额佣金。我会在下文陆续列出更多不能用的中国VPN，有兴趣的读者可以持续关注，我也不建议读者花大把时间亲自试错，我写这篇文章作[VPN推荐](https://overwallvpn.com/best-vpn-china/)的目的是为你节省时间。
 
@@ -94,11 +94,11 @@
 
 因为他重视中国市场。
 
-世界上的VPN软件成千上万，愿意为中国用户提供镜像站的一只手数得过来，[ExpressVPN的镜像站](https://nicechinavpn.com/go/expressvpn)（**很遗憾，已失效，中国大陆不再能直接访问购买**），对中国用户始终保持着可访问。
+世界上的VPN软件成千上万，愿意为中国用户提供镜像站的一只手数得过来，[ExpressVPN的镜像站](https://kanvpn.com/go/expressvpn)（**很遗憾，已失效，中国大陆不再能直接访问购买**），对中国用户始终保持着可访问。
 
 客户端[好用的VPN](https://vpnfast.gitbook.io/bestchinavpn)不少，但提供无需Google Play Store和苹果美国商店即可安装客户端的VPN厂商，恐怕ExpressVPN是仅有的几家之一。
 
-推荐香港、日本、新加坡、美国节点，提供国内能打开的镜像站，~不翻墙即可购买~，真正全终端覆盖，电脑（Windows，MacOS，Linux），手机（安卓，iOS：iPhone，iPad），路由器，游戏主机（PS2，XBox）等，安卓手机无需Google Play也可安装，iOS设备无需访问苹果商店也可安装，同时5台设备，单独配置哪些应用走VPN哪些不走（Split Tunneling） ，**买一年送3个月，30天无理由退款**，[买一年送3个月](https://nicechinavpn.com/go/expressvpn)，支持支付宝付款，支持P2P下载，不限流量。
+推荐香港、日本、新加坡、美国节点，提供国内能打开的镜像站，~不翻墙即可购买~，真正全终端覆盖，电脑（Windows，MacOS，Linux），手机（安卓，iOS：iPhone，iPad），路由器，游戏主机（PS2，XBox）等，安卓手机无需Google Play也可安装，iOS设备无需访问苹果商店也可安装，同时5台设备，单独配置哪些应用走VPN哪些不走（Split Tunneling） ，**买一年送3个月，30天无理由退款**，[买一年送3个月](https://kanvpn.com/go/expressvpn)，支持支付宝付款，支持P2P下载，不限流量。
 
 ExpressVPN已通过普华永道隐私保护机制审计 —— 意思是说不像很多口是心非的不良厂商，ExpressVPN的无日志政策是实打实的无日志。
 
@@ -112,11 +112,11 @@ DNS泄露保护。ExpressVPN在每台服务器上运行自己的私有加密DNS�
 
 了解更多关于ExpressVPN的信息，这是我早先写过的一篇单独ExpressVPN评测。
 
-### VPN推荐（一）：[ExpressVPN](https://nicechinavpn.com/go/expressvpn)
+### VPN推荐（一）：[ExpressVPN](https://kanvpn.com/go/expressvpn)
 
-![expressvpn](https://nicechinavpn.com/wp-content/uploads/2023/07/expressvpn-homepage.jpg)
+![expressvpn](https://kanvpn.com/wp-content/uploads/2022/03/expressvpn-homepage-zh.jpg)
 
-**ExpresssVPN价格较贵。**未必是市场上价格最高的VPN，但至少是之一，目前我看过的所有VPN排行里，貌似只有Astrill的价格比它高。目前提供三种套餐，单月12.95美金每月，买6个月为9.99美金每月，总计约60美金，买一年为8.32美金每月，总计约99美金，折合人民币700块每年，对不少读者确实有点贵，**现在有[买一年送3个月活动](https://nicechinavpn.com/go/expressvpn)，折合起来每个月6刀多一点。**
+**ExpresssVPN价格较贵。**未必是市场上价格最高的VPN，但至少是之一，目前我看过的所有VPN排行里，貌似只有Astrill的价格比它高。目前提供三种套餐，单月12.95美金每月，买6个月为9.99美金每月，总计约60美金，买一年为8.32美金每月，总计约99美金，折合人民币700块每年，对不少读者确实有点贵，**现在有[买一年送3个月活动](https://kanvpn.com/go/expressvpn)，折合起来每个月6刀多一点。**
 
 #### 如何获取ExpressVPN？
 
@@ -167,9 +167,9 @@ I would like to have a refund because your service does not work for me. My acco
 
 Thanks.
 
-### VPN推荐（二）：[PrivateVPN](https://nicechinavpn.com/go/privatevpn)
+### VPN推荐（二）：[PrivateVPN](https://kanvpn.com/go/privatevpn)
 
-![privatevpn](https://nicechinavpn.com/wp-content/uploads/2022/05/privatevpn-download-app-link.jpg)
+![privatevpn](https://kanvpn.com/wp-content/uploads/2022/03/privatevpn-homepage.jpg)
 
 PrivateVPN 是市面上性价比最高的 VPN 翻墙软件，也是最好用的 VPN 之一，当前有 5000 万活跃用户使用。PrivateVPN 总部位于塞舌尔，**在全球的 80 个国家 170 多个地点，PrivateVPN 拥有 3000 多台服务器**，超多科学上网节点，不受五眼联盟约束，能够虚拟、隐藏全球各国各地区的 IP 地址，无论你想连接哪个国家的线路，基本都能找到合适并且高速的线路。
 
@@ -211,9 +211,9 @@ PrivateVPN 提供全球技术支持，无论你是在哪个国家，什么时间
 -   不支持路由器 VPN 固件使用
 -   不支持支付宝支付
 
-### VPN推荐（三）：[PureVPN](https://nicechinavpn.com/go/purevpn)
+### VPN推荐（三）：[PureVPN](https://kanvpn.com/go/purevpn)
 
-![purevpn](https://nicechinavpn.com/wp-content/uploads/2023/07/purevpn-homepage.jpg)
+![purevpn](https://kanvpn.com/wp-content/uploads/2023/03/purevpn-homepage.jpg)
 
 **中国已恢复**： 一度也只是个被海外党拿来翻回国的翻墙软件，有较长一段时间PureVPN无法在国内往外翻，但最近恢复了，虽然有读者反应有时候速度并不理想，但至少是可以连的。
 
@@ -507,13 +507,13 @@ PandaVPN客服支持中文，所以你可以直接用中文表达退款请求。
 
 已经有几位读者反应NordVPN在中国可用，应读者建议，作者再进行了测试，从深圳、西安两地，电信与中国移动4G线路，均成功连上日本某节点（Obfuscated Server），我打算有空再完整测一次，**以下关于NordVPN的评价可能不再准确**。
 
-从各种技术和服务指标上说，NordVPN看上去是个完美的VPN：可从国内[直接购买](https://nicechinavpn.com/go/nordvpn)，支持支付宝，价格比ExpressVPN便宜很多，支持所有设备。提供日本、美国、新加坡、香港等地告诉节点，切换方便，更新及时。军用级加密，自带广告过滤和恶意软件检测，零日志，Kill-Switch，支持P2P …
+从各种技术和服务指标上说，NordVPN看上去是个完美的VPN：可从国内[直接购买](https://kanvpn.com/go/nordvpn)，支持支付宝，价格比ExpressVPN便宜很多，支持所有设备。提供日本、美国、新加坡、香港等地告诉节点，切换方便，更新及时。军用级加密，自带广告过滤和恶意软件检测，零日志，Kill-Switch，支持P2P …
 
 但它是我测到目前用过的**最垃圾的VPN**，花了12美金买了一个月专门用来测试，发现普通节点连不上，Google半天发现官方“推荐”在中国用Obfuscated服务器，好吧，试了20来个Obfuscated服务器，发现还是连不上，又Google半天，发现官方推荐用“TCP”，好吧，在设置里调成TCP，还是连不上，再Google，发现有中文博主推荐香港、日本、美国等特定几个节点，我到服务器列表里一看，发现他推荐的这些节点我一个都没有！
 
 **不要买NordVPN**，我不确定网上那么多人推荐它是不是因为厂商给了高佣金，但我自己安卓手机上的测试结果是：**这个VPN中国根本不能用**。也许有人找到了窍门，我也确实Google到几篇博文说是要手动下载什么东西，更新本地的OpenVPN配置，我没试，如果我花了钱买你的VPN客户端还得自己去手动更新配置，我还不如直接SSR。有个博主居然还建议读者如果TCP不行就切换回UDP，因为“说不准”那个可以用，拜托！用户花了钱用VPN，不是给自己找别扭去的。
 
-**这是生活在深圳的一对外国人对[ExpressVPN](https://nicechinavpn.com/go/expressvpn)和NordVPN的比较，他们最后发现NordVPN连不上想退款也没退成功：**
+**这是生活在深圳的一对外国人对[ExpressVPN](https://kanvpn.com/go/expressvpn)和NordVPN的比较，他们最后发现NordVPN连不上想退款也没退成功：**
 
 ### 快连VPN，你敢用么？
 
@@ -570,7 +570,7 @@ PandaVPN客服支持中文，所以你可以直接用中文表达退款请求。
 
 理论上SOCKS5协议比VPN协议快，因为原生SOCKS5协议没有加密开销，但因为蓝灯（SSR也是）有加密层，协议上的优势可能未必明显，但直观上，打开蓝灯建立连接比任何VPN翻墙软件都快，因为是代理，服务器端被动接受请求，初始化开销很小，这是蓝灯（或SSR）等代理类翻墙软件很大的优势，不过传输上的速度优势就不总是明显了，比如用蓝灯看油管和用ExpressVPN看的速度差距是很难察觉的。但我注意到在手机上用蓝灯比用VPN更省电，而且速度更快，这可能跟SOCKS5协议比VPN协议更简单，对本地运算的负担更小有关吧。此外蓝灯提供基本的广告拦截功能，不算特备强大，但也是蛮实用的。
 
-你如果在考虑是否购买蓝灯，我的建议是，如果你用iOS设备，不要买蓝灯，如果你还没有用过ExpressVPN，我建议你买[ExpressVPN](https://nicechinavpn.com/go/expressvpn)。如果你已经用过VPN翻墙软件且没有成功，你可以试试蓝灯，这里有蓝灯优惠码。如果你需要长期翻墙学习或工作，有这个预算的话，我建议你同时购买ExpressVPN和蓝灯，蓝灯作为特殊情况下无法翻墙时的备份使用。
+你如果在考虑是否购买蓝灯，我的建议是，如果你用iOS设备，不要买蓝灯，如果你还没有用过ExpressVPN，我建议你买[ExpressVPN](https://kanvpn.com/go/expressvpn)。如果你已经用过VPN翻墙软件且没有成功，你可以试试蓝灯，这里有蓝灯优惠码。如果你需要长期翻墙学习或工作，有这个预算的话，我建议你同时购买ExpressVPN和蓝灯，蓝灯作为特殊情况下无法翻墙时的备份使用。
 
 ## 关于游戏VPN
 
@@ -596,7 +596,7 @@ PandaVPN客服支持中文，所以你可以直接用中文表达退款请求。
 
 ### 游戏vpn推荐
 
-[ExpressVPN](https://nicechinavpn.com/go/expressvpn)，[PureVPN](https://nicechinavpn.com/go/purevpn)都是非常好的游戏VPN，前者的HK-4服务器集群一直都是翻墙首选，延时低，很稳定；后者提供日本、韩国、台湾等地的备用节点，非常适合玩游戏。
+[ExpressVPN](https://kanvpn.com/go/expressvpn)，[PureVPN](https://kanvpn.com/go/purevpn)都是非常好的游戏VPN，前者的HK-4服务器集群一直都是翻墙首选，延时低，很稳定；后者提供日本、韩国、台湾等地的备用节点，非常适合玩游戏。
 
 付费vpn的优势主要在于遍布全球的而服务器，如果你用游戏vpn的主要目的是连接多国服务器，避开锁区限制，付费vpn是最好的方案，因为访问多国服务器，自己架设的成本比付费vpn要高很多，不止是金钱投入，更重要的是维护多台服务器的时间成本。
 
@@ -672,7 +672,7 @@ OpenVPN需要特别的客户端，搭建好服务器以后，搜索并下载适�
 
 在打开VPN时，无论是电脑或手机应用程序的流量默认都走VPN路由，这对访问国内网站没有必要，因为访问国内网站本来不用借助VPN，强制走VPN路由，反而绕了个大圈子，比不用VPN访问慢不少。
 
-下面以[ExpressVPN](https://nicechinavpn.com/go/expressvpn)为例，介绍在打开VPN时如何正常访问国内网站，同时，访问国外被墙网站仍走VPN。
+下面以[ExpressVPN](https://kanvpn.com/go/expressvpn)为例，介绍在打开VPN时如何正常访问国内网站，同时，访问国外被墙网站仍走VPN。
 
 **同一设备上不同应用程序走不同线路（ExpressVPN安装在电脑或手机上）**：
 
@@ -740,7 +740,7 @@ OpenVPN需要特别的客户端，搭建好服务器以后，搜索并下载适�
 
 ### 尽量别购买国内买不到的付费vpn
 
-一个vpn厂商如果连自己的网站都不能反屏蔽，用户想买也买不到，它的技术和资金投入能有多大呢？事实上在国内能直接购买到的一线vpn服务商并不多，我推荐过的[ExpressVPN](https://nicechinavpn.com/go/expressvpn)是这些年来唯一一个保证了“能访问，能购买”的服务。
+一个vpn厂商如果连自己的网站都不能反屏蔽，用户想买也买不到，它的技术和资金投入能有多大呢？事实上在国内能直接购买到的一线vpn服务商并不多，我推荐过的[ExpressVPN](https://kanvpn.com/go/expressvpn)是这些年来唯一一个保证了“能访问，能购买”的服务。
 
 在伟大的墙面前，这个世界上已经没有100%时间，连接100%的vpn服务。任何服务都有不稳定的时候，一线的厂商在这些时候通常会特地更新服务，或者做一些技术上的处理，让用户平滑地度过特殊时期。但是如果这些时候你连它的官网都访问不了，只能乖乖的等风声过去，不是要耽误不必要的时间？
 

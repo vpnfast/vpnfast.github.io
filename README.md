@@ -4,7 +4,7 @@
 
 本文总结翻墙与科学上网工具，介绍VPN，蓝灯、SSR等翻墙软件。免费VPN，免费SSR我就不推荐了，付费VPN中国能用的越来越少，何况免费的。现在没有让你一劳永逸的翻墙工具，也没有完美的科学上网，即使是再好的翻墙软件也只能做到大概全年97%连通率。懂技术的人可以考虑SSR，付费SSR节点长期更靠谱。个人建议普通用户用VPN翻墙，本文也优先作中国VPN推荐。
 
-![好用的VPN，中国VPN，翻墙软件，科学上网，翻墙VPN，VPN推荐，VPN排行](https://nicechinavpn.com/wp-content/uploads/2023/04/firewall_escape.png)
+![好用的VPN，中国VPN，翻墙软件，科学上网，翻墙VPN，VPN推荐，VPN排行](https://kanvpn.com/wp-content/uploads/2023/04/firewall_escape.png)
 
 每年的春节、三月初、六月初、国庆期间、某些突发事件时期都是“敏感时期”，基本上在中国使用的所有科学上网工具都会出现频繁断线、连接超时，速度大幅下降等问题，每次持续1-2周左右，过后自动恢复。如果你的学习工作高度依赖国外网站或App，建议提早多准备几个工具，个人经验是VPN+SSR的组合基本上可以帮你度过敏感期。非重度翻墙用户如果不想折腾多款工具的，不妨等几天网络恢复，因为其它也没有什么更好的办法。
 
@@ -14,10 +14,10 @@
 
 **列表可能随时变化，请保持持续关注。**
 
-> 1.  如果你能买到[ExpressVPN](https://nicechinavpn.com/go/expressvpn)，用它翻墙是最可靠的。设备支持非常全（Windows、Mac、Linux、Android、iPhone、路由器 …），安全性高，隐私保护有保障。前两年这个VPN的连通率和速度都不快，但自从加入Lightway协议后连通率和速度大幅提升，这是我自己每次回国前必买的工具，长期使用有优惠。ExpressVPN的提供香港、日本、美国洛杉矶、新加坡四处节点，香港、洛杉矶、日本的连通率和稳定性最佳。
-> 2.  如果你预算充足，也可以考虑[PrivateVPN](https://nicechinavpn.com/go/privatevpn)，这是目前国内很多老外在用的VPN。这个VPN非常低调，但一直保持着较高的连通率，据我国内的朋友反馈，多数时候速度也不错，缺点是设备支持相对没那么全，价钱偏贵。
-> 3.  如果你买不到ExpressVPN或PrivateVPN，你可以考虑用[PureVPN](https://nicechinavpn.com/go/purevpn)，国内应该还可以买到。这应该是目前翻墙节点最多的类SSR科学上网工具，付费版提供的SVIP节点覆盖香港、台湾、韩国、日本、美国等到中国大陆最理想的线路。实用的智能模式可以只代理被墙网站。缺点是隐私政策不是很透明，个人觉得不适合对上网数据安全特别敏感的用户。
-> 4.  如果你的设备特别多（5台以上），[SurfShark](https://nicechinavpn.com/go/surfshark)可以考虑，它是目前市场上唯一允许无限设备连接的翻墙VPN，价格适中，性价比很高。但连通率和线路稳定性要比ExpressPVN、PrivateVPN、PureVPN等差一些。
+> 1.  如果你能买到[ExpressVPN](https://kanvpn.com/go/expressvpn)，用它翻墙是最可靠的。设备支持非常全（Windows、Mac、Linux、Android、iPhone、路由器 …），安全性高，隐私保护有保障。前两年这个VPN的连通率和速度都不快，但自从加入Lightway协议后连通率和速度大幅提升，这是我自己每次回国前必买的工具，长期使用有优惠。ExpressVPN的提供香港、日本、美国洛杉矶、新加坡四处节点，香港、洛杉矶、日本的连通率和稳定性最佳。
+> 2.  如果你预算充足，也可以考虑[PrivateVPN](https://kanvpn.com/go/privatevpn)，这是目前国内很多老外在用的VPN。这个VPN非常低调，但一直保持着较高的连通率，据我国内的朋友反馈，多数时候速度也不错，缺点是设备支持相对没那么全，价钱偏贵。
+> 3.  如果你买不到ExpressVPN或PrivateVPN，你可以考虑用[PureVPN](https://kanvpn.com/go/purevpn)，国内应该还可以买到。这应该是目前翻墙节点最多的类SSR科学上网工具，付费版提供的SVIP节点覆盖香港、台湾、韩国、日本、美国等到中国大陆最理想的线路。实用的智能模式可以只代理被墙网站。缺点是隐私政策不是很透明，个人觉得不适合对上网数据安全特别敏感的用户。
+> 4.  如果你的设备特别多（5台以上），[SurfShark](https://kanvpn.com/go/surfshark)可以考虑，它是目前市场上唯一允许无限设备连接的翻墙VPN，价格适中，性价比很高。但连通率和线路稳定性要比ExpressPVN、PrivateVPN、PureVPN等差一些。
 > 5.  如果你不想花太多钱买商业VPN，而更喜欢自己架设，或者用自己的客户端软件，那么你可以考虑用SSR翻墙，自己架设的服务器有较大风险被墙，建议用更加可靠的商业节点如JustMySocks。
 
 - [2024年翻墙软件和科学上网，中国VPN软件推荐指南](#%E5%B9%B4%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6%E5%92%8C%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E4%B8%AD%E5%9B%BDvpn%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90%E6%8C%87%E5%8D%97)
@@ -193,10 +193,10 @@ Gmail并非中国人必需的邮件服务，但和国外客户打交道的时候
 
 我现在用的VPN主要是：
 
--   [ExpressVPN](https://nicechinavpn.com/go/expressvpn)：回国往外翻的时候用，已经用了5+年，很满意，也不打算换 （目前国内已经没有可直接打开购买的镜像了，须先用免费工具翻墙后用国外IP才能购买）
--   [PureVPN](https://nicechinavpn.com/go/purevpn)：原来只是翻墙回国工具，发现用来看B站速度不错，所以一直用着，也快两年了，最近这个工具也可以翻墙到国外了 !
--   [PrivateVPN](https://nicechinavpn.com/go/privatevpn)：这个东西一直都不怎么好用的，但去年后经过开发团队的努力，终于抛弃了对Obfuscated Server的依赖，现在变得挺好用了
--   [Surfshark](https://nicechinavpn.com/go/surfshark)：用来翻墙到中国，大陆节点偶尔会不能用，但用了两年下来，还好，注意这个工具无法翻墙到国外（有读者反馈，现在也可以翻墙到国外了）
+-   [ExpressVPN](https://kanvpn.com/go/expressvpn)：回国往外翻的时候用，已经用了5+年，很满意，也不打算换 （目前国内已经没有可直接打开购买的镜像了，须先用免费工具翻墙后用国外IP才能购买）
+-   [PureVPN](https://kanvpn.com/go/purevpn)：原来只是翻墙回国工具，发现用来看B站速度不错，所以一直用着，也快两年了，最近这个工具也可以翻墙到国外了 !
+-   [PrivateVPN](https://kanvpn.com/go/privatevpn)：这个东西一直都不怎么好用的，但去年后经过开发团队的努力，终于抛弃了对Obfuscated Server的依赖，现在变得挺好用了
+-   [Surfshark](https://kanvpn.com/go/surfshark)：用来翻墙到中国，大陆节点偶尔会不能用，但用了两年下来，还好，注意这个工具无法翻墙到国外（有读者反馈，现在也可以翻墙到国外了）
 
 ExpressVPN我用香港3，香港4，东京3等节点，不好连了换一个，基本不需要其它节点。电脑、手机上连香港大概平均40秒内连上，家里Wifi，手机4G网络都会偶尔断线，但绝大多数时候App能自动成功重连，**基本可以顾自己做事**，不用想“我现在能不能翻墙，是不是要换一个连一下”这种问题。
 
@@ -568,9 +568,9 @@ Tips:
 
 基于以上挑选要点，今天就给大家推荐三款在中国能用，安全性高，不会踩雷的 VPN.
 
-### 翻墙软件推荐一：[ExpressVPN](https://nicechinavpn.com/go/expressvpn)
+### 翻墙软件推荐一：[ExpressVPN](https://kanvpn.com/go/expressvpn)
 
-![expressvpn](https://nicechinavpn.com/wp-content/uploads/2023/07/expressvpn-homepage.jpg)
+![expressvpn](https://kanvpn.com/wp-content/uploads/2021/12/expressvpn-logo.png)
 
 ExpressVPN 在 VPN 行业内也算家喻户晓的老牌 VPN 了，已经存在十余年了，他们在 94 个国家/地区的 160 城市运营着 3000 多台服务器，安全性和隐私保护方面做得非常不错，ExpressVPN 的”零日志“政策是经过 PWC 审计的，TrustedServers 它也是独一家，还配置有 Kill Switch，私有 DNS 服务器等等功能。
 
@@ -582,9 +582,9 @@ ExpressVPN 在功能方面比较齐全，速度等各个方面表现也不俗，
 
 支持平台：Windows、Mac、iOS、Android、Linux、Android TV 等
 
-### 翻墙软件推荐二：[PrivateVPN](https://nicechinavpn.com/go/privatevpn)
+### 翻墙软件推荐二：[PrivateVPN](https://kanvpn.com/go/privatevpn)
 
-![privatevpn](https://nicechinavpn.com/wp-content/uploads/2022/05/privatevpn-download-app-link.jpg)
+![privatevpn](https://kanvpn.com/wp-content/uploads/2022/05/privatevpn-logo.png)
 
 PrivateVPN 专为中国用户而生的翻墙 VPN, PrivateVPN 在全球 80+国家/地区拥有超过 3000 台服务器，节点包括离中国大陆最近且最受欢迎的香港、台湾、美国、日本、韩国等地的线路，还提供优质流媒体专线、游戏专线、种子下载专线等，数量远超 ExpressVPN,海外追剧、游戏用户的福音。
 
@@ -596,9 +596,9 @@ PrivateVPN 还有一键屏蔽恶意网站和冗余广告，还你一片绿色的
 
 支持平台：Windows、Mac、iOS、Android、Linux、Android TV 等
 
-### 翻墙软件推荐三：[PureVPN](https://nicechinavpn.com/go/purevpn)
+### 翻墙软件推荐三：[PureVPN](https://kanvpn.com/go/purevpn)
 
-![purevpn](https://nicechinavpn.com/wp-content/uploads/2023/07/purevpn-homepage.jpg)
+![purevpn](https://kanvpn.com/wp-content/uploads/2023/07/purevpn-homepage.jpg)
 
 PureVPN 在 59 个国家/地区的逾 5400 台 PureVPN 服务器，其安全保护功能是强项之一，PureVPN 提供**强大的 256 位加密**以及高度安全的 VPN 协议（OpenVPN 和 IKEv2 / IPSec）的超强组合。
 
@@ -665,7 +665,7 @@ PureVPN 拥有良好的兼容性，主流设备基本都支持，速度和稳定
 
 虽然在特殊时期，每家VPN服务都无法完全保证稳定性，但是它们都提供了退款保证，以便当出现问题时能够及时解决或退款。因此，我们将定期更新当前适用于中国的VPN服务推荐列表，以确保你始终使用最合适的VPN服务。
 
-#### 1.[ExpressVPN](https://nicechinavpn.com/go/expressvpn)
+#### 1.[ExpressVPN](https://kanvpn.com/go/expressvpn)
 
 ![ExpressVPN](https://itkumao.com/wp-content/uploads/2022/06/expressvpn-logo.png)
 
@@ -677,7 +677,7 @@ ExpressVPN是一家优质的VPN提供商，提供超过11年的翻墙服务，�
 
 - ExpressVPN支持多种平台设备，包括但不限于：安卓、苹果手机设备、macOS和Windows PC、Linux和安卓电视等。用户可以在设备上安装相应的客户端应用程序，方便快捷地使用VPN服务。在我们推荐的VPN排行榜中，ExpressVPN名列前茅，是一款极具优势的VPN产品。
 
-#### 2.[PrivateVPN](https://nicechinavpn.com/go/privatevpn)
+#### 2.[PrivateVPN](https://kanvpn.com/go/privatevpn)
 
 ![PrivateVPN](https://itkumao.com/wp-content/uploads/2022/06/privatevpn-logo.png)
 
