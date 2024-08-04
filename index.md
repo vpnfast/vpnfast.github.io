@@ -1,1990 +1,742 @@
-# 2024年【翻墙软件VPN排行榜】中国最好用的VPN推荐
+虽然应用商店里面有成百上千的VPN，国内也有个人搭建的机场梯子，但是能用的VPN确实寥寥无几，可以说在中国翻墙并不简单。本文详细测评了市面上知名的VPN，根据速度和稳定性，向大家推荐几款在中国好用的VPN。
 
-最近更新：`2024年4月8日`
+## 为什么翻墙这么难？
 
-本文出处：[https://github.com/vpnfast/vpnfast.github.io](https://github.com/vpnfast/vpnfast.github.io)
+**防火长城GFW**背后是强大的技术团队，每年都在不断更新升级，因此原来好用的VPN，今天可能就会倒下。
 
-## 翻墙VPN软件现状
+关键是在中国开发VPN属于违法行为，相信大家已经见过太多开发VPN被抓的新闻了。当然，如果你有写代码的经验，也可以利用开源代码SSR、V2ray自己搭建个人机场。
 
-市场上的翻墙软件多如牛毛，如果你有幸访问国外苹果/安卓应用商店，搜一下”VPN”，能找到几十上百款APP，其中大部分我都试过，没几个能用的。我原本想做一次地毯式测试，但后来失去了耐心，实在太多，就没有继续测了，我可以肯定99.9%都不好用，尤其是那些声称自己“免费”的，你也别浪费时间。我写这篇中国VPN推荐花了很长时间，是我亲自使用过十几款付费VPN后的总结。新手可以读一读我的翻墙与科学上网指南，如果你对国外的网站和应用感兴趣，可以看我写的翻墙后看什么。
+缺点是，你需要自己买VPS服务器，**解决IP被墙**等一系列问题，最后价格还比付费VPN更贵。别问我是怎么知道的，我开始的时候也这么玩儿…
 
-![好用的VPN，中国VPN，翻墙软件，科学上网，翻墙VPN，VPN推荐，VPN排行](https://kanvpn.com/wp-content/uploads/2023/04/firewall_escape.png)
+而国外VPN也并不是都好用，大多数本VPN排行以外的VPN都不是专门给中国用户准备的，他们更注重的是加密和隐私安全保护。虽然苹果、安卓手机应用商店一搜一大把“VPN”，但是真正具备翻墙能力的VPN少之又少。
 
-令人眼花缭乱的翻墙软件市场，但能在中国大陆使用的却凤毛麟角
+想节约时间快速了解和选择好用的VPN，可以参考以下我们推荐的中国VPN排行，文后还有更详细的VPN测评：
 
-我想先提醒读者：**没有完美的翻墙软件，不要这样期望**。过去几年，我辗转国内外，用过的VPN不算少了，我还从来没碰到过哪个VPN在中国能做到100%稳定不断线的，也从来没碰到过哪个翻墙工具能在不保持持续更新的前提下在中国持续使用的。GFW的屏蔽能力越来越强，它和[翻墙软件](https://itkumao.com/)之间的战斗，会一直持续下去。我们的科学上网事业会一如既往，八仙过海各显神通是常态。
+ExpressVPN – 速度最快的VPN中国首选
 
-**为什么要推荐中国能用的VPN这么难？**如此饱和的VPN翻墙软件市场，也难找到几款好用的产品？
+![](https://qiangup.com/wp-content/uploads/2022/09/expressvpn-small-logo-big.png)
 
-我们可以说这是因为墙越来越高，为中国用户开发稳定好用的个软件的技术门槛和成本也越来越高。开发商的焦灼在于：要维持对中国大陆用户的服务，必须有持续投入到算法更新，服务器更新，镜像站维护的财力。在和网络防火墙长期猫捉老鼠的斗争中，99%以上的服务商最终不得不败下阵来。
+-   已经运营了超过11年，一直为中国用户提供优质的翻墙服务，是值得推荐的稳定且速度快的VPN，在我们推荐的VPN排行榜中名列前茅。
+-   其自行研发的LightWay协议相比传统VPN好用，也有更高的伪装性。
+-   在全球部94国家/地区署有VPN服务器，其中包括香港、台湾、美国、新加坡等地。
+-   拆分隧道(Split Tunneling)可以允许根据不同网站和应用程序选择性上网，这样极大地方便了同时访问国外和中国网站。
+-   ExpressVPN支持相当多的设备，其中包括安卓、苹果手机设备，Mac和Windows电脑PC等，甚至是Linux或者安卓电视也可以适配。
 
-现在适合中国的VPN加起来恐怕连10款都不到。但读者也别气馁，好消息是，尽管每天都有众多翻墙软件失效，每天也有很多翻墙工具上线。而且重视中国市场的服务商们，一直孜孜不倦地改进着算法，每天增加着更多的服务器，每隔几周都换掉镜像域名，为的就是让你能访问到真正的国际互联网。
+PureVPN – 便宜性价比高的VPN
 
-**不再评测免费VPN**：写这篇中国VPN推荐，是为帮你找到中国能用好用的翻墙软件。我会尽可能地测试并推荐可靠的[翻墙VPN](https://kanvpn.com/best-vpn-china/)排行，他们基本上都是付费VPN，原则上我已经不再评测免费翻墙工具，因为它们不可用的概率太大，对我来说是浪费时间。
+![](https://qiangup.com/wp-content/uploads/2023/03/purevpn-small-logo.png)
 
-**请读者理解**：在个人时间允许的前提下，我会保持更新。翻墙软件能否正常使用，除了取决于厂商、产品等因素外，还有无法预测的变量，比如上网时段、网络接入商当时的审查口径、用户自己的上网环境和设备等，所以请读者关注本文头部的“最后修改于“时间，我会一直尽可能地给大家最新最准确的讯息。
+-   PureVPN对中国大陆用户相当重视，也非常熟悉中国VPN功能需求，为此开发了好用的隐形VPN协议用于在中国翻墙。
+-   公司位于国外，因此远离监管使用比较安全，并且由于比较小众也不容易被防火长城针对性封杀。
+-   它的应用程序简单好用价格也很便宜，尤其在PC电脑电脑上连接速度快。
+-   官方推荐的VPN节点有台湾、香港等低延迟节点，可以用来玩一些国外游戏。
 
-以防万一
+Surfshark – 为翻墙而生的VPN
 
-没有人能保证某个翻墙工具能在任何时间任何地点100%可用，虽然我推荐之前都至少买过一个月亲自使用和评测，但我不可能帮读者测试所有情况，所以如果你根据我的推荐购买了某款翻墙软件却发现无法使用，你可以这样做： **用我在每个翻墙软件推荐后面提供的联系方式联系厂商退款** 或者 **在页面下方添加评论，我一般会在24小时内回复**。
+![](https://qiangup.com/wp-content/uploads/2023/03/surfshark-small-logo-new.png)
 
-长话短说：这是我的中国VPN推荐，也是我个人用过并确认过的最可靠的几款翻墙软件：
+-   Surfshark官网、VPN客户端以及客服全中文支持，它是为翻墙而生的VPN，是在VPN推荐中无法忽视的一员。
+-   使用代理以及NoBorders翻墙模式，使得启动连接的速度更快。
+-   并且它同时有具有VPN的隐私安全性，在连接成功之后的稳定性也更高，这是它成为中国最受欢迎VPN的原因之一。
+-   其客户端VPN软件简单易用，服务器节点大多在中国大陆附近，供游戏使用的香港、日本低延迟VPN节点也很好用，还有解锁国外流媒体的英国、美国等众多IP节点。
 
-- 1.[ExpressVPN](https://kanvpn.com/go/expressvpn)：世界VPN排行第一品牌，服务中国用户10余年 （可惜须翻墙才能买到）
-- 2.[PrivateVPN](https://kanvpn.com/go/privatevpn)：后起之秀，使用类SSR技术，连接速度快
-- 3.[PureVPN](https://kanvpn.com/go/purevpn)：完成技术更新，可以稳定使用了
+___
 
-**没有完美的翻墙软件**。所以我自己常年备着五六个工具，这3个是我最想推荐给你的，**我建议你至少常备2个或以上**。我平时70%的时间用ExpressVPN，25%的时间用PureVPN，剩下5%的时间用别的。ExpressVPN已经运营了10来年 ，设备支持最全，国内外口碑都极好， 仍是我个人最信任的翻墙软件，它在国内有大量活跃用户，在中国生活的几十万老外，用得最多的是ExpressVPN，有这个人群的背书，你应该可以更加放心，因为他们比中国用户有更迫切的翻墙上网需求，否则可能连Facebook都更不了。
+## 好用的VPN排行标准
 
-[PrivateVPN](https://kanvpn.com/go/privatevpn)的运营时间虽然不长，但非常好用，连接速度快，提供香港/美国/台湾/日韩等多国节点，甚至还有有中国大陆节点可以翻墙回国，虽然设备支持远没有ExpressVPN全，隐私保护政策也显模糊，但日常使用是个很好的工具。如果你用PrivateVPN，请连备用节点，因为用户数增长太快，原节点很多经常爆满，备用节点更新得很快也很多，可以放心使用。
+一款好用的VPN需要具备综合能力，有时候我们需要看YouTube、[Netflix](https://qiangup.com/netflix-vpn/)等流媒体视频，那么下载带宽就得够大。而如果我们需要访问Google、Facebook、Twitter这类网页，那么最好延迟足够低，加载页面才会更快。
 
-<table><tbody><tr><td></td><td>1. <a href="https://kanvpn.com/go/expressvpn">ExpressVPN</a></td><td>2. <a href="https://kanvpn.com/go/privatevpn">PrivateVPN</a></td><td>3. <a href="https://kanvpn.com/go/purevpn">PureVPN</a></td></tr><tr><td>综合评分</td><td>4.9</td><td>4.8</td><td>4.8</td></tr><tr><td>价格</td><td>高</td><td>低</td><td>高</td></tr><tr><td>运营时间</td><td>长</td><td>短</td><td>长</td></tr><tr><td>近中国节点选择</td><td>多</td><td>多</td><td>多</td></tr><tr><td>连通率</td><td>高</td><td>高</td><td>高</td></tr><tr><td>建立连接速度</td><td>较慢</td><td>快</td><td>较快</td></tr><tr><td>连接稳定性（相对）</td><td>稳定</td><td>一般</td><td>稳定</td></tr><tr><td>传输速度</td><td>很快</td><td>快</td><td>快</td></tr><tr><td>隐私安全</td><td>高</td><td>中</td><td>高</td></tr><tr><td>设备支持</td><td>全</td><td>不支持路由器</td><td>较全</td></tr><tr><td>支付宝</td><td>支持</td><td>支持</td><td>支持</td></tr><tr><td>镜像站点</td><td>提供</td><td>提供</td><td>提供</td></tr><tr><td>客户端快速下载</td><td>可以</td><td>可以</td><td>可以</td></tr><tr><td>优惠</td><td><a href="https://kanvpn.com/go/expressvpn">年付送3个月</a></td><td><a href="https://kanvpn.com/go/privatevpn">买一年送一年</a></td><td><a href="https://kanvpn.com/go/purevpn">年付-40%</a></td></tr></tbody></table>
+VPN要**在中国能稳定使用**，更需要的是伪装流量。也就是让防火长城GFW无法识别你正在使用VPN，误以为你在正常访问防火长城黑名单以外的网站。
 
-你可能在别的网站看到对**TunnelBear，CyberGhost，ProtonVPN**的VPN推荐，不要浪费时间，我都亲自试用过， **这些翻墙软件不适合在中国使用**。要么是根本连不上，要么是要繁琐的手动配置才能连得上，或者是一开始能连但一段时间后完全不能用。这里最让人气愤的是NordVPN，很多人都在推荐它，但我自己从来没成功连上过，所以我怀疑很多人推荐NordVPN只是因为高额佣金。我会在下文陆续列出更多不能用的中国VPN，有兴趣的读者可以持续关注，我也不建议读者花大把时间亲自试错，我写这篇文章作[VPN推荐](https://overwallvpn.com/best-vpn-china/)的目的是为你节省时间。
+这就需要商家对中国市场足够重视，然后针对VPN协议进行优化，才能应对防火长城的深包检测(DPI)，但愿意干这件事情的商家并不多，因此最好选择**本文推荐的中国VPN**专用软件避免踩雷。
 
-经常会有读者评论说现在谁还用VPN翻墙？这个技术早就不行了。其实**现在很多VPN软件只是名字还叫“VPN“而已，实际上早就是内置多协议**了，凡是现在还能用的中国VPN，都不可能只依赖传统VPN协议一种，而是多协议自动切换，这是为什么VPN软件仍然有用的原因。
+以下是我在VPN测评和考虑VPN排行时的标准：
 
+### **具备翻墙能力，重视中国VPN翻墙用户**
 
-- [2024年【翻墙软件VPN排行榜】中国最好用的VPN推荐](#%E5%B9%B4%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6vpn%E6%8E%92%E8%A1%8C%E6%A6%9C%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84vpn%E6%8E%A8%E8%8D%90)
-    - [翻墙VPN软件现状](#%E7%BF%BB%E5%A2%99vpn%E8%BD%AF%E4%BB%B6%E7%8E%B0%E7%8A%B6)
-    - [好用的VPN推荐与中国VPN排行](#%E5%A5%BD%E7%94%A8%E7%9A%84vpn%E6%8E%A8%E8%8D%90%E4%B8%8E%E4%B8%AD%E5%9B%BDvpn%E6%8E%92%E8%A1%8C)
-        - [为什么ExpressVPN是最好用的中国VPN翻墙软件？](#%E4%B8%BA%E4%BB%80%E4%B9%88expressvpn%E6%98%AF%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BDvpn%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
-        - [VPN推荐（一）：ExpressVPN](#vpn%E6%8E%A8%E8%8D%90%E4%B8%80expressvpn)
-        - [VPN推荐（二）：PrivateVPN](#vpn%E6%8E%A8%E8%8D%90%E4%BA%8Cprivatevpn)
-        - [VPN推荐（三）：PureVPN](#vpn%E6%8E%A8%E8%8D%90%E4%B8%89purevpn)
-    - [VPN及翻墙软件筛选标准](#vpn%E5%8F%8A%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6%E7%AD%9B%E9%80%89%E6%A0%87%E5%87%86)
-        - [在中国能用](#%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%83%BD%E7%94%A8)
-        - [购买与下载方便](#%E8%B4%AD%E4%B9%B0%E4%B8%8E%E4%B8%8B%E8%BD%BD%E6%96%B9%E4%BE%BF)
-        - [速度快](#%E9%80%9F%E5%BA%A6%E5%BF%AB)
-        - [安全可靠](#%E5%AE%89%E5%85%A8%E5%8F%AF%E9%9D%A0)
-    - [不能用，不敢用的VPN翻墙工具](#%E4%B8%8D%E8%83%BD%E7%94%A8%E4%B8%8D%E6%95%A2%E7%94%A8%E7%9A%84vpn%E7%BF%BB%E5%A2%99%E5%B7%A5%E5%85%B7)
-        - [NordVPN](#nordvpn)
-        - [GreenVPN已关闭，天行VPN呢？](#greenvpn%E5%B7%B2%E5%85%B3%E9%97%AD%E5%A4%A9%E8%A1%8Cvpn%E5%91%A2)
-    - [非VPN翻墙软件](#%E9%9D%9Evpn%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
-        - [蓝灯](#%E8%93%9D%E7%81%AF)
-    - [关于游戏VPN](#%E5%85%B3%E4%BA%8E%E6%B8%B8%E6%88%8Fvpn)
-        - [玩游戏为什么要vpn](#%E7%8E%A9%E6%B8%B8%E6%88%8F%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81vpn)
-        - [游戏vpn的特别要求](#%E6%B8%B8%E6%88%8Fvpn%E7%9A%84%E7%89%B9%E5%88%AB%E8%A6%81%E6%B1%82)
-        - [游戏vpn推荐](#%E6%B8%B8%E6%88%8Fvpn%E6%8E%A8%E8%8D%90)
-    - [中国VPN问答](#%E4%B8%AD%E5%9B%BDvpn%E9%97%AE%E7%AD%94)
-        - [为什么要小心免费VPN？](#%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%B0%8F%E5%BF%83%E5%85%8D%E8%B4%B9vpn)
-        - [什么是DNS Leak保护？](#%E4%BB%80%E4%B9%88%E6%98%AFdns-leak%E4%BF%9D%E6%8A%A4)
-        - [如果不是为了翻墙，VPN还有用吗？](#%E5%A6%82%E6%9E%9C%E4%B8%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E7%BF%BB%E5%A2%99vpn%E8%BF%98%E6%9C%89%E7%94%A8%E5%90%97)
-        - [为什么你自己架设的OpenVPN服务器无法翻墙，或者很快被墙](#%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E8%87%AA%E5%B7%B1%E6%9E%B6%E8%AE%BE%E7%9A%84openvpn%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%97%A0%E6%B3%95%E7%BF%BB%E5%A2%99%E6%88%96%E8%80%85%E5%BE%88%E5%BF%AB%E8%A2%AB%E5%A2%99)
-        - [如果我想要翻墙回国内，有好的VPN产品吗？](#%E5%A6%82%E6%9E%9C%E6%88%91%E6%83%B3%E8%A6%81%E7%BF%BB%E5%A2%99%E5%9B%9E%E5%9B%BD%E5%86%85%E6%9C%89%E5%A5%BD%E7%9A%84vpn%E4%BA%A7%E5%93%81%E5%90%97)
-        - [为什么一线VPN没有被墙](#%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E7%BA%BFvpn%E6%B2%A1%E6%9C%89%E8%A2%AB%E5%A2%99)
-        - [同设备同时使用多个翻墙软件的问题](#%E5%90%8C%E8%AE%BE%E5%A4%87%E5%90%8C%E6%97%B6%E4%BD%BF%E7%94%A8%E5%A4%9A%E4%B8%AA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6%E7%9A%84%E9%97%AE%E9%A2%98)
-        - [如何在打开VPN时正常访问国内网站](#%E5%A6%82%E4%BD%95%E5%9C%A8%E6%89%93%E5%BC%80vpn%E6%97%B6%E6%AD%A3%E5%B8%B8%E8%AE%BF%E9%97%AE%E5%9B%BD%E5%86%85%E7%BD%91%E7%AB%99)
-    - [购买付费VPN有哪些误区？](#%E8%B4%AD%E4%B9%B0%E4%BB%98%E8%B4%B9vpn%E6%9C%89%E5%93%AA%E4%BA%9B%E8%AF%AF%E5%8C%BA)
-        - [别购买国内的付费vpn服务，哪怕它们的服务器都在国外](#%E5%88%AB%E8%B4%AD%E4%B9%B0%E5%9B%BD%E5%86%85%E7%9A%84%E4%BB%98%E8%B4%B9vpn%E6%9C%8D%E5%8A%A1%E5%93%AA%E6%80%95%E5%AE%83%E4%BB%AC%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%83%BD%E5%9C%A8%E5%9B%BD%E5%A4%96)
-        - [别购买太便宜的付费vpn](#%E5%88%AB%E8%B4%AD%E4%B9%B0%E5%A4%AA%E4%BE%BF%E5%AE%9C%E7%9A%84%E4%BB%98%E8%B4%B9vpn)
-        - [尽量别购买国内买不到的付费vpn](#%E5%B0%BD%E9%87%8F%E5%88%AB%E8%B4%AD%E4%B9%B0%E5%9B%BD%E5%86%85%E4%B9%B0%E4%B8%8D%E5%88%B0%E7%9A%84%E4%BB%98%E8%B4%B9vpn)
-        - [如果有选择，别购买VPS自己搭建VPN服务，别低估墙的威力](#%E5%A6%82%E6%9E%9C%E6%9C%89%E9%80%89%E6%8B%A9%E5%88%AB%E8%B4%AD%E4%B9%B0vps%E8%87%AA%E5%B7%B1%E6%90%AD%E5%BB%BAvpn%E6%9C%8D%E5%8A%A1%E5%88%AB%E4%BD%8E%E4%BC%B0%E5%A2%99%E7%9A%84%E5%A8%81%E5%8A%9B)
-        - [谨慎选择非知名但支持P2P的付费VPN，因为这样的服务长期保证不了质量](#%E8%B0%A8%E6%85%8E%E9%80%89%E6%8B%A9%E9%9D%9E%E7%9F%A5%E5%90%8D%E4%BD%86%E6%94%AF%E6%8C%81p2p%E7%9A%84%E4%BB%98%E8%B4%B9vpn%E5%9B%A0%E4%B8%BA%E8%BF%99%E6%A0%B7%E7%9A%84%E6%9C%8D%E5%8A%A1%E9%95%BF%E6%9C%9F%E4%BF%9D%E8%AF%81%E4%B8%8D%E4%BA%86%E8%B4%A8%E9%87%8F)
+普通的PPTP协议早就过时了，流量特征太过明显，还存在泄露数据的风险，在中国根本连不上。只有经过优化的VPN协议，才能在中国使用。时常保持升级才能应对防火长城，是VPN排行重点考虑的因素。
 
-## 好用的VPN推荐与中国VPN排行
+虽然市面上有层出不穷的VPN软件，单大部分都不好用并且很容易被封，使用也及其不稳定。想要长期绕过防火长城的检测，除了加密安全性之外，还有能够混淆流量伪装用户的数据。
 
-这是最好用的中国VPN排行第一，笔者每次回国必备，用了5年，虽然特殊时期也碰到问题，但一年中97%的时间里使用都很流畅。**ExpressVPN已经为中国网民服务了11年**。 这是目前唯一一个任何人想都不用想就可以买的VPN，连通率应该是最高的，速度相比其他VPN软件也不慢，镜像网站更新最及时，隐私保护技术最好，还有最重要的，客户端最好用，设备支持它最全。
+另外于GFW斗争是猫鼠游戏，VPN服务商必须重视中国VPN用户的需求，愿意投入资金研发新的翻墙技术，在面临VPN节点被封、VPN软件连接不上的时候，要积极更新VPN服务器以及修改客户端软件。能够对中国VPN市场如此重视的商家几乎寥寥无几，这也是我们在测试了市面上几十款知名VPN之后得到的中国VPN推荐排行榜。
 
-在我用的几年时间里，每年不能用的时间大致在2-3个星期（即所谓“**敏感时期**”），会有几天时间出现完全连不上，其余时间会频繁短线或者网速变得非常慢。**ExpressVPN全年可用率在97%左右**。
+### **速度快延迟低，不限带宽和流量**
 
-生活在中国天津的老外转播一些中国ExpressVPN用户的Ins回复
+对于日常娱乐追剧来说，用的最多的还是使用中国VPN访问YouTube、Netflix、Disney+观看国外高清原创的电影、电视剧或者直接下载种子文件。这就要求付费VPN具备较高的带宽支持，并且没有流量限制，至少支持1080P甚至4K画质的视频播放。
 
-#### 为什么ExpressVPN是最好用的中国VPN翻墙软件？
+对于学习来说，快速访问Google、Wikipedia查资料写论文都是必不可少的，毕竟Deadline不等人。对于工作来说，不管是维护开发客户用到的Facebook、Twitter、Instagram、Gmail社交平台，还是程序员编程最爱的Github，都需要好用的VPN从中国快速翻墙上网。这其中游戏玩家对于VPN速度的要求最高，因为Ping延迟的高低直接决定了游戏体验，因此VPN加速器必须提供中国大陆周边的近距离低延迟VPN节点。
 
-因为他重视中国市场。
+总的来说，这包含几层意思，也就是上传/下载带宽要大，单位时间内VPN传输的数据更多，这样看视频才不会卡，缓冲和中断的情况才会减少。而延迟低就是真正意义上的连接速度快，加载网页、玩游戏就会更流量，等待时间更少。
 
-世界上的VPN软件成千上万，愿意为中国用户提供镜像站的一只手数得过来，[ExpressVPN的镜像站](https://kanvpn.com/go/expressvpn)（**很遗憾，已失效，中国大陆不再能直接访问购买**），对中国用户始终保持着可访问。
+### **简单易用体验友好，多平台支持的VPN软件**
 
-客户端[好用的VPN](https://vpnfast.gitbook.io/bestchinavpn)不少，但提供无需Google Play Store和苹果美国商店即可安装客户端的VPN厂商，恐怕ExpressVPN是仅有的几家之一。
+购买VPN本来就是图方便省心，直接安装下载VPN一键连接对新手最友好。如果还需用户自己按照文档设置VPN，那这种VPN是不推荐的。
 
-推荐香港、日本、新加坡、美国节点，提供国内能打开的镜像站，~不翻墙即可购买~，真正全终端覆盖，电脑（Windows，MacOS，Linux），手机（安卓，iOS：iPhone，iPad），路由器，游戏主机（PS2，XBox）等，安卓手机无需Google Play也可安装，iOS设备无需访问苹果商店也可安装，同时5台设备，单独配置哪些应用走VPN哪些不走（Split Tunneling） ，**买一年送3个月，30天无理由退款**，[买一年送3个月](https://kanvpn.com/go/expressvpn)，支持支付宝付款，支持P2P下载，不限流量。
+毕竟不是每个中国VPN用户都是程序员，我在网上看到一些国外VPN在中国大陆使用的前提条件是，需要下载各种乱七八糟的软件来进行复杂的配置，这将浪费很多时间在VPN软件上，却耽搁了工作和学习的时间。
 
-ExpressVPN已通过普华永道隐私保护机制审计 —— 意思是说不像很多口是心非的不良厂商，ExpressVPN的无日志政策是实打实的无日志。
+即便是对于经验老道的程序员，我也是不推荐这种VPN软件的，因为研究如何搭建翻墙梯子并不会提高多少编程技术，反倒是费时费力费钱，并且还有可能涉及到违法搭建翻墙软件的法律。商用的付费VPN提供的平台支持更加丰富，翻墙APP本身也经过严格测试的考量，平时使用也更方便，一般不会遇到大的Bug。不管是你需要的是安卓VPN、苹果VPN还是Mac或者Windows电脑VPN，都能在官网上下载到最新的VPN软件和安装包，只需登陆账号一个按钮就能轻松翻墙。
 
-无硬盘服务器。ExpressVPN是目前唯一提供无硬盘服务器的VPN厂商，技术上，这种服务器无法保留任何上网痕迹，重启或断掉所有信息都会被抹得一干二净。
+### **全球服务器节点，解锁国外网站**
 
-智能连接。首先是自动检测最快的服务器，你不需要自己一个个去试，绝大多数情况下软件检测到的（Smart Location）就是当时最佳节点。其次，断线自动重连，虽然只是个小功能但真的很有用，而且每次重连时它会自动切断网络（Kill Switch），防止某些应用程序流量无意间泄露。
+许多国外流媒体都有版权限制，比如Netflix就没有开放中国地区的访问权限，因此无法从中国大陆直接访问。同样，英国地区的Netflix用户同样也无法观看美国的Netflix电影/电视剧。
 
-同时访问内外网，开VPN最让人烦恼的问题是打开国内网站会变慢，有些甚至会打不开。拆分隧道技术（Split Tunneling）让你配置哪些应用程序走VPN加密通道，哪些不走。
+这是因为视频流媒体平台被版权商要求根据不同国家/地区提供不同的视频内容，类似迪士尼+、BBC iPlayer、Hulu、HBO Max、Amazon Prime Video也有地理位置限制。
 
-DNS泄露保护。ExpressVPN在每台服务器上运行自己的私有加密DNS服务器，一旦连上，所有上网的DNS请求都会通过这些私有的域名服务器，不走任何公网服务器，你的上网隐私得到进一步保护。
+幸运的是，当你连接到推荐的全球VPN服务器时，流媒体平台就无法确定你的真实地理位置，他们获取到的是你连接到的VPN服务器位置而不是中国内地，比如韩国、日本、美国、英国、法国、德国或者亚洲、欧洲、美洲等任意一海外VPN节点。
 
-了解更多关于ExpressVPN的信息，这是我早先写过的一篇单独ExpressVPN评测。
+拥有足够多的节点，在国庆等防火长城加强的特殊时期也更有保障。美国VPN服务器节点是基本配置，也是最稳定的节点。而香港、台湾、新加坡等节点可以提供更低的延迟。一旦遇到专用的中国VPN服务器节点被墙，也可以快速切换到备用的其他好用的VPN线路，这种优势在晚上高峰期使用翻墙VPN也同样适用。
 
-### VPN推荐（一）：[ExpressVPN](https://kanvpn.com/go/expressvpn)
+### **安全性高，保护数据安全**
 
-![expressvpn](https://kanvpn.com/wp-content/uploads/2022/03/expressvpn-homepage-zh.jpg)
+虽然对于翻墙来说最重要的是伪装性，也就是混淆和伪装流量的功能。但并不是说安全性就完全不重要，高级加密功能可以有效防止数据泄露，防火长城和运营商就无法获取到你的真实IP地址，也就不会因为泄露IP地址而被查水表，也就是常说的匿名上网。中国VPN应该具备终止开关、IP/DNS泄漏保护、拆分隧道这些基本的安全功能，对于优秀的VPN软件来说军事级别的加密、恶意软件和广告拦截器也应该附加到其中。最重要的是翻墙VPN应该遵循零日志策略，不会在后台收集用户上网数据然后出售给第三方公司。
 
-**ExpresssVPN价格较贵。**未必是市场上价格最高的VPN，但至少是之一，目前我看过的所有VPN排行里，貌似只有Astrill的价格比它高。目前提供三种套餐，单月12.95美金每月，买6个月为9.99美金每月，总计约60美金，买一年为8.32美金每月，总计约99美金，折合人民币700块每年，对不少读者确实有点贵，**现在有[买一年送3个月活动](https://kanvpn.com/go/expressvpn)，折合起来每个月6刀多一点。**
+### **性价比高，便宜又好用**
 
-#### 如何获取ExpressVPN？
+一分钱一分货，并不是VPN价格越便宜越好。当然，如果价格太高也不划算。一般来说一个月几十块钱都算是比较合理的。毕竟VPN好用才是王道，翻墙速度要快、连接稳定、VPN软件使用方便、安全性高以及信用良好等也是重要的参考标准。太便宜的VPN一般服务都不好，出现连接问题也不大可能即时修复，并且有跑路的风险。
 
-获得ExpressVPN非常简单，买就行了。绝大多数国外VPN服务官网是被墙掉的，服务商懒得为中国VPN用户提供镜像站，服务再牛逼也没用，国内打不开。
+### **退款保证，避免踩坑**
 
-只有极少数国外VPN提供商能为中国VPN用户维护长期可访问的镜像网站，ExpressVPN是其中之一。它的官网是www.expressvpn.com，在中国大陆已经被墙多年，如果你在国内，不先翻墙是打不开的。但是，你很可能可以打开它的镜像网站，不断有镜像站被墙，也不断有镜像站加入，这已经持续了很多年，一线的VPN厂商就是通过不断更新的镜像站域名为广大中国VPN用户提供者服务。
+知名品牌的VPN一般都提供退款保证，这是为了打消用户购买VPN的顾虑。毕竟对于首次使用VPN的用户来说，无法确保VPN的使用情况，鉴于中国大陆翻墙VPN经常被封，选择具有退款保证的VPN软件非常重要也是我们的VPN推荐标准。这是避免踩坑的关键，万一这款VPN不能在中国使用，那么也可以利用其退款保证避免损失。
 
-所以要获得ExpressVPN其实非常简单：
+## 中国VPN推荐
 
-**第一步：打开ExpressVPN**官网
+根据这些VPN推荐标准，我们评选出了中国最好用的VPN排行。它们都有自己特有的翻墙功能，同时也提供了手机和[电脑VPN](https://qiangup.com/pc-vpn/)。
 
-注意：镜像网站打开速度有时不快，耐心等待一下，如果页面加载不正常，如排版乱掉，可以试试刷新下页面。如果镜像站链接打不开，请给我留言，这种情况一般是镜像网站被墙，官网一般在当天会放出新的镜像站，我会在这里更新。
+除此之外，还能用于解锁流媒体、种子下载、隐藏真实IP地址等。如果你身在海外想访问中国大陆网站获得中国VPN服务器，请跳转到有关[翻墙回国](https://qiangup.com/into-china/)的内容。
 
-**第二步：购买ExpressVPN，获得帐号**
+以下是关于每款VPN的稳定性、客户端软件、服务器节点、性价比和安全性的详细测评，以及如何下载、安装、购买注册和使用的教程。
 
-购买ExpressVPN， 支持支付宝和银联付款
+### 1.[ExpressVPN](https://qiangup.com/go/expressvpn) —— 速度最快的VPN中国首选
 
-首购买一年送3个月，是厂商常年推的活动，**无论你买什么套餐，30天内都可以无条件退款**。如果实在不放心，可以先买一个月（$12.95）用用看，好用后再买一年，不过这时候应该就没有送3个月了 !🙁
+ExpressVPN在中国VPN用户群体中占有相当大的比重，包括我在内，平时大部分时间也是使用它。稳定性是它最大的优势，经历过与防火长城十多年的攻防斗争依然坚挺好用，这要得益于它的Lightway协议。目前位置ExpressVPN已经运营了长达十多年，是业内口碑良好的老牌VPN软件，长达霸占各大VPN推荐排行榜首。
 
-**第三步：登录帐号，下载安装客户端**
+![expressvpn官网](https://qiangup.com/wp-content/uploads/2021/12/expressvpn-homepage.jpg)
 
-下载安装ExpressVPN客户端
+<table><tbody><tr><td>🏛️公司总部</td><td>英属维尔京群岛</td></tr><tr><td>⌛成立时间</td><td>2007年</td></tr><tr><td>🚀翻墙功能</td><td>Lightway专业翻墙协议，为中国国内用户打造</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f30e.svg" alt="🌎">节点数量</td><td>3000多台VPN服务器，覆盖全球94+国家/地区</td></tr><tr><td>📺解锁流媒体</td><td>解锁Netflix、HBO、Hulu、BBC iPlayer、Amazon Prime Video、Disney+</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4f1.svg" alt="📱">兼容设备</td><td>MacOS/Windows电脑、iOS(iPhone手机、iPad平板)、Android手机/平板、浏览器、智能电视、路由器等</td></tr><tr><td>💻设备数量</td><td>5台设备同时连接</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4b0.svg" alt="💰">退款政策</td><td>30天退款保证</td></tr><tr><td>🌐官方网站</td><td><a href="https://qiangup.com/go/expressvpn" target="_blank" rel="noreferrer noopener nofollow">ExpressVPN.com</a></td></tr></tbody></table>
 
-ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google Chrome，Chromebook，Mozilla Firefox，Router，Linux，Fire TV & Kindle Fire，Apple TV，XBox，PlayStagion，MediaStreamer 以及手动配置 —— 这是市场上设备支持最全面的VPN，官方给每种设备都提供了清晰的安装指导。
+相比于传统VPN协议(比如OpenVPN、IKEv2/IPSec、IPSec等)，ExpressVPN为中国大陆市场研发Lightway协议速度更快也更加问题。究其原因是传统VPN不会伪装和混淆流量，很容易被防火长城GFW识别和封杀，这也是为什么成千上网的VPN软件都无法突破中国网络封锁的原因。而ExpressVPN的Lightway协议解决了这个痛点，在绕过防火长城检测的时候更加高效，这样ExpressVPN成为众人争相推荐的VPN。
 
-**你不需要到App Store或Play Store下载苹果或安卓手机客户端，官方提供了直接执行的安装包和配置文件。**
+他们在94个国家/地区的160城市运营着3000多台服务器，覆盖了亚洲、欧洲、美洲、非洲和中东。其中香港VPN节点是我的最爱，其他低延迟VPN节点还包括美国、日本、台湾、韩国、新加坡，Smart Location还会为你智能推荐VPN节点。因为大多数情况下，VPN软件的速度是和服务器距离成正比的，连接中国大陆附近的IP节点对于游戏加速、追剧看电影和下载种子都是最好用的VPN服务器。
 
-看： iPhone手机翻墙软件与教程
+ExpressVPN完美通过了我们的测试，速度方面是VPN排行中的顶尖水平，ExpressVPN不会限制你的带宽，我测试的VPN下载速度几乎能跑满本地带宽。所以用来解锁国外流媒网站(这些网站有地理位置限制，不允许中国IP地址访问)是绝佳选择，观看Netflix、Disney+、BBC iPlayer、YouTube很少遇到中断或者缓冲，快速加速被墙的国外网站Google、Wikipedia、YouTube、Facebook、Twitter、Instagram、Gmail、Telegram。
 
-**第四步：开始使用**
+ExpressVPN支持几十种主流和冷门的设备类型，所有APP软件都简单易用的一键翻墙出国功能，只需注册账号、下载安装登陆之后就能根据推荐的VPN服务器连接。除了常见的电脑(Windows、[Mac](https://qiangup.com/mac-vpn/)、Linux)以及手机(安卓Android、[苹果iOS VPN](https://qiangup.com/iphone-vpn/))端，ExpressVPN还提供了Chrome、Safari、Edge和Firefox浏览器插件，这样可以更方便网页VPN操作，而不用切换到专用的VPN客户端。
 
-用ExpressVPN翻墙
+电视端支持Apple TV、Samsung Smart TV、Amazon Fire TV以及安卓电视VPN。当然，更不能少了对游戏终端的支持，其中包括PS(PlayStation)、Xbox、NS(Nintendo Switch)等游戏设备。
 
-香港、日本、美西是我最常连的服务器，英国、新加坡和澳大利亚的节点有时候速度也不错。
+#### ExpressVPN价格
 
-万一ExpressVPN不能用如何退款？
+![expressvpn价格](https://qiangup.com/wp-content/uploads/2022/01/expressvpn-price.jpg)
 
-ExpressVPN提供自购买日起30天内无理由退款，如果你发现它在你的设备和网络环境下用不了，你可以有两种方式联系它们退款。
+唯一的缺点是ExpressVPN价格相对较贵，但绝对不是最贵的，在考虑到它的使用体验，和在中国稳定的翻墙表现，可以说ExpressVPN在所有付费VPN中是非常物有所值的。目前ExpressVPN提供的订阅套餐一共有3种：1个月套餐：12.95美元/月、6个月套餐：9.99美元/月、12个月套餐：6.67美元/月(原价8.65美元/月，下方领取买一年送三个月优惠)
 
-1.  打开镜像站，等页面装载完毕后，你会看到右下方的“在线客服”入口，点进去就能联系到客服，他们7天24小时都有人。
-2.  写邮件给 support@expressvpn.com，他们一般会在一个工作日内回复。
+使用本文提供的ExpressVPN优惠链接访问ExpressVPN官网，可以将价格降至$6.67/每月。如果遇到问题可以通过工单、Email邮件以及官网在线聊天联系他们的24/7技术支持，ExpressVPN支持30天退款保证，即便没有免费试用也不会造成损失。
 
-客服不支持中文，但你可以用下面简单的英文措辞：
+![](https://qiangup.com/wp-content/uploads/2022/09/expressvpn-small-logo-big.png)
 
-Hello，
+安全认证
 
-I would like to have a refund because your service does not work for me. My account is **bob@123.com（用你自己的注册邮箱替换）**.
+首选VPN推荐
 
-Thanks.
+买一年送3个月优惠
 
-### VPN推荐（二）：[PrivateVPN](https://kanvpn.com/go/privatevpn)
+百万用户的选择
 
-![privatevpn](https://kanvpn.com/wp-content/uploads/2022/03/privatevpn-homepage.jpg)
+十年中国VPN领导者
 
-PrivateVPN 是市面上性价比最高的 VPN 翻墙软件，也是最好用的 VPN 之一，当前有 5000 万活跃用户使用。PrivateVPN 总部位于塞舌尔，**在全球的 80 个国家 170 多个地点，PrivateVPN 拥有 3000 多台服务器**，超多科学上网节点，不受五眼联盟约束，能够虚拟、隐藏全球各国各地区的 IP 地址，无论你想连接哪个国家的线路，基本都能找到合适并且高速的线路。
+#### 综合评价：ExpressVPN怎么样好用吗？
 
-**推荐理由**：
+ExpressVPN是中国VPN市场上的领导者，价格方面稍稍比其他VPN软件要贵一两美金，但是相比它提供的稳定和快速的翻墙体验来说性价比很高。提供大量中国大陆周边的VPN节点，下载速度快且连接延迟Ping值很低。ExpressVPN信用良好也是有目共睹的，如果购买VPN使用之后觉得不满意不好用，完全可以申请全额退款，没有任何后顾之忧。需要注意的是，首次连接ExpressVPN的时候可能连接时间比较长，因为VPN正在初始化VPN隧道连接，以及根据你当前的地理位置推荐速度最快的VPN服务器，只需耐心等待一会儿，后面使用的时候连接就比较快了。
 
-**1、解锁全球各大网站、软件**
+#### ExpressVPN使用指南
 
-PrivateVPN 可以**更改虚拟位置**，让你随时可以连接不同的 IP 地址，突破地理网络限制，访问各国音乐平台、学习网站,交流学习，跨服玩 Steam 游戏、观看各国如 HBO、Netflix 等流媒体，享受网络自由。获取PrivateVPN 解锁任何网站
+事实上没有任何VPN可以保证全年365天无中断的连接，在特殊时期或者防火长城GFW升级之后，许多VPN软件或多或少都会遇到无法连接的问题。如果你在使用过程中遇到ExpressVPN连不上的问题，可以尝试以下方法解决。
 
-**2、超快专线，高速上网**  
-PrivateVPN 的服务器网络**都执行了专利加速技术，更有超快 IPLC 专线**，没有限流，没有缓冲，可以让你可以流畅快速地浏览网站与传输文件、加速游戏体验和视频下载，同时，没有麻烦，尽情体验网络乐趣。
+-   1.如果香港、洛杉矶、日本、韩国、新加坡等中国大陆近距离节点不可用，可以尝试距离稍远的服务器，这在特殊时期很好用。
+-   2.重启设备，清除浏览器和DNS缓存，切换4G/5G/WiFi无线和有线网络，断开VPN直接访问百度，检查本地网络是否有问题。
+-   3.确保电脑VPN或手机VPN是最新的版本，可以卸载VPN软件之后重新下载安装客户端，如果节点被墙，ExpressVPN可能会更新备用节点或者升级协议。
+-   4.在”设置”中切换不同的VPN协议，防火长城针对不同的VPN协议有不同的识别算法，有时候这种方法有奇效。
+-   5.以上方法均无效时，可以联系他们的24/7在线客服，他们会为你提供技术支持和解决方法。
 
-**3、多种安全协议**  
-PrivateVPN 支持十分安全的 **OpenVPN 安全协议、安全的开源 WireGuard 以及自研协议**。多个 VPN 安全协议能够很好地保护你的网络安全性，帮你在线匿名。
+#### ExpressVPN安全吗？
 
-**4、ECC 高级加密技术**  
-PrivateVPN 支持 **ECC 加密技术**，这是一种基于椭圆曲线数学的公开密钥加密算法，采用最高级别、更安全，抗攻击型更强的 256 位加密长度。相比于 RSA 算法加密速度快，效率更高，服务器资源消耗更低。能够让你可以通过安全的隧道连接到网络，以防止未经授权的访问，保护网络安全。
+安全性更是[ExpressVPN](https://qiangup.com/expressvpn-review/)最擅长的方面，私有DNS服务可以避免防火长城和运营商(ISP)监控你访问的网站。一流的AES-256高级加密方式，即便数据被窃取也无法被破解。因为ExpressVPN位于英属维尔京群岛的原因，既不在中国大陆的监管范围内，又远离远离5眼/7眼/14眼监视联盟的控制。
 
-获取严格加密 PrivateVPN
+该国家具有用户隐私安全保护法，严格执行零日志策略，不会记录用户浏览了哪些网站。终止开关、拆分隧道、IP/DNS泄漏保护、广告拦截这些高级功能被内置于ExpressVPN各个平台的客户端软件中，可以加密流量防止数据泄露，帮助中国VPN用户匿名上网避免真实IP地址暴露。
 
-**5、零日志**  
-PrivateVPN 采取零日志政策，不存储你的连接日志和活动日志，如各种浏览记录、下载文件、流量数据、数据内容以及 DNS 查询等。同时在注册 PrivateVPN 账号时，也不会强制记录用户的个人信息，如用户名、电子邮件地址等，如果你填写了相关信息， PrivateVPN 会确保对信息保密，不会出售给其他任何第三方公司和政府。可以说 PrivateVPN 几乎做到了的零日志。  
-**6、支持拆分隧道**
+全球独创的TrustedServer不会将用户数据写入磁盘，而是储存在RAM内存中，也就实现了真正的零日志。另一个好用的VPN功能是拆分隧道(Split Tunneling)，极大地方便了中国VPN用户，避免了同时访问国内/外网站的时候来回断/开APP的麻烦。
 
-PrivateVPN 支持拆分隧道功能（分应用代理），能够监听和检测网络上的海量信息，让你同时访问外网和内网，不仅对内网的数据进行过滤，保护内网，还能隔离内网与外网，且不影响各自访问速度，当你指定部分应用程序可以使用这款安全 VPN 时 ，就不需要内外网络来回切换，增加 IP 泄露风险。
+#### ExpressVPN如何购买下载安装？
 
-**7、24小时在线、多种支付方式贴心服务**  
-PrivateVPN 提供全球技术支持，无论你是在哪个国家，什么时间，你只要遇到相关问题都可以直接与官方技术人员联系，寻求帮助。另外，PrivateVPN 有全球通用订阅支付方式，如 PayPal、UnionPay、NeoSurf、Dollar General、Openbucks、MINT、Klarna、CVS Pharmacy、VISA Credit Cards，不用担心自己无法购买。另外官网和各大设备客户端都支持全中文。
+由于ExpressVPN不再提供中国镜像域名，并且ExpressVPN官网已经被墙了，因此你需要使用翻墙VPN才能购买VPN。当然如果你能进入本站，说明你手中已经拥有一款在中国能用的VPN了，这对你来说应该不是问题。
 
-**8、内置广告拦截器**  
-目前 PrivateVPN 的 Android、iOS 客户端上线了**广告过滤功能**，在设置里开启广告拦截功能后，在智能模式下，连接任意线路，就能实现广告过滤，如芒果TV、爱奇艺等主流视频网站、平台广告，以及网站的弹窗、Banner 广告，你将拥有一个干净、愉快的上网环境。**手机端还有额外的“屏蔽恶意网站”功能**。
+另一个问题是，ExpressVPN由于是国外VPN，因此官网和VPN软件都只有英文，如果你使用的Chrome浏览器自带右键翻译功能，或者也可以直接参考下方ExpressVPN下载安装使用教程按照步骤操作：
 
-**9、价格低廉**  
-作为一款知名品牌且付费的匿名 VPN ，PrivateVPN 性价比超高。它有多种套餐可以选择，并且支持多设备定制，如 Windows、Mac、iOS、Android、Linux 和 Android TV 设备。当前还有薅羊毛活动套餐，“买一年送一年”和“买 6 个月送 6 个月”十分划算！对了，安卓和 iOS 用户还有免费试用期，你不妨可以一试！
+**1.访问ExpressVPN官网**
 
-**缺点**：
+之前说过ExpressVPN已经不再提供中国官网了，因此谷歌搜索结果出来的全是山寨钓鱼网站，为避免财产损失，直接从本文提供了ExpressVPN唯一官网链接进入确保安全，其次还可以获得买一年送三个月的超值优惠折扣，相比原价要便宜很多。进入官网之后，直接点击”Get ExpressVPN”即可进入购买页面。
 
--   仅支持同时连接三台设备
--   不支持路由器 VPN 固件使用
--   不支持支付宝支付
+![expressvpn中文官网](https://qiangup.com/wp-content/uploads/2022/03/expressvpn-homepage-zh.jpg)
 
-### VPN推荐（三）：[PureVPN](https://kanvpn.com/go/purevpn)
+**2.选择订阅套餐时长**
 
-![purevpn](https://kanvpn.com/wp-content/uploads/2023/03/purevpn-homepage.jpg)
+在结算页面操作步骤不多，首先就是选择你所需的订阅套餐时长，国外付费VPN定价都相差不大，一般都是1个月、6个月以及12个月，购买时长越长价格就越便宜越划算。
 
-**中国已恢复**： 一度也只是个被海外党拿来翻回国的翻墙软件，有较长一段时间PureVPN无法在国内往外翻，但最近恢复了，虽然有读者反应有时候速度并不理想，但至少是可以连的。
+![](https://qiangup.com/wp-content/uploads/2022/03/expressvpn-price-zh.jpg)
 
-**同时5个连接**： PureVPN同时支持5台设备连接。
+**3.输入邮箱注册，完成支付**
 
-**客户端**： PureVPN为Windows，Mac，Android，iOS，多种路由器，智能电视（SmartTV），游戏主机等提供使用方便的客户端。
+接下来需要填写你的邮箱，有条件的话尽量填写国外知名邮箱比如Gmail、Outlook、Protonmail等，因为国内网易163、腾讯QQ邮箱有可能收不到邮件，也有可能触发关键字审核。由于后续操作都会用到这个邮箱，因此填写的时候小心一些，不要填错了。
 
-**智能连接**： 支持分应用配置是否走VPN线路，用户能分别以最佳速度访问国内和国外（被墙）网站。
+由于前几年支付宝和微信严查海外VPN业务，因此大部分VPN都无法通过这两种方式付费购买。比较方便的是Visa和银联信用卡以及银联储蓄卡。另外PayPal其实也比较方便，你只需要注册一个PayPal账号然后绑定银行卡就可以支付了。最后还支持隐私安全友好的比特币付款方式，不过通过比特币支付无法退款，这点需要注意。
 
-**7/24小时在线客服**： 你可以随时联系PureVPN的在线客服。
+![ExpressVPN购买](https://qiangup.com/wp-content/uploads/2022/03/expressvpn-pay-method.jpg)
 
-**31天无理由退款**： 购买后31天内随时可联系客服退款，无需说明理由。
+**4.下载VPN软件，安装使用**
 
-**提供中国大陆节点**： PureVPN提供中国大陆节点，方便海外用户连回国内获得中国IP地址，从而绕过版权限制，享受国内服务。
+如果填写信息无误，完成上一步之后就会自动登陆ExpressVPN后台，或者邮件中提供了自动生成的密码，你也可以通过忘记密码功能重设密码。
 
-**需翻墙购买**： 可惜PureVPN还未提供镜像站，在国内必须先翻墙才能购买，**支持支付宝**。
+在”Setup”页面可以找到Windows电脑、Mac电脑、Linux系统的VPN软件应用程序，还为安卓手机提供APK安装包，直接下载安装VPN即可免去了Google Play安装的麻烦。对于iOS系统(iPhone手机和iPad平板电脑)用户来说，可以根据根据官方提供了VPN连接直接配置，也可以通过美区Apple ID下载安装iOS VPN客户端。
 
-**强加密**： 虽然VPN厂商习惯把256位或以上的加密称为“军用级加密”，但在GFW面前，加密不等于加密能力，但更强的加密对安全来说不是坏事。
+如果没有设置密码，可以通过此页面提供的”ACIVATION CODE”激活码登陆ExpressVPN所有平台的翻墙APP软件。
 
-**安全Wifi**： 当你连接任何不安全的Wifi（未使用密码保护，配置安全协议，或者未知第三方），VPN将自动连接，将流量加密，即使恶意的Wifi提供方劫持，也无法看到流量内容。
+![ExpressVPN后台下载APP](https://qiangup.com/wp-content/uploads/2022/03/expressvpn-download-backend.jpg)
 
-**端口转发**： 家庭或工作网络内的设备连上VPN后，往往外网无法再访问这些设备，端口转发允许你克服这一限制。
+**5.登陆客户端，一键翻墙**
 
-**连接时自动断网**： 连接VPN时自动断网，防止流量以外泄露。
+通过激活码或者密码登陆VPN软件之后，点击最大的按钮，就可以一键连接翻墙上网了，非常方便简单好用。第一次安装使用ExpressVPN的时候连接可能比较慢，需要耐心等待一会儿，这是因为ExpressVPN会初始化数据，并且根据你的地理位置推荐速度最快的VPN服务器，一般推荐的中国大陆好用的VPN节点有香港、台湾、美国、新加坡、日本这些近距离的IP节点，当然你也可以在服务器列表中手动选择为中国VPN优化的服务器。
 
-**独立IP**： PureVPN提供独立IP地址，避免了其他VPN共享IP地址而被第三方服务禁止的风险，用户的上网行为不会互相影响。
+![ExpressVPN客户端使用](https://qiangup.com/wp-content/uploads/2022/03/expressvpn-connected-hk.jpg)
 
-**隐私保护**： PureVPN隐藏用户真实IP，第三方服务无法知道确切用户身份。它能防止DNS查询泄露，所有域名解析流量都不经过第三方公网服务器，而只通过加密通道由VPN远程服务器代理。在iOS设备上，用户还能按需要随时为个别服务打开或关闭VPN。
+**账号注册注意事项：**
 
-**支持P2P**： PureVPN全面支持P2P下载，并且保护下载用户的身份，免于版权监管机构侦测，线路默认提供1G带宽，且在加密的帮助下，有效防止本地ISP限速。
+1.不建议在APP内部购买，因为这会经过应用商店(比如Google play、Apple Store)的支付渠道，这就会比原价更贵，特别是苹果的手续费是出了名的贵。而且优惠活动提供的折扣也无法使用，大品牌VPN平时的赠送时长也就无法获得了。最重要的是，后续退款会非常麻烦，还要给应用商店写邮件发申请，因此通过本站提供的链接直接在官网购买是最保险的。
 
-**为流媒体优化**： PureVPN提供为流媒体优化的服务器。
+2.尽力选择知名品牌的VPN，本站推荐的VPN都经过我们严格的测试，并且本人已经使用多年，网络上综合评价也比较好知名度很高可以放心使用。切勿使用国内VPN，由于政策原因，国内VPN具有很大的安全风险，基本运营时间都不长，跑路的情况屡见不鲜。很多都要么被请喝茶，要么就圈钱跑路，比较知名的就是光年VPN和熊猫VPN就是例子。
 
-#### 如何获得PureVPN
+3.如果遇到中国VPN连不上、速度慢或者连接不稳定的问题，可以通过本文后面的VPN软件连不上的解决办法，按照步骤操作基本可以解决大部分问题。最后如果实在无法使用，也可以联系24/7客服依据30天退款保证申请全额退款。
 
-现在购买PureVPN需翻墙，你可以到官网购买。目前提供三种套餐，一个月10.95美金，一年5.81美金每月（大概70美金每年），五年的套餐最便宜，目前低至1.32美金每月（共计约80美金，这是Cyber Monday促销期间的价格，平时可能没这么便宜）。
+4.购买注册国外VPN的过程都是类似的，因此如果你喜欢此VPN排行榜中的其他VPN，也可以按照以上流程操作。
 
-PureVPN支持支付宝付款，网站有全中文支持，读者应该可以顺利操作。购买后会分配VPN登录帐号，这个帐号区别于你在官网后台注册的帐号，该帐号ID和密码都随机分配，不包含能用来追踪用户的信息（如邮箱和惯用的用户ID等），这是为了保护用户隐私。
+___
 
-你可以在官网后台下载到各个设备的客户端，安装后就能使用，下图是从中国顺利连上的截图。
+### 2.[PureVPN](https://qiangup.com/go/purevpn) —— 便宜性价比高的VPN
 
-从中国连上PurePVN，使用了客户端推荐的节点
+PureVPN官网和APP客户端都提供全中文支持，这点对中国用户也比较友好。凭借它曾经在[香港](https://qiangup.com/hk-vpn/)混迹的经历，使得PureVPN对于防火长城有着独到的解决方案。
 
-如果PureVPN不能用如何退款？
+![purevpn官网](https://qiangup.com/wp-content/uploads/2023/03/purevpn-homepage.jpg)
 
-PureVPN支持31天无理由退款，如果你发现购买后无法使用，可以通过以下方式联系他们：
+<table><tbody><tr><td>🏛️公司总部</td><td>英属维京群岛(早期在香港成立)</td></tr><tr><td>⌛成立时间</td><td>2006年</td></tr><tr><td>🚀翻墙功能</td><td>自由上网模式</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f30e.svg" alt="🌎">节点数量</td><td>6500+服务器遍布70+国家/地区</td></tr><tr><td>📺解锁流媒体</td><td>解除Netflix、Disney+、Hulu、Amazon Prime Video、BBC iPlayer等多种流媒体封锁</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4f1.svg" alt="📱">兼容设备</td><td>手机、平板、电脑、浏览器、路由器、智能电视、Chromebook等</td></tr><tr><td>💻设备数量</td><td>10台设备同时连接</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4b0.svg" alt="💰">退款政策</td><td>31天退款保证</td></tr><tr><td>🌐官方网站</td><td><a href="https://qiangup.com/go/purevpn" target="_blank" rel="noreferrer noopener nofollow">PureVPN.com</a></td></tr></tbody></table>
 
-1.  打开官网，等待页面加载完成，点击右下角Live Chat按钮，和在线客服沟通退款
-2.  写邮件给 support@purevpn.com
+同样，PureVPN也支持多达20多种设备，电脑VPN很好用，并且能够为Mac、Linux、Windows翻墙提供服务，[手机VPN](https://qiangup.com/android-vpn/)兼容Android、iOS系统。
 
-你需要提供给对方你的PureVPN网站帐号（非VPN连接帐号）。
+其他常见设备包括安卓电视、[Chrome](https://qiangup.com/chrome-vpn/)和FireFox浏览器扩展，提供的路由器VPN固件兼容华硕、DD-WRT、小米、TP-Link的等。每个账号允许10台不同类型的设备同时连接。
 
-### 4.Ivacy VPN
+解锁流媒体是[PureVPN](https://qiangup.com/purevpn-review/)的强项，虽然整体带宽不大，但得益于延迟较低和Streaming视频流媒体模式，因此可以提供良好的高清视频播放体验。除了能帮助中国用户观看YouTube之外，还能解锁BBC iPlayer、Hulu、HBO、Amazon Prime Video等视频网站，以及解锁UFC、MLB等体育赛事和Peacock TV等体育频道。
 
-Ivacy VPN有着庞大的Kodi用户基础，除了常见iOS/Android/Windows/MacOS，也支持Raspberry Pi。
+全球78多个国家/地区的6500多个快速的VPN服务器可以满足你特殊需求，服务器数量方面名列VPN排行榜首。服务器在北美、欧洲、亚洲、中美洲、南美洲、大洋洲和非洲均有节点。
 
-为安全下载（P2P），流媒体，翻墙等不同场景提供单独优化的节点，流媒体的节点可能是同类产品里优化最好的。
+香港、马来西亚、台湾、新加坡都是比较推荐的中国VPN绝佳节点。PureVPN提供静态/独立IP服务，只需在套餐的基础上增加$0.99，这样就可以不与其他用户共享IP节点，对于绕过Facebook、Twitter的IP地址检测非常好用。
 
-提供香港、日本、美西、南韩等对中国大陆友好的节点。支持同时5台设备连接。支持智能连接（Split Tunneling）。
+![purevpn价格](https://qiangup.com/wp-content/uploads/2023/03/purevpn-price.jpg)
 
-可能是市场上价格最低的翻墙软件之一（七天试用低至0.99美金），两年套餐2.40美金每月。
+就价格而言，PureVPN一直都是一款[便宜的VPN](https://qiangup.com/cheap-vpn/)，除了包月套餐高达$10.95，其他套餐价格都很平价。使用本站独家提供的PureVPN优惠链接，可以获得每月$2.08的超低PureVPN价格。
 
-如果Ivacy VPN不能用如何退款？
+由于支付宝(AliPay)对于VPN业务的审查，目前几乎所有VPN都无法使用支付宝付款。推荐使用Visa信用卡、银联信用卡、银联储蓄卡和PayPal等对中国用户友好的支付方式。
 
-IvacyVPN支持30天无理由退款，如果你发现购买后无法使用，可以通过以下方式联系他们：
+#### PureVPN使用指南
 
-1.  打开官网，等待页面加载完成，点击右下角Live Chat按钮，和在线客服沟通退款
-2.  写邮件给support@ivacy.com
+如果你在使用过程中遇到PureVPN连不上的问题，可以尝试以下方法解决。
 
-你需要提供给对方你的Ivacy VPN网站帐号。
+-   1.在”设置”->”Select Mode”选项中,切换STREAM、INTERNET FREEDOM、DEDICATED IP不同的使用模式。
+-   2.在”设置”-“Advanced Options”选择IKEv2/IPSec、OpenVPN、IPSec等的VPN协议。
+-   3.在服务器列表中，选择台湾、香港、日本等服务器。
+-   4.联系客服让他们帮助你解决问题，他们会为你提供技术支持。
 
-### 5.Astrill
+#### PureVPN安全吗？
 
-Astrill是几年前流行的中国VPN，但后来很快淡出了中国网民的视线，好几年前开始，Astrill官方就基本停止了针对中国大陆翻墙用户的营销。但是，很多人不知道的是，**Astrill一直都是中国能用的VPN排行之一**。但可惜的是，如果你人在国内且没有翻墙，很可能无法买到Astrill，Astrill官网被墙已经很多年了。你在国外外各种网站上极少看到对Astrill的推荐，又因为它目前很可能无法直接从国内购买，使得Astrill对中国网民很不友好。但是如果你此刻人在国外，即将回国，不妨提前在回国前买好Astrill，或者如果你此刻人虽还在国内，但已翻墙，也可以通过上面的链接购买Astrill。它一直能用，只是很低调而已。
+考虑到某个法律法规，PureVPN为了保护用户的隐私安全，已经迁出香港，可以说是用行动证明了其安全性。通过WebRTC浏览器扩展插件，可以防止你的访问记录泄露。
 
-生活在中国的老外的Astrill评测
+通过升级改良的IPSec、L2TP/IPSec等协议，在不牺牲速度的情况下，保证了高级加密的特性。网络终止开关(Kill Switch)在VPN断开连接的时候，能够阻止流量泄露。而且PureVPN的无日志策略已经通过了KPMG的认证。
 
-Astrill VPN的缺点
+___
 
-价格真的太贵，是我目前用过的VPN软件里最贵的。还有就是在中国购买比较难。
+### 3.[Surfshark](https://qiangup.com/go/surfshark) —— 不限设备数量的VPN
 
-不提供无理由退款，如果因网络服务商原因软件无法使用，是无法退款的，所以保险起见，建议先买一个月用用看。
+Surfshark拥有No Borders模式，故名思意就是可以在任何国家使用，在中国VPN表现相当不错。不限设备数量是[Surfshark](https://qiangup.com/surfshark-review/)值得推荐的VPN特色，因此你可以和家人朋友共享Surfshark账号。解锁国外流媒体速度一流，VPN软件和官网都提供支持中文。
 
-### 6.VyprVPN
+![surfshark官网](https://qiangup.com/wp-content/uploads/2021/12/surfshark-homepage.jpg)
 
-#### VyprVPN的优缺点和适用场景
+<table><tbody><tr><td>🏛️公司总部</td><td>英属维尔京群岛</td></tr><tr><td>⌛成立时间</td><td>2018年</td></tr><tr><td>🚀翻墙功能</td><td>自研的Camouflage/NoBorders翻墙功能</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f30e.svg" alt="🌎">节点数量</td><td>3000+服务器遍布60多个国家/地区</td></tr><tr><td>📺解锁流媒体</td><td>解除Netflix、YouTube、Disney Plus、BBC iPlayer、Hulu、HBO Max、Amazon Prime Video等版权和地理封锁</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4f1.svg" alt="📱">兼容设备</td><td>PC端Windows、Mac电脑、Android和iOS系统、Linux、路由器、浏览器、智能电视等</td></tr><tr><td>💻设备数量</td><td>无限设备连接</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4b0.svg" alt="💰">退款政策</td><td>30天退款保证</td></tr><tr><td>🌐官方网站</td><td><a href="https://qiangup.com/go/surfshark" target="_blank" rel="noreferrer noopener nofollow">Surfshark.com</a></td></tr></tbody></table>
 
-VyprVPN个人版和ExpressVPN一样在中国能用，同时支持5台设备，能从国内直接购买，支持支付宝，30天无条件退款，提供香港、日本、美国、韩国、台湾等地节点，具备防止DNS泄露的能力，VyprVPN的零日志也经过独立第三方审计，且使用自己构建的私有服务器，安全有保障。
+Surfshark是一家成立于英属维尔京群岛的VPN新秀，由于研发了针对中国防火长城设计的NoBorders翻墙模式，使得Surfshark成为了中国VPN用户心中为数不多好用的VPN之一，这也是推荐Surfshark作为中国翻墙VPN的原因。该模式可以伪装用户的上网流量，轻松绕过防火长城GFW的封锁，即便是特殊时期也能稳定快速地科学上网。另外，Surfshark还拥有强大的流媒体解锁能力、隐私安全防火以及良好的设备兼容性，便宜的价格极具性价比，无限连接设备数量也相当大方。
 
-即使它的价格并不必ExpressVPN贵，VyprVPN变色龙（Chameleon）协议版价格与ExpressVPN年付送三个月折算下来的价格接近。如果算上25%优惠，VyprVPN确实更便宜。我还是觉得：**VyprVPN总体上没有ExpressVPN性价比高**。
+在65个国家拥有超过3200台服务器，遍布欧洲、南美洲和北美洲、中东与非洲、亚太区，可以提供实际和虚拟位置，近距离中国VPN服务器包括日本、韩国、[台湾](https://qiangup.com/taiwan-vpn/)、新加坡、澳门、香港等。
 
-VyprVPN的缺点
+Surfshark为中用户提供访问Facebook、Twitter、Instagram、YouTube、Reddit的能力，解锁Netflix、[Disney+](https://qiangup.com/disney-vpn/)、BBC iPlayer、Hulu、HBO等国外流媒体速度也是一流。连接Surfshark之后，你可以绕过大多数流媒体的地理位置封锁，并且Surfshark不会限制流量，从中国国内连接VPN看视频玩游戏速度都很快。
 
-VyprVPN最令人遗憾的缺陷，是在iOS上无法支持变色龙协议。而在中国，没有变色龙协议是连不上的，也就是说VyprVPN对中国VPN用户来说，**不支持iOS**。在你购买前，**请务必了解，免得花冤枉钱**。
+客户端VPN支持macOS、Windows、Linux、iOS、Android以及Firefox、Safari和Chrome浏览器插件，不管是手机、平板还是笔记本电脑以及智能都能很好用。
 
-VyprVPN个人版还有个非变色龙版，但可惜这个版本在中国用不了，**千万别买这个，一定要买包含变色龙协议的版本**。
+唯一的缺点是，Surfshark上不提供路由器VPN支持，不过大多数中国用户并用不到这项高级配置。提供的游戏VPN支持PlayStation、Xbox设备，虽不算多，但也满足了大部分游戏玩家的需求。
 
-VyprVPN企业版也有两个版本，面向企业用户，提供专享节点，高级版还允许企业用户自己定制网络，默认提供3人使用，加人要价钱，都包含变色龙协议。
+![surfshark价格](https://qiangup.com/wp-content/uploads/2023/03/surfshark-price-1024x238.jpg)
 
-VyprVPN只能在Windows，Mac，Android和路由器上使用。**在中国使用时，必须先将协议设置为变色龙，否则肯定连不上。**
+Surfshark价格一直都很便宜，24个月付费套餐提供83%优惠折扣+1个月免费时长，算下来价格在$2.39/月(参考官网实际价格)，黑五优惠力度也很大，1个月套餐12.95美金/月，12个月套餐：3.99美金/月。支持Visa信用卡和PayPal两种最方面的支付方式，目前已不再微信和支付宝(国内政策原因)，你也可以通过Google Pay、Amazon Pay和加密货币支付。
 
-在中国使用VyprVPN，须先设置协议为变色龙
+多花$1.49可以获得Surfshark One功能，它提供了病毒扫描、数据泄露提醒和私人搜索引擎等安全性，当然并不推荐所有VPN用户选择。30天退款保证和7天/24小时全天候金牌客服团队也是标配。
 
-我**个人也建议你，连接前确保Kill Switch打开**，我碰到过因为不打开这个因为某个节点连不上被防火墙侦测到造成本地家庭网络中断的情况，所以保险起见还是打开吧。
+#### Surfshark使用指南
 
-在中国使用VyprVPN之前，最好先打开KILL SWITCH
+如果你在使用过程中遇到Surfshark连不上的问题，可以尝试以下方法解决。
 
-最后，我建议连接香港、日本、台湾、韩国等地的节点，延迟较低。
+-   1.确保开启了Camouflage或者No Borders翻墙功能。
+-   2.尝试WireGuard、IKEv2、OpenVPN等最新的协议。
+-   3.切换不同的VPN服务器，充分利用数量众多的美国IP节点。
+-   4.利用24/7在线聊天或者邮件支持联系技术人员解决。
 
-VyprVPN连上香港节点
+#### Surfshark安全吗？
 
-我自己的使用体验，VyprVPN建立连接的速度没有ExpressVPN快，但似乎比ExpressVPN更少断线，连上VyprVPN开网页的速度没有ExpressVPN快，但看油管的速度两者相当，可能是因为变色龙协议在TCP流量上开销比较大，对UDP的开销相对低的缘故，这只是我的猜测。
+专用DNS和泄露保护可以防止访问记录泄露。使用行业领先的AES-256-GCM加密算法，可以加密用户数据，任何人都无法破解，其安全性已经通过了Cure53认证，是VPN排行榜中经过第三方审核的VPN之一。
 
-**最后，如果你不用iOS设备，可以考虑买VyprVPN，否则不建议购买，直接买ExpressVPN吧。我个人虽然极力推荐各位直接购买ExpressVPN，但事实是有部分地区的部分ISP下上网，ExpressVPN确实可能不好用，这时候VyprVPN是一个可靠的替代。**
+Camouflage模式和No Borders类似，可以混淆流量，帮助中国VPN用户翻墙。不记录用户浏览日志是Surfshark的基本节操，包括技术人员都无权访问你的浏览数据。
 
-和ExpressVPN比起来，VyprVPN算不上强悍的翻墙软件，但它仍然能持续保障了中国VPN用户翻墙权力的可靠工具，在国内有大批忠实粉丝，也有一个活跃的中文论坛。从这一点来说，它已经比国外绝大部分的所谓“中国VPN”提供商诚实靠谱太多了。
+___
 
-#### 如何获取VyprVPN
+### 4.[PrivateVPN](https://qiangup.com/go/privatevpn) —— 翻墙效果出众的VPN
 
-VyprVPN提供国内可直接访问的镜像网站，再说一遍，**中国使用一定要买含变色龙协议的版本**。购买成功后登入帐号即可下载客户端，右下角有在线客服，几乎是24×7在线的，有什么问题可以实时资讯。因为镜像站大部分界面提供简体中文支持，我这里就不啰嗦了，自己看着操作吧。
+PrivateVPN诞生于瑞典中东部的一个小城市，它从2009年就开始踏入VPN市场，这十多年内始终坚持为用户提供良好稳定的中国VPN服务。说实话，PrivateVPN近几年的发展都是有目共睹的，它也逐渐成为最受中国用户青睐的翻墙VPN之一。
 
-如果不能用如何退款？
+![PrivateVPN官网](https://qiangup.com/wp-content/uploads/2022/03/privatevpn-homepage.jpg)
 
-VyprVPN提供30天无理由退款。如果它在你的设备和网络环境下不能用，可以联系客服退款：
+<table><tbody><tr><td>🏛️公司总部</td><td>瑞典</td></tr><tr><td>⌛成立时间</td><td>2009年</td></tr><tr><td>🚀翻墙功能</td><td>翻墙VPN协议和ShadowSocks代理</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f30e.svg" alt="🌎">节点数量</td><td>2000+服务器遍布63个国家/地区</td></tr><tr><td>📺解锁流媒体</td><td>解除Netflix、Hulu、HBO、Disney+、BBC iPlayer、Amazon Prime Video等版权和地理封锁</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4f1.svg" alt="📱">兼容设备</td><td>Windows、Linux、Mac、Android、iOS、Chrome / Firefox浏览器、路由器、智能电视等</td></tr><tr><td>💻设备数量</td><td>10台设备同时连接</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4b0.svg" alt="💰">退款政策</td><td>30天退款保证</td></tr><tr><td>🌐官方网站</td><td><a href="https://qiangup.com/go/privatevpn" target="_blank" rel="noreferrer noopener nofollow">PrivateVPN.com</a></td></tr></tbody></table>
 
-1.  打开镜像站，等待页面加载完毕，找到右下角的在线客服按钮，点击打开即可和客服沟通，他们是7天24小时在线的，但有时候响应可能不快，请耐心等待
+在测评了应用商场中众多的VPN后，PrivateVPN凭借其优越的产品性能，显著的翻墙效果成功引起了我的注意，也因此跻身于最推荐使用的VPN排行榜中。虽说PrivateVPN目前拥有的服务器数量并不算多，但它覆盖的面积依然可观，当前在亚洲、欧洲、美洲、非洲等地域都能看到它的身影。
 
-VyprVPN的客服不支持中文，你需要用英文和对方沟通，措辞前面已经在ExpressVPN部分介绍过，这里就不重复了。
+此外，PrivateVPN服务器的优势在于后续优化都特别及时，不会出现网络卡顿的情况。在连接其高速服务器后，用户可以绕过地理限制直接访问Hulu、HBO、Amazon Prime Video等流媒体平台。在提供解禁功能之外，PrivateVPN还能确保用户进行安全的在线传输及种子下载。
 
-半年以前我选择不再推荐NordVPN，因为我从没成功连上过，半年以后，应一些读者的邀请，我重新测试了它，不得不说还是很惊喜的。
+PrivateVPN可以同时兼容多种操作系统，用户可以在Windows、Android、iOS、Linux、Amazon Fire TV以及路由器中安装其应用程序。另外，一个订阅账号可以同时连接6台不同的设备，这样算下来PrivateVPN性价比也挺高。
 
-NordVPN现在能用了，只不过不是很多人已经熟悉的Obfuscated Servers，现在的NordVPN使用实际更简单了。
+其实，在春节、五一、国庆等特殊时期，中国大陆的防火墙都会进一步增强，很多声称可以实现用户翻墙自由的VPN都无法正常连接。但在我开启隐形VPN模式（StealthVPN模式）后，PrivateVPN依然坚挺好用，能够有效避免中国防火墙的干扰和封锁，轻松实现科学上网。
 
-这个VPN有广泛的设备支持：Windows，Mac，Linux，Android，iOS … 没有ExpressVPN全，但能满足绝大多数用户的需要了。价格贵还是便宜，见仁见智。
+#### PrivateVPN价格
 
-### 如何在中国使用NordVPN
+![PrivateVPN价格](https://qiangup.com/wp-content/uploads/2022/03/privatevpn-price.jpg)
 
-在中国使用NordVPN需要做几个特别配置。首先**关掉Kill Switch**，开着这个可能导致某次断线后你的设备无法连接WIFI，造成的结果是你发现电脑或手机无法连上任何网络，可能让很多用户抓狂。
+用户可以通过优惠链接直接在PrivateVPN官网购买相应付费套餐，目前最划算的做法是直接订购3年套餐，每月仅需支付$2。
 
-关闭Kill Switch
+PrivateVPN支付渠道还是比较人性化的，用户可以使用银联信用卡、Visa信用卡、Paypal等渠道支付。为了确保个人隐私，用户还能选择比特币购买。为了保障消费者的权益，所有PrivateVPN套餐均可在30天内免费退款。
 
-**其次关闭Obfuscated Servers**，之前版本的NordVPN在中国使用一直需要打开Obfuscated Servers，但这些服务器在中国已经无法使用（这是很多老客户发现NordVPN无法使用的原因），NordVPN官方已经在客户端App里集成了隐秘性更好的的服务器，**现在在中国使用NordVPN不再需要开Obfuscated Servers**。
+#### PrivateVPN使用指南
 
-关闭Obfuscated Servers
+如果你在使用过程中遇到PrivateVPN连不上的问题，可以尝试以下方法解决。
 
-在中国使用NordVPN不再需要特别操作，只需要点击快速连接（Quick Connect）按钮，客户端会自动连上最快连接。
+-   1.检查是否开启了隐形VPN模式（StealthVPN），在特殊时期一定要保证该功能处于开启状态。
+-   2.可以尝试更换VPN协议，最常用的是IKEv2/IPSec、L2TP/IPSec、OpenVPN (TCP/UDP)安全协议。
+-   3.网络不稳定时建议打开服务器列表，选择香港、美国等服务器节点。
+-   4.若以上操作均无效，可以直接通过供24/7在线客服、邮件/工单支持联系客服与技术人员，或者阅读帮助文档。
 
-NordVPN快速连接
+#### PrivateVPN安全吗？
 
-万一不能用如何退款？
+你需要知道的是，PrivateVPN始终坚持零日志政策，运营十多年也没有发生任何用户信息泄露的状况。使用军用级别的AES-256加密方式，在其应用程序中还置入了网络终止开关、拆分隧道、IP/DNS泄漏保护等高级隐私功能，你完全可以相信PrivateVPN隐私保护能力。
 
-NordVPN支持30天无理由退款。你可以邮件 support@nordvpn.com 要求退款，别忘了写上你的账号信息。
+___
 
-熊猫VPN
+### 5.[Private Internet Access](https://qiangup.com/go/pia) —— 便宜安全的VPN软件
 
-海外华人开发的VPN，类SSR，目前很好用
+Private Internet Access简称PIA，公司总部位于美国，是可以放心使用的翻墙VPN，提供大量的美国IP地址，特殊时期可选择性更高，价格也很亲民是比较便宜的VPN。
 
-由于疫情等原因，熊猫VPN最近更服暂时中断，服务会受影响，又因为最近网络管控升级，服务器可能不稳定，客服亦无法及时复工。厂商目前正在解决中，在此信息撤销前，请优先考虑ExpressVPN。
+![Private Internet Access官网](https://qiangup.com/wp-content/uploads/2022/02/pia-homepage.jpg)
 
-我联系了熊猫客服，他们告知已经加宽了服务器带宽，应该会有所改善。词条提醒我暂时先保留，同等价位上的VPN排行可以考虑SurfShark。
+<table><tbody><tr><td>🏛️公司总部</td><td>美国</td></tr><tr><td>⌛成立时间</td><td>2010年</td></tr><tr><td>🚀翻墙功能</td><td>流量伪装最新VPN协议</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f30e.svg" alt="🌎">节点数量</td><td>4000+服务器遍布84个国家/地区</td></tr><tr><td>📺解锁流媒体</td><td>解除Netflix、Amazon Prime Video、Hulu、HBO、Disney+等多种流媒体封锁</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4f1.svg" alt="📱">兼容设备</td><td>手机、电脑、平板、浏览器、路由器、智能电视等</td></tr><tr><td>💻设备数量</td><td>10台设备同时连接</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4b0.svg" alt="💰">退款政策</td><td>30天退款保证</td></tr><tr><td>🌐官方网站</td><td><a href="https://qiangup.com/go/pia" target="_blank" rel="noreferrer noopener nofollow">PrivateInternetAccess.com</a></td></tr></tbody></table>
 
-从国内多个节点测试新上的备用节点比前两天稳定很多了，不知道是因为管控降级还是新节点带宽更高。
+Private Internet Access也有长达十多年的历史，不存在跑路钓鱼VPN问题。提供好用的VPN软件，官网和翻墙软件客户端都支持简体中文。提供代理翻墙协议和WireGuard最新VPN协议，在绕过防火长城的封锁方面有得天独厚的优势，许多中国VPN用户都用PIA来实现稳定翻墙。同时Private Internet Access也是解锁流媒体的一把好手，在隐私安全、兼容性、用户体验方面表现优异。包年套餐VPN价格便宜非常推荐，提供30天退款保证，支持10台电脑或手机VPN等设备同时登陆。
 
-熊猫VPN总部在美国，由中文团队开发，所以中文支持很好，运营的时间并不长，是中国VPN市场的后期之秀，支持Windows，Mac，iOS，Android。熊猫VPN有国内可直接访问的镜像网站，购买后也可直接从那里下载客户端，无需访问应用商店。
+Private Internet Access提供多众翻墙模式，翻墙能力相当出色。这对于中国VPN软件来说尤其重要，因为这样可以通过不同的加密和混淆流量方式，来应对防火长城不同的检测，这也是科学上网更加稳定好用的VPN法宝。
 
-熊猫VPN客户端下载
+服务器数量对于翻墙VPN来说重要性毋庸置疑，Private Internet Access提供的服务器遍布84个国家/地区(分布在北美洲、南美洲、欧洲、非洲、中东、亚洲、大洋洲)，其中美国VPN服务器众多，这对于中国VPN用户来说是一大福音。国内VPN用户不仅可以用于翻墙上网，还能解锁国外流媒体和社交网站平台(YouTube、Facebook、Reddit、Twitter、Instagram、Netflix、HBO、BBC iPlayer、Hulu、Disney+…)。Private Internet Access也不会限制VPN软件使用者的带宽和流量，追剧看电影听音乐没有任何流量焦虑。
 
-我买了2年，在安卓手机上测试使用了一个小时，感到十分惊喜，这应该是我今年做VPN评测碰到的最惊喜的翻墙软件了：） 非常好用，我随机测了香港和美国的几个节点，都是滑块滑到上面的一瞬间就连接成功了，然后我用了用Youtube，视频的速度也很满意。
+Private Internet Access一个账号支持10台设备同时连接，提供的主流设备支持包括WindowsPC端、MacOS、Linux、Android和iOS苹果手机、智能电视、游戏机，提供Chrome、Firefox、Safari浏览器扩展程序。
 
-在中国使用熊猫VPN翻墙软件，WIndows系统
+![Private Internet Access价格](https://qiangup.com/wp-content/uploads/2023/03/pia-price.jpg)
 
-根据我个人的使用体验，PandaVPN在敏感时期的穿墙能力比较强，但这还不能说明它的技术更好，也可能是它比较新的缘故。 这个VPN底层很可能不是VPN技术，我的猜测，很可能是SSR类似的技术，因为连接建立连接的速度非常快，而且客户端里提供全局代理或分应用代理的区别，让人浮想联翩，我无法确定熊猫VPN到底是VPN还是SSR那样的代理类翻墙软件，所以暂时把它算作VPN推荐吧。
+推荐购买Private Internet Access的2年套餐非常划算，价格相当便宜性价比很高每月只需2.11美金，黑五等节假日期间有更多优惠折扣，因此具体价格请以官网为准，提供Visa、PayPal、Amazon Pay以及比特币虚拟货币支付方式。支持30天退款保证以及24/7全天候客户支持，可以通过在线聊天、Email邮件和表单联系他们获得帮助。
 
-智能连接
+#### Private Internet Access使用指南
 
-熊猫VPN支持支付宝，微信等付款方式，目前还有买一年送一年的优惠，7天无理由退款，感恩节圣诞节可能有更大优惠，不要错过。
+如果你在使用过程中遇到Private Internet Access连不上的问题，可以尝试以下方法解决。
 
-PandaVPN的缺陷
+1.保持更新最新版本的Private Internet Access服务器。  
+2.尝试新加坡、日本、加拿大、英国或美国等不同的服务器。  
+3.联系在线客服或发送邮件给Private Internet Access官方，获得临时解决方法。
 
-相比ExpressVPN，还~不支持Linux~和路由器，也不支持游戏机等设备，还有就是运营时间不长，还需要时间来观察它到底如何。服务本身目前来看尚可，但也有本站读者反映客服还不够及时。
+#### Private Internet Access安全吗？
 
-万一不能用如何退款？
+Private Internet Access拥有业内领先的安全性，源代码完全开放供用户监督，杜绝了翻墙VPN软件收集用户数据的可能性。并且PIA承诺不会记录用户浏览记录，保护隐私安全。采用最新的AES-256加密技术以及专用DNS服务器，可以隐藏真实IP地址，防止被网络追踪，保证在上网期间全程匿名。好用的VPN都内置终止开关功能，能够防止数据泄露，避免上网数据被黑客或运营商截取破解，VPN安全性经过权威认证值得信赖。
 
-7天退款保障，但申请退款需要说明理由。如果你发现它在你的设备和网络环境下不能用，可以用下列方式联系客服，一般客服会协助你解决问题，如果确实为软件问题造成无法使用，会退款：
+___
 
-打开镜像站，等待网页加载完毕，你会看到右下角的在线客服，点击弹出，就可以联系到客服，注意，PandaVPN客服并非7天24小时在线，你最好在美国西部时间的工作时间联系他们。
+### 6.[StrongVPN](https://qiangup.com/go/strongvpn) —— 好用的老牌中国翻墙VPN
 
-写邮件给 panda7x24@gmail.com，虽然邮箱名暗示24/7客服，但个人经验，他们会在一个工作日内在美国西部工作时间回。
+StrongVPN早在2005年就成立于美国，属于老牌大厂的付费VPN软件之一，翻墙稳定性好全年连通率在95%以上，价格便宜综合性价比高，并且提供支付宝购买的VPN。
 
-PandaVPN客服支持中文，所以你可以直接用中文表达退款请求。
+![strongvpn官网](https://qiangup.com/wp-content/uploads/2022/12/strongvpn-homepage.jpg)
 
-## VPN及翻墙软件筛选标准
+<table><tbody><tr><td>🏛️公司总部</td><td>美国</td></tr><tr><td>⌛成立时间</td><td>可追溯到1994年</td></tr><tr><td>🚀翻墙功能</td><td>最新WireGuard协议</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f30e.svg" alt="🌎">节点数量</td><td>1500+服务器遍布30个国家/地区</td></tr><tr><td>📺解锁流媒体</td><td>解除Netflix、Disney+、Hulu、HBO、BBC iPlayer等多种流媒体封锁</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4f1.svg" alt="📱">兼容设备</td><td>手机、电脑、浏览器、路由器、Kodi、Kindle、Google Chrome OS等</td></tr><tr><td>💻设备数量</td><td>6台设备同时连接</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4b0.svg" alt="💰">退款政策</td><td>30天退款保证</td></tr><tr><td>🌐官方网站</td><td><a href="https://qiangup.com/go/strongvpn" target="_blank" rel="noreferrer noopener nofollow">StrongVPN.com</a></td></tr></tbody></table>
 
-### 在中国能用
+虽然StrongVPN是本篇VPN推荐排行列表中比较小众的VPN，但是翻墙软件的实力却不容小觑，在防火长城多次的升级封杀中，StrongVPN依然能够稳如老狗。StrongVPN更新VPN服务器比较勤，特殊时期技术支持还会提供解决方案。
 
-任凭技术吹说得天花乱坠，加密如何如何强大，客户端如何如何简洁，价格如何如何实惠，客服如何如何亲切，**如果一个VPN在中国翻不了墙，再吹也没用**。
+StrongVPN提供精简版的VPN软件供中国VPN国内用户使用，对于iOS苹果手机，还提供连接配置文件，方便没有美区Apple ID的用户。StrongVPN不仅支持OpenVPN、IKEv2/IPSec、IPSec等升级混淆的翻墙协议，还支持速度更快更先进的WireGuard。相比传统VPN软件伪装效果更好，绕过防火长城GFW深包检测更容易，这也是为什么StrongVPN可以加密用户流量提供好用的中国VPN的根本原因。
 
-能用的起码条件是客户端下下来装上，在一年中的绝大多数时间（不低于90%）你都可以连得上，不影响上网。不管是一个总能连上的节点，还是多个不时切换的节点，必须得连得上，连不上就什么都等于零。不止能连上，还能保持稳定在线，不要隔一两分钟就断线，否则真还不如不用。
+StrongVPN可以解锁安全的流媒体、游戏以及社交平台的版权和地理位置封锁和限制，能够解锁Netflix、Hulu、HBO、Disney+、BBC iPlayer、YouTube各个国家的内容库(美国、英国、韩国、日本、德国、俄罗斯、法国等)，帮助中国VPN用户访问常用的Google、Twitter、Facebook、Gmail、WhatsApp、Skype社交媒体和国外网站。这要归功于StrongVPN的全球VPN服务器数量，这些VPN节点遍布北美、欧洲和中国周边，以及南美洲、非洲、中东，并且提供高质量的连接速度。
 
-我想推荐中国能用的VPN排行，为了做到尽量准确评估，我都会买上至少一个月的使用期，有的VPN很好测，装好就能稳定连上，测试起来很省力。有的就不是，往往要做点配置，或者试多几个服务器才能连上。绝大多数的VPN是根本用不了的，我一般测个几天后也就死心了。
+由于没有流量和带宽限制，因此StrongVPN非常适合看高清视频追剧以及下载种子文件，平时推荐连接的VPN节点主要有香港、中国台湾、日本、韩国、新加坡等中国周边VPN服务器。因此一般来说距离越近VPN软件的速度就越快，经过我们的测评，StrongVPN提供快速的延迟的连接速度，用于游戏加速器也非常出色。
 
-测VPN花的钱并不多，我也没打算把市场上的产品都测一遍，那我只能天天吃方便面了，我也不可能有那个精力，这没啥技术含量，就是注册购买，装好客户端，把功能都用一遍，把适合中国的港日美新等节点都试连一遍，说起来轻松，但做起来还是个体力活。
+StrongVPN提供通用版和精简版两种好用的VPN软件，完美兼容多种设备和平台，支持Windows、MacOS、Linux电脑端操作系统，用户体验有好的Android、苹果iOS等手机以及平板电脑，以及比较冷门的路由器、智能电视以及游戏机终端，浏览器扩展目前仅支持主流的Chrome插件。
 
-### 购买与下载方便
+![strongvpn价格](https://qiangup.com/wp-content/uploads/2022/12/strongvpn-price.jpg)
 
-如果买个VPN下个客户端还得先翻墙，就比较尴尬。最好能不翻墙就能直接从中国大陆访问到官网，但事实是几乎所有的VPN官网都已被墙；没事，访问不了官网，给我个能打开镜像网站也行。只要能让我顺利地注册、付款、登录、下载客户端就行。
+价格方面StrongVPN提供2两种套餐订阅价格，包月套餐10.00美金，包年套餐43.99美金，算下来每月只需花费3.6美金，是性价比超高的便宜VPN，最重要的是支持支付宝购买VPN，还支持Visa和PayPal都很方便中国VPN用户。
 
-如果能支持支付宝、微信或者银联借记卡付款就更方便，信用卡还是不太方便。虽然买VPN的时候用国内支付方式，难免菊花一紧，担心某一天被有关部门追查，但转念一想，有关部门恐怕也没那么多茶叶，在谨慎与方便之间，我宁可要方便，因为大部分的VPN购买和下载实在太不方便了。况且说了，用信用卡支付也绝不不比支付宝更私密，如果你要万无一失，可以考虑比特币付款，但不是所有VPN厂商都支持，基于VPN产品的特殊性，预计未来支持得会越来越少。
+#### StrongVPN使用指南
 
-国外优质VPN不少，可惜绝大多数无法从国内直接购买，商家也不提供国内能打开的镜像站点。我尽量推荐能从国内访问且直接购买的VPN产品，如果能支持支持支付宝付款和银联就最好，其实一般能给中国VPN用户提供镜像网站的，都重视中国市场，所以都会支持支付宝。
+如果你在使用过程中遇到StrongVPN连不上的问题，可以尝试以下方法解决。
 
-### 速度快
+-   1.电脑端StrongVPN安装后连不上很可能是其他VPN或者浏览器代理软件冲突造成的，关掉或者卸载即可。
+-   2.特殊时期连不上可以使用备用VPN节点。
+-   3.香港节点连接慢可能是用的人太多，这时使用美国节点速度反而更快。
 
-我翻墙的主要应用就几个：看油管，看Netflix，用Google，偶尔用Facebook，Twitter，用Google的时候会访问各种国外技术类网站（我是学计算机的，每年回国，正走上码农这条万劫不复的道路），其它可以忽略不计。
+#### StrongVPN安全吗？
 
-油管是用来学习的，大量技术资源，我觉得是目前最好的免费学习平台，我用油管之频繁，恐怕用它直接视频搜索的使用量已经超过了Google搜索量。看油管需要速度，视频越来越清晰，540P，720P，1080P，基本也遵循摩尔定律，对VPN速度的要求也越来越高。Netflix是我用来消遣的主要应用，追美剧看电影，每晚在美剧的喧闹聒噪里进入梦乡。如果VPN速度不给力，角色笑两声停一停，我恐怕会夜夜失眠。
+StrongVPN总部位于美国，原来中国大陆的审查，拥有得天独厚的安全性，安全不用担心查水表和钓鱼问题。StrongVPN不会记录用户日志，也不会收集敏感信息，对隐私安全严格保密。采用行业标准的AES-256位加密方式以及自主运营的DNS私有服务器，可以避免数据泄露，也能避免被防火长城检测到。可以有效地因此用户的真实IP地址，确保在互联网上匿名安全地科学上网。翻墙VPN软件具备多种高级安全功能，包括终止开关、拆分隧道、IP/DNS泄漏保护、广告拦截等，确保用户隐私安全无虞。
 
-### 安全可靠
+___
 
-我自己买VPN的主要目的就是翻墙，我相信绝大多数中国网民和我一样。当然希望使用的工具尽量安全可靠，不要泄露我的上网信息，到不是怕被有关部门请喝茶，你在中国大陆只要连上互联网，不管用什么工具，老大哥都知道你在哪儿，你要是觉得一个VPN软件就能把老大哥挡在门外，是因为你太天真，实际情况是你家的宽带和你的手机都是和你的真实身份信息绑定的。
+### 7.[CyberGhost](https://qiangup.com/go/cyberghost) —— 安全性高的VPN
 
-我说的安全可靠，是指一些不要有敏感个人信息的泄露，比如上网时用到的帐号密码与支付等信息，技术上说，VPN就是一个流量劫持软件，它即是一座桥，也是一个岗哨，如果厂商决定要强制你登记，或者偷偷记下你的流量信息，就有潜在的风险，只是我们都很忙，没有时间来仔细思考这种风险有多大。但事实是网络安全和数据泄露事件发生的频率正在逐年升高，我们不知道不等于网络很安全。强加密是基础，整个VPN协议都建立在加密基础上，但加密是不够的，还要充分尊重用户隐私才行。
+CyberGhost在中国VPN市场中的名气也比较高，也正因为如此它存在着一些争议。不过有些关于CyberGhost的测评和VPN排行其实有些过时了，CyberGhost早已完成技术升级，其Obfuscated混淆模式在中国表现不俗，同时也能隐藏VPN流量防止运营商限速。
 
-可靠性的另一个方面是VPN提供商的背景。公司注册在中国大陆的提供商，政府要关停它很容易，我不推荐。从2017年GreenVPN被关停开始，大批国内VPN提供商被关停，给用户带来不便和损失。
+![cyberghost官网](https://qiangup.com/wp-content/uploads/2022/12/cyberghost-homepage.jpg)
 
-## 免费收录可用VPN
+<table><tbody><tr><td>🏛️公司总部</td><td>罗马尼亚</td></tr><tr><td>⌛成立时间</td><td>2012年</td></tr><tr><td>🚀翻墙功能</td><td>混淆服务器</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f30e.svg" alt="🌎">节点数量</td><td>5600+服务器遍布60+国家/地区</td></tr><tr><td>📺解锁流媒体</td><td>解除Netflix、Disney+、Hulu、AbemaTV、BBC iPlayer等多种流媒体封锁</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4f1.svg" alt="📱">兼容设备</td><td>手机、电脑、浏览器、安卓/苹果智能电视、Xbox/PS游戏机、路由器等</td></tr><tr><td>💻设备数量</td><td>6台设备同时连接</td></tr><tr><td><img decoding="async" draggable="false" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4b0.svg" alt="💰">退款政策</td><td>30天退款保证</td></tr><tr><td>🌐官方网站</td><td><a href="https://qiangup.com/go/cyberghost" target="_blank" rel="noreferrer noopener nofollow">CyberGhostVPN.com</a></td></tr></tbody></table>
 
-### F-Secure Freedome
+CyberGhost应用程序对Windows电脑PC版支持比较全面，兼容Windows7、Windows8.1、Windows10、Windows11以及更高的版本。
 
-推荐用户：johnwoo383，感谢推荐  
-产品名称：F-secure freedome  
-中国能用：确定  
-产品优势：这款产品是我用过的最稳定的VPN排行之一，可以与express VPN媲美，但是比express性价比高。
+此外，还支持Android、macOS、iOS(iPhone/iPad)以及安卓电视，路由器VPN固件可以让你在路由器上设置VPN。CyberGhost好用的VPN应用程序确保了稳定的互联网连接、在线隐私和安全，同时能满足在线观看视频、玩游戏和浏览网页的良好体验。
 
-优点：
+在60个国家/地区运营着5153台高速VPN服务器，推荐的VPN服务器有香港、新加坡、日本、台湾IP节点。
 
--   极其稳定，速度不错，家里100M的宽带可以看YouTube 1440P
--   大安全厂商芬氏安全出品，值得信赖
--   可以免费试用5天，无需注册，直接使用
--   同样不保留用户的数据，无日志
--   国内的网站可以打开它的网站，无需翻墙
--   可以使用killswitch来保护网络
--   有繁体中文，操作比较方便，ui也不错
+美国节点可以说是万精油，不管是用来翻墙，还是解锁Disney+、BBC iPlayer、Netflix等流媒体服务都很好用。英国、德国、荷兰、法国和美国IP节点中还有独立(固定/静态)IP节点，适合用来访问IP限制严格的网站。
 
-缺点：
+![价格](https://qiangup.com/wp-content/uploads/2022/12/cyberghost-price.jpg)
 
--   节点比较少，只有20多个节点
--   加密是128位加密，而不是顶级VPN的256位加密
--   软体里面的屏蔽广告等功能比较鸡肋
--   节点不能保证都能用，比如美国的5个就很慢，香港的也不大行。但是捷克、维也纳、芬兰、德国等欧洲的节点只要连上速度特别快。
+CyberGhost在价格方面适中，不是最便宜的VPN，但也不是最贵的。一个月套餐价格一直都是$12.99，不过6个月和2年套餐算下来则很平价，价格虽然时常变动。推荐在活动期间购买VPN，CyberGhost黑五优惠和周年庆会有赠送时长的优惠折扣。
 
-### ibVPN
+#### CyberGhost安全吗？
 
-连接方式设置：选择自动连接最快服务器并且连接协议选**IPSec（IKEv2）**。
+不仅在中国，在国外CyberGhost知名度依然很高，其无日志记录已经通过了第三方审核。VPN协议是基于WireGuard开发的，在保证安全加密的前提下极大地提升了连接速度。
 
-这非常重要，ibvpn自动最快服务器连接顺序是先选择ping值最低的服务器，然后按照协议快慢都试一遍IPSec→OpenVpnTCP，OpenVpnUDP→L2TP,PPTP→SSTP→Stealth VPN，全部协议失败后就会换一个服务器再连，实际测试ibvpn连上SSTP或者Stealth VPN的协议时，速度是灾难级的。
+CyberSec可以阻止钓鱼网站、病毒软件以及DDoS攻击，还能屏蔽弹窗广告，并且用私有DNS服务器解析网站域名。CyberGhost具备IP/DNS泄漏保护，可以防止真实IP地址被泄露，还具有终止开关(Kill Switch)在VPN断开的时候保护流量。
 
-优点：
+___
 
-1.  有24小时免费无限制试用，只需要邮箱注册即可
-2.  订购计划丰富，价格不贵 我在之前10周年庆典还享受50%折扣
-3.  公司成立于2003年，2009年开始做vpn产品 已经有10年以上运营vpn历史
-4.  ibvpn没有黑历史（至少我没有搜到），安全度可信任
-5.  售后服务好,24/7 live chat真实有效，邮件也能几分钟内回复
-6.  网站页面内容丰富
-7.  软件易于使用，功能较全，软件很诚实-\_,-（当你打开软件发现之前用的服务器不在服务器列表时说明这服务器暂时不能使用，等到能使用时会在出现再服务器列表中）
-8.  各个评测网站都对这个vpn给予较好或更好的评价（当然前提是出现在评测列表中）
-9.  这5个节点可用：HK2，India(Mumbai)，Germany（Dusseldorf），UK（Manchester 2），USA（Seattle），其中西雅图和香港2节点速度快，另外3个速度慢
+## 不推荐的VPN
 
-缺点：
+因为防火长城每年都在升级封杀VPN的手段，许多原来在中国好用的VPN，如今已经无法连接了。
 
-1.  晚上速度不理想 简单描述就是我用brave浏览器观看youtube视频 7点到15点流畅看1080p60fps 15点到19点流畅看720p60fps 19点到22点一般只能选480p或720p
-2.  连接自动选择最快的服务器等待时间太长 而且连上了通常不是最快的
-3.  断开连接速度慢，不知为什么总是要3秒后左右相应
-4.  退款政策为15天内而非一般的30天
-5.  软件只有英文页面，官网虽然有中文语言选项但主要说明内容无中文
+很多不知名的VPN大多是国内小作坊运营的，机场梯子这类翻墙软件是圈钱跑路的重灾区。而国外大品牌VPN软件有些也并不适应中国环境，它们更注重安全性，没有考虑伪装流量的VPN协议，因此无法绕过防火长城。有些则是由于技术不过关，无法提供稳定安全的翻墙VPN。总之推荐的VPN都有相同的优点：速度快、翻墙稳定、兼容性好、性价比高、售后保证等，而不推荐的VPN则有千奇百怪的问题。
 
-再次感谢juniorant。
+以下这些我不推荐的VPN软件经过我的测试不能在中国使用，请大家不要浪费时间下载使用，更不要花钱购买VPN付费：
 
-#### 填写收录表单
+~**1.PandaVPN(熊猫VPN)**~
 
-如果您有优质翻墙软件（VPN，SSR机场或别的）想推介给站长的读者，请填写下面的表单，审核后通过后您的产品将出现在这里，并附有到产品官网的链接，**按提交时间排序**。
+熊猫VPN在2018年成立，最开始也是我比较推荐的VPN，当时速度和稳定性确实非常出色，而且官方人员都是华人，使用起来也很顺手。不过遗憾的是，在年坚持了4年之后跑路了，原因我不得而知。但这此教训再次加深了我的认知，千万不要购买中国国内VPN，尽量选择海外知名大品牌。
 
-收录是免费的，若未收录，恕不另行通知。
+类似的还有光年VPN，是2021年推出的一款国产VPN，当时还有不少博客网站推荐过这款VPN软件，不过我抱着谨慎的态度选择观察一段时间。结果光年VPN比熊猫VPN还短命，一年不到就跑路了。
 
-## 不能用，不敢用的VPN翻墙工具
+Panda VPN是由华人运营的专为中国VPN定制的软件，因此也被很多人称做熊猫VPN，由于团队都在国外，因此也更加保险。经过这几年的打磨，[Panda VPN](https://qiangup.com/pandavpn-review/)已经在翻墙市场站稳了脚跟，在中国VPN排行榜中占据了自己的一席之地。更贴合中国用户需求是他的最大优势，因此自然少不了香港、马来西亚、台湾、新加坡、日本、美国等服务器节点，其中香港IP节点占比相当高。流媒体专用节点可以解锁Netflix、Hulu、HBO、Viaplay、VIU、AbemaTV、Disney+。
 
-### NordVPN
+超快的IPLC专线使得播放1080P画质没有任何问题，可以流畅访问[视频网站](https://qiangup.com/video-site/)、音乐、社交媒体。另外还提供了[种子下载](https://qiangup.com/torrent-site/)、游戏等好用的VPN节点，推荐VPN特殊需求的用户使用。而备用节点，可以在中国VPN封锁严重的特殊时期发挥作用。Panda VPN支持的设备不算多，但基本覆盖了电脑VPN和手机端APP，提供Windows、Mac、Android、Linux、Android TV应用程序。客户端软件界面设计也非常有特色，操作简单方便，即便是新手也能快速上手。
 
-更正
+在加上Panda VPN官网和APP全中文支持，因此在使用过程中几乎不会遇到任何问题。智能模式，全局模式和全局代理可以实现浏览器和全局翻墙，还能自定义配置分流国内外网站。随着Panda VPN名气逐渐提升，在加上美元兑换人名币汇率走低，Panda VPN价格也从$1.99涨到了目前的价格。这样从侧面说明了一个实时，Panda VPN确实好用且值得推荐，而且不是用超低的优惠价格忽悠中国用户。
 
-已经有几位读者反应NordVPN在中国可用，应读者建议，作者再进行了测试，从深圳、西安两地，电信与中国移动4G线路，均成功连上日本某节点（Obfuscated Server），我打算有空再完整测一次，**以下关于NordVPN的评价可能不再准确**。
+客服方面有待提升，目前只有8小时在线客服和邮件支持。退款期限也不算高，可能还是考虑到很多用户薅羊毛，仅支持7天退款保证。当然，在7天内你完全可以充分试用VPN的好坏。由于不在中国大陆境内，因此至少你的数据安全是能够得到保障的，也没有喝茶跑路的风险。PandaVPN也实行无日志策略，因此不会记录用户的浏览数据。
 
-从各种技术和服务指标上说，NordVPN看上去是个完美的VPN：可从国内[直接购买](https://kanvpn.com/go/nordvpn)，支持支付宝，价格比ExpressVPN便宜很多，支持所有设备。提供日本、美国、新加坡、香港等地告诉节点，切换方便，更新及时。军用级加密，自带广告过滤和恶意软件检测，零日志，Kill-Switch，支持P2P …
+安全的ECC加密技术可以保护连接的数据安全，防止运营商和黑客破解数据，在连接公共WiFi的时候也更加安全。代理、OpenVPN等多种协议，可以满足你不同的隐私安全需求。虚拟IP可以隐藏你的真实IP地址，避免被查水表。
 
-但它是我测到目前用过的**最垃圾的VPN**，花了12美金买了一个月专门用来测试，发现普通节点连不上，Google半天发现官方“推荐”在中国用Obfuscated服务器，好吧，试了20来个Obfuscated服务器，发现还是连不上，又Google半天，发现官方推荐用“TCP”，好吧，在设置里调成TCP，还是连不上，再Google，发现有中文博主推荐香港、日本、美国等特定几个节点，我到服务器列表里一看，发现他推荐的这些节点我一个都没有！
+**~2.Astrill VPN~**
 
-**不要买NordVPN**，我不确定网上那么多人推荐它是不是因为厂商给了高佣金，但我自己安卓手机上的测试结果是：**这个VPN中国根本不能用**。也许有人找到了窍门，我也确实Google到几篇博文说是要手动下载什么东西，更新本地的OpenVPN配置，我没试，如果我花了钱买你的VPN客户端还得自己去手动更新配置，我还不如直接SSR。有个博主居然还建议读者如果TCP不行就切换回UDP，因为“说不准”那个可以用，拜托！用户花了钱用VPN，不是给自己找别扭去的。
+我对于Astrill VPN其实有点狠铁不成刚的感觉，因为Astrill VPN确实是在中国能用的VPN，至于为什么不是我推荐的VPN排行之一接下来我讲讲原因。首先来说AstrillVPN比较有争议，它确实提供了中国翻墙专供的美国、香港等线路，也具备伪装流量的功能，可以绕过GFW的封杀检测。
 
-**这是生活在深圳的一对外国人对[ExpressVPN](https://kanvpn.com/go/expressvpn)和NordVPN的比较，他们最后发现NordVPN连不上想退款也没退成功：**
+但是在我的测评过程中，发现Astrill VPN的速度不太理想，看高清视频过程中经常会缓冲。并且VPN软件有些简陋，不像是专业人员开发的APP，我担心会有数据泄露问题或者潜在bug会影响用户体验。我是在苹果手机VPN上测试的，应用程序反应迟缓，界面设计也比较丑陋，新手刚开始使用这款VPN可能会不知所措。
 
-### 快连VPN，你敢用么？
+最重要的原因是，Astrill VPN仿佛把中国VPN用户当冤大头。价格贵的离谱，按月付费的话每个月30美元，包年套餐要一次性支付180美元，AstrillVPN完全可以去抢的没必要卖VPN。相比上面我们推荐的任意一款VPN，价格都要比它便宜得多。总的来说Astrill VPN虽然能在中国连接成功，但是价格太贵，客户端又丑又难用。我想对AstrillVPN说的是，在中国好用的VPN少但不是没有，真别这么高傲。
 
-最近有几位读者提到快连VPN，正好昨天晚上逛油管的时候冒出来它的广告，所以决定看一下。
+~**3.Lantern(蓝灯VPN**)~
 
-快连VPN基本信息：
+蓝灯VPN(Lantern)、赛风一类的[免费VPN](https://qiangup.com/free-vpn/)已经不好用了，因此并不在我们的VPN推荐和VPN排行之列。从Github的开源页面看来，这些VPN甚至早已停止了维护。
 
--   支持Windows、MacOS，iOS，Android，并提供iOS端版本推送
--   官网支持中文，背后应该是个中文团队
--   提供24小时免费试用
--   为aff提供QQ与微信交流群
+而实际使用体验也是如此，几年前就有很多用户都反应蓝灯连不上了。虽然多年以前蓝灯一度是很多人使用的免费翻墙工具，但如今早已跌落神坛，成为了大家的记忆。
 
-我看了一眼隐私协议，应该是个懒得改的模板，对中文VPN服务商，我也不强求他们能真正重视用户隐私，大概率是隐私保护为零。
+最近我又我下载蓝灯VPN试了一下发现连接根本没反应，而且官网好像都换了有钓鱼网站的嫌疑，还打着非盈利的幌子，我严重怀疑现在的蓝灯VPN是一款收集用户数据的流氓软件，大家最好还是小心为妙。
 
-有读者提醒我，快连在百度里居然能搜到：
+**~4.VyprVPN~**
 
-这让我瞬间警觉起来，如果“永远能连上”是真的，那么这个产品的背景不得不让人怀疑。
+对于VyprVPN堕落的这个地步其实我还是比较遗憾的，因为VyprVPN算得上是最重视中国VPN市场的国外VPN了。为了绕过防火长城的深包检测，专门研发了变色龙协议(Chameleon)，号称可以对抗中国、俄罗斯、土耳其这些国家的互联网审查。VyprVPN官网和VPN软件中文支持也比较好。
 
-因为没有哪个VPN敢这么说，除非 … 你懂的。
+不过这几年中国VPN用户普遍反应VyprVPN连不上，VPN软件的服务器列表中显示的延迟也是高到爆表的程度。Windows电脑端VPN更是直接无法登陆账号，而iOS苹果VPN是不具备变色龙协议的，直接连接传统的OpenVPN、IKev2、L2TP/IPsec、SSTP、PPTP未经技术升级的VPN协议。
 
-也许它确实是个好用的产品吧，但我最终放弃了评测快连VPN的念头，不打算下载试用，在这也不推荐。
+我多次向VyprVPN反映过这些问题，不过到目前为止依然没有得到解决，而且翻墙VPN软件也是好久没更新了，有点要退出中国市场的感觉，因此不再将VyprVPN列入我们的中国VPN推荐榜单中。
 
-即便我不反动，也不打算把我的网络流量交给一个底细不明的很可能身在中国大陆的VPN团队，太没有安全感了。
+**~5.NordVPN~**
 
-更何况我不认为市场上真的存在“永远能连上”的VPN，如果读者不信，可以自己去试错，我觉得你很可能会失望。
+NordVPN也是前几年在比较火的中国VPN之一，并且由于安全技术过硬在国外也有很高的知名度，曾一度霸占各大VPN推荐列表的榜首。毕竟NordVPN也曾努力过，自主研发了混淆VPN服务器，可以也是可以伪装流量的。况且VPN软件也简单易用，还会赠送杀毒软件、广告过滤等安全功能。
 
-### GreenVPN已关闭，天行VPN呢？
+奈何提供的混淆服务器不多，而且大多集中在美国、澳大利亚，由于更新VPN节点不及时，经过我测试之后发现在中国大陆已经无法连接。而且在下架支付宝付款方式之后，又下架了PayPal，对中国用户来说购买VPN仅有的方式是Visa，太不方便了。最近附加的功能又需要额外付费，相当于变相涨价了，价格已经不算便宜了。
 
-很多人在找GreenVPN的替代，找到了天行VPN。我虽然没有亲自用过天行，但相信他是一个有价值的服务，但很多用户似乎没有明白情况。
+**~6.其他国外VPN~**
 
-天行的官网不敢把自己叫VPN，而把自己叫“加速器”。天行迟迟不敢用安全性更好，实际上可能是唯一对墙有效的定制的OpenVPN协议。技术上来说，现在的天行用户能够用这个服务，有监管方尚网开一面的成分在里面。天行用的PPTP和L2TP协议，几年前就沦陷了，所以国外的一线服务商不再把它们作为主要技术方向。天行的测试页面老老实实写道：
+由于个人精力有限，因此无法将市面上的几千上万的VPN全部测试一遍，并且也没有必要。只要遵循我们的VPN推荐原则，其实也不必像我我一样花真金白银购买VPN挨个试一遍，毕竟我只是为了了解详细的使用情况，来帮助搭建选择好用的VPN以节省时间。
 
-> **如果使用PPTP类型无法连接，请更换为L2TP类型重试；反之一样。** 
+最重要的选择VPN的原则就是必须具备翻墙协议，不同的翻墙VPN可能取名不同，因此你只需要看VPN官网是否有介绍绕过互联网审查的功能，就可大概猜到它是否是能在中国好用的VPN。类似IPvanish、HideMyAss、IvacyVPN、UltraVPN都不具备翻墙能力，官网上也没有介绍任何于伪装流量的功能，因此不推荐你在中国使用这些VPN，下载安装这些VPN虽然没有危险，但大概率是浪费时间。
 
-又在退款页面写道：
+## 中国VPN有哪些用途？
 
-> **为避免出现使用问题以及退款的纠纷，我们建议购买之前先使用我们的测试帐号进行连接，测试正常之后再放心购买。**
+对于大多数人来说VPN软件就是翻墙工具的代名词，但事实上VPN除了用来翻墙之外，还可以让你从中国访问许多国外资源，为你的工作、生活和娱乐提供诸多便利。对于海外华人留学生来说，要访问中国大陆的音乐和视频流媒体，同样需要翻墙回国的VPN加速器。
 
-不敢用技术上穿透力更好的协议，大概是因为不敢，缴枪换和平。不用技术上穿透力更好的协议而服务还能存在，基本意味着这个服务技术上也并没有穿透什么，估计你的流量在墙眼里基本是“加了密的明文”，看上去有密，实际上没有秘密可言。服务存在着，只不过还不够大，没有碰到政策的壁垒罢了。
+因为VPN的工作原理就是隐藏你的真实IP地址，从而绕过平台的IP检测。另外VPN还可以加密和伪装流量，当你在翻墙的时候，VPN就是利用这种特性让你从中国翻墙出国。推荐了解以下是VPN的多种用途，因为了解之后可以物尽其用：
 
-> VPN/SS完全无法连接或使用，并由技术人员检查无法解决，**可申请退款**；
+#### 1.翻墙访问被墙的网站
 
-当你某天发现天行官网换域名了（GreenVPN被关前干了很长一段时间的这事儿），那么大概离它关闭也不远了。Green走了，你有什么理由相信天行不会重蹈覆辙呢？我不知道天行背后的人怎么想，一个竞争对手的倒掉，自己是否应该高兴。
+由于政策原因，防火长城GFW封杀了许多优秀的国外网站，类似Google、YouTube、Wikipedia、Facebook、Twitter、Instagram、Gmail这些海外热门流行的网站和平台，都无法从中国直接访问。使用VPN软件，你可以连接到美国、香港、日本、韩国这推荐的些国外VPN服务器。
 
-不能用的翻墙工具非常多，罗列它们并非本文重点，以后慢慢补充吧。
+由于翻墙VPN对你访问的请求进行了伪装混淆，因此GFW无法识别到你访问了哪些网站，这样你就能够轻松科学上网了。此外，连接到近距离的中国VPN节点还可以加速访问，在也不用在电脑和手机上等待视频缓冲，也不用在浏览器上看网页转圈，这就是付费VPN的优势所在。
 
-## 非VPN翻墙软件
+#### 2.解锁国外流媒体
 
-推荐完了能用好用的中国VPN，我们来看看非VPN翻墙软件。
+国外流媒体不仅只有Netflix，比较知名的还有Disney Plus、BBC iPlayer、Hulu、HBO Max、Amazon Prime Video、AbemaTV、Nicovideo、VIU等。相同点是，他们都具有版权限制，也就是阻止和限制其他国家/地区的用户观看内容。
 
-### 蓝灯
+中国大陆用户无法直接访问这些流媒体平台，这是因为它们不对中国内地提供服务，可能是为了避免遭受审核的麻烦。并且美国地区的Netflix账号也无法观看英国、法国、德国或者澳大利亚地区的Netflix电影、电视剧。要解决这个问题，只需连接到对应的VPN服务器，解锁你想观看的某个国家的流媒体内容即可。
 
-蓝灯不是VPN，而是基于SOCKS5的加密代理，技术原理和SSR接近。 很遗憾，**蓝灯~不~支持iOS设备**（现在支持了）。除此之外，它是一个可靠的翻墙软件。另外，蓝灯不支持手动连接，连接完全由客户端自行管理，不知道这是个缺点还是个优点。**如果你希望能手动控制连接节点位置，蓝灯不适合你**，从这点来说，蓝灯可能不太适合游戏用户，因为外服经常要从特定IP访问的缘故。
+需要注意的是，由于版权商的要求，流媒体平台封杀VPN也比较严格，只有极少数好用的VPN能够通过IP检测，选择我们推荐的流媒体VPN，可以从中国解锁多个平台的内容，并且不限流量流畅播放高清视频。当你，你还可以使用VPN来下载P2P种子文件，这样可以避免版权问题，规避国外法律问题。
 
-理论上SOCKS5协议比VPN协议快，因为原生SOCKS5协议没有加密开销，但因为蓝灯（SSR也是）有加密层，协议上的优势可能未必明显，但直观上，打开蓝灯建立连接比任何VPN翻墙软件都快，因为是代理，服务器端被动接受请求，初始化开销很小，这是蓝灯（或SSR）等代理类翻墙软件很大的优势，不过传输上的速度优势就不总是明显了，比如用蓝灯看油管和用ExpressVPN看的速度差距是很难察觉的。但我注意到在手机上用蓝灯比用VPN更省电，而且速度更快，这可能跟SOCKS5协议比VPN协议更简单，对本地运算的负担更小有关吧。此外蓝灯提供基本的广告拦截功能，不算特备强大，但也是蛮实用的。
+#### 3.海外华人翻墙回国
 
-你如果在考虑是否购买蓝灯，我的建议是，如果你用iOS设备，不要买蓝灯，如果你还没有用过ExpressVPN，我建议你买[ExpressVPN](https://kanvpn.com/go/expressvpn)。如果你已经用过VPN翻墙软件且没有成功，你可以试试蓝灯，这里有蓝灯优惠码。如果你需要长期翻墙学习或工作，有这个预算的话，我建议你同时购买ExpressVPN和蓝灯，蓝灯作为特殊情况下无法翻墙时的备份使用。
+不仅中国大陆网民需要翻墙出国，广大海外华人留学生也饱受网站平台地理位置限制的痛苦，国内腾讯视频、爱奇艺、优酷视频、芒果TV、抖音、B站、网易云音乐、酷狗音乐、QQ音乐这些平时我们常用的网站和应用程序，也会限制国外地区的用户访问，你会看到”抱歉，因为版本原因，你无法观看本内容”的限制提示。使用翻墙回国VPN，可以获得中国国内IP地址，从任何国家翻墙回中国大陆访问视频音乐流媒体。了解更多更多内容，请参考翻墙回国VPN推荐，获取回国加速器。
 
-## 关于游戏VPN
+#### 4.安全加密保护隐私
 
-### 玩游戏为什么要vpn
+安全的VPN软件提供了AES-256加密，让任何人都无法窃取你的上网数据。在中国个人隐私泄露如此严重的情况下，上网过程中随时保持连接VPN软件是良好的习惯。说不定你访问的其中一个网站就是钓鱼网站呢，这时候知名中国VPN的安全功能就派上了用场。它会自动检测网站是否安全，当你下载的软件中有木马病毒时，也会发出警告。还能根据需要过滤页面中的广告，这样你连杀毒软件都不需要了。终止开关、拆分隧道、IP/DNS泄漏保护这些防数据泄露的功能进一步加强安全，你可以在公共WiFi、移动网络情况下随意使用VPN，而不用担心银行账号被窃取，因为你的所有数据都是经过加密且无法破解的，也没人知道你的真实IP地址，连上VPN你就处于匿名上网状态的。
 
-首先，有些游戏国内没服务器，只有外服可以玩。有些外服国内直连速度慢，丢包厉害。有些外服还限制中国IP，大陆IP需要繁琐人工认证，通过游戏vpn（国内为避讳称网游加速器）连接外服整体游戏体验会好很多。
+#### 5.加速游戏减低延迟
 
-在支付环节，游戏vpn还能帮你绕过平台分区限制，买到中国大陆玩家原本买不到的游戏产品，如果你要下载DLC并访问所有国家的XBOX Live和PSN独家内容，游戏VPN是必备的。
+玩外服网游必备的就是一款速度快的VPN加速器，虽然国内也有迅游、网易等游戏加速器，但是这些加速器只能用来访问一小部分游戏平台，别想用这些加速器来翻墙，因为你访问的所有内容都是经过审查的。而使用国外VPN当作游戏VPN加速器就不存在这个问题，只需连接到香港、台湾、日本、韩国、新加坡这些低延迟的IP线路，一样可以将延迟降低到100ms以下。可谓一举两得，一石二鸟。
 
-例如：中国玩家可以连到日本VPN节点突破日服游戏的封锁和限制：
+#### 6.海淘外贸商业用途
 
-很多日服游戏屏蔽境外用户，如果你的IP地址不是当地的，很可能被封号，也无法下载只能供日本用户下载的软件。于是很多日服游戏的爱好者游戏的时候会连接到日本VPN节点来突破限制。连上日本VPN后，你的IP地址就是日本的，所以可以享受日本当地玩家同样的待遇。
+据我所知对于外贸行业是可以申请合法的翻墙VPN的，当你你访问的每个网站肯定都会经过审查，并且申请也需要提供各种资料。但对于外贸人士来说访问Gmail、WhatsApp、Skype、Telegram联系客服，通过Google、Facebook、Twitter、Instagram开发新客户都是刻不容缓的。直接购买国外付费VPN，对于小公司小企业来说是最节省时间成本性价比最高的办法。对于海淘购物的朋友来说，VPN还可加速国外购物网站，通过特定IP地址访问，还可以获得最便宜的优惠折扣，在黑色星期五节日可以节省不少钱。
 
-### 游戏vpn的特别要求
+## 付费VPN还是免费VPN？
 
-游戏vpn当然以提供大陆以外的IP，但不是所有国外IP都可用，ping值很重要，理论上游戏vpn的机房离大陆越近越好，如果ping值能控制到100以下最理想，ping值超过200实时玩实时在线网友就会感觉到卡，Ping值超过300，这类游戏基本就没有可玩性了。
+首先说，国内翻墙专用的免费VPN根本就不存在，毕竟在中国VPN销售属于违法行为，如果没有利益可图没人会冒这么大的风险。
 
-香港，日本，韩国，台湾服务器的ping值可控，但也不完美，香港的一些服务带宽有限制（虽然游戏的流量消耗并不特别厉害，但也是个限制），台日韩的一些服务，用得人多，特征流量明显，特定时段网速往往不理想，丢包较为严重。
+而国外的免费VPN本来就不好用，可以说大多数”免费VPN排行榜”中推荐的VPN根本无法绕过防火长城。而且天下没有免费的午餐，免费VPN总是会通过其他途径来盈利。大部分的做法是通过免费VPN来引流，通过销售手段来诱导用户购买付费套餐，这种算是比较良心的了。
 
-美国的主机ping值比香港、日本，韩国的主机要高，但相对较为稳定，而且因为美国主机IP资源丰富，流量特征相对没那么冥想，丢包相对好很多。美国西部的主机ping值一般都在300以内，好的时候可以到200以下。
+另外的免费VPN则是通过弹窗广告盈利，如果一不小心点击了广告链接，会面临很多未知的安全风险。更有甚者，会在免费VPN中植入病毒，并窃取用户账号信息。以下免费VPN无法在中国使用，请不要在这上面浪费时间：
 
-欧洲的主机比较难说，前段时间有朋友说伦敦的节点ping值低，也不妨一试，主流vpn服务商都提供全球上百节点，都可以试试。
+-   PrivadoVPN
+-   ProtonVPN
+-   Windscribe
+-   Tunnelbear
+-   VPN Gate
+-   Hotspot Shield
+-   Hide.me
 
-### 游戏vpn推荐
+付费VPN是我推荐的最稳定长期的选择，有利可图才会有VPN商家积极升级技术。即便是国外商家，也会逐渐重视中国市场，推出它们专属的VPN协议。付费VPN也不会存在广告和病毒等安全风险，相反它们甚至会提供相应的广告过滤功能。
 
-[ExpressVPN](https://kanvpn.com/go/expressvpn)，[PureVPN](https://kanvpn.com/go/purevpn)都是非常好的游戏VPN，前者的HK-4服务器集群一直都是翻墙首选，延时低，很稳定；后者提供日本、韩国、台湾等地的备用节点，非常适合玩游戏。
+解锁流媒体、玩游戏、种子下载、无带宽限制这些服务都只有好用的付费VPN才能提供，遇到节点被墙、VPN连不上、速度慢、不稳定都可以利用备用节点继续科学上网，或者可以联系24/7在线客服解决。
 
-付费vpn的优势主要在于遍布全球的而服务器，如果你用游戏vpn的主要目的是连接多国服务器，避开锁区限制，付费vpn是最好的方案，因为访问多国服务器，自己架设的成本比付费vpn要高很多，不止是金钱投入，更重要的是维护多台服务器的时间成本。
+国内VPN也是个大坑，其中鱼龙混杂，有些甚至是钓鱼VPN，专门用来搜集中国VPN用户的数据信息，你的所有浏览数据都会被记录下来，有朝一日可能会成为你喝茶的门票。其中Turbo VPN、快连VPN、酷鸟浏览器、老王VPN、蚂蚁VPN、佛跳墙VPN等都有一定的钓鱼嫌疑。
 
-我们不推荐玩家自己搭建游戏vpn，但如果你的技术能力能驾驭，不妨试试。
+## VPN中国连不上怎么办？
 
-懂一点服务器技术的，搭建vpn也并不复杂，推荐Vultr，这是个国内用户众多的VPS服务商，支持一键安装openVPN服务器。
+长期使用VPN翻墙的用户都知道，防火长城每年都不定期抽风，是不是升级一下检测系统。作为提供VPN软件的服务商也没有太多办法，只能魔高一尺道高一丈，即时提供最新的中国VPN服务器，修复被墙的IP节点。
 
-> OpenVPN是开源的VPN服务器，现在可以在Vultr Apps上使用！ 立即启动您的高性能OpenVPN VPS并使用我们全球14个地点中的任何一个连接到互联网。
->
-> 使用VPN服务器，您可以为您的互联网活动添加一层安全性，并防止对家庭网络的攻击。 借助Vultr Apps，部署VPN服务器从未如此简单 – **您可以通过从Vultr控制面板中选择“应用程序”来创建自己的OpenVPN服务器**。
->
-> (Vultr官网：搭建openvpn）
+有时候翻墙工具也会偶尔出现连不上的问题，好用的VPN软件基本当天就能修复，而不知名品牌的国外VPN或者国内VPN则需要较长的时候，这也是为什么我们推荐知名一线品牌的付费VPN作为在中国翻墙的首选。
 
-OpenVPN需要特别的客户端，搭建好服务器以后，搜索并下载适合当前操作系统的通用vpn客户端即可。
+在使用VPN软件的时候，如果遇到VPN连不上，或者连上了没有反应，以及连接速度慢VPN很卡等问题，请参考以下步骤提供的解决办法：
 
-注意
+#### 1.重启电脑手机设备上的VPN软件
 
-笔者已经很久没有测试过自行搭建基于OpenVPN协议的翻墙软件了，这种方法很可能早就过时。
+每个人的电脑、手机、平板等设备型号都是不同的，本地网络情况也不太一样，这可能导致一些玄学问题，只能靠魔法打败魔法。重启VPN可以简单有效地解决很多未知的VPN连接问题。VPN软件重启之后最好清除浏览器Cookies、DNS缓存，然后再重启你的设备。
 
-自己搭建vpn的缺点也很明显，你不可能自己搭建IP覆盖全球的服务，最多也就几个IP，多数人其实都只有一个可连IP，所以这种方法能不能用基本看运气，有玩家搭好了几个小时IP立刻被封的，也有搭好了用上很久，而且如果你要多个国家的IP得买多个国家的VPS，未必比付费vpn划算。
+#### 2.选择其他VPN服务器
 
-你也可以考虑SSR，但这种方法（和其它自建的方法一样），只会越来越不稳定。
+单个VPN节点连不上是比较好解决的，如果通过推荐的VPN服务器(比如香港、新加坡、台湾、日本、韩国)等中国大陆周边的IP节点连不上VPN。可以切换到稍远的美国VPN线路，虽然延迟高一点，但是IP节点要多一些，负载相对来说要低，可能使用起来速度更快更流畅。
 
-最大的缺点仍是单IP，IP被墙只能换IP，虽然换IP不算麻烦，现代的VPS都支持从老镜像生成新主机（有新IP），不过频率高了也不轻松，新分得的IP未必能用，所以有时候得反复，很麻烦，而且如果需要多国IP，你得买多台VPS，成本往往比付费vpn高。
+次要选择是连接加拿大、澳洲、印度、泰国这些不太常用的VPN节点，这在IP封杀严格的特殊时期不错的备用VPN服务器。意大利、西班牙、荷兰、丹麦、瑞典、瑞士、挪威、乌克兰这些IP地址一般不太常用，如果你有留学和商务需求可能对你来说很好用。
 
-## 中国VPN问答
+#### 3.选择其他VPN协议
 
-### 为什么要小心免费VPN？
+有时防火长城会针对某种VPN协议进行封杀，如果你碰巧正在使用这种VPN协议，则很可能出现VPN连不上或者连上了很快就断开的情况。我们推荐的VPN都提供了多种升级版VPN协议，在”设置”界面可以轻松切换不同的VPN协议，记得设置之后重启VPN软件。
 
-免费的VPN也有用处。
+当然传统VPN协议是无法绕过防火长城年年升级的，以上的VPN推荐排行中的品牌VPN都具备自家研发的翻墙协议，在原有VPN协议基础上进行了升级，伪装流量的特性大大提升。比如ExpressVPN的Lightway协议、Surfshark的Camouflage/NoBorders模式、PureVPN的自由上网以及隐形VPN、OpenWeb功能、变色龙协议、混淆服务器等，虽然翻墙功能的名字不同，但核心原理都是一样的，记得在连接VPN之前开启才能在中国翻墙上网。
 
-谁的钱都不是风刮来的，现在靠谱一点的VPN软件一年要好几百，不是所有人都舍得花这个钱。
+#### 4.及时升级最新的VPN软件
 
-免费VPN还是有用的，至少它们能提供临时上网的渠道，尽管免费VPN的速度一般较慢，但查个邮件，看个网页也够用。免费VPN还有个很重要的用处，就是先翻墙再去购买下载某些付费VPN服务，这虽然听起来有点讽刺，但不是所有的付费VPN都能直接从中国直接购买。
+为了于GFW进行对抗，翻墙VPN服务商会经常升级VPN软件。需要注意的是这些情况不会自动升级VPN软件，需要你手动操作：在Windows电脑、Mac电脑上安装的VPN客户端软件；通过apk安装包安装的安卓VPN；使用了美区Apple ID下载安装iOS苹果VPN(iPad、iPhone)。
 
-不过，我并不建议你在个人设备上长期使用免费VPN，安全风险有点大。
+另外，VPN连不上也可能是服务商临时维护，可以看看APP内的消息中心是否有维护公告，或者去VPN官网问问在线客服和技术支持，这种情况不要慌，耐心等待很快就能解决。
 
-**有国外VPN评测机构报道过，目前市场上近六成免费VPN厂商均来自中国大陆**，国内唯利是图没有底线的软件开发商我们不是没有遇到过，但因为VPN是底层软件，把它装到手机等个人设备上，你可能承担着很大的风险，只不过大部分时候你都不知道而已，从这个角度说，那些给你做很多广告弹窗的应用算良心的，国内软件的恶意远远不止弹点广告那么简单，所以如果你一定要用免费VPN，还是仔细看看App开发者的背景吧。
+#### 5.切换不同的网络
 
-**免费VPN**都存在流量，连接数，设备支持，广告等限制和缺陷，能长期免费的VPN服务器列表被墙得很快，因为免费的东西谁都想要，有限的资源无法长期支持大量用户，用着用着就不好用了，更新不一定及时，能不能连上得自己手动试，耗时耗力。而且很多声称免费的VPN实际只是“免费试用”要长期使用，仍然需要付费。
+如果你正在手机上通过4G/5G使用VPN软件，可以尝试切换到WiFi，由于移动、电信等ISP运营商线路不一样，因此网络情况会有很大的差别，但一般来说翻墙最好选择电信。
 
-市场上很多所谓免费VPN几乎没有什么开发，就是拿个开源脚本装一装就出来卖了，这种产品在GFW面前不堪一击。从经济的角度，只有收费的VPN服务才有足够预算投入开发，也只有这些VPN提供商才有财力维护大量服务器，以保证中国大陆VPN用户的服务质量。
+## 使用翻墙VPN要注意什么？
 
-### 什么是DNS Leak保护？
+#### 1.不要分享或者出售VPN软件
 
-当你访问www.google.com，如果没有DNS Leak保护，那么DNS流量（就是请求DNS服务器把域名转化为IP的请求），将暴露在国内网络监控之下，而DNS Leak保护，能把你的所有DNS请求都保护起来，原理是电脑连上VPN以后，DNS流量都会通过加密隧道到达VPN提供的私有DNS服务器，你的隐私将得到更好保护，一线的VPN都提供DNS Leak保护。
+个人使用翻墙VPN虽然也属于违法行为，但是一般情况不会追究法律责任，毕竟中国VPN翻墙网民成千上网，正所谓法不责众。但是如果在网络上网分享/共享VPN账号，这就涉及到传播VPN软件的行为了，最好不要冒这个险。在微信、QQ上和朋友聊天时，也最好不要提中国VPN、翻墙VPN、VPN软件、好用的VPN这些敏感词，因为聊天记录会被审查，极有可能会被封号或者查水表。
 
-维基百科：DNS Leak
+出售VPN梯子更是大忌，一旦涉及到出售翻墙软件获利，这个定性就必要严重。虽然你可能有一身本领，可以轻松搭建翻墙工具，但是在中国要找到你很简单，通过用户微信、支付宝购买付费VPN的记录，就可以轻松追查到你。每年都有因为私自开发VPN被迫入狱的新闻，但依然有人铤而走险。
 
-### 如果不是为了翻墙，VPN还有用吗？
+因此我也是不推荐你使用机场梯子翻墙的，没准哪天运营国内VPN的团队就进去了，当然你的会员费是肯定不会退给你的，相反还会成为违法使用VPN的证据。
 
-其实VPN本来的作用并非为了翻墙，而主要是为了加密和匿名上网，至少在国外，人们主要用VPN来隐藏IP地址，不被第三方追踪到自己的上网和下载记录。比如连接机场，咖啡馆，茶室等公共场所的WIFI时，使用VPN对连接加密，会更安全，因为VPN加密通信，公共WIFI提供者的路由器无法获取上网记录或者截获敏感信息。还有比如在家工作的人要连到公司内网往往通过VPN，连上以后使用者的电脑就像在公司办公室一样，因为传输加密，所以不容易泄露公司敏感资料。VPN的换IP能力也被用来绕过各种在线服务的版权限制。
+#### 2.不要在网络上违法发言
 
-### 为什么你自己架设的OpenVPN服务器无法翻墙，或者很快被墙
+相当大家都听说过使用VPN被传唤的新闻，这些人除了运气不好之外，很有可能是使用了老王VPN、快连VPN这些国内钓鱼VPN，这些VPN软件会实时上传你的浏览数据，一旦涉及到违法内容就会触发审核。如果在抖音、知乎、快手、豆瓣等平台在发表几句政治言论，那么分分钟可以找到你，毕竟现在各大国内网站都有IP属地显示。不要迷信国外VPN的安全性，相关人员的工作能力还有有点，国内互联网都处在监控之下，没有绝对的安全和匿名。
 
-因为OpenVPN协议以及软件是开源的，所有人都可以搞到源代码，墙背后的那一大帮子人也可以，自然能特别有针对性地设计出识别机制加以限制，很多人觉得只要协议加密，如OpenVPN就能顺利翻墙，事实不是这样，因为协议之所以为协议，在传输加密数据之前都要建立链接，而各个协议建立链接都有流程和数据报文的特征，墙也许不能有效侦测加密数据，但完全有能力侦测到协议报文，这是为什么“只是”使用开源OpenVPN协议很难逃过墙的法眼的原因，必须在OpenVPN的基础上进行二次设计，一线VPN厂商都是这么做的。
+因此即便在国外网站了解了一些信息，也不要在国内平台发表任何评论，以避免不必要的麻烦。当然也不用过于担忧，使用中国VPN翻墙的用户大有人在。之前已经说过了，对于程序开发、出国留学、科研、外贸电商这些科学上网用途，样样都离不开VPN梯子。
 
-### 如果我想要翻墙回国内，有好的VPN产品吗？
+国外大部分技术都还是处于领先地位的，因此合理使用翻墙VPN可以方便我们的工作、生活和娱乐，平时翻墙上网小心一点，一般不会有问题。
 
-在国外生活的人经常碰到的问题是访问国内网站内容的版权限制拦在外面，比如优酷，B站，网易音乐的内容版权限于国内访问，国外IP受限，这时候你可以用VPN服务穿越到国内，这样就可以以比较低的价格享受这些服务了（国外的音视频订阅服务价格比国内贵），你可以看：翻墙到中国VPN推荐。
+#### 3.尽量选择知名品牌VPN
 
-### 为什么一线VPN没有被墙
+现在网络上千奇百怪的VPN不计其数，国外VPN虽然信用比较好，但真正能在中国稳定好用的VPN寥寥无几。一些听都没听过名字的VPN最好不要尝试，这种花钱的坑还是让VPN推荐测评博主来踩最好。即便是知名品牌的付费VPN也不是所有都能在中国使用，要绕过中国的GFW没点过硬的本事是不行的。
 
-它们也被墙，如ExpressVPN的官网ExpressVPN.com是无法从国内访问的，但厂商提供很多备用镜像网站，一个被墙就开另一个，域名和IP都不同，走HTTPS流量，GFW要再次侦测到往往需要花几周或几个月的时间，这种“打一枪换个地方”的策略很奏效，一线厂商就是通过这种手段让[中国VPN](https://qiangwaikan.com/best-vpn-china/)用户不翻墙就能买到他们的服务的。你从本站点击到达的链接都是VPN厂商做的针对国内用户的镜像站。
+不知名的小众海外VPN可能不会注重翻墙协议的开发，仍然沿用的的是传统的VPN协议，这显然是无法在中国能用的。而国内VPN则没有一款在VPN推荐中，早些年像GreenVPN(绿叶VPN)都因政策原因关闭了，目前国内没有合法的VPN软件公司。
 
-### 同设备同时使用多个翻墙软件的问题
+大部分是个人或者小团队私自开发的SSR和V2Ray机场梯子，使用这些翻墙软件随时都会面临平台圈钱跑路的风险。一旦机场运营人员被请喝茶，你注册VPN的账号信息，都会被上报到有关部门。不要指望国内VPN会保护你的个人隐私，他们只会偷偷窃取你的内容并记录下来，当你在访问银行网站、购物网站的时候都非常不安全。并且在中国VPN翻墙会遇到各种问题，一旦付费之后遇到无法连接VPN，到时候客服根本就不会理你，没有任何安全保障。
 
-多数时候你可以在同一台电脑或手机上安装多个翻墙工具而不碰到任何问题，但也有少数时候某些工具间会有冲突，导致系统VPN无法正常工作，或者某个特定App无法正常工作。
+## 中国VPN推荐常见问题
 
-另外当你用无法正常连接的翻墙软件发起连接且该工具又没有连接时自动断网功能时，你的网络服务商可能短时间切断你的网络（免费工具较为多见），表现是你突然发现路由器WIFI无法连接（得手动重连）或者你的光猫分配到的公网IP无法访问外网，这种“暂时断网”现象并不少见，这是长城防火墙阻止用户翻墙上网的措施，一般不会持续太久就会自动恢复。这个问题会让很多用户误以为某些翻墙软件自身无法使用，而其实只是因为本地网络暂时出问题了。
+### VPN是什么？
 
-### 如何在打开VPN时正常访问国内网站
+很多朋友可能觉得”VPN是什么”是个很弱智的问题，VPN不就是翻墙工具吗？答案或许并没有这么简单，接下来我将介绍VPN是什么，VPN和代理机场的区别，以及VPN的工作原理是什么。内容涉及到一些专业术语，如果你觉得比较枯燥可以跳过阅读这部分。
 
-在打开VPN时，无论是电脑或手机应用程序的流量默认都走VPN路由，这对访问国内网站没有必要，因为访问国内网站本来不用借助VPN，强制走VPN路由，反而绕了个大圈子，比不用VPN访问慢不少。
+首先来说，VPN是虚拟专用网络(Virtual Private Network)的英文简称，最开始是为了解决企业直接加密通讯的问题。通过密码学算法将敏感数据加密，然后传输到目的地在解决，可以防止数据在公共网络上被窃取或者破解。同时，相比架设真实的专用网络，费用大大降低，这样VPN的使用便普及到了普通用户。
 
-下面以[ExpressVPN](https://kanvpn.com/go/expressvpn)为例，介绍在打开VPN时如何正常访问国内网站，同时，访问国外被墙网站仍走VPN。
+因为这种加密的特性，可以让防火长城GFW无法知道你访问了哪些访问，因为你连接到VPN之后，防火长城就以为你访问的是VPN服务器，而不是Google、Telegram、Facebook、Twitter这些在黑名单里面被墙的国外网站。
 
-**同一设备上不同应用程序走不同线路（ExpressVPN安装在电脑或手机上）**：
+最开始随便什么VPN协议(OpenVPN、IKev2、L2TP/IPsec、SSTP、PPTP)都可以轻松绕过检测，但由于防火长城的技术升级，传统VPN协议在中国翻墙已经不再好用。于是国外VPN开始研发更新的VPN协议，比如WireGuard或者其他翻墙功能。国内技术大牛也开发了SSR、V2ray、Trojan等代理翻墙梯子，相比VPN协议而言安全性不高，有数据泄露的问题，但是作为翻墙梯子还是不错的。通过这些开源代理协议，一些技术人员也在搭建和出售VPN梯子，这也被称为小飞机、小火箭等机场梯子。
 
-这个功能叫Connection Per App Split Tunneling（按应用程序隧道拆分）。
+### 在中国使用VPN违法吗?
 
-通过拆分隧道功能，您可以决定在连接到ExpressVPN时哪些应用将使用VPN以及哪些应用不会使用VPN。例如，您可能希望除Firefox之外的所有应用程序都使用VPN。 或者您可能只希望Chrome使用VPN。 您可以将ExpressVPN配置为“拆分隧道”流量，以便仅某些应用程序使用VPN。
+可以很明确的回答，是的。有明确的法律规定，中国已经全面禁止VPN，使用VPN属于违法行为。
 
-需要注意的是，**必须断开与VPN的连接才能更改拆分隧道设置**，并且，只要您连接到ExpressVPN，无论您如何配置拆分隧道设置，所有DNS查询都将通过ExpressVPN的服务器。
+当然，现实情况是，在中国VPN用户大有人在，外贸电商、在华外国人、回国华人、写代码/搞科研查资料的人都需要好用的VPN，这些用途其实也为了帮助工作、生活和学习。只要不在网上发表政治言论，一般不会遭到处罚，不过偶尔还是有倒霉的用户因使用VPN被罚。
 
-设置界面（随着ExpressVPN客户端的更新，界面可能会有差异）：
+当然，在中国私建机场，然后出售给其他人这个问题就严重了。每年都会有人因为开发出售翻墙软件入狱的新闻，千万不要抱着侥幸心理。在知乎上甚至有因为出售建站主机被抓的案例。
 
-**Windows：**
+### 为什么不推荐国内VPN？
 
-**Mac:**
+去年网上出现了一款国产VPN，当时铺天盖地全网都在说这款VPN在中国多么好用。但是出于警觉，我对于这种国内VPN还是抱有怀疑态度，并没有将它列入我们的VPN排行中。最后果不其然，一年不到有网友就反应VPN连不上，客服人去楼空。
 
-你会看到有三个选项（下面截图为Windows系统，Mac类似）：
+因此我绝对不推荐大家去购买国内VPN。像这款VPN一样，我们不知道他们到底是出现了财务危机，还是被拉去喝茶了，但最终结果就是会员费打水漂了。
 
-**所有应用都使用VPN**：
+而国外VPN则完全不会存在这种问题。首先他们不受中国法律约束。其次，他们都具有至少30天的退款保证，而且国外商家是出了名的讲信用。即便无法在中国使用，也能轻松获得退款，可以无风险试用。
 
-如果您希望计算机的所有互联网流量在连接到ExpressVPN时使用VPN，请选择此选项。 （这与取消选中上一屏幕上“每个应用程序连接”旁边的框的结果相同。）
+在2017年之前，在中国VPN的处境并没有如此艰难，你可以在百度、应用商店搜索下载APP软件。但在这之后情况急转直下，工信部发布了禁止国内公司/个人未经允许提供VPN服务的规定。GreenVPN被迫关闭/停止服务、蓝灯/赛风相继被封，使用VPN被抓的新闻也层出不穷。
 
-**不允许选定的应用使用VPN：**
+这也是我不推荐中国大陆VPN服务商的原因，很可能前脚购买了VPN，后脚VPN就不好用、连不上了，联系客服也无人回应。别问我是怎么知道的，我已经踩过很多坑了。而且这些VPN服务商一旦被查，你使用VPN过程中的浏览记录都会上交，增加了潜在的喝茶风险。
 
-如果要在连接到ExpressVPN时确定哪些应用不使用VPN，请选择此选项。
+### 自己搭建梯子怎么样？
 
-**不同设备走不同线路（ExpressVPN安装在路由器上）**：
+防火长城GFW对普通的VPN封杀很严格，于是很多热心网友开发了Shadowsocks（SSR）、V2Ray、Trojan等协议，还有最新的Wireguard，很多IT技术人员也开始搭建梯子自用。通过阅读网上的教程，然后购买租用国外VPS，就能够搭建自己的翻墙工具。
 
-您可以为连接到ExpressVPN App for Routers的每台设备打开或关闭VPN保护。 使用拆分隧道可以保持对本地网络设备（如打印机）的访问。
+当然我并不推荐所有人使用这种方法。首先这需要你具备一定的技术经验，如果你不懂Linux操作系统，那么搭建过程起来可能不像我所描述的那么简单，毕竟隔行如隔山。
 
-具体操作参考这个视频。
+即便是技术人员，也需要面对防火长城GFW升级的问题，原来好用的VPN协议，现在可能无法使用了。前几天还能正常连接的IP，现在无法Ping不通了。
 
-**是否有任何分裂隧道风险？**
+一旦IP被封，购买VPN服务器或者换IP都需要花钱。而使用付费VPN则可以避免这些麻烦，不用自己搭建VPN服务器，不用配置客户端，还有大量备用IP可以切换使用。最后，价格还比自己搭建梯子便宜。
 
-如果未正确配置拆分隧道设置，则您的ISP或第三方可能会访问您的某些敏感信息。要保护您的在线活动，请确保在处理敏感数据，下载或种子时仅使用受VPN保护的连接。
+### 香港、台湾VPN用户如何选择VPN软件？
 
-其它翻墙软件是否支持Split Tunneling以及如何使用，请联系客服。
+虽然台湾、香港不想中国大陆那样存在互联网审查，但是随着国安法的颁布，香港用户对个人隐私安全有不少担忧，许多用户都开始寻找最安全好用的VPN。因为VPN的加密安全性是毋庸置疑的，想要破解AES256加密几乎不可能。本文推荐的VPN不仅可以在中国大陆翻墙，也具备经过认证的安全性，严格遵守无日志策略，VPN公司都不再中国国内且没有任何中资背景。
 
-## 购买付费VPN有哪些误区？
+此外，对于台湾、香港VPN用户来说，解锁Netflix、HBO、Hulu、BBC iPlayer、Amazon Prime Video、Disney+等国外流媒体也非常好用，可以通过VPN连接到土耳其、阿根廷VPN服务器来订阅更便宜套餐。最后再次提醒以下，到中国大陆旅游之前请提前下载VPN软件，避免无法使用Twitter、Instagram、Facebook、Gmail、WhatsAPP与家人朋友联系。
 
-### 别购买国内的付费vpn服务，哪怕它们的服务器都在国外
+## 中国VPN软件使用技巧
 
-政策风险和技术风险一样大，几年前GreenVPN宣布永久关闭，影响可能波及几十万用户，退款是其次，更重要的是服务被突然打断，影响不少人的工作，这带来的损失要大得多。我想起2009年cn域名被从几百万站长手里收回的事，历历在目。中国互联网的某些区域，没有个人的位置，不要侥幸心理。百度能搜出来几十上百家国内vpn服务商，可以预期它们将会有和GreenVPN相同的命运。GreenVPN提供了“放弃退款”按钮，不能不说是一种讽刺。
+**如何选择中国VPN服务器？**
 
-> 尊敬的Green用户
->
-> 接上级监管部门通知，我们必须很遗憾地告诉大家：Green将于2017年7月1日起停止服务。由此给各位造成的不便，我们深表歉意！
->
-> 服务停止后，我们将开始处理需要退款的用户申请（金额根据剩余的服务天数计算）。如需退款，请务必于2017年8月31日前提交退款信息，超过该时间将无法受理。由于登记、核对、转账的工作量较大，退款到账时间暂无法承诺。预计于8月31日统计核对工作完毕后，Green将开始处理退款，敬请您能耐心地等待退款到账。
->
-> 是您的每一次点赞与肯定，鼓励我们一直坚持到了今天，我们始终心存感激。此后，Green团队将进行转型，期待有缘与您再次相会。
+最常用的肯定是香港、新加坡、台湾、日本、澳门、韩国这些IP节点。而美国IP节点虽然延迟高一点，但是平时用的人少些，并且节点众多，因此也是不错的选择。
 
-### 别购买太便宜的付费vpn
+一般来说肯定是离中国大陆距离较近的节点速度越快，不过凡是不能太绝对，遇到高峰时期、特殊时期，切换到一些距离较远的节点或许效果更佳。
 
-便宜一定没好货吗？不一定的，有些东西确实可以物美价廉。
+并不是所有VPN服务器节点都好用，像欧洲节点连接速度就非常慢，除非有特殊需求，比如解锁英国、德国流媒体网站等，否则我不推荐这些VPN节点。不过在特殊时期如果遇到VPN节点被封杀比较厉害，这些VPN服务器也是第二选择，在本VPN排行榜中推荐的VPN软件都提供全球VPN节点，可以满足翻墙出国的所有需求，这也是顶级VPN的一大优势。
 
-但不是VPN服务。
+**专用的翻墙模式是什么？**
 
-一个足够稳定可靠VPN服务需要的投入
+有时候中国GFW会对某一种VPN协议进行打击，所以切换不同的IKEv2/IPSec、OpenVPN、IPSec、SSTP或许可以针对性解决问题。当然这里说的是经过技术改造的VPN协议，才能从容绕过防火长城GFW针对VPN协议的干扰。如果你没有使用此VPN推荐列表中的中国VPN，那么大概率是不具备翻墙能力的。
 
--   遍布全球的服务器，优选线路，主机费用，还有影子主机域名，来绕过各种屏蔽限制，让用户能第一时间买到用到
--   核心技术，一线vpn服务商都有自己的干扰算法，并且持续开发和迭代这个算法，因为全世界的反VPN技术一直在进步，没有这个技术，服务是很难持续的，因为不需要很久就被墙挖掘出流量特征
--   建立一支专业的技术支持和客户服务队伍，能为你提供随时的live chat，回邮件的时间不超过12小时，或者当你碰到问题的时候，能够第一时间联系到技术
+不同的VPN服务商应对翻墙有不同的解决办法，或者不同的称呼，比如StealthVPN、NoBorders模式、Camouflage模式等，下载安装VPN之后，需要去”设置”中手动开启，才能起到伪装流量的作用。
 
-羊毛出在羊身上，一味标榜低价的服务商，往往不具备核心技术，也提供不了专业的客户服务，总是以降低服务质量和使用体验为代价的。
+**准备多款备用VPN**
 
-### 尽量别购买国内买不到的付费vpn
+据我所知，身边经常翻墙的朋友，都同时使用2款以上的VPN。没有哪款VPN能保证全年100%的连通率，不管是防火长城升级还是内部技术原因，都会偶尔出现某款VPN连不上的情况。
 
-一个vpn厂商如果连自己的网站都不能反屏蔽，用户想买也买不到，它的技术和资金投入能有多大呢？事实上在国内能直接购买到的一线vpn服务商并不多，我推荐过的[ExpressVPN](https://kanvpn.com/go/expressvpn)是这些年来唯一一个保证了“能访问，能购买”的服务。
+区别在于顶级的品牌VPN可以在短时间内修复VPN连接问题，比如IP节点被墙、服务器负载过高或者被黑客攻击等。而劣质的VPN或者免费VPN无法及时解决问题，相反还会收集售卖用户数据，很多国内VPN一旦付费之后客服就不搭理你了。
 
-在伟大的墙面前，这个世界上已经没有100%时间，连接100%的vpn服务。任何服务都有不稳定的时候，一线的厂商在这些时候通常会特地更新服务，或者做一些技术上的处理，让用户平滑地度过特殊时期。但是如果这些时候你连它的官网都访问不了，只能乖乖的等风声过去，不是要耽误不必要的时间？
+但是2款VPN同时连不上的几率就很低了。我平时主要使用ExpressVPN的时间比较多，其他几款好用的VPN一般是来回切换着用。
 
-### 如果有选择，别购买VPS自己搭建VPN服务，别低估墙的威力
+**回国前**提前下载VPN软件****
 
-如果vpn只要自己买个vps服务器，装个服务器，就行，恐怕vps厂商已经在大力鼓吹这个服务了。要活的稳定的连接，把鸡蛋放在一个篮子里是不可行的。
+如果你是海外党留学生华人，或者首次来中国工作旅游的游客，我建议你提前下载我们推荐的VPN软件，最好是在Windows电脑、安卓手机、苹果手机、iPad平板电脑上都安装翻墙VPN。
 
-技术上，标准的vpn协议已经不能有效反政策，伟大的墙在几年前就已经有了相应技术。这是为什么一线厂商要自己投入干扰算法的原因。当然，也可能你运气好，架设的服务可用，也用了一段时间，但能稳定多久呢，你是否有时间和技术能力去深入自定义你所安装的vpn服务器软件的传输参数？很可能没有。你和绝大多数人一样，需要的是一个服务，而不是去纠结深奥的技术配置。买vpn本身就是省心。
+因为防火长城封杀了几乎所有的VPN官网，只要你进入了中国大陆就无法下载到这些知名VPN了。Apple Store中国区早已应政策要求下架了所有翻墙软件，你现在搜出来了可以肯定地说，要么是钓鱼VPN要么是骗会员费的VPN，付费订阅之后很可能无法使用。而Google Play安卓应用商店众所周知早已被墙了。
 
-### 谨慎选择非知名但支持P2P的付费VPN，因为这样的服务长期保证不了质量
+**及时联系客服解决问题**
 
-假如今天你花钱买了一个vpn服务，你会希望这个服务的其他客户连着P2P下东西吗？P2P是机器消耗网络资源的服务，一台主机的连接资源，带宽资源是有限的，一两个用户同时开P2P服务，可以轻而易举地消耗掉其他用户的资源。一个vpn厂商要支撑P2P用户的服务所需要的成本，最终转嫁到所有用户的头上。扩展P2P所需要的服务资源，会最终成为厂商技术团队的主要负担。所以我个人从不考虑允许P2P的vpn厂商。我更信任专注做好vpn服务的厂商。况且，国内的P2P环境其实比国外更加泛滥，开着到国外的vpn做P2P下载，未必优于国内的线路。
+你可能觉得联系客服来解决问题是效率很低的事情，但事实上当你遇到棘手的VPN问题时，联系客服或者技术支持解决问题是最直接的。由于在中国使用VPN本身就不稳定，因此你很可能需要获得帮助。
 
-本文会根据测评情况，定期更新排名，如果觉得内容有用的话，欢迎添加收藏[中国VPN推荐](http://vpnfast.github.io/)或[翻墙软件](https://github.com/vpnfast/vpnfast.github.io)测评。阅读更多相关[翻墙](https://vpnfast.gitbook.io/bestchinavpn)文章，请点击查看[科学上网](https://github.com/vpnfast/vpnfast.github.io/wiki)指南。
+客服其实可以为你提供很多帮助，比如特殊时期为你提供临时的VPN服务器，帮助你设置在中国大陆上网的翻墙模式等。你可以直接通过官网在线聊天联系客服，或者在后台提交工单。当然，在这之前可以先在帮助文档中查找常见问题解答，可以快速解决问题。
 
----
+**充分利用退款保证**
 
-**网友评论：**
+本文推荐的所有VPN都提供了至少7天的退款保证，而且我已经测试过是可以退款的。在退款期限内，你可以在电脑、手机、平板上安装使用，如果不满意，可以联系客服退款。
 
-您好，想麻烦问一下，要换电脑了，能不能把之前电脑上各VPN软件的安装包复制下来，传到新电脑安装使用呢，谢谢了
+这样相当于也获得了免费试用VPN的机会。当然，我并不希望你滥用这项服务，以免将来国外VPN商家放弃中国市场，到时候大家都翻不了墙。
 
-参考了很多资料，最终因为资金问题入了熊猫，目前测试感觉要常换节点，有些连不上，还有就是官网提供的分享美区账号无法使用了，要自己找美区appleID来下载ios版本不是很方便
-> 可以联系客服，他们会重新提供账号
+## 哪些网站在中国需要翻墙？
 
-发现 ExpressVPN非常不好用，经历过好多系统了，很不稳定，经常掉，而且经常链接不上，和蓝灯在一起相比的话蓝灯会很有优势
-> App一直在更新，HK节点官方已经不推荐了，目前日本横滨以及新加坡的Marina Bay确定都是可连的。
+在中国防火长城封锁了许多国外知名网站，必须借助好用的[翻墙和科学上网](https://qiangup.com/gfw/)工具才能访问，如果你不知道翻墙后干什么，可以访问以下这些被墙的[国外网站](https://qiangup.com/hot-site/)，这只是冰山一角：
 
-lvacy很便宜，是否安全可用？
-> 离我上次回国测有段时间了，上次没能连成功，您得自己试试。
+-   社交软件：
 
-expressvpn的中文镜像网站现在打不开了，求最新链接
-> 找国内朋友试了，可以打开的，只是有时候打开不快。
-> 不知道什么原因，我朋友在国内连也无法打开，我在国外点击本帖里的镜像网站链接就是国外express官网的链接，可以求国内能打开的具体网址吗？谢谢！
+Facebook、Twitter、Instagram、Yik Yak、Pinterest、Reddit、Tinder、LinkedIn、Tumblr、Flickr、Snapchat、VK、Tiktok、Quora
 
-小编我想知道熊猫现在好用吗我这几天马上要回国了同学都推荐我用熊猫但是我看评论区和你的建议都说现在熊猫处于敏感期
-> 熊猫最近几天（七月末）奇慢无比，路线很多但是一到晚上基本没有几个能正常连接上，不是正在连接就是连接超时，以后后悔入会员了
-> 绝大多数SVIP节点速度都是好的。
-> 不是小编，但我觉得你可以先用那个expressvpn,反正一个月无条件退款，你可以在1个月内慢慢找你喜欢的
+-   新闻媒体：
 
-ExpressVPN在六月是连得特别慢，这两天是用推荐给中国用户的那四个节点都完全连不上了
+纽约时报、CNN、BBC、福克斯新闻、华尔街日报、华盛顿邮报、卫报、雅虎新闻、谷歌新闻、自由时报、联合早报
 
-一般免费翻牆软件到了现在还是无法连线，是否就真的废掉了
+-   视频流媒体：
 
-最近Nordvpn又不好用了，用的NordLynx协议也不好使，有能用的人帮忙支个招吗？
+Netflix、BBC iPlayer、Disney+、YouTube、Hulu、HBO、Amazon Prime Video、ESPN、FuboTV、ITV、HotStar、DAZN、Sky Go、ShowTime、Apple TV、Discovery+
 
-昨天刚买的panda vpn ，刚开始还好用，为什么第二天，连上了，但浏览网页时却说处于离线状态
-> 用SVIP节点
+-   通讯和工具软件：
 
-，国内手机怎么安装ExpressVPN？请赐教
-> 目前除了找人帮你注册苹果美国商店ID没有特别好的办法
+WhatsApp、Omegle、Google Chat、Facebook Messenger、Gmail、Telegram、Skype、Line、Tor、IPTV、Kodi
 
-我想问下，Panda VPN连接服务器后还是没法登陆youtube等网站是怎么回事，已经尝试了好几个结点了，进入一些外网速度还是非常慢，进入Panda官网也还是显示我当前的状态是未受保护的。是哪里没设置好吗 (设置里面的备用服务器地址需要填写什么嘛
-> 使用 SVIP 节点，基本都能用
+-   搜索引擎：
 
-请问过了6月是否就能恢復正常呢
-> 能的，这不是第一次，也不会是最后一次，年年如此，耐心吧。
+Yahoo、Ask、DuckDuckGo、Yandex、Bing、Google、Naver、WebCrawler、Infospace
 
-使用ExpressVPN大半年了，使用体验还是很满意的，要是早点看到的帖子，之前就不会在选择VPN的时候摸不着头脑，以及在别的软件上花冤枉钱了，好在，最后还是认准了ExpressionVPN，值得庆幸，决定后续续费就走这个通道了。
-我有两个疑问，第一次购买的时候享受了买12个月送3个月的优惠活动，是不是后续就没有办法再次享受这种优惠了？
-最近为了支持华为，买了MateBook笔记本，以及mate 30pro，在新机器上开始使用的时候虽然磕磕碰碰，但也可以成功连接VPN，不幸的是，前几天这两个终端上的VPN彻底挂掉了，就连check for status updates都无法连接，向客服反馈了，一天之后可以连接了，但是成功率很低。然而，同一时间段我的戴尔电脑却几乎可以秒连，而且一直秒连，没有波动过。我猜想是不是这些国产终端产品上会有某种类型的软件，或者某种设定让VPN容易被墙检测到，甚至发挥了协助墙的功能？请解惑，并且有没有应对方法，考虑过立刻转让掉新买的笔记本和手机，换海外的牌子，发现要折损几千块。心疼啊。谢谢！
-> 你的智商很感人啊。华为本身就是墙！
-> 如果是同一条线路,不同的两台电脑,一台能连,另一台不能连,应该就是机器内部的软件问题.
-根据一些用过的朋友反馈,不要买华为的手机或者设备,系统会阻止你爬梯.小米手机暂时还不会,但将来会不会迫于压力阻止爬梯,暂时未知.
+-   音乐软件
 
-您好，我是这几天刚买了express的服务，因为马上要网上考试了希望找个稳定的vpn但一直连接不上，不管是手机还是电脑，请问有什么解决办法吗
+Tidal、Spotify、Amazon Music Unlimited、Apple Music、Pandora、Soundcloud
 
-你好，看了您的blog。前几天我购买了一个月的expressvpn想先体验一下，但是出现了一种状况：我的安卓应用可以正常使用，但是软件在我的windows 10电脑上，我输入激活码后出现了 expressvpn unable to sign in please check your connection then try again。
-期间我联系了客服，更换了dns，切换了网络类型、重启了电脑。但是仍然没有解决问题。无奈之下只能申请退款。请问您在使用的过程中碰到过这样的问题吗？又是怎样解决的？
-期待您的回复！
-> 一般情况下可以开手机热点，让电脑连，等exp登录成功后切回。
-> 目前ExpressVPN服務難以使用。。。。。。
-> 好的，过几天我再试试，感谢您的回复！
+-   在线课程：
 
-今天express vpn突然不能用了，刚刚好今天又远程考试，因为打不开题目放弃了。真的对人打击太大了。
-> 很遗憾，最近管控升级，平时准备一个备用方案吧，比如PandaVPN，没有哪个翻墙软件是完美的。
+Codecademy、Coursera、Udemy、edX、Future Learn、Udacity、TED、Lynda、Skillshare
 
-pandaVPN的游戏加速好用吗？
-> 有日本游戏加速节点。
-
-在上海隔离 express VPN 最近一直不好用…为什么免费的都能连 它却总是出问题
-
-大家好。 我现在刚从astrill 换到Nord。 感觉使用过程中有一些麻烦。
-UDP,TCP完全连不上，只有NordLynx协议才可以。 客服解释说 确实是这样。 连上之后，用了两天， 速度倒没什么问题。 刷FB，INS， 看油管 都还行。 但是QQ，微信很慢，阿里旺旺就经常掉线。 有时候淘宝和百度等国内网站也完全打不开。 转接了3个客服，各种trouble shooting都做了， 客服建议更换DNS，换了好几个， 还是没用。 请问，这种情况该怎么办啊？
-反观之前的astrill，使用OpenWeb连接，就不存在任何问题。 好像它会自动识别内网和外网。
-
-> 是的，Nord沒有這種分開內外網的功能
-
-这几天ExpressVPN又呈现一个半死亡状态了，感觉提供稳定服务的能力甚至比不上免费VPN(虽然免费VPN速度慢）；板上一片叫好，难道我是特例吗？
-> 问了上海的朋友，有出现降速与连接不稳定，基本每年这时候都这样。
-
-反正找不到具體IP就可以
-
-
-官方披露的隐私政策里有说明：
-
-请不要再推荐这款VPN了，害死人，不但DNS泄露，而且明目张胆记录上网信息，再个人帐号里就可以查到上网列表等信息。
-> 忘了图片
-> 您再试试用Japan 4服务器试试。设备：iPhone6s
-> 用的什么协议？建议你把截图发给Astrill客服看看。
-> Openweb协议, for china服务器
-> 它顯示了你的真實IP地址嗎？沒有就是安全的。
-> 真实IP，要不然我也不敢有意见了
-
-ExpressVPN在電腦上的拆分隧道速度特別慢，而在手機上則相當於寬帶速度，為什麼？
-
-> 拆分可能没起作用，确认下拆分的应用程序路径是对的，如果是浏览器，访问Ip.cn能通过IP地址确定拆分是否成功。
-> IP檢測沒問題 ，就是速度實在太慢。。。。。。
-> 试试香港，日本，美国西部的节点
-
-我个人主要在iOS和PC端使用vpn，目前对一些产品的使用总结如下：
-express vpn：这一款我感觉在各种测评中位列前几名已经很久了，实际的综合体验确实不错，包括易用性和客服。PC和iOS都可以直接使用客户端无脑连接，不需要再进行什么乱七八糟的配置。但是问题也有不少，首先我觉得可能是因为知名度太高的原因容易被针对（毕竟树大招风），在敏感时期几乎是最容易出问题的，而且我之前经历过它单独被针对的时候（并非特殊时期，其它备用vpn都可用但唯独它的中国区服务中断，官方进行了超过48小时的维修）另外速度不稳定，忽快忽慢，建立连接的速度同样不稳定，之前经历过秒连的时期，也经历过那个绿条转四五圈才能连上的时期。（不知道为什么，我在iOS端使用的时候经历过这样一件事，就是使用一段时间以后忽然间无法建立连接，但是别人反应都正常，于是我删掉了它的vpn配置重新打开APP重新配置以后就可以正常使用了，如果有人遇到同样的问题可以尝试一下这个操作）pc端也有一个问题是建立连接再断开以后有时候再次建立连接会变得困难，有时候需要重启pc才可以重连。另外节点太少也是一个问题，毕竟有时候有翻到特定国家IP，比如说一些限制地区的流媒体等。（比如说我最近看到steam中国的消息以后打算转区跑路所以到处卑微求阿根廷节点，手动滑稽）
-
-nord vpn：我感觉这一款针对大陆地区的营销也挺多的，我很久之前买过，因为当时它价格很便宜，不过我体验并不是很好。iOS端需要额外配置，而且速度很慢。现在看到推荐里又加上了这一款，打算去试一下，发现它一年的价格已经达到了7美元每月，我觉得比我印象中涨价了，不知道现在性价比如何。
-
-pure vpn：之前看有活动很便宜买的。PC端使用体验尚可，但是iOS端使用体验太差，APP在大陆地区无法使用，和客服沟通之后对方发给我一个手动配置地址的PDF，而且这个东西还是会更新的，我问如何收到这些更新，对方告诉我在页面chat或者发邮件要。我：？？？，那我怎么知道什么时候要发邮件问?另外这个pc端的客户端我觉得做的挺一般的，经常容易卡（应该是软件问题。我对我pc的硬件配置是很有信心的），有时候改个配置也要卡一会。
-panda vpn：前一段时间买的，这个软件让我觉得有点一言难尽。建立连接和连接后的速度非常之快，比我之前用过的几乎所有vpn都要快。但也有几个问题，首先就是安全性，我个人认为这个软件对数据的保护比不上各个国际大厂，另外我觉得这个团队应该还有几个换皮的vpn，比如说我在美区App Store上发现了一款叫fly vpn的软件，速度和panda几乎一样快，属于那种虽然收费但是可以看广告得时间的类型，但是广告里有很多panda的广告，最主要的是，我在挂着这个fly上panda官网的时候居然提示我的IP是受保护状态（懂vpn销售套路的都懂，我觉得这两个软件是共用的服务器）题外话，作为一个多年白嫖美区App Store里vpn 7天免费试用的人（滑稽）我个人认为有很多vpn都属于那种一个公司搞得换皮，因为界面和各种操作都很相似，大家仔细甄别。另外，这个panda vpn还有一个让我比较不爽的是打开其他一些vpn页面官网的时候速度很慢，surfshark vpn的官网在挂panda的情况下根本打不开，试了一下用express就可以打开。不知道是不是大家都这样，如果用这种方式打击竞争对手的话，用起来还是让人有点不爽的。另外，我在安装panda PC客户端的时候卡巴斯基弹出有恶意进程（如图），我在之前用vpn的时候从来没有遇到这种情况。而且实测点删掉以后对使用并不会造成影响，不知道是什么鬼。另外在pc端使用的时候建议删除浏览器里的其他vpn扩展程序，会对使用有影响。亲测。不过虽然这个panda疑点比较多，我个人还在用，毕竟速度太快了（卑微）
-
-Hotspot shield：这个是我之前一直在当备用的vpn，我之前在这里留言过，不过博主说几年前因为不可用移除了推荐，但是就我18-19年的使用体验来说，还是很不错的。一个主要的优点就是有很多国的节点可用（不过速度一般），另外iOS端同样APP可直连。不过去年到期之后就没有续费了，我也不是很清楚现在是否仍然可用。
-
-最后，我一直很奇怪像是express这种明知道自己有大量中国用户，也知道对中国用户积极营销的厂商为什么一直不搞中文本地化（连日语都有），是不是想传达一种“我们这个东西没有想要专门挤进你们中国的市场，所以你们中国也不要一直针对我们。。。的意思”
-> 感谢分享，我18年买了expressVPN的年费会员，效果确实不好。平均半小时就要断线一次，看Youtube也没法上高清，再加上断线非常烦人。切换不同的线路也没有改善，我家里是PC，Macbook，iPhone都差不多样子。太不不稳定了，然后到期就取消续费了。之后到现在一直在用Hotspot Shield，也是偶然在美区苹果商店看到的。PC端之前可以用，今年开始就不行了。不过神奇的是Mac和iPhone端不但可以用，而且还没有流量限制，PC端是有500M/D的限制的，我也不知道啥情况，一直用的免费版本，默认线路。收费的试用了一周就退款了，因为和免费一样解决不了不稳定的问题，偶尔会掉一下。我今年和海外的远程面试就用这个对付的，还凑活吧。看高清youtube别想了，我都是下载了再看。
-> Hotspot Shield去年我测过几次都没能成功连接，就没再继续试了。
-我用的是MalwareBytes杀毒软件，有几个版本更新都提示过类似警告，和熊猫确认过，并非病毒，我认为他们没必要说谎，可能只是代码里调用了较敏感的API导致，有些VPN确实会这样，不放心的话不妨联系熊猫客服确认。
-ExpressVPN的官网不支持中文，但镜像站支持。
-谢谢评论。
-
-感谢费尽心机帮大家测试vpn，但是有时候vpn不好用，并不是vpn服务器本身造成的，而是用户的系统、软件环境造成的，例如爬梯时，一些国内使用率很高的软件会阻止你访问或者下载，我亲自验证的就有阿里旺旺的保护模块，搜狗输入法等等普及率很高的软件，当爬梯不顺畅时，首先排除系统内没有软件作梗，可以网上搜索资料自行去除，或者安装这些软件的特别版软件（去除了云功能或者安全模块）。我个人是不喜欢某些vpn服务商屏蔽用户访问某些网站的，会爬梯用户都是有知识有文化的成年人，爬梯就是为了信息自由，各种信息一对比，自会分辨是非，用不着vpn服务商帮用户甄选信息，选边站。
-> 谢谢，这条评论应该对大家都有用，置顶了。
-
-你好，我用的是expressVPN，但是使用过程中感觉不快，甚至还比较卡。比如youtube调成360p以上就要卡，尤其1080p平均每十秒不到就得卡一次。感觉expressVPN还没有我之前微信认识的一个卖VPN的快、稳，而且比express还便宜，一个月28人民币，不过她现在已经不做了。我不知道是expressVPN真的不好用还是我的设备特殊，但是我用就是普通的国产笔记本电脑和iPhone8
-> ExpressVPN的香港-4，日本Yokohama（横滨），美国LA-5等节点是完全能支撑至少720P的速度的。
-不过，因为这两天是特殊时期，一般速度会比平时慢一些，这不只是ExpressVPN的问题，基本上，市面上的翻墙软件都会受影响，因为现在这段时间中国到国外网络会开启限速等各种干扰手段。
-今年整体感觉还不算糟糕，等一等，会过去的，一般不超过2周就会自动恢复的。
-
-你好，我想问一下，PandaVPN在ios系统中在应用商店下载完要退出账号是只针对提供的公共美区账号吧，如果是个人账号改为香港地区后应该不用下完退出再改回大陆吧？
-> 我不确定港区是否有但美区肯定有。
-
-手机上已经是expressvpn会员了。在电脑上不能用么？ 还是我方法错了？
-> 可以，ExpressVPN支持同时5台设备
-
-你好，最近expressvpn很慢，是因为两会吗？
-
-請問，使用pandaVPN之後，系統會檢測的IP是在大陸，還是所選的節點？
-> 全局模式下，所选节点，只能模式下，看情况。
-
-你好，如果不用VPN请问如何打开镜像网站呢？我刚才试着在Safari里面输入expressvpn 和pandavpn 都打不开。我已经买了panda的一年会员，主要考虑如果突然有一天没办法用了如何才能再下新的VPN？另外就是如果买了新的设备比如MAC，如何下载VPN软件呢？现在的软件都是在国外下载好了的。
-谢谢！
-> 及时更新客户端，基本上是能保持访问的。每年都会有特殊时期可能什么都用不了，但最终都会恢复。
-
-买了Panda Vpn连上了却打不开国外网站。看评论里说备用节点可以使用仔细找了找，没看见任何备用节点。用global mode 时还会有乱码弹窗。有什么解决方法吗
-> 备用节点就是SVIP Servers
-
-PandaVPN官网打不开了咋办？
-
-panda登录接口突然挂了，，幸好有自建的
-
-Pandavpn香港和台湾节点都标注中国，而且上不去法轮功网站，可以判断他根本就是钓鱼软件，你就不要胡乱推荐了好吗？
-> 上不去***网站是因为PandA屏蔽规则
-内建的屏蔽规则会屏蔽一些敏感网站。
-> 說真的，判斷一個VPN是不是有安全風險的標準就在於它是不是能夠知道它能否知道用戶訪問了什麼網站。而且確實，屏蔽法輪功這不是國內某些SSR梯子的基本操作嗎。。。。。。這足夠說明Panda很可能有一套審計系統，安全性不好保證。要不然大家都用快連好了，國內一搜就有。
-> 兄台是否觉得反中应该是全人类的事业？别忘了你打的也是中国字。
-台湾香港节点不标注中国难道标注美国？你了解过法论工“真善忍”漂亮话背后的政治企图么？你了解美国“民主促进会”是干嘛的吗？你了解美国国会资助了多少试图颠覆我国社会的组织吗？这些亡我之心不死的垃圾在大街上让我碰到一个老子弄死一个。
-> 第一你回复的好。哥们有血气·我尝试了2个你推荐的·· Pandavpn和SurfShark，surfshark可能因为我是小白的原因不会用 用电脑登入链接不上去。 Pandavpn 白天用感觉不错·不知道我们到了晚上就卡死了。
-> 说的好！赞一个！中国是生我们养我们的家，现在依旧被中国亲奶着！任何国家都不是完美的，就算有这样那样的问题作为儿女要靠着每个人的努力去一点一点改善她而不是背叛她！
-不过话锋一转，我也是怕有部分单位部分人懒政不分青红皂白的处罚梯子用户，经几天熬夜学习得知，熊猫有国服，而且没有com官网，至少说我个人内心没多大底气，毕竟我上有老下有小的就算是爱国份子怕惹上麻烦
-> 我是体制内出来的，接触过网警，使用VPN默认是不予处罚，也不警告的，只有销售VPN才会。不然每年那么多留学生和外国人，以及做外贸的都要被处罚。至于广东和重庆处罚使用VPN的事情，推测是个别领导脑子抽筋或者为了制造焦点才做的，注：体制内有一些老年领导经常干脑残的事，不限于抓VPN使用者。
-> 问题是在于vpn安全性问题好吗，鬼知道熊猫会不会把你卖了。重点是这个。
-
-抱歉再咨询下，貌似Express和Panda都无法观看BBC TV的内容吧，该网站提示IPlayer仅可在UK使用，并建议关闭VPN重试，是不是意味着对方已经屏蔽IP了。
-多找几个UK线路的即可，不用回复了，谢谢
-
-本人程序员，就是上网冲浪查资料，原本优先考虑Express，备选熊猫，谨慎考虑Nord，但是Express有点小贵，对于我来说性价比不高，我正在用别人共享的FTQ来外面选择一下哪款好用。现在手机正在使用Panda的试用期三天，网页版的youtube效果感人…基本默认就是马赛克级，抛开其他不提，爱国分子的我（也是比较财迷）正在使用华为，华为就算装了google的几件套也是没办法正常使用google play，点击登录没任何反应，和google相关的app如chrome、youtube、gmail压根没办法使用。。。使用华为的小伙伴要注意。
-这种情况下换手机还没到我的议事日程，给个建议吧，用nord还是用panda还是大义灭亲（钱）的用express？
-> 目前据我所知，翻墙软件可用性，ExpressVPN > PandaVPN > NordVPN，如果你要速度，PandaVPN速度应该最快，你要长期最稳定，ExpressVPN我用了很多年了。
-> 好的感谢，我正在测试Express，很不错，注册一个账户可以试用7天，Nord不能试用。Panda还有两天试用，我衡量下。能用钱解决的问题都不是问题，问题是多花钱肝儿疼
-> 没有完美的翻墙软件，ExpressVPN + PandaVPN 是稳妥的组合。
-
-站长能介绍一下ExpressVPN和熊猫的年费套餐里，每个月能有多少流量吗？
-> 无流量限制
-
-只有我一个人打不开PandaVPN的镜像网站和官网吗？
-
-请问有韩国线路比较多的vpn或其他翻墙方式吗 因为韩国那边vod类的app使用限制太严格了 我已经找线路找到快吐血了
-> 试试PandaVPN的韩国节点
-
-我就是用的快连，这么一说有点害怕
-
-请问ExpressVPN和熊猫都可以正常观看 E-heitai 这个网站的内容吗？
-我以前曾经用过香港一个小团队的VPN，结果他们应该是全部日本线路都是用一个IP，
-导致我登录E绅士之后根本不能加载图片。（这个网站是根据IP分配每日可以浏览的图片的数量……）
-> 我不是圈内人：），但这两个大概率是可以的
-> 感谢回复！
-
-我看了推荐，购买了pandavpn，现在买一年送一年是59.99us$，有中文客服，我也填了你的邀请码，确实挺好用
-
-請教一下我今天在上海隔離結果筆電 expressvpn 完全不能用，是我設定問題嗎？
-
-panda客户端账户无法登陆，登陆进去过的账户出现无法连接，然后去官网输入账户后网页都不跳转，也无法登陆，能了解一下是什么情况吗？
-
-刚买panda的买一年送一年的，第三天就上不了了，然后镜像站都关闭了，咋办
-
-想要购买expressvpn, 怎么不论支付宝、银联、papal的支付方式，都显示“Sorry,Service Down”的错误
-> 那个页面可能是假的，以前我用PureVPN打开expressvpn官网，跳转进去的那个页面就是这样的，你现在用的VPN有问题。
-
-我个人推荐astrill，虽然对比之下稍贵，不过胜在稳定。我是做外贸的，可能已经用了5年了，这年头风风雨雨的，特别是工作用到的，稳定就是最好的，线路也多。有时候越冷门反而越能活下来。
-> astrill是真的稳定速度快，就是他们的太贵太贵，个人用真承受不起年费都840了，用4年换了 毕竟不是重度FQ
-
-KeepSolid VPN Unlimited如何，最近连接也很快，他的终身版可以考虑吗
-> 我没用过，我网站上推荐的已经是最好用的了
-
-hotspot shield的付费版值得购买吗
-
-你好 为什么我打开ExpressVPN网站或者镜像没有看到简体中文设置，你截图却有？而且我每次链接，都需要好几分钟…
-> 从国内打开才有。
-
-看到您的介绍，expressvpn只能设置应用是否走vpn，拆分在应用层面。想寻找一款软件，可以设置国内网站默认走内网，国外网站走vpn，这样速度会快，又能解决国内网站对IP的限制问题，请问您有相关的推荐吗，谢谢
-> PandaVPN的全局模式是强制所有流量都走加密，非全局模式是被墙站点走加密，国内站点不走，但它的被墙网站不十分可靠，你可以试试是否满足你的需要。
-
-我似乎下到了假的pandavpn😭还是付费的，买了一年的，才翻到这篇，发现界面完全不一样
-
-surfshark刚才买了年包，不能用，手机和电脑都连不上，24小时的客服只能留言，几个小时了一直没回消息，再试试panda吧
-> 更新下，surfshark退款体验太差，24小时沟通没有人，只能发邮件，每次回复时间在6小时以上，来回沟通了4封邮件，要求退款，反复给你发教程，让你尝试解决，不提退款，撂了狠话，现在还在等回复
-已经用上了express，可以连上，速度不错
-
-，我想问一下，使用VPN对自己的健康码有影响吗
-> Hotspot Shield的评价如何呢，它的价格比Express还贵，免费版的用起来还可以，然后我比较在意手机端的表现，不知道这个值不值得买
-> 我早先测过，那时候的结论是几乎没有可用性，但可能现在好了。
-> ，我下了三天的ExpressVPN，发现一直连不上，连推荐的节点都很难连接上去，而且速度一直很慢，连推特上的图片的打不开，是最近才有的问题吗
-> 用香港4，LA5等App界面上推荐的节点
-
-有和我一样使用不了shadowrocket的ios用户吗？这几周一直连接不上，开始还以为是shadowsocks的节点又被安排了，才在电脑上使用发现没什么问题，在纠结要不要买其他vpn服务了
-
-国内疫情好转后ibvpn很多节点能连上了 速度也快了些 高峰期也经常能稳定看Youtube 1080P了
-绝大多数能连上的美国/英国/加拿大/意大利/西班牙节点能解锁NetFlix，没有亚洲区可惜
-
-NordVPN我刚用的，安装完之后，就点了两下就可以用啊。第一下提示我在网络限制地区要开启混淆服务器，点了一下，第二下点了个快速连接就OK了。全程没遇到障碍呀，希望再测测？
-> 我也刚买NordVPN，连接节点有时很快，有时需要等。。。不过，我遇到的一个问题，不知你是否也遇到过。就是连了一段时间过后，系统会自动弹出提示说：需要切换节点，因为现在的节点需要维护，请重新选择。大概是这个意思；总有这样的提示就很麻烦啊，因为需要不断的再连新的节点。
-
-今天我忽然发现VPN特别卡，很多都上不去了，大家有这样的吗？
-
-对VPN和SSR之类的翻墙方式越来越失望了，现在寄望于TOR Browser甚至I2P。
-> ExpressVPN，PandaVPN总体来说仍然是具备高可用性的，SSR本来就是讲究运气的事儿，其实跟最近也没啥关系，主要的原因是经过若干年的爆炸式VPS自架以后，IP池的可用量降低到某个阈值以下，所以大家开始集中发现问题了而已。Tor算了吧，这种东西本就是间谍软件，绝对不可能在中国盛行的。
-> 为什么不寄希望于v2ray和trojan
-
-我联络过几个冷门厂商的客服 这些vpn厂商在其官网能在FAQ或者其他页面找到能在中国能用的说明
-以及从reddit和twitter上确实找到有少量在中国的用户 但我还是都联系了客服
-问了其vpn在中国是否可用 有一个厂商的客服给了我很得体的回答：
-The government of China is known to enforce local ISPs to block outgoing VPN traffic using the Deep Packet Inspection (DPI), making it troublesome for the majority of VPN users to connect.
-Each customer reports a slightly different experience with accessing our service from within mainland China. Each region and each ISP also seems to have various restrictions in place, so it really seems to depend on where you are and what network you are using.
-That being said, it would be impossible for us to forecast whether you will be able to use our service as the accessibility may differ greatly depending on the network you will be connected to and the way it is configured. The only way to find out would be testing this while being connected to a network in China.
-众所周知，中国政府强制使用深度数据包检查（DPI）来阻止本地ISP阻止VPN传出流量，这使大多数VPN用户难以连接。
-每个客户报告从中国大陆访问我们的服务的体验略有不同。每个地区和每个ISP似乎也都有各种限制，因此它实际上似乎取决于您所在的位置以及所使用的网络。
-话虽如此，我们将无法预测您是否能够使用我们的服务，因为可访问性可能会因您所连接的网络及其配置方式而有很大差异。找出此问题的唯一方法是在连接到中国的网络时进行测试。
-> 是这样，没什么是可靠的，最可靠的就是实地去测，但不是谁都有这个资源去弄这个事儿，网上我看到过的声称每天实时更新的，也只能测一个地方，我这个网站也一样，做不到天南地北租台服务器去测，技术上现实，但危险得很。
-
-熊猫的正常线路已经可以用了
-> 还不行吧
-> 那天下午突然能用了，但是一到晚上突然又不能用了
-
-大佬们好，我打算下个月回国，请问现在vypr vpn和panda vpn在国内是否可以用，家里100M的带宽能不能支持看看youtube？
-> 优先Panda
-> Panda可以，只是目前可能受疫情影响，正常线路连不上，备用线路可以，YouTube速度也很流畅
-
-，*****VPN有使用过吗，再优惠里看到，然后居然买5年69.99刀，这能用嘛
-> 没有ExpressVPN和PandaVPN稳定好用。
-clash的延迟显示要怎么修正呢
-
-我还是对中国充满希望，虽然你说的都可能对，但是你能保证西方国家不会做同样的事吗，中国的反诈APP可能是用来监控中国人的，但在世界范围内传播的西方国家APP，诸如推特，油管，脸书等，你敢保证它们不是伪装起来的监控软件吗，毕竟，它们都是黑箱
-（邮箱就填个假的了，毕竟我也不太想与你联系）
-
-2023年4月 ExpressVPN 已经很不好用了，刚买了试了试就退掉了。连接十几次才能连接成功1次。而且很慢
-
-请问是否有按量付费的VPN呢？用的clash无法访问chatgpt，VPN可以，但是我不常用，想买一个按量购买的VPN。
-
-说起64真有意思，油管上绝大部分都是反华势力媒体的视频，没有一个是完整的，特别是他们提到的坦克人。有幸看到坦克人全过程的视频，才发觉那些媒体是多么无耻，砍头砍尾，把能引起人愤慨共鸣的片段摘取出来，最后坦克人被众群众拉走劝离，特别是踩单车的民众的场景彻底消失在这些视频中，拿来作为宣传工具。估计那些天安门被吊起来还穿着军装或者在路边给人焚烧穿着军装的尸体的照片，估计没多少人看到了，只会看到那些经过西方媒体渲染过的视频画面。墙固然令人感到不自由，但如果你看过那些无脑盲目信与不信的人的思维，你还真庆幸有墙，因为你无须向他们解释什么。他们不会自己思考，他们的逻辑思维不是你解释就能让他们明辨，这里不分学历高低，哪边的人都有。所以懂得翻墙懂得甄别才是一个合格的中国人，盲目相信，还不如你不懂得翻墙，受别人刺激两句就跳起来骂娘。
-
-请问哪些VPN可以在国内使用ChatGPT？之前用的VPN本来可以正常登ChatGPT，前几天突然变成不在🉑️提供服务的国家或地区了……不知为啥
-> 都可以啊，切换节点就行了。
-
-Psiphon在公司电脑能用，自己的电脑用不了，我同学的电脑也能用，不知道是不是和手机电脑安装的clash和shadowrocket有关
-
-PandaVPN貌似能繼續使用了，但不清楚後續會不會出現長時間的失聯狀態。
-
-然而lantern连接效率比express好，并且现在免费版每天有250M流量，不是每个月。
-我的免费版的蓝灯连接时间比收费的expressVPN多多了。
-express经常连不了。
-
-一直追踪至少五年，从一次一次的更新序言中看到了一点一点被改变的无奈与愤怒 唉
-
-介绍的非常详细，翻墙十多年，免费的付费的方法都用过，原来的自由门用过，后来的蓝灯也用过，上个用的是pandavpn，可惜去年12月跑路了，骗了两年的年费，目前用的surfshark，不推荐，最主要的是windows端没有ikev2协议造成经常断网且慢，安卓端其实效果还行，准备下面买expressvpn了
-
-该死的，真的气死了，这PandaVPN是我第一次购买付费VPN，买了2年的，结果没用两个月就用不了了～
-
-FAIL，PandaVPN确认失效，无法使用，在线客服及邮件均无回应，也不退款，7天内退款就是一纸空文，PandaVPN已可从付费VPN选购名单中移除。
-
-这年头谁还用 vpn翻墙 啊，搭个 v2ray + ws + tls 稳的一批，有空打那么一大堆文字，还不如认真去研究下怎么搭建（网上一大堆一键脚本）。
-要隐私安全，哪个能比自己搭建安全？（用一键脚本的就找用的人多，至少不会给你加料）
-搬瓦工 vmess + ws + tls 用了4年，最敏感时区都没被墙过。上个月大面积封 443 端口才中招，套个 cf 继续用。唯一的区别是不套 cf 看 yt 1080p 随便拖，套 cf 1080p会卡顿，720p流畅
-
-从2022年12月1日起，PandaVPN疑似跑路，已经无法正常FQ，联系客服（不管是APP内发信息，还是发邮件）无任何回应。劝大家不要买Panda，以免钱打水漂。
-> 经过2周的观察，判断PanddaVPN的确没有恢复服务的意思，我已经撤下网站置顶和侧边栏链接，在各个科学上网工具推荐页加了提示。
-请看到这个评论的朋友不要购买熊猫VPN，如果已经购买尽早停止续费，如果用的是信用卡自动扣款方式购买，尽早联系信用卡公司停止自动扣款。
-本站推荐熊猫VPN已近两年，这个服务一直都受到很多翻墙用户喜爱，互联网上传播也很广，发生这种事真的很无奈。
-
-11月开始至今熊猫疑似人工客服失联，11月22日熊猫出现了短暂的官网无法访问，然后12月1日疑似出现ios端连接后无法翻墙上网，疑似跑路
-
-个人基本上什么翻墙方法都试过，就博主的这篇博文其中的几个点我个人有一些看法
-首先对于计算机技术有一些见解，在大学大专甚至以上的教育机构接受过计算机专业的高等教育课程，自建是第一选择，其次如果因为赶项目等等原因需要花钱换时间的，选择机场是第二选择，最后的最后，才是选择商业VPN
-自建节点对于接受过计算机专业教育的人来说是基础中的基础，熟练掌握Linux系统的使用方法和技巧无论是前端还是后端最好都需要掌握，运维网安这一类就更不用说了，搭建节点可以说是Linux应用当中很简单的一环了
-V2Ray和Trojan-Go项目甚至还有手把手的官方文档，现在还有X-UI面板这一类的可视化搭建节点的工具，就算是VPN搭建，OpenVPN和WireGuard的搭建和使用Trojan-Go搭建节点相比也相差不了多少甚至更简单，就算是VPS的IP被封，可以选择套CDN等方式解决问题
-总之，Linux在计算机相关的学习中是不可或缺的存在，搭建节点或VPN是使用Linux的一个简单典型的应用，除非有其他项目或者其他事情需要用金钱换时间的情况下选择机场，这是最低底线
-其次就是现在的开源协议里边，搭建SS和SSR基本上十分少见了，你可以去看免费提供节点的网站，基本上清一色全部是Vmess和Trojan这两个成熟的解决方案，在GFW.Report发表SS被封锁的论文和所采用的AEAD算法泄露之后，基本上很少人会采用这一种方式去搭建自己的节点，即使是新推出的Shadowsocks-Rust带来新的2022-black3算法，主流的客户端也很少支持，无论是v2rayN、Matsuri还是Clash Core，即使是Xray和Clash-Meta对于2022的支持也不是很理想
-还有我最想吐槽的点，可以把协议和客户端分开来说吗？Clash可以指代很多东西，Clash for Windows、Clash for Android、ClashX、Clash for Magick、Clash-Core、OpenClash都可以是Clash，但这些Clash的使用方式和搭载平台有着天壤之别
-既然都有Clash了，V2RayN，Shadowrocket，Quantumult X、Surge、Passwall、Matsuri、Nekoray和Serfboard是不是也该说一下？
-Shadowsocks还有Server和Client呢，博文里的又指的是哪一个？不提一下v2ray-plugin和simple-obfs吗？
-V2Ray、Trojan、Shadowsocks这一类是网络协议，和客户端区别大了去了
-鉴于博主是各大商业VPN的Affman，我就不在VPN和政治这两个容易引发冲突的点表太多意见，大家见仁见智，毕竟作为成年人，要有自己的思考
-最后我想说的，希望博主在做所谓的科普之前，先把自身的知识掌握清楚再出来带货比较好，既然都做了Affman了，好歹广告也做好点吧？
-
-是的，Google Fi可以的。我之前用的是Vodafone的卡，服务的话没有什么特殊的，只要是海外或港澳台的sim卡就行。其实就是国际漫游服务，所有国际漫游的流量都直接穿墙。中国移动子公司cmlink的香港卡，英国卡回国都能这样用。
-国际漫游穿墙好像已经很多年，不出意外不会禁的。因为这不是漏洞，是故意的。最多就是之前cmlink推出过一个超级便宜的套餐，现在被取消了。
-我主要想交流一下哪个国家的哪个sim卡套餐比较划算，比如澳洲最便宜是Optus，一个月月费40刀，然后每天5刀漫游费，每天流量5GB，也就是190刀一个月150GB流量。Google Fi好像是个人套餐 65美刀一个月，就比澳洲的便宜。
-> 谢谢分享，我对你提起的这个翻墙方法很感兴趣，已经在文章内增加一个章节：国外手机卡国际漫游免翻墙
-
-为什么没有提到一个最简单的方法？国外手机卡回国漫游，直接绕过墙。我前两次回国都是这样用的。我倒是想了解一下这方面的内容，比如2022年是否还可行？什么套餐回国漫游比较划算？我在澳大利亚，这边最便宜的套餐是40澳币一个月，回国漫游5澳币一天。流量的话大概一天5个G。这样对于短期回国是很有好的，基本什么都不用做，价格虽然贵但是也能接受。
-> 是指类似Google Fi这样的服务吗？我之前也简单了解过，但没实际用过，价格是可以接受的，之前你在国内成功的使用经验是澳洲的哪个服务呢？方便分享一下吗，也许在加拿大也有类似服务的，不一定是同一家但我可以顺藤摸瓜去了解一下，价格方面，国内国外跑，反正这笔钱是省不了的，这个倒不是问题，主要是担心买了回国发现不好用，或者被海关什么的查，不知道有没有这个因素。我有一个担心，这类服务如果网上流传应用人数多了，必然遭遇官方悍然屏蔽的，到时候这条科学上网的途径就又彻底堵死了。
-
-最良心的vpn相关网站。
-
-20年21年看的时候，一开始言论还是强调不反中的。22年强拆已经几乎绝迹了，作者却在网页上强调强拆和监控。
-老美的NGO又恢复了？
-
-您好，电脑怎么翻墙，要不没办法下载软件，要翻出去才能下载，可以用手机下载.exe安装包，再导进电脑里吗？如果可以，打算换expressvpn。
-> 是可以的，在手机上打开ExpressVPN下载页，选到桌面电脑客户端，下载下来，再从手机传到电脑（可以直接电脑USB数据线连手机，也可以手机传到一个电脑能访问的网盘），客户端装到电脑上后，就能翻墙了。
-
-看到中国那段心里一沉，如果这条评论能发出去的话，大家警觉一下吧，这网站大概率是政府钓鱼网站
-
-请问，express VPN。怎么用账号在其他设备上登录.就是说有邀请码，那么一台新的设备要如何使用邀请码，而达到科学上网
-> 你是指激活码（而非邀请码）吧，激活码在 页面可以找到，就是一串字符，在各个设备上下载安装客户端APP后，打开程序会提示输入这个激活码，输入后点确认，然后就可以科学上网了。
-如果在当前设备上没有翻墙，可以这样，在一个已经用ExpressVPN翻墙的设备上，点击APP左上角，然后点击下拉菜单的 “Secure All Your Devices”，弹出框里点击 Email Setup Link，这样你的ExpressVPN账号邮箱会收到一封邮件，邮件内将有一个链接，这个链接应该是不用翻墙也能访问到的Setup页面。
-
-所以为什么每年六月四号国内所有社交平台、游戏、通讯工具都不能更名、更换头像？
-你怎么看?
-
-每年耗12个月的免费AWS，自己搭建Trojan，感觉还可以。
-
-恨国党歪屁股的狗贼就该去死！操你们的O(∩_∩)O
-关于对墙的存在这一观点，我颇感深受！我是个学生，从小对计算机知识兴趣浓厚（现今在读专业也是CS），小学开始便经常趴电脑前寻觅网络的知识海洋，因此很多东西难免不翻墙。我翻墙的原因除了没有工作性质需求以外就和一样，我相信绝大部分人也是如此。用过很多大大小小各种乱七八糟的梯子，也看过很多五花八门的网站论坛平台等…起初一些来自西方及港台的反华言论让我对国家党政产生怀疑，但渐渐地就如“你让他们说为什么社会主义和共产主义，或者一党执政一定是邪恶的，他们是没有兴趣回答这个问题的”这句话一样，我发现他们仅是热衷于口伐笔诛罢了！偶尔在反驳愤青公知的脑残言论时他们总会说：“翻出去看看吧”。对此我呵呵！我看的绝对不少，我相信周遭同龄人里我的阅历不说高也绝不算低。另我虽未肉身翻墙，但我的家乡是本省内最大华侨乡（国民党将军县），有许多港澳台及部分日韩籍贯人士。我的父母经营过皮具及织造类加工厂，我对他们的事业所知甚少，但我知道许多货物都是出口到世界各地的。还有很多在国外发展或留学的亲戚朋友等等…从他们所有人的口中我都知道一个不争的事实——西方人反华即政治正确。 我虽才二十出头，但我觉得如今墙的存在反而宠坏了部分青少年！例如俄乌冲突以来，网络出现大量反华言论，有部分没有辨证能力的青少年在其诱导下使用了类似于“自由门”这样的翻墙工具，天真的在墙外看了几篇反华文章后中二的认为自己悉知了“真相”从而盲目跟风于炮轰党国…可笑之极。再一个由于“墙”的存在，那么“翻墙”虽不犯法但也不是能拿到台面上说的事，所以科普翻墙知识的多为反华组织或个人。如前段时间被抓的一圈内知名热衷于抹黑党国的博客作者“编程随想”。这会形成一个恶循环，不翻墙，你所能获取到的信息大大减少。翻了墙，倘若没有树立良好三观拥有自行辩证看待墙外事物的能力，那么很有可能会走上歪路。现阶段取消墙又不现实，墙的外面又牛鬼蛇神鱼龙混杂，我希望多一些像这样的科普，能够让更多中国人知道更多他们本就该知道的事！而不是只能被反华势力牵着鼻子走！
-
-之前我就想问了，翻墙后百度出来的IP还是原来的，开了全局都没用，这是咋回事
-
-好多vpn在国内都连不上台湾的节点，包括ExpressVPN，我经常要看动画疯需要翻墙去台湾，pandavpn的速度又很感人特别是晚上7点之后速度明显下降，就没有什么速度快一点的能在大陆连接到台湾的VPN吗
-
-我使用的ssr节点，链接上后，在谷歌跟百度 搜索出来的ip归属地 一个在国内一个在国外。请问是什么问题。怎么保持一致
-> 是不是开了智能模式？智能模式下，未被封的网站访问时可能是不走SSR线路的。
-
-我想问一下PC或者手机杀毒软件（例如诺顿）自带的VPN，博主有试过吗？？
-> 杀毒软件自带的翻墙软件基本上是用不了的。
-
-，熊猫现在稳定性怎么样，节点速度呢？
-
-你好，现在由于PT站点需要，我想寻找一款带有ipv6地址出口的VPN，请问有什么推荐吗？还是现在主流梯子对ipv6的支持都不是很好？
-
-为什么我用PANDA时它告诉我暂不支持我所在的地区
-
-我是小白一个，从国内微信公众号搜的加速器，蜜蜂加速器，雷霆加速器，候神加速器……很多，我用的是雷霆加速器，用了一段时间基本没掉过，翻墙以后通过推特，YouTube看到有主播发的科学上网视频，产生安全担心，于是下载视频博主推荐的clash、surfbord.根据教程下载软件，但是就是没法实现把订阅链接下载到软件里开启翻墙。只是出来找学习资料，结果国庆四五天都花费在研究翻墙和安全上面得不偿失，想请教，我所提的calsh和surfborder是正规的吗 ，对于一个学生付费高的性价比高，有没有推荐，还有就是不理解一些术语，机场，节点，订阅链接，这些哪个才是翻墙的正确之路，好担心现在通过国内的加速器翻墙现在就泄露隐私，谢谢您！
-
-之前好像有条评论被吞了，我续费了蓝灯一年，前段日子8-9月都无法连接成功，直到这几天才行。但是我发现用公用的网络可以顺畅连接，一回到家中用移动宽带光猫就不成功了，两台电脑、手机都无法连接。知道这是什么原因吗？有什么方法可以解决吗？
-我发了反馈邮件，蓝灯一直没回复我，真心累。
-
-可惜蓝灯不能退款，我前段时间发了反馈邮件也一直没有回复，这几天尝试发了英文的退款邮件，看看会不会有回复吧。
-如果是家用移动网络导致蓝灯不好用，我担心即使换成express vpn也无法连接。您这方面有什么经验吗，对于这种换了网络能上网，用家用的移动却偏偏不能连接的情况？
-> ExpressVPN你可能得试试，应该比蓝灯的连通率高，线路的问题这里也很难告诉你具体原因。
-
-我一直用的是蓝灯专业版，7月底续费了一年，从8月到前几天都不能登录。今天还好基本能登上，掉了几次线后又能重新连接。
-有个疑问，我用咖啡厅的网络是可以成功上网，但是回到家后两台电脑、手机都不能连接成功。家用的是移动宽带光猫，这是因为什么原因呢？
-
-经过我几天的试用，Ivacy要想翻墙到国外，只能通过联系客服，手动在系统里设置vpn的方式使用。它们提供的中国特供版软件也不行，必须联系客服，获取手动设置的账户和服务器地址，代理协议类型，才能在windows10和安卓10上使用。
-
-ExpressVPN新注册选择Paypal或者Other去付款的时候总是Sorry, Service Down…用外币信用卡的时候，又提示Payment failed: we were unable to charge your card. You may try another card or another form of payment (such as PayPal). Otherwise, please call your card issuer to ask why the charge from ExpressVPN was declined…
-> 借记卡或信用卡无法扣款，这有很多原因，但解决问题的最快办法可能还是：1. 试试别的信用卡（不推荐使用借记卡） 2. 将当前卡片绑定PayPal账户，然后通过PayPal付款。
-
-技术内容写的不错
-对于博主关于GFW和所谓中西冲突的观点
-我呸
-
-，你的熊猫邀请码是多少，注册购买完了想填一下
-
-疫情期间看了推荐买了2年panda，已经使用了一年半了，总体还行，不过后面买了奈飞，发现经常要换节点才能看，否则智能看奈飞自制剧。能推荐一些有稳定奈飞节点的VPN么？
-> 国外奈飞节点更多的科学上网工具的确有不少，但它们中翻墙流畅的就很少了。
-
-> 沒了解过，好用吗？求科普。
-
-pandaVPN平时速度还行，但客服服务质量很差，而且无隐私保证，据说panda公司在国内，实在不敢买
-
-我在使用了surshark后感觉这个vpn连接之后相对比较稳定，但感觉它的绕过大陆的功能做的不太行，另外协议貌似都是传统vpn的，不太適合中国大陆。有没有亚洲节点多一点的vpn？最好是大厂的，express的香港日本貌似都不能连接。panda可能是我的最后选项？
-> panda vpn 默认支持三台设备，我可能需要更多设备的支持，但这样子价位显得并不是很合理，另外我尝试了它们的免费计划，对于它们提供的香港节点我觉得质量并不是很好可能是和免费体验有关？panda vpn安全么？express我重新尝试了一些，的确是我用过的最好的vpn，最近亚洲节点又能连接上了。
-> 和免费体验有关？是。
-PandaVPN安全么？从以往读者反馈来看，PandaVPN的穿墙能力很强，但应该没有ExpressVPN安全。
-> 据我所知很多国内城市ExpressVPN都挺稳定，但不排除某些网络状况下状态不佳，如果是这样，是的，PandaVPN可能是最适合你的。
-
-我问下我现在用的杂牌vpn，软件是clash，用vpn主要是为了方便打开steam社区和上discord和朋友开黑，但是我发现这个vpn有时候会让我游戏连不上服务器（规则模式也是），比如square enix厂的游戏基本都连不上服，关掉vpn就可以连上游戏服务器但是没法看别的玩家steam主页了，也没法在discord开黑了，，这是怎么造成的该怎么办？
-> Clash我还没时间去研究，打外网游戏你其实可以试试PandaVPN，节点多应该也比较稳定。
-
-为什么有些app连了VPN还是用不了呢？比如offerup.
-> 访问OfferUp你最好连美国节点，他们有IP限制。
-
-这个网站写的科学上网相关的内容本意还是为了照顾小白启蒙之用，推的几家VPN也是久经考验的大厂，就算是恰饭也无可厚非，这都能招来恨国党公知的嘲讽我是没想到的，站长走自己的路，让恨国党BB去吧。
-
-感覺牆是因國內的教育系統, 基本上還是走西方的那一套. 西方價值的植入, 只要一被號招, 人自然會決的是對的. 說到底, 如果我們有自己的中心文化(比如易經推導出的科學與人文),就不怕國內的人被帶風向 . 因為5000年的文明,絕對遠勝於幾百年的海盜文化. 但是, 目前, 大家還是非常倚賴西方的種種文明與科技. 所以, 只能封鎖起來吧.
-眼下, 需要更多的人, 投入古文明得再開發, 讓它能夠應用到21世紀的世界. 這樣, 不久的將來, 就不再需要牆了.
-
-请问shadowsockR v2ray还能使用吗，今天clash 连不上ssr he v2ray，只用几个trojan节点还能凑合着用用
-> 不少朋友都在用SSR和V2Ray，我个人经验有限，也没有长期跟踪这些技术，因为配置起来太麻烦，建议你自己搜一搜，不能用主要是因为节点问题，只能耐心找找替代节点。
-
-支持一下博主。非常感谢您提供这么详细的信息。不必理会各种风凉话。人各有志~
-> 我会继续让喜欢说风凉话的人，在我的网站上说话。
-
-说一千道一万，用脚投票的博主就是不愿意烧掉绿卡回中国沐浴党的光辉，继续披着一身黄皮在美国被“敌视”，被“歧视”。不过也能理解，经常回国的博主，传播翻墙技术，肯定已经违法了，搞不好哪天就会被盯上抓起来，成为网警的KPI业绩，在页面上写了那么多爱党国政府，反西方反自由的话，也是为了求生而已。
-> 我老家西安，我爱西安，所以我不能去北京、上海、广州发展，我去了就是背叛，就是对西安的极大不虔诚，就应该被钉死在十字架上。我去了北京就不能说北京不好的地方，说了就是背叛我自己的选择，就是虚伪，就是该死。
-明白。
-
-己所不欲勿施于人，您的观点我实在无法认同，首先无论墙内还是墙外都有好有坏这是一定的，因为人的本性就是如此，没有上帝也没有天使，但是人的智慧是确实有区别的，那么您认为一个小孩因为在外被人歧视就永远不出门这么做智慧吗？想要出门还得交钱这合理吗？您肉身出墙，貌似理智，但是在我看来文字里透露出的是一个冰冷的灵魂，这个灵魂深处根本不在乎其他灵魂的状态。另外说一句本人在墙内。
-> 部署于冲绳的核弹上印着：
-出处：The Coming War on China
-
-BBB写了这么一堆，无非就是推销翻墙服务器。
-
-为什么访问一些网站会显示连接不安全，无法访问。能解决一下吗，一开始还能上油管，一段时间后就上不去了，显示连接不安全
-
-实在搞不懂鬼才逻辑，都是违法出墙的人了，还跑出来批评这不属于你们的自由社会，真”爱国”你就应该响应号召不要翻墙。你们的价值观就是：小区业主必须拥护物业，不管他贪污腐败、不允许你说任何他不想听的话，要给你的孩子洗脑必须爱物业，没有物业就没有业主的家，你们认为别的人可怜你替你批评两句你物业，就气跳脚觉得别人是侮辱你整个小区……佩服，那就祝愿伟大祖国世世代代子子孙孙永生永世活在这种幸福环境下吧。
-
-我用v2ray两年了。总体感觉哪怕是敏感时期也没问题。其实配置很简单。就是教程太杂，很多不能用。后期就靠二维码分享配置就行。。。偶尔会断几小时大概是服务器那边的问题。
-> 我以前尝试过，没配成功，也一直没认真评测，你用的是什么服务和配置？我其实倾向于商业节点，自己不用配也不用维护，有推荐么？
-
-很赞同楼主关于国内外一些看法
-
-我想问一个，目前有哪个VPN支持独立IP的吗 拿来打游戏，对延迟要求不高，就是需要独立IP不然容易被封号
-
-Dont even villainize the open internet by saying “democracy pollutes the naive minds of mainlanders”. Stop promoting your site if you wanna stay clean and abide the law.
-> If you don’t like this website, please close this page
-
-你好，我想请教一下，如果我在路由器上实现翻墙，那么连到这个路由器的电脑能够访问国外aws vpn吗？工作需要，我得在办公笔记本上访问日本aws，还不能在办公电脑上下载软件，感觉除了在路由器上尝试一下，没有别的方向了…
-
-nexitally有trojan節點嗎？
-
-想看路由器翻墙攻略，为啥点不开？
-
-”墙为何存在“那段写的很好，感谢分享。在美6年，基本同意的观点。
-
-，问一下vpn状态下如何测试速度呀？我已经购买了pandavpn，但是有些网站使用时比较卡顿，想测一下速度。十分感谢！
-> fast.com
-
-我想问一下，梅林路由器+expressVPN方案看Netflix能达到4k流畅播放效果吗？
-网络是广东电信300M光钎
-> 用Netflix经验有限，电脑连香港节点4K流媒体还好，偶尔有卡顿，路由器应该类似
-
-请勿再推荐PandaVPN，它被扒出来，是国内一家“北京奇思客网络科技公司”创立的，受中国国内法律监管，并非真正中立且无日志公司。如果有心，就让大家看到这些信息。
-请参阅：
-> pandavpn试用后申请退款很困难，客服会跟你打太极，你要求退款，他先叫你试试这个节点，你再要求退款，他让你换个节点。你坚持要退款，他问你用的什么设备。这特么就是太极宗师啊。 另外他们那个panda7×24的客服邮箱，连邮件都收不到，这是什么服务？
-> 谢谢提醒，我会尽我所能核实。
-
-博主三观很正!! 早年初高中翻墙的时候经常有一些这种类似形式的博客各种讽刺挖苦我们国家, 而且好像还是国内的一些反骨仔, 最近这两年真的看到了我们90 后 00后的成长, 很欣慰
-
-为什么我用的VPN有时候能显示国外的地址，有时候显示国内的地址？这让我在YouTube上面很多视频都看不了，要怎么样才能改变这个问题
-> 你用的VPN有IP地址泄露，原因很多，常见的有
-翻墙工具没有Kill Switch能力，也就是断线重连时不临时自动掐断网络，这段时间内设备到外网的流量不经过加密通道，造成流量和IP地址泄露
-有些免费的科学上网工具为了节省流量会在后台只选择性地路由某些网络服务的走加密信道，不是全时可信赖的通道
-很多工具或多或少都有泄露的现象，我用过的所有VPN里，只有ExpressVPN我自己从未侧出过泄露。
-
-我自己用的秒速看YouTube 奈飞4K都不卡挺稳定的 就是最近网页不太稳定
-
-一直在用igue， 感觉一个插件不太好。搜索到了这个网站，买了panda 新出的7天试用。 不能说不能用，有的节点速度还可以，但是我找得很费力。igue作为浏览器插件，可以一键将域名加速或者不加速。需要翻的也会自动。比panda的智能模式更舒服一些。并且我不会使用固定加速哪个域名，只能开全局。很墨迹。igue速度还是很快的。因为节点不多，我用的智能连，或者是我用过的几个节点，速度都不错。不用我很费力去找能用的节点。我看netflix720p 是一点压力都没的。另外他加速谷歌是免费，但是去其他网站的话是15元一月的 ，并不是免费软件，也不许要打开pc端客户端链接，打开浏览器就能用，并提供V2的订阅。非常好用，方便。但是安全性我不敢评价，因为我不太在意这
-
-说句实在话，我翻墙几年了，简单说来是这么个顺序：
-蓝灯 -> 安卓上一个叫SecureVPN的软件 -> 老王 -> 自建V2Ray服务器
-基本上说，和讲的一样，想要全年稳定是不可能的（自建V2Ray服务器可用CDN来中转一下，但是敏感时期照样龟速）
-还有一点就是，v2ray现在已经发展得很完善了，客户端很多（估计这也是开源社区大家贡献的优势）
-
-V2RayN
-Netch
-Clash
-這三個軟件哪個安全性高一點？
-> 都是GitHub开源的工具，本身没有做服务盈利，需要你自己搭建或购买服务器后部署服务，所以在项目保持开源的情况下，都是安全的。
-
-两会已经开完两个多礼拜了，然而在欧洲用wifi的时候很多国内网站还是登不上，手机切换成4G的话倒是能登上，知道是为什么嘛？求解
-
-各位大兄弟，Ivacy就不用想了，之前买了个ivacy5年套餐，70刀，刚开始能用，接着就是小甜甜变牛夫人，越来越难用，但他们的客服态度的确好，专业，但是我每次翻墙，都得先找客服一堆操作。现在完全是用不了了，不管我Win、安卓、Linux，教育网、移动网，OpenVPN、ivacy中国特别版客户端，完完全全用不了，真的，给退款的客服发邮件，说是退款搞不了，但是可以冻结账号，或者把时长转给别的ivacy账号，哎，
-
-嘿~蓝灯专业版稳定性如何~？
-
-买了蓝灯一年，现在快到期了想续费显示 出了些问题。怎么办呢
-> 我已经很久没用蓝灯了，现在好的替代VPN很多，还是问问客服吧。
-
-SVIP多数节点一直可以上
-
-翻墙最快的还是 机场ssr 、v2ray等等，可以跑满你家的宽带，看youtube什么没压力。vpn想要快点价格不菲。机场只要RMB几元一个月，当然也有向上的价格对应更多的服务节点和流量及稳定性。
-> 我一直在用v2ray的節點的小機場，15元一個月，用了很久可至少2年沒斷過服務。
-
-不建议用PandaVPN！
-人在国内，2021年2月开始用PandaVPN到现在。很多网站上不去，google搜索结果有时候一半都点不开……很多网站PC版的Panda打不开但android版能打开，也是醉了……而且PandaVPN的安全性也很差，Google搜索where am I可以发现大部分时间IP地址都没有变。虽然我用梯子不是为了匿名上网，但也真看不惯PandaVPN尬吹安全还明码IP……有安全需求的人可千万不能碰PandaVPN……
-试过换成蓝灯的免费流量，还有试用期的lightyearVPN都没出现这些问题。
-> 国外亲测无法选择国内站点，也无法访问国内网站
-> PandaVPN用很久了，没碰到你说的问题，IP的问题给官方说过吗？
-
-，你好，我昨天刚买的ExpressVPN，正常使用的话速度挺快，一般2.3个小时后速度会变得很慢一段时间，大概二三十分钟，然后又变正常，一直这样反复，你遇到这种情况吗
-> 特殊时期会的，即使不是特殊时期，多数翻墙工具其实都或多或少会出现连接质量下降或网速波动，一般换节点重连可以解决部分问题
-
-今天两会 我蓝灯一直连不上 太难受了
-
-三月份到了，用的panda，目前还能连，但也开始困难起来。学生就想上个学，不翻墙我连CANVAS都打不开，我太难了。这两周又是期中周，进canvas进到哭泣，有时候panda显示连上了，但是还是打不开学校的canvas和Google。
-
-谷歌上网助手极度不稳定，时快时慢。基本等于没客服，回复你也是敷衍， 不解决问题。
-但是真便宜，而且长时间可用，开会期间也不断
-
-这两天一直在用exprsee 但是有个问题就是在wiff和4g切换的时候都要手动重连一次，第一次用这种现象是正常的吗？还是设置有问题？
-> 切换网络会改变底层网络配置（IP地址等），VPN软件都需要重连。
-> 感谢回复，根据你的另一篇帖子，iphone也下载了配置文件，但连接不上，如何设置呢？服务器 远程id之类的，小白非常感谢
-> 用这个地址给的美区ID登录App Store下载iOS版。
-> 感谢回复，苹果上如何使用express呢，通过官网打开提示在该软件中国地区未上架
-
-想咨询一个问题，我在使用panda vpn时有时候笔记本电脑的风扇会狂转，当我关掉vpn后风扇又立马不转了，这是怎么回事呢？
-> VPN加密流量是强度较高的运算，但不至于让风扇狂赚，建议装杀毒软件，看是否有未知后台持续流量经过VPN。
-> 说风扇狂转确实有些夸张，不过确实转的挺快，而且一关就立马没声音，这就很奇怪。按照您说的当在YouTube上看视频属于这种持续流量经过vpn的情况嘛？
-> 视频是，720P以上基本都会让普通笔记本尺寸运行在高CPU占用下。
-
-亲爱的您好！请问一下有没有台湾节点的免费安卓VPN呐，我要使用台湾的“动画疯”APP看动画呐，但由于版权原因我无法使用“动画疯”APP，请问一下有没有台湾节点的免费安卓VPN！
-> 你好，ExpressVPN、PandaVPN，SurfShark都有台湾节点啊 ：）
-
-我昨天买了expressvpn一年，手机还能顺利链接，但是在电脑上试了好多次都链接不上，分别在win7和win10的系统都试了，不知道是什么原因？
-> 试试美西节点，LA-5。
-
-看了您的推荐和点击文章发的PANDA链接，刚才订阅了 买一年送一年，在WIN和IOS都登陆了使用，速度还是不错的，软件的最大好处是节点后缀有“备注”字样，点击连接就可以了，不像其他软件的节点选择连接成功率低而不断尝试，耽误时间影响使用。PANDA界面很友好，中文的，推荐小白使用。前几天分别订阅了NordVPN和CyderGhotsVPN,正如您的评价，各种连接不上，限制的大，尝试了手动、改DNS等教程使用帮助，各种办法几乎尝试了一下，搞不定，只能退订了。但不得不说的是，这两家的客服非常好，在线、邮件都非常及时回复，并积极帮助解决问题，退款也是没有任何障碍，这点是值得信赖的。也给大家一个参考意见吧。
-> 请问panda这几天好用么？现在正在犹豫，想使用Surshark，结果已经不支持支付宝了。
-> PandaVPN好用。
-
-最近panda不能用了吗？？？？买了一个节点尝试完了都不行
-> 能的，用备用节点，电脑上有没有开别的东西。
-
-博主好，请问是否了解一个叫溪不事介(避免广告嫌疑用谐音) VPN 的服务商？他们提供 SS/SSR/V2RAY/TROJAN 协议的机场，有三天免费试用，我试用了一下速度很是不错，但是我有点担心，因为他们提供的 MacOS 的客户端程序是用的开源 ss 客户端改的，增加了 V2RAY/TROJAN 协议的支持和其他一些功能，说实话做得不错，却没有开源，让我担心他背后悄悄干了啥？还有就是价格不贵，比 shadowsocks.com 还便宜点。
-最近 shadowsocks.com 被墙得厉害，所以他们更换了 trojan 协议，然而这个协议没有什么好用的客户端，搞得我这两天很抓狂，唉。。。
-> 您这不是*部*界?
-> 你好，我猜不到您说的是什么产品，市场上的翻墙软件实在太多，光Google Play就有上百个，因为这是底层软件，开发者有机会嗅探到使用者上网记录，所以很有吸引力。
-如果你有好产品推荐，请看“联系”页面提示。
-
-，plex加速器怎么样？买了一个月的套餐，用着还行，而且一个月才39元
-> 你好，没用过，如果确实是好产品，欢迎收录：
-
-在vultr购买的VPS自己构建的SS单线，最近封锁的无比厉害。 尝试了很多服务器都活不过一天。当时是估计vultr全面被封锁了，但是同时尝试了下某免费的服务器，开了几个东南亚的ip，也活不过一天。 现在封锁的都是端口，不封锁IP地址了。
-由此可见，墙不是封锁的ip地址，而是扫描端口连接。现在最无奈的办法，把VPS只开一个端口定向到某个IP，但是这样子移动端就无法使用了。
-你有没有国内可以做中转的VPN服务器推荐呢？那么我就可以二次跳板。
-Thanks a lot.
-> 我还想一个问题，有无IPV6的呢？再通过IPV4转到IPV6。。可以行不？哎。。。
-> IPV6不可行。
-> 你有没有国内可以做中转的VPN服务器推荐呢？thanks again.
-
-，为什么我给expressVPN客服发消息退款，他们一直不退，像是要帮助我解决问题，邮件发了也没动静
-> 一般他们会先尝试帮你解决问题，如果解决不了（你要明确告诉他们），他们一定给你退的，不用慌，要是急，找他们在线客服。
-
-你好，请问如果是主机, 例如PS4, XBOX, Switch, 需要怎么搭建比较好？可以搭建socks5，然后通过路由器运行实现加速吗？
-> socks5可能麻烦点，但ExpressVPN是直接有客户端的。
-
-我的华为手机装不上expressvpn，win7电脑连接几乎没成功过，iPhone花了好大功夫，总算有一半成功率，电脑以及安卓，谁能给点建议。
-> 你好，请问你看到什么错误？Android什么版本，是否联系过ExpressVPN客服？
-
-express vpn 速度好慢，只有4个节点可以用，退款的时候客服说另外加3个月。。服务还是很可以的
-
-最近刚买了蓝灯，完全用不了啊，安卓手机，win10台式机。全用不了，什么情况啊。能退款吗？
-> 联系 support@getlantern.org
-> 蓝灯完全不行，付费后设置了一天也不行，转天就提请退款，官方站点的支持 support@getlantern.org 根本是不理你的，发好几封信了没任何回音。最后发到付费的那个网站去申请退款，有了蓝灯的回复了，付费网站转发的蓝灯给的邮件。现在每次和付费网站的邮件都抄送给蓝灯support。蓝灯回复：说按照这个方法设置一遍。注意哈，是一共14步。我规规矩矩的走完一遍，仍旧不行。无论PC还是Android手机端，都用不了。
-现在继续等，看这蓝灯怎样回复，还是未来也根本不会理你？
-> 试试在github联系他们。
->
-Thanks for getting in touch with us! Your message has been successfully submitted.You can find answers to frequently asked questions in our support documentation or the GitHub Community Forum.
-，没用的，GitHub这里踢皮球回复呢，让我从一大堆的支持文件和论坛里找答案。哈哈哈，估计这个如果还不行，就该让我参加IT培训解决蓝灯的问题了。
-> 试试写信到 team@getlantern.org 或 lantern@getlantern.org
-
-如果是nordvpn，怎么配置能达到同样 的效果？
-> 我不记得NordVPN有这个功能，可以去官网问客服，或者联系support@nordvpn.com
-
-想请教一下，vpn这种技术怎么保证国内ISP不举报你的小通道？既然ISP应该知道你跟某VPN有通讯的话？我不太懂这一块，谢谢啦！
-> 如果它们想是知道的，实际上它们也知道，所以用VPN时会碰到ISP临时断你网，限你速。
-但所谓法不责众，要是追究每个用vpn的人，执法成本太大啦，也得有地方关啊。
-另外，ISP不能把VPN一杆子打死，因为有很多商业活动还依赖VPN技术。
-
-请问EXPRESS VPN或者VPN这种方式能像SS一样通过PAC自动切换网页如何走流量吗，如B站直连，youtube走VPN，自动切换
-> 这叫Split Tunneling，能分应用配置线路，如Chrome浏览器走VPN，Firefox浏览器不走。
-> 这个我看到了介绍的，但是这只能是应用上进行自动分配，具体网页上能自动分配吗
-
-我来请教一个问题，昨天在网上上不小心发现一款快连VPN（lets vpn），这个app真的像说的那样3秒直接连上，而且特稳定，看YouTube 1080p没压力，但是这个软件百度直接在最头条，所以我就好奇绝大部分VPN被封杀的情况下，它的官网直接百度不用科学上网就能进去，是不是太诡异了？而且我在Google和它的官网看不到公司属于哪个国家，所以很怕这个VPN被监控，而且这个VPN用推广好友的方式加时长，像极了国内VPN，它能活下来对我来说一直都是一个谜（油管去年就有视频推荐该VPN了），求帮忙看看这个VPN行吗？
-> 快连VPN,永远都连不上的vpn
-> 这个软件在高速负载的时候CPU占用率奇高，i7-7代能把CPU跑到99那种，虽然我没用过VPN服务商的产品不知道是什么情况，但是这个占用率绝对是有问题
-
-请问surfshark是不是被屏蔽了，我今天注册购买后在电脑和手机端所有协议和所有线路都无法连接。
-> 我刚购买surfshark,也是电脑跟手机都无法连上任何伺服器,我人在合肥
-> 这两天全网连接都不好，再试试，不行请退款。
-> PandaVPN这二天一直很好啊，是不是当地运营商问题？
-
-终于找到组织了，购买PandaVPN试试看。
-，感谢你不断更新，点赞。
-
-express vpn 上不去啊
-> 如果实在不行，请及时退款
-
-Twitter上老是推送一个Panda Vpn的广告信息，看评论很不友好，很多抱怨连接不上而且无法退款。Twitter上的那个跟推荐的这款vpn是同一个么
-> panda 挺不错的，只是最近疫情期间不好用，以前我也一直用的panda
-> 最近因为疫情网络管控升级，很多节点都出现连接问题，中国的用户是这样的，一有问题就抓狂，但这是VPN啊，你用任何VPN都是这样，至少我这么多年来回中国，没碰到过哪个VPN是随时随地都稳定快速地，没有！
-
-我不是来黑expressVPN，如图，我昨天2020.2.13买的701的15个月的express，结果手机美国、日本、香港、台湾的结点根本连不上，我的电脑软件输入激活码也激活不了，我的iPad输入express都不能登录，我真的对这个软件绝望了，请问是因为特殊时期还是什么原因，客户体验太差了吧
-> 好用了吗？我昨天买的激活成功了，但是节点一直连接不上
-> 这是暂时的，但如果没耐心等，请及时退款。
-> 请用我在文中提到的方法联系ExpressVPN客服，它们会帮你解决问题。
-
-请问 SurfShark与pandaVPN那个更适合小白用户呢
-> 你好，VPN软件没什么使用门槛的，最多看一眼帮助，真不难。
-
-站长你好，很神奇找到这个网站，也很感谢你花这么多时间和精力来帮大家评测和分享。
-我有几个小问题：
-1.Surfshark是否支持路由器翻？因为想在国内玩ps。
-2.Surfshark在国外翻国内的效果如何？因为我是移民党，半年国内半年国外。
-3.之前着急找了一个朋友分享的通过testflight下载安装的雷霆加速器ios的，其实用起来倒还是比较稳定，但今天看你的评论区还有评测里提到很多安全的问题我才意识到这方面我欠考虑。不知道你对这个app是否了解。假如这个app有安全隐患，那么是不是我之前通过它所登录的网银，帐号密码都有潜在的风险，即使有些是面容password。
-再次感谢你的时间和分享
-> 目前，ExpressVPN对游戏终端的支持是最好的。
-
-用你的链接购买的,有个绑定邀请码,买了一年,为什么没有送90天?
-> 买的15个月套餐？
-
-用你的链接购买的,没有获得赠送的90天
-> 买的15个月套餐？
-
-打不开镜像网站
-> 哪个VPN？
-
-请问免费试用和付费试用的VPN有差吗，我是马来西亚的，想玩台服的游戏，我试过免费试用VPN，台服游戏还是进不去，显示网络错误，不知道付费的有差别吗？
-> 游戏加速还是用sstpa这东西对游戏的兼容性更好一点。
-> 有的游戏会检测用户是否通过代理或VPN登录并会屏蔽，免费的VPN可能仍有IP泄露，付费的一般不会，但最终你需要自己试试看，每个游戏，每个VPN都不同。
-
-打开SurfShark发现没有支付宝的支付方式 请问你们也是吗
-> 你好，surfshark暂不支持支付宝，抱歉。
-
-蓝灯无法续费，panda vpn 无法下载
-> 蓝灯在应用里续费，你用的是什么系统？
-
-发了两封退款的邮件给panda也不见回复，着急没试用就买了两年，购买至今不到两天，太不稳定了。大部分线路连上了也没有用，尝试多个线路后发现极个别能用，但是也极其不稳定（包括备用线路），访问网页延时严重，看youtube卡顿严重无法观看，使用体验非常不好。还有你们说的官网右下角的客服聊天窗口在哪？我怎么找不到？还是网页删掉了？我要退款！！！
-> 沟通后已全额退款。panda的中文服务还是值得称赞的，等服务稳定了我还是愿意使用的。
-> 老兄，坦白说你用VPN软件一不行就退款，估计也没几个能用的了，因为所有VPN你都会在某个时候碰到类似问题，我上海广州的朋友用备用线路都可以用，不快和断线都是真的，但换节点就行。
-> 试试备用线路，就是后面有【备用】或[backup]字样的线路，我也在尝试联系厂商。
-> panda回复倒是回复了，但绝口不提我的退款请求要如何具体操作。只是说我所在地区的封锁还是比较严重的，再就是一味要求我换备用线路，问题是我把线路换了个遍也不解决问题啊。现在情况就是除了半夜能勉强流畅使用，其他时间都是半瘫痪状态。这样也不给退款吗？
-> 我打算购买一个能用满两年的，您觉得是panda靠谱点还是shark靠谱一点？很怕用到一半就用不了。坐标深圳，要看奈飞，能推荐下吗
-> 没有完美的翻墙软件，我觉不觉得其实哪个都会有不稳定的时候，但绝大多数时候都是暂时的不稳定。
-
-你好，我购买expressvpn将近一个月了，但这一个月里尝试无数次连接没有一次成功。尝试很多不同节点，也尝试把杀毒软件全部关闭，但仍旧无效。我在笔记本上使用的exp，使用wifi，具体情况是这样的，点击exp连接→电脑无法上网→exp连接失败→通知栏wifi栏显示无法连接到网络→退出exp→网络恢复正常。尝试过不同的wifi、热点，全部失败。能帮我解答一下如何解决这个问题吗？
-> 你好，
-如果电脑里装着其他翻墙软件，特别是免费VPN，请先卸载。
-确定你的ExpressVPN是最新版，在客户端界面下面有一个 Follow Latest China Updates 的链接，国内可以打开，看上面的更新信息。
-ExpressVPN这段时间（疫情以来）的确连接稳定性下降了， 速度也的确有所下降，但是可以用的，最好的节点是 US-LA-4和5，HK-3和4，JP-Tokyo-3
-ExpressVPN 30天内可以无条件退款，别忘了。
-
-ExpressVPN现在还能用吗？
-> 能，但因为这段时间网控加强，到晚下午不是很快，WIFI不如4G线路
-
-哈喽，听大佬的建议刚买了ExpressVpn。
-但在iPhone上下载客户端之后使用推荐节点登陆，完全上不去，连网都断了。请问是什么情况啊t t
-> 你好，连接中会暂时切断网络防止流量泄露，耐心等待连山即可。
-
-我一直有个疑问，比如我用ExpressVPN，访问淘宝网站，进行支付宝支付（输入密码）等等，是否安全？
-另外，蓝灯和Panda这类是否安全？
-有没有密码泄露风险？
-> 只要你用的不是那种“免费”工具或者从不明第三方下载的所谓“破解”版，就是安全的
-> 请帮忙比较pandaVPN和purevpn谁更合适一点，价格差不多，从技术，使用效果和信誉度方面考虑，谢谢
-> 两个都有穿墙能力，但我个人用熊猫更多。
-
-expressvpn的镜像被墙了，我推荐给国内的小伙伴，无法打开网站，时间是北京时间2/4.
-> 感谢提醒，用工具在国内几个城市测了，没有被抢，但从深圳、上海打开的速度都不算快，这个官方一直没有解决好，因为用了akamai的cdn，但镜像站可以用。
-> ok，我让我朋友再试试看这个链接
-谢谢大佬！
-> Karen，如果朋友在国内，给他，国内打不开express.com的
-
-今天买了Panda VPN试了一下，结果发现连接很不稳定，官网右下角的聊天窗口想退款，结果没人回我，发了邮件也没有消息，我现在很慌，钱是不是打水漂了，下午发了一次，凌晨也发了一次，客服没人回复我
-> 这两天确实有不稳定，但请放心，他们是正规厂商，没有跑路，这是因为这段时间的响应确实不快，我在美西时间联系过他们，回复了：
-您好，我们升级了线路的带宽，请问您连接的是香港备用线路还是普通线路呢？
-我用工具测了香港原节点和备用节点，速度还不错，但我确实也发现中国大陆到了晚上6-7点左右网络似乎开始影响熊猫的连通率和传输速度，具体原因我也没法猜。
-我建议你再试试，也许加宽带宽以后改善了。如果不行，请到“联系”里给我邮件私信（你的熊猫注册邮箱），我帮你反馈，我所在的时区可能方便一点。
-
-请问ExpressVPN支持配置访问某些网站时，不使用代理吗？看你的介绍，它是分应用来配置的？
-因为我平时在公司进行开发的过程中，需要通过nginx访问公司内的开发环境，但使用蓝灯时，会导致开发环境无法访问。不知道ExpressVPN是否会有同样问题，或者说我可以通过修改配置规避。
-> ExpressVPN的配置粒度只能到应用，无法到网站，技术方法有，比如静态路由，因为您是做开发的，可以自己Google一下设置方法，我就不展开了。
-蓝灯因为本质上是代理，你可以在系统代理设置界面排除相关网站。
-
-Surfshark 2.5.8還ok 老哥們去買個兩年的plan吧
-
-Chromego也是某个fan中网站的。
-
-想基于目标进行配置怎么搞？比如浏览器中只针对特定域名设置
-> 那就在电脑上下载俩浏览器呗？我Mac电脑，需要翻的就用Safari开，其余就用Chrome
-> 想实现针对特定域名好像只能用ssr或者host
-> 任何代理技术都是可定向的，如SSH Tunnel，按问题不是能不能实现，而是实现了能不能用，能不能长期用。
-> 针对特定应用程序。
-
-用的第一款就是Nord，也是别人的博客推荐的，所以我还是很感激的。需要下载openVPN配置，不是特别特别麻烦（也许是因为当时没有别的选择），关键是价格相当便宜，不过最近连接遇到了些问题，配置文件频繁更新然后又被屏蔽，所以我就赶紧放弃了，客服退款很快（之前还退过一次，相当于白用了一个多月）。
-目前用的express和panda，panda之前经常看到广告，第一眼感觉就不行，其实速度很快，价格比Nord还便宜。不过现在还是感觉不可靠，特别是和Nord以及express对比起来。，panda除了便宜还有其他优点吗？随便啥比express好的地方就行
-> 熊猫的整体技术我认为是弱于ExpressVPN一个档次的，但是由熟悉中国网情的团队开发维护，有中文支持本身是不小的优势。
-> 我只是用翻墙软件来看视频和网站，用哪个好
-> 你好，本文推荐的翻墙软件都是无流量限制的，ExpressVPN + PandaVPN 作为A/B方案可保长期使用。
-
-SurfShark这个在iOS系统不能下载使用吗？
-> 目前只能通过App Store下载。
-> App Store里面提示没有这个软件呢
-> 提示所在地区和国家不支持下载此APP
-> 您用的是什么App，在哪个国家？
-> 中国大陆
-> 那应该是App Store限制了 … 用ExpressVPN吧，不依赖App Store。
-
-你好，我想咨询下。坐标china福建，手机 iPad 和电脑都用的panda，电脑联网用的是电信校园宽带，用了三个多月都没问题。今天2020年1月5号才开始不知道为什么电脑连接VPN后显示，远程计算机或设备将不接受连接，连国内网站也访问不了。把pandaVPN关了之后国内网站正常访问，反正就是没法翻。很多办法试过了包括自己备份后卸载掉WAN Miniport（IP），以及关掉实用代理服务器的选项（不知道为什么关不掉），还是翻不了。手机和iPad不受影响。求解答？
-> 检查一下系统的代理设置，Panda不是VPN，而是类似SSR的代理，看看你的系统代理是不是被占或者错误配置了，如果不确定可以联系Panda客服。
-
-我目前用的一款没在里面，不知道保密协议方面有没有问题，但一直是能用的，即使是在19年国庆期间，仍有部分节点可以正常连接使用。最近涨价了，唉
-
-哎，我去年看的的文章买了vypr年费的（有变色龙协议），坐标南京完全连不上，现在快一年了心血来潮试着下回客户端重新连一次，还是完全连不上，为什么连不上还留到现在呢？因为连不上第二天我联系客服退款，了无音讯呀，我都好奇我这个情况有这么特殊么？
-> vypr是可用的，今年上海的朋友测过几次。
-
-想知道，为什么现在很多VPN都不支持WhatsApp和line，这个真的很影响使用，有没有能支持这两个的vpn呢？
-> ALEX，VPN本身并没有限制这些App啊。
-
-可以弄个国内的QQ交流群之类的，这些粉丝随时可能失联的，到时被围在墙内还有个交流渠道可以翻出来。
-> 可是，一旦现在在用的VPN被封，有些人估计连这评论系统都打不开
-
-Panda+1 336买了两年，希望能用久一点。这个价格能让我用上一年我就已经满足了 要是能两年，那就更好了
-> YouTube看视频每秒有多少M那样？
-> 任何工具，看720P质量的视频应该是没问题的，1080P不一定。
-
-panda已买, 速度一般, 和之前用的没有太大提高, 节点是很多, 没有TV客户端是遗憾, 好处是不限流量
-但是那个1212特惠有点不厚道, 宣传是仅此一天, 到了15号还是有优惠, 优惠时间久就直说嘛, 藏藏掖掖的…
-> 像这种VPN优惠时间久肯定是的你今天上的网站的提示说距离优惠结束还有6小时几分几秒
-你明天到他网站上去他还是写着距离优惠结束还有六小时多少分多少秒
-
-刚刚买了PandaVpn，双12期间334.98元买一年送一年，因为这个能同时在PC和手机上用才买的（试用期确实好用网速下载很快），手机上我有个免费的还挺好用的，这次第一次买这么“昂贵”的服务，希望能撑到2021年的12月了！
-
-首先感谢的耐心测评和推荐，这里坐标西安，设备的话PC端主要是Win，移动端主要是iOS，购买了1年的EXPRESS，目前的情况是美西的节点可以正常连接，而日本，香港，新加坡这几个亚太节点似乎始终连不上，不知道这是属于普遍情形还是个别时段如此。因为使用经常日区应用的缘故希望能找一款日本节点比较稳定的，不知道有没有更好的建议。
-> 我也是上个月买了Express，刚开始用着挺爽的，几天以后就不行了，后来一直断断续续的，联系客服跟作者说的一样，说可以免费给我加一个月（这点确实值得表扬），但是快一个月的时候还是连不上，或者速度极慢，然后我跟公司买的Astrill对比了一下，至少我测试的时候Express被Astrill全面压制，于是还是退款了，现在也很纠结要不要买Astrill，毕竟贵而且不能退款，万一哪天不能用了就很亏，暂时用freegate出来看看，但是这个东西吧….速度慢而且不太敢多用
-> 广州用express 在家 在公司 还是在不同的公司 express根本打不过astrill。astrill的openweb比其他的VPN香多了。 最重要的是 express客户端压根就不能看实时网速
-> 你用任何翻墙工具都会碰到低谷期，没有例外。
-ExpressVPN的服务已经恢复了，连美国服务器。我似乎没有提到过联系客服可以给你加一个月，但客服随时在线，能给你解决问题。ExpressVPN如果不适合你，可以在30天内无理由退款。
-> 抱歉是我没有表述清楚，我的意思是说客服回复我的大致跟作者说的大致一样，因为GFW加强，他们也在尽快修复，不过他们确实有跟我说可以免费给我加一个月，这个我不敢保证是他们普遍的补偿政策，就是想借此说明他们的服务态度还是很好。不过我已经退款了，现在的情况也不是很清楚，今天也是偶然发现这个网站，非常感谢作者的分享，比很多所谓的“VPN排名”有用很多
-> 你好，关于ExpressVPN的问题，我最近也有注意到，我联系了客服，他们说从今年国庆以来，GFW的攻势加强，造成他们的香港日本节点不稳定，他们的技术还在解决这个问题，如果你发现ExpressVPN不能满足你的要求，请及时退款，试试本文推荐的其它VPN产品。
-
-VyprVPN连不上香港和日本的节点，有谁知道是怎么回事呢？
-> Adam，最近基于VPN协议的香港和日本节点普遍出现问题，可以尝试美国节点。
-
-为什么每个地方都推荐 ExpressVPN，然后我都连接不上。。。今天刚买了一个月。试了，没有一个能连接的通的，我也试过是不是我的网络问题，我这边电信，联通，移动的网络都试了。都不行。然后你们不推荐的pureVpn我却能用。虽然速度不咋滴，起码可以用。。。
-还有推荐的时候可不可以顺便评测一下隐藏真实IP的功能是不是真正都实现，因为我用过一个叫坚果VPN的，速度是很快，他的配置规则也有一个全局代理的功能，结果我开了全局代理的功能，远程访问服务器的时候，还是用我真实的IP地址，而打开网页查询的时候却是代理的IP。这样的VPN其实很坑人。没注意就很容易暴露自己的真实IP
-今天试了pureVPN，虽然慢。但是起码真实隐藏了我的IP
-
-Ivacy现在低至$0.99/月（5年），值得入手吗？
-> 用来翻墙回国的，科学上网不合适。
-
-因为最近在用一款翻墙软件需要在线验证才能使用，我试了几个VP中国N都不行，后来在这看到了Express，用了后就能打开那个软件了，而且发现ip地址也变成了国外的（不知道是不是我用的那个软件验证必须要这样验证），不过最近EXP又不能用了，虽然感觉不错，不过连接速度跟连不上的问题确实有些头疼….
-> 最近香港日本等节点有点卡壳，但美国节点可以。
-
-今天pandaVPN已经全额退款。
-> 好的，很遗憾熊猫你那边不好用。
-
-最新消息,在和客服反复沟通下,客服同意退款.但是说需要支付审核,需要3天时间.我会反馈退款结果,另外pandaVPN是有3天试用天数的,这点推广作者没有提到,想尝试的多试用再下单,谁家的钱也不是大风刮来的.
-> 我再次和熊猫客服进行了沟通，对方确认是提供7天退款保障的，但这个不是无理由退款，用户需要说明理由，确实是因为软件本身问题造成无法使用或服务质量差，或由于不可抗力，panda再也无法提供服务，他们也会退余额的。
-
-而且刚刚把这里的pandaVPN如何退款的信息,发送给熊猫的客服看,熊猫说这不是他们的产品声明
-> 抱着试用的态度试试,但是节点不稳定,要求退款,也把日志发给对方,但是对方说节点好着呢? pandaVPN 不认账怎么办?
-> 你还可以打开全局模式试试。
-> 你并非一定要用香港节点，日本，美国等地节点都可以用，我甚至用过泰国的，也不差。
-> 请先充分使用，确定工具不能用，排除是你系统问题，我可以肯定的是，熊猫现在确实是可以用的（我朋友从上海试的），但因为地区差异，我没办法测100%的地方。
-> 可以用和好用是两个概念,而且你是通过在上海的朋友的测试,并不代表其他地区也是可以正常使用,我这里使用其他节点的速度是要比香港的速度慢不少,看YouTube视频720P有明显卡顿,
-而且你是今天下午(19年12月3日),才修改pandaVPN的退款条款,将7天无条件退款修改为“在你的设备和网络环境下不能用”,本身就与预期不符,更担心pandaVPN是否能提供2年的服务.
-> 本人广州，用PANDA很顺畅。
-刚购买几天后节点使用不了，把我吓坏了，但可以用备用节点，感觉比常规的节点更快。而且软件上有通告，几天后就恢复正常了，这个态度点赞。
-第一次购买时操作错误买多了一年，联系客服退款，客服是过两天才回复，但直接就应承退款，不过要过了两天才退回来，头尾好像要4天。
-现在的感觉对PANDA还是很满意的，如果能够确定它多年后仍能够使用的话，我真想趁现在推广购买多几年
-> 熊猫和任何翻墙软件一样，绝对不是完美的，其实用户要有心里准备，不是每个节点都随时能连，也不是今天能连的节点明天一定能连，这是从国内翻墙的日常，我最怕的而是碰到有的读者，天天觉得有人要坑他，其实绝大多数时候并非工具不行，而是期望太高。
-> 我下午更新是因为下午看了你的评论才注意到，之前确实有7天无理由条款（但我估计是国内有很多用户在滥用）。我写那一节本就是为了尽可能对读者负责。
-但我做不到随时都给读者最新消息，没这个时间。你用的是什么网络，是wifi，4g还是什么，是从哪里上网，哪个城市，哪个接入商，这些信息如果你愿意给，我或许可以帮你。
-
-这几天用了pandaVPN,发现香港节点很不稳定,告诉客服后,客服让我尝试使用备用节点,但是问题依然存在.于是我提出了退款(在7天内),但是客服说必须是他们解决不了的问题才能退款,并不是该文中说的无条件退款
-
-强看到我，刚开了熊猫发现慢得很，又开EXP发现连接不上啊！就是连接的时候那个圈不是有绿色的条吗？转到百分70左右就不转了，卡在那，前两天用极速VPN，后来不能用了，现在用什么蚂蚁加速器挺好的，但是只给300流量，不方便，现在急需一款啊
-> 熊猫VPN的绝大多数节点都是可以连的，可以多试试，并且最好打开全局模式，exp的美国，英国，澳洲等地节点经测试，当前是可怜的，香港、日本地区节点目前似乎不稳定。
-
-刚刚买了ExpressVPN，但是始终激活不了，麻烦楼主了。
-> 请到官网镜像 右下角有在线客服，他们是7/24在线的。
-
-The vyprvpn currently is connectable, but the speed gets extremely slow after a few minutes of use.
-vyprvpn当前是可连接的，但是使用几分钟后，速度变得极慢。
-> 是的，VyprVPN有时候的速度并不理想。
-> The issue occurs all the time, and it has been like this for over 2 months now for me, Have you encountered the same problem?
-这个问题一直存在，对我来说已经有两个多月了，您遇到过同样的问题吗？
-> 如果Vypr不合适，您可以考虑ExpressVPN或者Panda。
-> I’d like to ask have you encountered the same problem?
-我想问一下您是否遇到过同样的问题？
-> 我平时用的主要不是vypr，所以很难讲，但我很早以前确实碰到过类似问题。
-
-Astrill VPN；🈶️惊喜。😄
-
-熊猫VPN不推荐..我就是看了这篇文章入手的熊猫VPN.买的时候官网促销买一年送一年只有4小时了,还在窃喜.结果促销结束后立马来个黑五,又是买一年送一年,持续10天.
-昨天晚上尝试了好多节点都不能正常上网.在意见反馈里面咨询后,推荐我用备用节点,今天早上依然推荐用备用节点,备用节点每次要滑到最下面,没有CN2,速度慢.反正我是不想用了.
-最坑的是当天晚上找客服申请退款,没人回复我.早上继续申请,客服要么不回,要么让我用备用线路.说好的7天无理由退款呢?我才买了2天,退款就这么磨叽.
-需要说明的是:整个软件唯一的客服通道就是里面的”意见反馈”.反正什么时候回复你看心情.
-目前用自己买的VPS搭建的v2ray上网,挺好的.
-> vps是哪家的啊，谢谢
-> 熊猫我觉得很快啊，
-> 请问同学，现在熊猫也这样的吗，我差一点点就买了···
-> 使用熊猫10天，还是觉得不错啊，速度很快，特别是打开内地网站都一样快，很希望可以一直使用不被墙。
-> 为什么我刚开完熊猫很慢啊！打开ins都说出错
-> 试试看打开全局模式
-> 我已经退款咯熊猫是7天之内可以退款.你可以试试啊.
-> 同学，一条差评代表不了产品烂，如果这样一惊一乍就什么都别做了
-> ，刚刚买了Express，首先没有简体中文，然后激活码激活不了？
-> ExpressVPN客户端不支持简体中文，但不应该影响你使用。
-> panda还行的，手机看油管可以，但是高码率卡，坐标长三角
-> 感谢反馈。熊猫的客服不够及时我也有所体会，已经加到文章里了，希望它们能改进，据我所知他们团队都在美国，和中国大陆有较长时间时差，这可能是一个原因。
-
-感谢推荐，昨天购买了PandaVPN，速度果然很快，在手机上分应用代理这个功能很好，在电脑登录vpn时，上国内网站依然很快，之前用Surfshark时上国内网站就比较慢。另外使用panda时经常受到杀毒软件警告，而使用Surfshark时则不会。现在投诉一下Surfshark，我在7月28日购买了两年的服务，使用起来挺不错的，连迅雷平时有些下载不了的资源神奇地可以下载了，浏览网站也很顺畅。但不到两个月，到9月中就卡顿严重，一直用邮件跟他们联系，他们服务也不错，回复得很快，他们教我怎样操作，但直到连邮件也发不出了还没搞掂。如果可以的话劳烦帮忙反映一下吧，谢谢！
-免费的蓝灯最近几乎连不上网，不知升级购买服务后会不会好呢？
-身边朋友一直用天行VPN，我就是用他的账号密码翻墙出来买翻墙软件的，不介绍一下天行？
-> Surfshark在国外是个挺受欢迎的服务，但并不适合中国，说实话他也不重视中国市场，至少目前看来是这样。有些中文网站生搬硬套国外的VPN推荐，完全不管国内用户的使用体验，造成了这类问题。其他的比如NordVPN，PureVPN，Ivacy等都不适合在中国使用，他们有些可以拿来翻墙回国内（用网易云音乐）但不适合从国内翻墙。
-> 是啊，本来已经想下手买NordVPN的，好在看了您的文章才用了熊猫，再次感谢！
-> 我已经买了熊猫2年的，这个价格良心啊，希望别用很短时间就崩了
-> 这是优惠期的价格，预期未来优惠期过了，不太会这么便宜的，也应该要5+美金以上每月吧。
-> 任何工具在不同的设备/地域/接入商等不同情况下都会不同，比如蓝灯，我每次回国的时候都能用的，但我也听到过不少人反馈，说蓝灯在他们那里用不了。
-> 也许好用也许不好用，天行是在国内运营的，对于中国用户不应该是首选。
-> 请问我下了EXP的也先开了一个月，各节点为什么都连不上，连接到一半就卡在那，就是那个绿色的转条转到一半就卡在那了
-> 找了上海的朋友帮你测了，连接美国的节点是可以的
-> 还想问一下，我得翻出来看这篇文章才能看得到那些VPN网页的镜像，那么如果我不FQ怎样才能在内地找到那些镜像链接呢？谢谢！
-> LEWIS，是一个国外网站，鉴于国内法律，是不可能到国内网络平台上散布这类信息的，说实话也没有几个站长敢。但是虽然是被墙的，但也有不少网站（国内外都有）是不被墙的，上面还是能找到一些信息。
-最重要的是准备周全的翻墙方案，这样就可以随时访问外网了。
-
-坐标China珠三角，好几个朋友用过，expressvpn启动连接要3分钟左右，连上后能使用1小时左右，就会自动掉线，一旦掉线，重新连接花费超过5分钟，到了晚上7点以后，已经无法连接了，周六日也没法连接，幸运的时候，连接67分钟，可能成功，所以很抓狂！！！express有个致命缺陷，也是所有vpn的缺陷，访问国内的速度很慢，设置隧道分离，没有作用，2019年7月测试过（已退款，没有测试新版了），无论是仅允许某些应用使用vpn，或者反过来设置，仅允许某些应用不使用，都不行。
-关于蓝灯，专业版，每天能使用的时间，早9点到晚6点，可以使用，偶尔几个小时内，连接不上，速度上比本文所有vpn快2倍左右，晚上6点开始无法连接，周六日无法连接。
-关于自由门，自6月份起，无法使用，10月份开始恢复正常，白天黑夜都能使用，周六日也没问题，只是不知道何时又被干掉。vpn<速度<蓝灯
-关于vyprvpn，最近在测试，楼主说得对，必须开启变色龙协议，才能连上！！不设置killswitch（杀戮开关）也没问题，我连接wifi能成功，4g没戏，然后使用浏览器加载网页还是很慢，5s左右还没加载完。youtube连接速度为178kbps左右
-关于机场，个人或者组织搭建的服务，SS，SSR，Just my socks之类，有一点风险，比如信息泄露问题，ip共享问题，但可以做为临时工具，个人没使用过，其他的都是亲身测试过。
-最稳的工具，自建vps+v2ray+ws+tls，但是要有就基本的计算机能力，门槛高，但起码扛过了6月份。youtube连接速度为6000kbps左右
-总结：如今vpn，蓝灯等工具，流量特征已经特别明显，GFW可以随时干掉他们，基本上扛不住重大节日，但是平时还能使用（国家不下狠手的话），expressvpn很不稳定，不过能退款，可以放心测试，不适合就退款（一个月内），express客服态度还是挺好。蓝灯不建议购买专业版，使用免费版已经能满足大部分需求（免费版连不上，专业版也不行，不会区别对待），蓝灯还有一个问题，会使用阿里巴巴的服务器（会有后门，不在意隐私可可以使用）
-个人使用建议，欢迎大家补充！
-> Express同感，连接慢，不稳定，速度慢，隧道用不了，已退款。
-已入手Astrill，真的是进入新世界，连接快，稳定，速度快，隧道分流也可以用，算下来只比Express贵20美金一年。
-> 坐标深圳，Express和蓝灯都能用啊 而且之前连香港节点都很快，最近因为香港的事情，所以只能连日本和美国节点，我朋友在汕头也是这样。
-> 坐标成都，一直用Express
-> 坐标长三角（杭州，上海呆的时间多），一直用Express，蓝灯只用过免费版，Express在大节日期间不太好用，其它时间还行，用过其他不少VPN，Express已经比较良心了。
-> 自由门我记得几年前早就不行，一直也没兴趣去测，但据我所知它是国外反中团体受美国国会资助搞的，建议远离。
-> 兄弟评论里说的VPN 蓝灯在敏感期被干掉不假，也是我的经验。SSR，V2Ray，VMess，Wireguard等的确目前来讲，配合上私人服务器有更强穿墙能力，这也对。不过，这些需要手动配置的方案并不适合广大普通翻墙者，这么说吧，很多翻墙用户都是女生，让她们去搭VPS很不现实，这个网站三年多来已经有太多小白翻墙用户问过我怎么搭这种问题了，也许对我们懂点技术的人来说，不形成阻碍，但对小白真就是很难，所以尽管蓝灯不完美，但它的客户端的确好用，而且一年中大多数时候也确实能用，中国的ExpressVPN估计有几十万，他们中也有碰到问题的，但不可能他们都不可用，我老家西安，有朋友在武汉成都上海，都用的ExpressVPN。
-> 我就被封过好多个IP 
-
-这两天进博会，我在上海感觉网络很不好啊，蓝灯基本连不上啊 …. 有上海的小伙伴们和我一样吗 
-> 现在恢复了，前两天杭州的网络也不行，VPN连不上，看来是因为进博会。
-> 抱歉，我在国外，所以没办法帮你测试，但我问了在湖北的兄弟，他说没发现有异常，也许这段时间上海比较特殊 …
-
-你好，。看了你的VPN推荐买了熊猫的两年计划。但根本用不了。联系熊猫团队发邮件说要退款（网站上说支持7天退款），客服团队一直不同意退款。为什么会这样呢？
-> 真的嘛，本来看到那个黑5优惠还想整两年的，怕了怕了
-> 到目前为止，有500多人从本站买了熊猫，我敢把批评熊猫的评论放出来了，这说明什么？
-> 在本站刚买的，熊猫用起来，至少是现在，确实挺优秀，就是亚马逊视频加载慢
-> 熊猫退款根本没人理啊，就用了5分钟，发现速度贼慢
-> 你好，请耐心等待，这段时间熊猫速度确实不理想，但可以用，厂商正在想办法解决。
-> Bella, 我找国内在上海的朋友试了，熊猫VPN是可以用的
-你是否试过连接到不同的节点，或者打开全局模式？熊猫VPN目前的退款政策是7天退款保障，但并非无理由（以为有不少人滥用）。
-> 在windows上使用特别卡，几乎没法用，在安卓手机上还好
-> 你是从哪里连，我会反馈给服务商，谢谢反馈。
-> 我昨天晚上用windows电脑在wifi条件下在上海连接美国洛杉矶节点,日本东京节点，香港节点，韩国首尔节点甚至法国节点都没鬼用，同样条件下，expressvpn按它推荐的节点连接同样一个也连不上，前天用expressvpn连洛杉矶节点还能用，但速度明显很慢
-> 你打开全局模式了吗？
-
-楼主能否评测下v2ray和wireguard，么么哒
-> 好的，等我课余有时间了测一下，不过我平时来回国内主要还是用VPN类翻墙软件，其它的可能不能测得很详细。
-
-感谢楼主曝光，nordvpn用过，就是个坑，还得自己碰运气选服务器，垃圾！
-> ，被nordvpn一下坑了三年的，咋办
-> 找他们客服退款。
-> 正想说，这就是个垃圾，我猜测有非法集资的倾向，什么都用不了，我还一下买了三年的，不给退款
-> 找客服，一般是可以退的。
-> 30天以内，客服很刚
-> 如果过期确实是很难退的，但是你刚买的时候能用吗？我从来没有能正常使用NordVPN过。
-> 能用，但连接的过程巨慢，准备退款了
-> 我之前回国无数次，每次都侥幸用用看NordVPN，想看看这次行不行，每次都失望。
-
-熊猫VPN是不是不支持路由器？
-> 目前不支持，但支持日常使用的个人设备，Windows和Mac电脑，苹果和安卓手机。如果要部署到路由器，考虑买ExpressVPN吧还是。
-
-楼主，谢谢推荐，买了ExpressVPN，在windows笔记本上用了，确实好用，哈哈
-有个问题想请教一下，我是做安卓开发的，平时要测试不同类型的安卓手机，我想把ExpressVPN装到上面，但有的测试机安卓版本比较老，不知道ExpressVPN能不能支持呢？
-谢谢哦 ^.^
-> 你好，跟客服确认了，ExpressVPN最低支持安卓4.1
-
-小公司，10人左右，有什么办法全体低成本翻墙？
-> 据我所知国内公司FQ有专门的申请渠道，具体怎么操作我也不知道，但据说可以给公司接入某种服务（可能也是VPN）。但我估计国内尝试过的公司很少很少，其实这种情况并不难解决，买个如Netgear这样的路由器，把ExpressVPN路由器客户端装在上面，公司员工连这个路由器下的wifi就能全体上网了，成本很低，基本上可靠，绝大多数时候客户端都能自动重连，只不过某些时候可能要连上路由器手动重连。
-
-请问，有好用的VPN介绍吗，
-稳定，不容易掉线的
-另外：国外节点多，然后不限制设备使用数量的，我一般是WINDOWS版本用，浏览了很多，都是限制在5台以内，之前用一个VPN，但是现在不稳定了，经常掉线，然后要频繁换线
-> 我一直用ExpressVPN，但它只允许同时5个连接，日常使用其实是足够的，如果确实需要很多链接，完全可以把ExpressVPN安装在路由器上，这样大家共享一个内网出口就可以了。
-> 我买的express 好几天连不上了
-> 这段时间疫情，网络管控很紧，如果不行就及时退款，文章里有联系方式，一般修复需要的时间是不确定的，如果不想等，试试别的。
-
-准备回国2星期，打算购买ExpressVPN的一个月服务。请问是否一个月后就会自动断开服务，而不会从我的信用卡中自动扣费呢？
-> 可以，购买以后，到expressvpn后台关闭自动续费即可。
-
-这个蓝灯比这个速度快吗？为什么看一些视频速度还是比较难加载的呢？
-> 蓝灯和ExpressVPN的速度差不多，但ExpressVPN稳定一些，蓝灯有时候页面要刷一下才能打开。
-
-刚买的蓝灯想换express，价格好商量
-
-请问科学上网还有什么推荐么？vypr似乎被盯上了 近期一直没以前稳定 前天开始彻底崩盘 现在暂时用Hostens搭酸酸乳
-> Vypr恢复了，总的来说还是expressvpn最稳定
-
-Vyprvpn，我已经使用了一年了，实事感受是，移动端不错，PC端非常不行。无论采用何种连接方式，连接不上的概率在90%以上，没办法，只好临时买了一个翻墙插件，但最近要继续充值，表示永久停止充值服务，应该是被盯上了。
-
-VyprVPN不能智能区隔流量。这是我刚问客服说的：
-Unfortunately, you cannot filter traffic through the VPN
-When connected, all your traffic goes through it
-
-首先感谢您成功让我放弃ss投奔正轨
-想问下Nord在国内的稳定程度如何？现在正在用Vypr 一年后将要留学 想买个能同时翻国内外的
-还有之前推荐的Ivacy是有什么问题么？看现在没再推荐了
-> Ivacy可能更适合翻回国内。
-
-看下来还好自己用了近十年的VPN没有上榜…还算安全
-一直以为墙内VPN存活只有两条路，一种是依附型，即依托正规跨国企业搞点附加服务；另一种是靠山型，即根正苗红背景深厚的。靠技术能骗过一时却撑不过一世。最极端的情况，要是墙开启白名单真搞成大局域网所有其它都完蛋。
-在此发言自然就相当于主动暴露了，不过还是忍不住吐槽一下国内日益严重的……
-
-在浏览器上的插件，可以很好地解决同时流畅地使用国内和国外网络（可以分浏览器，分别访问国外网站和国内网站）。
-请问是什么插件？我刚买了VyprVPN的基础付费版，可是发邮件咨询售后，售后说并没有这样的插件使用，同时访问国内国外网站需要不停开关连接，有点麻烦，请问可以怎么做？
-
-看了你推荐的Express一年要666，确实有点贵不知道蓝灯的付费可以用吗？你怎么评价蓝灯
-> 我用蓝灯付费三年了，前两年一到敏感时刻就连不上，平时可以。去年连续搞了一个多月连不上，准备换了。
-> 墙的确越来越高，但我上次回国用过蓝灯，是可以的，只不过没有以前好用了，实际上，市场上知名的翻墙软件，在敏感时期的表现其实都差不多，但据我所知好像Astrill好一点。
-> * VPN 速度很快都能访问，还有试用，但是据说是钓鱼 不知道是不是这么回事
-    > Riven，
-    没用过付费版，无法评价，总体印象，是个好服务。
-
-深有同感啊。我之前傻逼了抛弃shadowsocks.com去买了一个国产的，才没几个月就看起来跑路了。国内的服务真的没法看，比起欧美发达国家的来说，简直一个天上一个地下。没法负责，没法担当。付个一年的钱，能用完就烧高香了
-> 自己架的单IP是不可能长期稳定的，现在稳定一下也只是运气而已。
-
-ExpressVPN不是已经被墙了吗？
-> 一线服务商有影子域名，镜像网站，随时变化的。
-
-从安全与隐私上来讲，Vypr VPN是否是一个好的选择？
-> 对普通用户，没有什么区别。
-
-
-买了expressvpn，win7 x64客户端无法激活怎么解决能教一下吗？或者需要更改网络运营商吗？我用的是国内移动宽带
-> 应该不是运营商，但如果可以你也可以试试，因为国内各地网络不同。
-> 有没有什么其它方法试一试，毕竟现在更改运营商是比较麻烦的
-> 我的理解是你现在是用的移动宽带，你不妨装到手机上，如果可以，那可能真和运营商关。
-> 谢谢你的答复，是运营商的问题，我手机上是联通的流量，切换到移动后就连不上了
-> 不急着换运营商，有时候只要你能想办法第一次连上，以后客户端就无需反复登录了。
-
-算了吧，听说蓝灯的服务器在阿里云（这作妖也是没谁了）。还有几个用蓝灯被抓的。。。去年六月已经基本废了，还是不要用了（已经卸载）。。。
-> 还有它的启动资金貌似是美国国务院给的。。。。。。难保它不会帮FBI做些什么。
-
-蓝灯这个工具，是常年都能用，还是总有连不上的时候？
-> 蓝灯是个很好的备胎。
-> 以前刚翻墙的时候用的蓝灯免费版（需求不大，2017年的时候），后来弃用了。后来试了几次，发现根本连不上。。。。。。这东西适合做备胎吗？？？
-
-阁下这个网站没有网警监控钓鱼什么的吧。。。
-> 有的可能性非常大，楼主言论，就不像什么好人，阴险，推荐的很多都是钓鱼陷阱，用了被抓就死翘翘了
-> 没有。
-
-阁下那数十款VPN。。。。都是什么牌子的？是常年装着吗？（出境旅行、工作时有翻墙回国需求）
-> ExpressVPN, PandaVPN，Astrill，Lantern，PureVPN，Malus，HMA …. 常年装着，我的情况是一年一大半时间在国外，要翻墙回国，每年回西安4周，另两周国内旅游，所以用一堆工具。
-> 包括speedcn吗，那个回国怎么样？
-> speedin？可用，但这种工具不适合视频加速，听音乐没问题。
-
-panda VPN最好使用备用节点是吗？panda VPN有什么办法可以用来查看那些节点是真实可用（不是连上之后没法用的那种）的？
-> 香港备用节点确定是可用的，日本、韩国、美国的都行，但速度不同。之所有有备用节点是因为原本节点都满了，不是因为原节点不能用。
-
-为什么我这里使用Vyer VPN经常连不上，还有surfshark VPN，IvacyVPN ,Pure VPN的退款保证如何？能很快退款吗？
-> 你好，都是可以退款的，请联系VyprVPN的客服，注意，你如果购买的是最便宜的（不含变色龙协议）中国是无法使用的，必须有变色龙协议才行。
-> VyprVPN的变色龙协议好像也不太管用。。。经常被墙。。。
-> 我购买的确实含有变色龙协议，但也会经常出现连不上的现象。我打算把它们都试一遍再退款（别问我为何不试试astrill VPN，因为它不好退款且价格很高）。
-> 明白了，那我建议您还是用ExpressVPN + PandaVPN的组合吧，这也是我个人目前偏爱的组合。Astrill的确很贵，理解。
-> 油管说expressvpn里有红色股份，心里感觉如果用境外vpn没有红色股份的会感觉好些，因为，如果世界最先进的firewall会看不到我用某个vpn做什莫的话，那这个肯定vpn是境外纯外资的。
-
-其实我想问一下，***vpn是否有所了解，我现在只敢买一个月，目前来说速度和链接都算稳定，panda当然速度，也不错，不知道怎么选，麻烦告知一下，谢谢
-
-如果你想看看你的翻墙技术厉不厉害，就用中国移动的网然后再去疆藏地区， 如果那种环境下你都能翻出去，你的梯子绝对是没问题的（至少是在一段时间内）
-
-我从朋友那里听说，如果想翻墙合法化，好像有相关部门，可以向它申请企业或个人的翻墙合法权利，请问具体是怎么回事
-> 这个东西的名字叫做IPLC(国际租用专线)
-是中国联通，中国电信提供给企业的国际租用专线
-是很贵，一年都要几万多。
-> 实际上申请也很麻烦，并且国家会专门监督你的流量。私人用的话更容易被重点关注
-
-用了半个月panda发现延迟检测好像不准，一些显示延迟低的节点速度慢，而那些显示延迟高甚至不显示延迟的反而速度快的出奇，不知道是不是因为显示低延迟的节点人多而显示延迟高的节点人少的原因.从昨天开始在安卓上使用exp发现用香港节点和新加坡节点看不了奈飞显示被检测出来代理工具了，到了晚上速度会比白天慢不少，不知道是不是所有vpn都是晚上速度会变慢
-> panda刚开始的时候速度确实非常快，但现在已经越来越慢了，可用的节点也变得很少，怕是要挂了
-> 今天本来准备买一年得，结果朋友说现在不好使，劝我一个月一买，我又觉得麻烦，所以纠结中。
-> 晚上12点前的速度都不会快，但12点后一般会变快。
-
-，我想问问VPN ******和***通怎么样，靠谱吗
-> 免费的？没用过，抱歉。
-> 第一个是付费的
-
-你也不过是一条自干五而已。
-> 我对你很无语。中国有很多问题，很多弊病，没错。但是即便如此，这也不是你嘲笑理性的同胞的理由。人家已经很平和了。难道你只认为一味地批判我国才是正确？你看看我国的媒体，说话从来不像外面一样天天阴阳怪气。虽说是有很多250的营销号，但总比西方统一口径的歧视我们好多了。
-> 西方统一口径？看看崔娃的节目，人家夸赞中国5G，诋毁美国网络。这叫统一口径？相反，在国内，哪个电视台敢这样夸赞美国数落中国？
-> 西式民主自由洗脑的脑残，建议多翻墙，多练法沦功，等你想升天的时候我给你寄汽油
-> 看到你这种评论我就想笑，带节奏就凭一句话。每个人都有自己的判断力，不像你只会嚷嚷。
-
-你好，你对****的代理服务有了解吗？官网介绍是国外的合法公司，不存在跑路的风险，支持torjan和v2ray，手机和电脑也都有能使用代理的客户端，据说抗封能力比较强，年费的话节点也挺多，看起来还挺好，但是我比较担心个人数据安全的问题，不知道这种代理服务是否会保留或者泄露用户的个人的数据呢？
-> 你好，不了解。如果确实是个好服务，欢迎填此收录：
-
-我的办法是买了一台香港的云主机。我本地是mac系统，装了一个ssh proxy。
-ssh proxy给本地的浏览器提供socket代理。
-ssh proxy和云主机之间走ssh协议的22端口。
-目前看比较稳定。有时候掉线也基本上是网络原因。
-据说墙出于性能上的考虑对22这种常用端口基本不检查
-
-你好，最近了解了一下SSR的各种机场，我2年前就开始用ExpressVPN的，体验确实不错，但是因为觉得贵就断断续续的用，因为学习需要今年买了年付，但是在网上看到各种推荐SSR的机场，也用了一下，连接速度确实快，用起来也还行，但我想请问一下，像这类的SSR的机场有没有可能窃取用户的个人隐私信息，如账号密码,真实ID地址，浏览的内容等，这是我目前最关心的一个问题
-> 只要是中国人运营的网络服务，你作为用户，就该默认自己是没有隐私的，这是我们的文化，也是中国互联网服务提供者的内心潜规则：“用户是不配有隐私的”，当美国的网民在线上为隐私保护舆论战、法律战的时候，中国网民问都没问就早已把个人隐私拱手相让了 —— 所以，第一不要用任何免费的东西，人家的主要商业模式就是隔着玻璃看你裸奔；第二警惕任何中文站运营的SSR服务，它们便宜，但试问你有什么手段制约它们不窥探你？零。
-> 当美国人为了自己的利益组成各种党进行舆论战、法律战的时候，中国人问都没问早已把个人利益拱手相让给不割裂的唯一党了。
-> 还有一个问题要咨询下，AstrillVPN有Express的安全性吗？我看了下他们的宣传，他们说开通VIP附加套餐可以享受游戏加速的专线流量，挺心动的，毕竟打游戏低延迟很重要，但是担心他们的安全性不如Express，请问有什么建议吗？by the way，Astrill真的好贵，居然比express还贵（捂脸）
-> Astrill可以放心用，价格确实更贵。
-> 我再用astrill， 客服24小时在线,，但是，流量计算很复杂，又特别贵，我买了2月，不打算用了。但是不是他家的秘密性特别好？墙看不到你做什莫？
-> 谢谢
-> OK，明白了，谢谢，其实付费SSR机场虽然建立连接是快，但是最近用下来心里是很不舒服的，一是telegram里的这些机场群感觉里面不管是机场主还是群友，对小白萌新都不太友好，说话总是阴阳怪气，二就是毕竟是私人的东西，自己的隐私信息总感觉不安全，而且维权售后都很不正规，所以我还是安心用Express了，不为什么，就觉得安全放心，连接慢就慢点，对我来说就是学习和偶尔打打外服游戏，足够了
-
-挺烦的。变色龙不能经常用，白花钱了。下一年得看买哪家好了。请问老王安全吗？谢谢
-> 老王据说是钓鱼的。之前有一个人用了被抓了。
-> 但是有时候付费梯子就是上不去我有什么办法
-
-买了个purevpn，5年，400多rmb。尝试了各种线路然而就是用不了，运气好连上uk的时候高兴坏了，然而并没有网速，尝试了官方给的好几种解决方法，还是不行，倒是学会了什么udp，什么ikev2，真的是蛋疼，现在还得靠着佛跳墙来翻墙找解决方法。
-> 我用着还可以，现在挂美国盐湖城和香港fanling（不知道是啥）基本是秒连接
-> 用不了+1
-
-Panda vpn 的账号登不了了，还有什么方式下载熊猫VPN吗？
-> 您是指网站登录不了？PandaVPN客户端是无需登录就能下载的，在客户端内用账号登录就能用了。
-> Appel ID用不了了，下不了啊
-
-你好，我最近看中了一款联想的笔记本，不知联想或其他国内品牌的笔记本翻墙是否安全。本人仅浏览Youtube，FB, 推特和一些像BBC, VOA这样的新闻网站，基本不发言。
-> 只要你在国内，翻墙成功并非你的工具多强大，而是因为权力机构没空管你，所以“安全性”只是一种“感觉”。
-
-你好，前几天看了你的推荐买了一个月的panda连着备用线路，用着还不错就是偶尔会出现降速的情况，最近也考虑买一个月的express试一下，想知道现在express在国内还能用吗？在Google play看到一些评论说好像现在连不上了，如果还能用的话速度和稳定性相比panda怎么样？
-> 能用，但两者技术不同，体验也有差别，Exp因为是底层VPN，建立连接比较慢，要有耐心，但一旦建立连接后比较稳定，且断线重连也比较可靠，无需切换节点。Panda严格说不上VPN，更像SSR，所以建立连接快，但断线后往往要手动换服务器。
-> 感谢给我这种翻墙小白科普！
-
-你好，我想问下国内的长城宽带是不是不支持蓝灯，我用手机流量可以，但是用宽带就上不去了，请问这个问题可以解决吗
-> 不一定，除非你可以对照其它ISP确认它们可用蓝灯，哪个服务商对哪个VPN限制多这个是玄学，我之前回国的时候用过首都机场的WIFI，EXP蓝灯都很好用，但到了南方蓝灯就不行了，我的意思是，如果你想翻墙有保障，一个单一工具是不够的，要有B方案，甚至C方案，其实这个我在网站上也说了。另外，长城宽带名声在外，网络质量也许差到对众VPN一众对待或者端口白名单也不一定的。
-> 南方联通蓝灯好用的857
-
-Windows端的panda vpn用不了啊，显示连接但是啥都打不开
-> 你登陆pandavpn官网 我昨天也是 然后按照官网提示 刷新了电脑dns后 就可以正常连接了
-操作直接发给你
-按Windows键+R，输入cmd打开命令行，输入 ipconfig /flushdns 注意（“/”前面有个空格）然后回车 之后重启电脑
-希望能帮到你！（另外这段时间必须连写着“备用”的线路，特殊时期）
-另外非常感谢的科普 受益匪浅！
-> 谢谢！
-> 你好，是否连着备用节点？开了全局没？用的什么浏览器，有无其它软件干扰？
-
-panda vpn是不是不适合加速游戏呀，我用它就连不上服务器。还是因为现在的网络环境问题？
-> 你好，单纯从技术上来说，熊猫VPN非常适合游戏加速，尤其是香港节点。但是，有些海外游戏服务器是标记VPN IP的，这和国外的流媒体服务如Netflix是一样的，首先你要排除你玩的游戏是否有限制VPN连接，通常这可以在游戏论坛上查到蛛丝马迹。
-
-Astrill VPN 实际上可以使用这个网址在国内购买: astrill2.com
-> 以前有 astrill-china.com 但很快被墙了。
-
-看到李子柒发出姨母笑哈哈哈哈了解西游这个工具吗？朋友推荐说很快，还便宜。
-> 你好，没听说过西游，如果是个好产品，可以提交收录：
-
-“墙外看”和您的风格很像啊，是否是对方抄袭？
-> 对中国友好的科学上网工具就这么多，推来推去有重合是在所难免的。
-
-pandavpn看油管直播体验太差了，明明看视频速度挺不错的，一看直播慢的不得了，糊成240p，还断断续续的。
-> 试试看连ping值低的香港备用线路
-> 几乎都一样。。一看直播就卡的不得了。。
-低延迟的备用路线都试过了。。
-
-轮子的VPN大礼包我以前用得挺舒服的，后来全被封了有点可惜，花他们的钱用VPN多爽啊
-
-难得看到个写翻墙攻略的博主不把翻墙当成什么”为自由而战、反对独裁“等等bull shit般的话了，实话实说，我身边大部分人就是为了google/twitter/youtube/*hub等等搜点东西看点东西，然而大部分翻墙网站都是那些“爱国人士”创建的23333
-收藏了！
-
-我想购买surfshark，但总是到输入信用卡信息后，点完成购买，然后就一片白，啥都没有了！偶尔会发送给手机验证码，但是界面是一大堆的？？？？？？？？？？
-大概找到输入验证码的位置，把验证码输入进去，然后就一片白了！根本购买不了！咋办啊？
-> 李先生，你是否试过用不同浏览器？如果试过还不行，可能是网站本身有问题或者部分资源被ban，请邮件 support@surfshark.com 附上您看到的情况的截图。
-> 实在买不成，浏览器换了，手机，电脑轮流上，软件下载安转好了，使用软件也不行，！郁闷。。。。无奈，遂买了熊猫
-> 好的，熊猫也是可用的
-
-看了的文章感同身受，我也是多年在国外。现在工作也是国内国外跑，也做过亚马逊平台。从一个小白，现在可以mac 连Linux，搭梯子SSR，V2ray 等家常便饭了。希望网络空间墙内外都变好。
-> 请问V2ray好用吗？我自建的vultr和搬瓦工ssr都被干掉了
-
-今天expressVPN一进去就提示更新，果然更新完终于能用了
-
-Express 不能用，发邮件和在线聊都没反应，请问如何退款呢，以前有问题都回复很快，一说退订就没信了。
-> 这两天PandaVPN的线路趋稳了。
-> 会退的，请保持耐心，这个公司存在十几年了，没必要贪你这笔钱，你要明白有时差，不是每个部门都24小时都连轴转，所以要保持耐心。
-
-内容写的不错！
-
-Express VPN用了几个月感觉还可以，目前没有还没有连不上的时候，最多换10次服务器必能连上，用的安卓客户端，电脑端用的Linux 系统 和手机差不多，少十几秒多则3分钟之内必连上，总结凌晨12点-早上9点左右网速最好，最稳定，以前用免费VPN也是这种情况，可能白天用的人多吧，手机一直用港版系统，手机一个国产应用都不装。ExpressVPN还是很靠谱的，人在某四线小城市，翻了几年墙。
-> Express VPN这个月初就99%的时间连不上，别在替Express VPN美化了，他们官网最后都被逼承认国内连接困难了。
-> 谢谢评论，我也用了很多年，虽然不完美，但习惯了。
-
-墙内的问一下，在墙外回国也想我们从墙里面往外出那么麻烦吗
-> 好一点，看“翻墙回国”，导航里有。
-
-虽然早年用的自由门，两三年前从百度找到SSR，今天又帮朋友出来找找简易的方法，往外面看看很久了，但真的全看完还是十分感动，在墙内外想在看到这样的态度都挺不容易的，挺感动，谢谢啦
-> 谢谢
-
-我一直用的是justmysocks的ss节点，但是从几个月前开始在安卓上用流量怎么也上不去，wifi没问题，电脑没问题。网上说是中国移动自带屏蔽（我也不懂）。想找个备用的ssr节点在我用流量的时候能够比较快的上网（目前用的是STC-SERVER机场的节点，但是速度不是很理想，youtube视频很慢），你上面说的又太贵（毕竟我只想找个备用的，在我用手机流量的时候能够快速翻墙），还有比较好的推荐吗？
-> 我暂时还没找到，抱歉。可以用主机自己搭一个，但被ban的风险永远存在。
-> 谢谢，我正在考虑express vpn或熊猫vpn。
-
-熊猫PC端的客户端一直下载不下来啊，网络巨慢一直卡在百分之1左右就失败了，大家下载都没问题么？
-
-我之前用免费的，FB一直没事，但是前天说我有可疑活动就没了。打算换个付费的，找个稳定的，不知道Proxy，还是VPN稳定。
-> 你好，
-如果你只是从国内用个人FB账号，无FB广告行为，使用稳定的翻墙工具即可，尽可能保持长时间使用一个地区的节点。
-如果你在FB投广告，我建议你找国内代理开企业账号，个人广告账号在国内网络环境下会极其不稳定，容易被FB反复封禁。
-> 想问下，如果节点是美国的一个城市，然后我换了别的美国城市节点，这样FB会不会被封? 目前就是不清楚这一点，就怕VPN的节点突然换了自己不知道。
-> 如果你长时间连接在一个城市的节点的话
-那你重新连接到其他城市的节点理论上是没有风险的
-FB会认为你在旅行
-是不会封你账号的
-> 没人确切知道FB的规则，只能说有可能，但如果你FB账号真实，被封后申诉问题也不大。
-> 第一次申请的时候，全部用自己的真实资料，然后没过半个小时就被封了。前几天的账号是随便乱填的，用了大半年，就封了。总感觉上个国外社交，搞到很被动，有点烦心。
-> 保证信息真实，打开手机验证，也不会特别麻烦。
-> 之前的号的个人资料已经用了，所有邮箱地址也用完了。要先搞定那个IP再搞，不然这套路也是重复的存在。
-
-这篇文章很中肯 很符合零度新闻原则 不错 只不过 博主读过「奥斯维辛没有什么新闻」这篇报道吧 零度新闻原则在这里没有起到作用，那是因为“地狱里最炽热的地方，是留给重大道德危机爆发时仍保持中立的人的。–［神曲］”,大致意思如此。
-当然咯，毕竟没有什么地狱，避开本质去谈其他的边角也就理所当然啦。那墙的本质是什么？一口不敌众口吗…emm 别忘了 那些恶心人的西方报道（诸如打压中国 华为）是怎么样进入中国的？中宣部默许的呗。也就是说 假新闻 无聊的新闻 人心自有分辨 真新闻就只有封锁一途。问心无愧？开放网络，让西方媒体的丑陋展现在中国人民的眼前啊！
-> 我对大众的智商没有什么信心，我对西方面对不同意识形态政体时，对其人民与文化的仁慈也毫无信心，我对除禁网以外的我国当前科技、制度、精英的防守反击实力与方法，依然毫无信心。我支持先紧缩后缓慢、逐渐放开（这只是我的希望）的演进，最终达到某种程度的信息自由，信息战免疫（这也只是我的希望）。
-我们这个儒教文明道德框架教育出来的孩子，现在太弱了，思维，技能，都全方位地弱，打起来是打不过的，就数中国英语母语能力的媒体人数量就不够，打嘴仗都是必然长期下风，舆论战赢不了。
-西方人的舆论战能力，是娘胎里带出来的，那种自私与邪恶在他们父母的精子和卵子里就有。很多中国人并未意识到我们面对的到底是什么敌人，我们面对的是使用原子弹毫不犹豫的敌人。
-> 西方敌对势力要灭中国？
-中国被你们代表了，其他中国人要与你们割裂，你们还不让
-谁这么有空整天要灭你们
-各自过各自生活的人多了，没人搭理你们，你们自己散伙
-> 其实双方政府都不是好东西，不过为了政治利益罢了，没必要争
-> 其实看看你写的文章，对你的智商确实也没有什么信心！
-> 楼主只是社会经验不足，以后会知道的，有自我反思的人，时间到了都会悟到反处社会的情况的，并非土共能洗脑的。其实国外的政府不是反华，是反土共而已，谁会反别国的百姓？土共这种没什么人性到处欺骗的组织也经常说要解放他国人民。
-> 从你的言谈可以感觉出你是一个自我感觉良好，自以为社会经验很丰富的人，其实是一个无知，可怜的蠢货，GCD就是中国的唯一合法政府，反共就是反中。
-> 按你的逻辑，当初民国政府是唯一合法政府，所以反民国政府就是反中，那时是谁在反中？？？又见一个党 政府 国家不分的，当然了，英文中国家就几个单词，会区分的比较清楚点。country nation state，你所谓的反中的中国到底是指哪一种中国？
-> 不知道你想表达什么，民国政府在1912——1949年期间，是中国的合法政府，这没毛病，在这期间穿插了国共内战和抗日战争，后来的结果就很清楚了，1949年10月1日，中华人民共和国诞生，GCD开始执政，它就是唯一的合法政府，另外，1971年联合国大会以后，就没有中华民国这个占着联大席位的招牌了。
-> 拉倒吧，制度也罢，政治也罢，都是差不多的东西。人类发展至今，最先进的国家，它们的政治核心最本质的都是一样的，它们看中的利益也是相同的。谁没事反华，反共产主义，反的是会挡道的人罢了。
-> 智商有什么用，屌大就行。
-> 牛逼啊
-
-，****好用吗，至今免费能用，但是速度慢，考虑过买年费，但是看了你的文章发现有隐私风险，查不到这个软件正不正规
-> 我不推荐免费VPN，也不会评测。
-
-写的真好，我都想转发到朋友圈了。哈哈哈，新年快乐！
-
-Astrill太TM贵了，求优惠码
-> 有优惠码我早贴出来了 … 网上搜搜看，Google “Astrill coupon“，只不过大多数都是过期的。
-> 我现在都是用兑换码白嫖Astrill
-
-ExpressVPN是可用的，因为我现在就连着，喷子们不要再喷了，你觉得它贵不买没关系，但不要没用过就乱喷。
-
-这两年已经有普通翻墙用户被请喝茶的例子了，还是很担心安全问题 。现在想买1年的熊猫，正在犹豫中。
-> 那些普通翻墙用户干了些啥？
-> 肯定是不当言论北
-> 实在不放心建议买ExpressVPN。
-
-V2Ray也不行，我搭建了V2Ray的，还用了几种混淆方法伪装https，没几天就被封ip了。
-> 这真的需要运气。
-
-可以试试Astrill，我觉着比express VPN好用
-> 试过了，Astrill确实可用，但我没用多长时间，几年来一直用ExpressVPN，习惯啦 🙂
-
-火狐浏览器的 s*****vpn 插件试过没 如何评价？
-> 你好，我不打算评测不提供广泛设备支持的VPN解决方案，精力有限。
-
-*** 用过吗？
-> 没，不了解公司背景，软广恕不讨论
-
-有些人即便翻墙出去也是自带防火墙属性，比如这样的
-> 你的名字能不能带一下防火墙属性?
-> 自带防火墙，隔绝反华不实言论哈哈哈哈。
-
-不客气
-
-我正在用panda vpn 给我的感觉确实不太像vpn，但是能用不跑路就行了
-> 对，其实我也问过他们客服，没透露具体技术，但可以确定不是传统VPN协议，应该是代理，因为激活后会给系统配置代理。
-> 我是Iris.W ，是在翻墙领域的一位小白。
-我看到熊猫vpn现在有1.99/mo的两年47.88刀的双十二特惠方案（折rmb 334两年，12/15日0点结束），有些心动
-同时我也不知道能不能直接放心购买，有一些疑问
-熊猫vpn运营多久了？这个优惠的力度属于正常的vpn价格范围内么？
-（我的思路如下）
-即使是企业前期抢占市场，这简直是express vpn四分之一的价格也着实让我这个小白感到吃惊且迷惑，我的顾虑主要是他们是否能持续运营而不是卷款跑人，他们是否能始终如一的保持稳定快速的网络服务【并且，因为vpn这条产业不够透明以及公司在美国，如果出现意外后的维权会极其困难。】
-但无论如何，我忠心 感谢你花时间写一篇文章科普给我这些关于vpn市场行情的知识，这在各种营销号打广告五花八门的灰色科学上网领域对我显得弥足珍贵，谢谢
-（如果可以的话请早些回复我，原因是熊猫vpn的双十二折扣即将结束【还有19小时】）
-> 熊猫运营时间不长，是VPN翻墙软件（饱和）市场的后来者，目前处于用户培育阶段，即使过了双12，也还会促销，但某一天应该会结束，大可不必战战兢兢，如果不合适，7天内可以联系对方客服退款。
-
-Ivacy、PureVPN都可以翻墙到国外
-> 谢谢反馈，已更改，具体我会抽时间来评测，PureVPN已经看过了，确实可以了，Ivacy还得看看。
-
-自建vpn节点才是最终之路，但是我们的GWF，作为世界上最为强大的防火墙，今年已经充分展示了能够完全干掉SSR协议。。。小白最还是购买ExpressVPN。这个是我在自建以前用过最好的VPN了。
-最后的最后，我总算看到一个敢说实话的论坛主了。西方对我中华民族之觊觎从未发生过任何改变，如果没有共产党，我们可能就真的完蛋了，回到清末时代，被各种殖民，希望某些废青读读近代史，这真的是一部血泪史
-> 就算是HTTPS翻墙也是有机场的啊，都在升级，还是希望土共早点开放墙，至少解开不敏感的网站，我连上个AWS都要挂VPN容易嘛
-> 理论上任何开源的科学上网工具所使用的协议被破解，只是个时间问题，但好在总是有新的工具出现。
-
-我一直利用SOCKS5翻墙，自建vps，用的搬瓦工GIA节点，当然，小白别入手，这个有很多专业知识。反正我上外网就和浏览国内的网络一样的快速，我用的是 ss5+kcptun ,BBR加速。墙外面都是可以拿到一键脚本的。对了我回头去看看64事件那个认美国人当爹的杂种
-
-老王vpn挺不错的
-> 老王听说有用户给请喝茶了
-> 我个人对免费产品不感冒。
-
-Panda的手机端很好用，pc端死活用不了
-> 应该是可以的，建议不要同时安装多个工具，具体什么问题？
-
-谷歌访问助手、Skyzip等chrome插件怎么样？有什么后门吗？
-> 你好，这些工具我还在花时间测试，如果是免费工具，风险是难免的，另外，如果是只针对chrome，而非系统底层类工具，翻墙能力也是有限的。
-> 谷歌上网助手我觉得非常好用，网络很流畅，需要注册，也要收费，但是搭配临时邮箱理论上可以无限免费VIP（每3天注册一次），但是声称能够被网站捕捉到真实IP，另外会与lantern冲突；skyzip在任何时候都能连上，就是网络非常慢，在特殊时期可以临时用用。安卓上安装Yandex浏览器也能安装chrome插件，如果不追求全局流量，应该挺适合的。就是不知其安全性怎么样。
-> 谢谢回复，如果服务确实好但需要付费，不如付费，无限免费是好，但浪费时间。
-
-可否联系合作推广呢
-> 你好，目前没有商业合作计划，如果是个好产品，不妨回复网址，评估过后如果合适，我会考虑，谢谢。
-> 好的谢谢！另外这个是支持affiliate的
-> 好的，我不做收费推广，不过有aff我也不排斥，产品链接我收到了，我会评估一下，平时还要上课上班，不会很快，如果我觉得确实是好产品，我很乐意推荐，我会放到网站上，到时候就不另行通知了。
-> 好的多谢，可以留个联系方式交流下么？
-> 菜单里已加入联系页。
-> 对了，这个VPN只适用于国外翻国外，以及国外翻国内的用户哦。考虑到合规问题，不支持国内翻国外。
-> 好的
-
-， 我也一直用ExpressVPN，这几天ExpressVPN 推荐节点一个都连不上。有什么办法解决吗？问了客服 客服一直说关注China status page. 刚买了一个月的astrill 居然可以连接
-> 你好，找人在上海测了，ExpressVPN已经恢复了，香港4，日本3都可以连的，再试试，记得用最新版本。
-> 再麻烦问一下 astrill 有必要开那个什么vip计划吗？ 一个月100gb 什么跳段式连接 谢谢啦
-> 我开了那个hip-hop，是为了能秘密些，但墙能不能依然看到我做什么，只有墙知道
-> 如果普通版的能正常用就没必要了，我个人用着的感觉是一般翻墙普通版够用了。
-
-买了熊猫VPN, 目前体验还不错 ******************************************************************
-> 感谢反馈，联盟链接恕不能发布，请发布到您自己的网站上 🙂
-
-一直以为Astrill早死了，原来在闷声发大财 …
-> 发不发财不知道，但它确实是能用的，只是国内购买不是很方便。
-
-买了熊猫VPN，挺好用的 … 感觉像SSR的操作风格 …
-> 是的，底层技术可能不是VPN，而是SSR类似的加密代理，不过能用就行啊 🙂
-
-之前发现过一个其他的翻墙方法唉,在这儿介绍到的(内个NGINX),不知道这个的原理是什么啊?这里给架好的就一个网站,能不能广泛使用啊
-> 赛风现在的意识形态也很极端，会自动打开某些网站。
-> 就是把Nginx配置成https代理，因为https是普通网站加密协议，政府无法完全屏蔽，如果屏蔽绝大多数网站就访问不了了，所以作者可能假设这个方法可行。
-实际呢，不可行，因为低估了网络防火墙的侦测能力。而且你觉得这种方法对普通翻墙用户可行么？
-
-楼主，你发的翻墙被请喝茶会受处罚是真的吗？我快毕业回国，以后到了国内还是要用翻墙工具啊，好慌 
-> 勃勃大可不必，FB TW上面互相打架的阿三还少吗？
-不公开评论是因为没啥必要，事实证明专业的事情交给专业的人来做，靠一天三变的民意治理国家才是最大的不幸。
-中华历代王朝就是这样的，我们的文化亦如此，民众让渡部分利益换取集权带领下的蓬勃发展，这不是所谓的强权逼迫或者压制，而是民众也选择了这样的方式。
-幅员辽阔，人口又多，大政府就像大心脏，在遇到极大的危机的时候能够最好的调动资源，疫情就是个最明显的例子。
-相反来说，这片土地上的人民自愿放弃部分利益的目的是为了能够更长久更好的发展下去，如果哪个统治者没有做好在关键时刻保护国民，那么王朝覆灭也就是一朝一夕的事了。自有揭竿而起者后来居上，重新带领族群，许以美好生活的向往，然后再进行这样的一朝轮回。
-东西方实际上是文化的对抗，从我个人角度来看，我喜欢鬼佬的文化中的某一部分，但你让我彻底拥抱，我做不到。所谓的东方文化实际上是个大染缸，什么都可以装，什么都可以同化，一块布掉进了染缸里，它还是布，但已经被染色了。
-> 这怎么说呢，你是不是跳着看我的文章的，个人翻墙不用紧张，只要你爱祖国爱人民，不要在国内网络上扩散翻墙软件就行了。
-> 呀，先问下作者 *** VPN这个软件有了解吗？ 可靠性如何?我用了半年不是很稳定，
-另外 作者就说了下国外的敌对，就炸了锅，可能是因为国外说话就跟放屁一样不值钱吧，连总统都能调侃; 国内真的需要权威/选择压制或被压制一方，不然为什么连讨论都上升到仇视敌对程度呢，我也几十岁人了，从来没听说过哪个人公开评论现领导人，想起一个成语， 噤若寒蝉
+有很多工具可以测试某个网站是否被墙，最直接的方式就是在浏览器上直接访问这个网站，如果长时间无法访问，则可以判断被墙了。而修改本地Host文件访问被墙网站的方法也不太好用了，现在都是直接封IP。
