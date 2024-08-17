@@ -8,7 +8,7 @@
 
 而目前最稳定的方式还是使用代理梯子。原理就是**把请求伪装成访问国外正规网站**（不在黑名单之内的，比如[本站的Github页面](https://github.com/vpnfast/vpnfast.github.io)就没有被墙），然后防火长城就会以为，你访问外网是为了翻墙出去学习科学技术，强国兴邦的。所以就叫做代理，理解起来其实非常简单。
 
-最开始开发这种技术的是Shaowdowsocks的作者，不过由于翻墙效果太好，用的人太多。该作者已经被请喝茶，Github上的原始项目已被删除了。从那之后，与防火长城斗智斗勇的历史开启了。后续有源源不断地热心网友贡献了翻墙协议的开发，比如大家耳熟能详的**SSR、[V2ray](https://www.v2ray.com/chapter_00/install.html)、[Xray](https://github.com/XTLS/Xray-core)、[Trojan](https://github.com/trojan-gfw/trojan)和[Hysteria](https://v2.hysteria.network/zh/)**等。
+最开始开发这种技术的是Shaowdowsocks的作者，不过由于翻墙效果太好，用的人太多。该作者已经被请喝茶，Github上的原始项目已被删除了。从那之后，与防火长城斗智斗勇的历史开启了。后续有源源不断地热心网友贡献了翻墙协议的开发，比如大家耳熟能详的SSR、[V2ray](https://www.v2ray.com/chapter_00/install.html)、[Xray](https://github.com/XTLS/Xray-core)、[Trojan](https://github.com/trojan-gfw/trojan)和[Hysteria](https://v2.hysteria.network/zh/)等。
 
 ## 翻墙和防火长城是什么？
 
