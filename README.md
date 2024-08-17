@@ -1,42 +1,96 @@
-科学上网已经成为了日常工作和生活的一部分，而科学上网工具有很多，不管是VPN翻墙软件还是机场/梯子，都是为了绕过防火长城，帮助中国用户翻墙。本文将介绍各种翻墙工具和教程，以及推荐在中国最好用的翻墙VPN软件，其中包括免费VPN和付费翻墙软件。
+# 翻墙软件和科学上网工具汇总，几款中国还能用的VPN推荐
 
-翻墙和科学上网能干什么？不管是使用Google工作学习，还是访问Facebook、Twitter、Instagram社交平台，亦或者解锁Netflix、BBC iPlayer、Disney+等国外流媒体平台追剧，以及看视频玩游戏都需要翻墙软件。
+写本篇文章的初衷是基于我购买VPN被骗的经历，于是想写一篇翻墙软件扫盲的帖子，**避免新手小白在翻墙的时候上当受骗**。另外，我也基于目前网上目前最新的信息，汇总一些目前最流行的科学上网技术。
 
-当然翻墙方式多种多样，你可能听说过VPN、SSR、WireGuard等专业词汇，这些都是能用于科学上网的VPN协议，但是各有优缺点。还可能听说过蓝灯、赛风等免费翻墙软件，不过由于防火长城不断升级，这些VPN软件早已失效了。
+在我最开始尝试翻墙的时候，也是浏览了很多VPN测评网站。当时发现**很多博主都在推荐诸如ExpressVPN或者NordVPN之类的VPN**。表面上分析的头头是道，于是不小心的入了坑。在购买了一个月的ExpressVPN包年会员之后，发现根本就连不上。什么换节点、高级协议之类的不过都是销售话术，请大家擦亮眼睛。
 
-如果你不想读完整篇文章，并且正在寻找一款好用的翻墙软件，可以选择以下经过我测试的VPN(本文后半部分有关于每款翻墙软件的详细测评)：
+后来才知道，之所以**被坑就是因为很多人故意把VPN概念混淆**了。现在99%的国外VPN都是用来加密的，由于国外不存在防火长城，所以他们根本就不会开发什么翻墙功能。早期的时候这种方式或许还能用，**现在墙早就开发出强有力的识别模式了**。那时候本地改个Host，或者电脑上装个免费蓝灯、赛风就能轻松翻墙上外网，这种日子已经一去不复返了。
 
-![expressvpn logo](https://qiangup.com/wp-content/uploads/2021/12/expressvpn-logo.png)
+而目前最稳定的方式还是使用代理梯子。原理就是**把请求伪装成访问国外正规网站**（不在黑名单之内的，比如[本站的Github页面](https://github.com/vpnfast/vpnfast.github.io)就没有被墙），然后防火长城就会以为，你访问外网是为了翻墙出去学习科学技术，强国兴邦的。所以就叫做代理，理解起来其实非常简单。
 
-### 1.[ExpressVPN](https://qiangup.com/go/expressvpn)  – 最稳定的中国翻墙VPN推荐，提供香港、台湾、日本等近距离节点，速度更快、连接更稳定。
+最开始开发这种技术的是Shaowdowsocks的作者，不过由于翻墙效果太好，用的人太多。该作者已经被请喝茶，Github上的原始项目已被删除了。从那之后，与防火长城斗智斗勇的历史开启了。后续有源源不断地热心网友贡献了翻墙协议的开发，比如大家耳熟能详的**SSR、[V2ray](https://www.v2ray.com/chapter_00/install.html)、[Xray](https://github.com/XTLS/Xray-core)、[Trojan](https://github.com/trojan-gfw/trojan)和[Hysteria](https://v2.hysteria.network/zh/)**等。
 
-![purevpn logo](https://qiangup.com/wp-content/uploads/2022/11/purevpn-logo-black.png)
+## 翻墙和防火长城是什么？
 
-### 2.[PureVPN](https://qiangup.com/go/purevpn) – 性价比高，全中文支持，提供多种设备支持，24/7在线客服。
+![翻墙](https://overwallvpn.com/wp-content/uploads/2024/08/the-great-firewall-of-china.jpg)
 
-![surfshark logo](https://qiangup.com/wp-content/uploads/2021/12/surfshark-logo.png)
-
-### 3.[Surfshark](https://qiangup.com/go/surfshark) – 美国IP节点多，服务器速度快，不限制设备连接数量。
-
-## 翻墙与科学上网的由来
-
-![翻墙](https://qiangup.com/wp-content/uploads/2023/04/firewall_escape.png)
-
-这一切都要从防火长城说起，防火长城是从Great Firewall翻译过来的，是国外对中国网络防火墙的称呼，也被称做”GFW”，中国网民更喜欢称它为”墙”。
+这一切都要从防火长城说起，防火长城是从Great Firewall翻译过来的，是国外对中国网络防火墙的称呼，**也被称做”GFW”，中国网民更喜欢称它为”墙”**。
 
 那么什么是科学上网呢？科学上网的意思是，通过科学技术的方法绕过防火长城的封锁，也被称做”翻墙”。而根据不同的技术，不同的科学上网工具又被称做**翻墙VPN、翻墙梯子**。
 
 曾几何时，翻墙并没有那么难。你可以通过翻墙、VPN等词汇在百度、知乎甚至安卓、苹果应用商店找到翻墙VPN。不过自从相关法律法规颁布以来，事情就变得困难了，所有这些词汇都遭到屏蔽，已经变成了敏感词，所以你几乎很难从国内的网络平台找到有关的内容。
 
-之所以有科学上网、翻墙、自由上网、梯子、机场、VPN软件这些称呼，都是为了**绕过敏感词检测**找到一款好用的翻墙软件，为了突破大陆网络限制不得已而为之。然而随着时间的推移，这些擦边球的词汇最后也变成了敏感词。因此这些词汇虽然无法在国内搜索引擎找到，但是在国外内容平台却保留了下来。
+之所以有**科学上网、翻墙、自由上网、梯子、机场、VPN软件**这些称呼，都是为了**绕过敏感词检测**找到一款好用的翻墙软件，为了突破大陆网络限制不得已而为之。然而随着时间的推移，这些擦边球的词汇最后也变成了敏感词。因此这些词汇虽然无法在国内搜索引擎找到，但是在国外内容平台却保留了下来。
 
 ## 翻墙方法有哪些？
 
-虽然网上各种翻墙软件成千上万，能够叫出名字的有蓝灯、赛风、翻墙加速器、翻墙VPN、机场梯子、VPN梯子、SSR、V2Ray、WireGuard、软路由这些称呼。其中有些是需要付费购买的VPN服务，有些则是需要自己搭建的开源代理翻墙协议。不过殊途同归，其原理都是利用国外的远程服务器，通过加密数据来绕过防火长城以达到科学上网的需求。
+虽然网上各种翻墙软件成千上万，能够叫出名字的有**蓝灯、赛风、翻墙加速器、翻墙VPN、机场梯子、VPN梯子、SSR、V2Ray、WireGuard、软路由**这些称呼。其中有些是需要付费购买的VPN服务，有些则是需要自己搭建的开源代理翻墙协议。不过殊途同归，其原理都是利用国外的远程服务器，通过加密数据来绕过防火长城以达到科学上网的需求。
 
 不要被这些专业术语搞蒙了，虽然翻墙方法多种多样，但归纳起来不外乎**国外翻墙VPN、国内机场梯子、自建翻墙梯子**。为了榜大家理清除这些科学上网方法的区别，以下是详细内容：
 
-### 1.国外翻墙VPN(推荐的翻墙方式，安全稳定)
+### 1.国内机场梯子(推荐，但有风险)
+
+![翻墙机场](https://overwallvpn.com/wp-content/uploads/2024/08/bypass-tizi.jpg)
+
+机场又被称作代理、梯子，一般是国内个人用户自己通过SSR、V2Ray和Trojan等开源协议搭建的翻墙工具，在程序开发技术圈子比较流行。**翻墙原理是通过把流量加密伪装成普通的https流量**，让防火长城以为你正在访问国外的安全网站。虽然也能用来科学上网，但是相比较于国外翻墙VPN而言，安全性要差一些，在使用过程中可能会泄露真实IP地址和浏览数据。
+
+优点是连接速度比较快，提供的节点更贴合中国用户的翻墙需求，亚洲IP节点要多一些，代理软件在启动连接的时候速度更快。
+
+当然缺点也很明显，**个人用户说跑路就跑路，而且很容易被查封**，风险太大。机场大多由个人用户运维，可能价格更便宜，甚至可以微信支付宝转账支付，但是也正因为这样很容易被查水表。开源客户端软件虽然支持常见的操作系统，但是配置麻烦。
+
+由于机场梯子存在的诸多问题，以及不安全因素，因此不推荐作为长期使用的翻墙软件：
+
+> -   在中国大陆出售和开发翻墙软件都是违法行为，因此机场梯子这类国内**翻墙工具大多无法长期经营**，类似光年VPN、熊猫VPN这些知名国内梯子都已经跑路了，小一点的个人机场更是无法坚持超过1年。
+> -   财力不足运营不善，一些**机场主大多以便宜低价来吸引新用户注册**，一旦无法维持收支平衡直接会关站了事，并且不会给你退款的。
+> -   有些机场主的技术不过关，遇到服务器宕机、IP被墙、黑客攻击等翻墙软件连接问题无法及时解决，这段时间将无法翻墙，**也不要指望及时的客服支持**。
+> -   机场梯子的客户端软件都是网上热心网友免费提供的，因此**客户端VPN软件使用体验非常不佳**，需要按照安装文档配置很多参数，对于新手用户很不友好。
+> -   国内翻墙梯子很可能会记录你的浏览数据，甚至是你的账号密码信息。当你在科学上网的时候，**你的所有日志都会被就下来**。当然在登陆银行、购物网站的时候就很危险了。
+
+总的来说，如果你想长期稳定地在中国使用VPN翻墙软件，**那么你最好让身边的朋友给你推荐好用的翻墙软件**，而不是网上搜索。因为都多网站都是推广文章，你很难分辨真假。而如果你只是平时偶尔Google查资料，那么机场/梯子或许也是个办法，建议购买月付套餐就行了，以免跑路。
+
+___
+
+### 2.自建翻墙梯子(需要技术经验)
+
+![翻墙梯子搭建](https://overwallvpn.com/wp-content/uploads/2024/08/Linux-Command-Line-Interface.jpg)
+
+很多朋友可能想知道如何自己搭建翻墙梯子，**对于有程序开发经验的人来说，这并不是太难的事**。自建梯子需要使用和机场梯子一样的代理协议、租用国外VPS服务器、配置客户端翻墙工具。
+
+虽然听起来不复杂，但是**毕竟隔行如隔山，对于新手用户或者没有IT经验的人来说**，即便参考网上的翻墙软件搭建教程，也是无法成功的。因为国外虚拟服务器(VPS)并不是Windows系统，而是没有图形化界面的linux系统，因此你还需要掌握基本的操作指令，这个学习成本非常高。
+
+> -   况且，即便是**有技术的程序员也很少自己搭建梯子**，因为网上的梯子搭建教程很多都不是最新的甚至充斥着很多错误，那么在安装程序的时候就会遇到未知问题，非常浪费时间。
+> -   而自建梯子并不是免费的，甚至要比购买付费翻墙VPN贵很多。因为你必须租用国外VPS主机，然后在服务器上安装SSR、V2ray、Trojan这些代理协议，这样代理服务器才能加密你的访问网站请求，而速度良好的线路和**香港、新加坡价格都超过100元每月**。
+> -   一台VPS主机如果只用来运营翻墙梯子其实很浪费的，大部分时间带宽、CPU、内存以及磁盘都处于空闲状态。付费翻墙VPN之所以价格便宜，就是因为人家一台服务器可以分配给多个用户使用，只要做好负载均衡，可以充分利用资源降低成本。
+> -   实际上**配置代理客户端软件也是很麻烦的**，不同的翻墙协议需要搭配不同的软件，而客户端软件在电脑、手机、平板、路由器上也有不同的版本兼容性。只要一个参数没有配置正确，都无法让翻墙服务器和客户端连接成功。
+
+## 翻墙软件推荐
+
+以下翻墙软件经过我的测试，在中国的稳定性、速度都不错，有些是翻墙VPN软件，有些是安全的机场/梯子，可以根据自己需求选择合适的科学上网工具。我在[中国VPN推荐](https://qiangup.com/best-vpn-china/)指南中，介绍了关于使用每款科学上网软件的详细教程。
+
+
+### 1.[PrivateVPN](https://overwallvpn.com/go/privatevpn) —— 运行稳定且注重隐私的翻墙软件
+
+从2009年创立以来，PrivateVPN始终坚守本心，将用户的使用体验放在第一位，它们承诺不记录任何用户个人信息，同时也拒绝为政府及其他机构提供用户的真实IP。
+
+![PrivateVPN官网](https://qiangup.com/wp-content/uploads/2022/03/privatevpn-homepage.jpg)
+
+在中国需要翻墙时，首先你得确保已经打开隐形VPN模式(StealthVPN模式)。该模式相当于混淆功能，能够隐藏你的VPN流量，足以避免被互联网服务提供商(ISP)和其他第三方识别。这也是PrivateVPN能绕过中国防火长城和解锁VPN封禁的关键。
+
+![privatevpn下载页面](https://qiangup.com/wp-content/uploads/2022/05/privatevpn-download-app-link.jpg)
+
+一般来说，用户需要的翻墙软件都是便于操作的。就这一点而言，我十分推荐新手使用PrivateVPN，因为它的苹果、安卓、Linux等系统的APP使用方式都很傻瓜，在选择好服务器后便能一键连接。
+
+所有PrivateVPN皆提供种子下载服务、私密传输大文件。你可以通过PrivateVPN访问ThePirateBay、LimeTorrents和BitTorrent、Deluge 等知名的种子站点快速下载种子文件和音频文件。除此之外，PrivateVPN还能支持Tor浏览器。
+
+![PrivateVPN价格](https://qiangup.com/wp-content/uploads/2022/03/privatevpn-price.jpg)
+
+因为PrivateVPN能同时连接6台不同的设备，这样看来其性价比也是挺高的。你每月只用支付$2就能享受稳定隐秘的翻墙服务。倘若在使用过程中有什么不理解的可以直接滴滴实时客服，你需要知道的是，不管购买什么套餐你都能在30天内免费退款。
+
+PrivateVPN的所有服务器均使用美国军用级别的AES-256位加密技术以及和2048位DH密钥来确保用户的安全。除了加密方式先进之外，PrivateVPN应用程序还配备了DNS和IPv6泄露防护，以免翻墙时出现信息泄露的危机。
+
+尽管PrivateVPN的服务器规模较小，但其合理的分布于全球的各个角落。这样既可以有效避免用户过度导致服务器拥堵，又能保障世界各国用户在连接到远程或附近服务器时能体验优秀的速度。
+
+#### PrivateVPN相对于国内梯子的优势
 
 VPN一开始是为企业提供安全数据加密的，后面被中国网友用来翻墙，这是利用了VPN软件的安全性和隐私性。当然并不是所有翻墙VPN都能用于科学上网，并且可以说安卓Google Play、苹果App Store中的大部分VPN都是垃圾。
 
@@ -55,38 +109,47 @@ VPN一开始是为企业提供安全数据加密的，后面被中国网友用�
 -   位于隐私保护良好的国家，不受中国大陆法律监管，也不在5眼/9眼/14眼监视联盟国范围内。严格遵守无日志记录，没有人知道你浏览过什么内容，隐私安全一流。
 -   知名品牌VPN信用良好，提供30天退款保证，如果发现在中国翻墙不好用，可以随时联系24/7在线客服申请全额退款。VPN官网还提供最新的帮助文档，可以通过工单、邮件、在线聊天获得帮助。
 
-___
+## 不推荐的翻墙软件
 
-### 2.国内机场梯子(不推荐，有风险)
+翻墙已经成为中国大陆网民获取互联网上各种信息的必要手段，而在中国境内，由于防火长城的阻拦，需要使用VPN等翻墙工具才能访问境外网站科学上网。然而，市面上的翻墙软件N种类繁多，质量良莠不齐。在这里，我将介绍一些不推荐在中国使用的VPN，帮助大家避免购买低质量的VPN浪费时间和金钱。
 
-机场又被称作代理、梯子，一般是国内个人用户自己通过SSR、V2Ray和Trojan等开源协议搭建的翻墙工具，在程序开发技术圈子比较流行。翻墙原理是通过把流量加密伪装成普通的https流量，让防火长城以为你正在访问国外的安全网站。虽然也能用来科学上网，但是相比较于国外翻墙VPN而言，安全性要差一些，在使用过程中可能会泄露真实IP地址和浏览数据。
+### 1.PandaVPN(已跑路)
 
-优点是连接速度比较快，提供的节点更贴合中国用户的翻墙需求，亚洲IP节点要多一些，代理软件在启动连接的时候速度更快。
+熊猫VPN在2018年成立，曾经表现出色但后来跑路了，类似的还有光年VPN。因此购买国内VPN需谨慎，尽量选择海外知名大品牌的翻墙VPN。
 
-当然缺点也很明显，个人用户说跑路就跑路，而且很容易被查封，风险太大。机场大多由个人用户运维，可能价格更便宜，甚至可以微信支付宝转账支付，但是也正因为这样很容易被查水表。开源客户端软件虽然支持常见的操作系统，但是配置麻烦。
+Panda VPN(也被称作熊猫VPN)比较特殊，可以说是翻墙VPN和机场的结合，并且技术团队都在国外，不管是安全性，还是翻墙软件本身的连接速度、稳定性都非常不错。
 
-由于机场梯子存在的诸多问题，以及不安全因素，因此不推荐作为长期使用的翻墙软件：
+设备支持方面算不上多，为Mac、Windows、Linux、iOS、Android以安卓电视提供VPN软件。[Panda VPN](https://qiangup.com/pandavpn-review/)内置的代理协议类似于SSR、V2ray，在电脑端会自动代理浏览器实现科学上网，如果要全局翻墙可以切换为OpenVPN协议或者模式。
 
--   在中国大陆出售和开发翻墙软件都是违法行为，因此机场梯子这类国内翻墙工具大多无法长期经营，类似光年VPN、熊猫VPN这些知名国内梯子都已经跑路了，小一点的个人机场更是无法坚持超过1年。
--   财力不足运营不善，一些机场主大多以便宜低价来吸引新用户注册，一旦无法维持收支平衡直接会关站了事，并且不会给你退款的。
--   有些机场主的技术不过关，遇到服务器宕机、IP被墙、黑客攻击等翻墙软件连接问题无法及时解决，这段时间将无法翻墙，也不要指望及时的客服支持。
--   机场梯子的客户端软件都是网上热心网友免费提供的，因此使用体验非常不佳，需要按照安装文档配置很多参数，对于新手用户很不友好。
--   国内翻墙梯子很可能会记录你的浏览数据，甚至是你的账号密码信息。当你在科学上网的时候，你的所有日志都会被就下来。当然在登陆银行、购物网站的时候就很危险了。
+一个账号允许3台不同设备同时连接。为了解决大陆地区Apple Store无法访问的问题，Panda VPN提供了iOS测试包，可以配合TestFlight苹果官方测试平台使用，另外也可以通过修改Apple 账号地区解决，Panda VPN官网下载页面提供了相应[iOS翻墙](https://qiangup.com/iphone-vpn/)教程。
 
-总的来说，如果你想长期稳定地在中国使用VPN翻墙软件，那么购买国外VPN翻墙是最推荐的方式。而如果你只是平时偶尔Google查资料，那么机场/梯子或许也是个办法，建议购买月付套餐就行了，以免跑路。
+Panda VPN在全球80个国家/地区拥有超过3000台服务器，VPN软件提供的香港、日本、美国节点很多，也是中国用户科学上网经常用到的IP节点。根据不同的使用场景，Panda VPN将线路分为了解锁Netflix、Hulu、HBO、AbemaTV、Disney+的流媒体节点。
 
-___
+用于解决特殊时期防火长城封杀IP严重而准备的备用节点。游戏节点可以提供低延迟的体验，大多集中在日本地区。P2P种子下载速度也不错。
 
-### 3.自建翻墙梯子(需要技术经验)
+如果选择12个月套餐，Panda VPN价格还算便宜，每月不到$3。当然如果你想试用以下，也可以选择1个月、3个月、6个月的短时长套餐，所有套餐都提供7天退款保证，虽然相比其他全球知名VPN来说提供的退款时间不算长，但你完全可以在这期间充分试用。
 
-很多朋友可能想知道如何自己搭建翻墙梯子，对于有程序开发经验的人来说，这并不是太难的事。自建梯子需要使用和机场梯子一样的代理协议、租用国外VPS服务器、配置客户端翻墙工具。
+虽然Panda VPN属于翻墙机场，但是却具备翻墙VPN的安全性。通过ECC安全加密技术，可以保护用户的访问数据。无日志记录策略，确保了用户的隐私安全。
 
-虽然听起来不复杂，但是毕竟隔行如隔山，对于新手用户或者没有IT经验的人来说，即便参考网上的翻墙软件搭建教程，也是无法成功的。因为国外虚拟服务器(VPS)并不是Windows系统，而是没有图形化界面的linux系统，因此你还需要掌握基本的操作指令，这个学习成本非常高。
+而且由于服务器和团队都不在中国大陆境内，因此不用担心法律法规问题。在注册账号的时候，甚至可以不用邮箱，而使用服务器生成数字账户，还可以通过比特币支付，进一步提升隐私性。
 
--   况且，即便是有技术的程序员也很少自己搭建梯子，因为网上的梯子搭建教程很多都不是最新的甚至充斥着很多错误，那么在安装程序的时候就会遇到未知问题，非常浪费时间。
--   而自建梯子并不是免费的，甚至要比购买付费翻墙VPN贵很多。因为你必须租用国外VPS主机，然后在服务器上安装SSR、V2ray、Trojan这些代理协议，这样代理服务器才能加密你的访问网站请求，而速度良好的线路和香港、新加坡价格都超过100元每月。
--   一台VPS主机如果只用来运营翻墙梯子其实很浪费的，大部分时间带宽、CPU、内存以及磁盘都处于空闲状态。付费翻墙VPN之所以价格便宜，就是因为人家一台服务器可以分配给多个用户使用，只要做好负载均衡，可以充分利用资源降低成本。
--   实际上配置代理客户端软件也是很麻烦的，不同的翻墙协议需要搭配不同的软件，而客户端软件在电脑、手机、平板、路由器上也有不同的版本兼容性。只要一个参数没有配置正确，都无法让翻墙服务器和客户端连接成功。
+### 1.Astrill VPN
+
+Astrill VPN是中国用户中比较流行的VPN服务提供商之一。尽管Astrill VPN 提供的美国、香港等线路，也具备伪装流量的功能，可以绕过GFW的封锁检测，但它在中国使用的速度并不理想，通常无法满足用户的需求。此外，该应用程序VPN软件的界面设计简陋、反应迟钝，可能存在数据泄露问题或潜在的bug，而且价格贵得离谱，如果以月付方式，每个月需要支付30美元，如果是购买包年套餐，则需一次性支付180美元，远高于其他VPN服务提供商的价格。
+
+### 2.Lantern（蓝灯VPN）
+
+Lantern是一个免费VPN软件，多年来一直备受用户欢迎，但现在已经失效并停止了维护。如果你尝试连接这个VPN，可能会遇到无法连接的问题，从Github的开源页面可以看到，这些VPN甚至早已停止了维护。另外官网也存在被钓鱼网站替换的风险，可能会收集个人数据，使用需谨慎。
+
+### 3.VyprVPN
+
+VyprVPN是一款在国外市场比较受欢迎的VPN，它的变色龙协议可以对抗中国、俄罗斯、土耳其等国家的互联网审查，但VyprVPN连接速度比较慢，VPN软件的服务器列表中显示的延迟也很高。翻墙VPN在Windows电脑端登录时可能会出现故障，苹果手机只能使用传统的OpenVPN、IKev2、L2TP/IPsec等未经技术升级的VPN协议，变色龙协议无法使用。虽然VyprVPN官网的中文支持比较好，但是最近几年中国VPN用户普遍反映VyprVPN连接不上。
+
+### 4.NordVPN
+
+[NordVPN](https://qiangup.com/nordvpn-review/)曾经是比较火的中国VPN之一，因安全技术先进，已经成为国内外很多用户的首选VPN。但是在中国大陆，由于更新VPN节点不及时，且提供的混淆服务器不多，经过我的测试后发现在中国无法连接。其次NordVPN的价格已经不算便宜了，购买方式也相对不方便，因此也不推荐在中国使用。
+
+总的来说，选择好的翻墙VPN提供商至关重要，需要寻找速度快、稳定、兼容性好、价格实惠并提供良好售后服务的VPN。在选择VPN时，需要注意是否具备翻墙能力，有关伪装流量的功能是否可用，以及官网是否介绍了绕过互联网审查的相关信息。要避免选择价格贵、速度慢或无法稳定运行的VPN服务，这些都会造成浪费时间、金钱和资源。
 
 ## 翻墙VPN软件可以干什么？
 
@@ -131,208 +194,6 @@ ___
 ### 6.其他多种用途
 
 对于外贸人士来说必须使用Gmail、WhatsApp、Skype、Telegram来与客户联系，Google、Facebook、Twitter、Instagram也是开发新客户的社交引流平台。如果你要炒美股、港股，也需要指定的IP才能开户。使用翻墙软件交易比特币也更安全。总之翻墙VPN可以为你的工作学习带来很多便利，在海淘购物的时候，还能获得当地IP独有的优惠折扣。
-
-## 翻墙软件推荐
-
-以下翻墙软件经过我的测试，在中国的稳定性、速度都不错，有些是翻墙VPN软件，有些是安全的机场/梯子，可以根据自己需求选择合适的科学上网工具。我在[中国VPN推荐](https://qiangup.com/best-vpn-china/)指南中，介绍了关于使用每款科学上网软件的详细教程。
-
-### 1.[ExpressVPN](https://qiangup.com/go/expressvpn) —— 速度最快的翻墙软件
-
-说到翻墙与科学上网，最耳熟能详的名字就是ExpressVPN，这也证明了它在中国的翻墙能力，凭借十多年的VPN软件经验技术，使得ExpressVPN应对防火长城更加得心应手。
-
-![expressvpn官网](https://qiangup.com/wp-content/uploads/2021/12/expressvpn-homepage.jpg)
-
-凭借ExpressVPN部署在全球94个国家/地区的3000+台服务器，你可以享受[香港](https://qiangup.com/hk-vpn/)、台湾、日本、新加坡等低延迟IP节点，访问Google、Gmail、YouTube、Facebook、Twitter等网页速度更快。
-
-不限制带宽也是ExpressVPN的特点，再加上解锁解锁地理位置限制的能力，可以让你流畅播放YouTube、Disney+、BBC iPlayer、Hulu、HBO等高清视频流媒体。
-
-为什么ExpressVPN翻墙这么好用？这要归功于它的LightWay协议，他在普通的VPN协议IKEv2/IPSec、OpenVPN、IPSec基础上增加了混淆，防火长城无法检测到你正在使用VPN，从而达到科学上网的目的。
-
-高级AES-256加密可以保护你的数据安全，私有DNS服务器可以隐藏真实IP地址。全球首创的TrustedServer功能，将所有连接数据都储存在内存中而不是磁盘中，实现了真正的无日志。
-
-选择ExpressVPN的另一个好处是，它提供了对电脑VPN和手机VPN的完美支持，兼容Windows、 [Mac](https://qiangup.com/mac-vpn/)、Linux、iOS、Android等系统平台。
-
-不管你用的是iPhone手机、iPad平板、安卓平板，都能轻松在ExpresVPN官网下载翻墙VPN软件应用。如果你是高级玩家，还可以在路由器上设置VPN。[Chrome](https://qiangup.com/chrome-vpn/)/Firefox浏览器VPN扩展插件也简单易用，还可以在PS5、Switch、Xbox上配置游戏VPN。
-
-![expressvpn价格](https://qiangup.com/wp-content/uploads/2022/01/expressvpn-price.jpg)
-
-作为全球知名VPN，[ExpressVPN](https://qiangup.com/expressvpn-review/)具有良好的信用和口碑，所有套餐都支持30天退款保证。如果在使用中遇到问题，可以联系24/7在线客服解决。
-
-期间如果不满意，可以申请全额退款，可以说是一个免费试用VPN的机会。ExpressVPN价格确实不便宜，但是利用本站提供的ExpressVPN优惠链接，可以为你节省一些费用。
-
-以下是如何购买、下载和安装ExpressVPN的步骤。
-
-#### 1. 访问ExpressVPN官网
-
-由于ExpressVPN已被墙，你需要使用翻墙VPN才能访问其官网。直接从可信的网站进入ExpressVPN官网，可以获得超值优惠折扣。
-
-![expressvpn官网](https://qiangup.com/wp-content/uploads/2021/12/expressvpn-homepage.jpg)
-
-#### 2. 选择订阅套餐时长
-
-在购买页面上选择所需的订阅套餐时长。ExpressVPN的定价与其他国外翻墙VPN相近，购买时长越长价格越划算。
-
-![](https://qiangup.com/wp-content/uploads/2022/03/expressvpn-price-zh.jpg)
-
-#### 3. 输入邮箱注册并完成支付
-
-填写相关的信息包括邮箱、支付方式等。填写完整准确的信息非常重要，否则可能会影响后面的注册流程。
-
-![ExpressVPN购买](https://qiangup.com/wp-content/uploads/2022/03/expressvpn-pay-method.jpg)
-
-#### 4. 下载并安装翻墙VPN软件
-
-在ExpressVPN的后台页面下载Windows、Mac、Linux翻墙软件应用程序，或者下载APK安装包以方便在安卓手机上安装。对于iOS系统的用户，可通过VPN连接直接配置或在美区Apple ID下载ExpressVPN客户端。
-
-![ExpressVPN后台下载APP](https://qiangup.com/wp-content/uploads/2022/03/expressvpn-download-backend.jpg)
-
-#### 5. 登陆客户端并连接VPN
-
-使用激活码或密码登陆VPN软件。一旦连接，即可科学上网畅游国外网站。
-
-![ExpressVPN客户端使用](https://qiangup.com/wp-content/uploads/2022/03/expressvpn-connected-hk.jpg)
-
-最后，注意购买注册国外翻墙VPN的过程都是类似的。如果你喜欢类似于ExpressVPN的其他翻墙工具，也可以按照以上流程操作。要选择知名互联网品牌的VPN软件，以免在中国购买和使用期间出现问题。如果希望寻求帮助，请联系提供24/7客服支持的VPN服务商的客服团队。
-
-___
-
-### 2.[PureVPN](https://qiangup.com/go/purevpn) —— 便宜性价比高的翻墙VPN
-
-PureVPN也是一个老牌VPN了，早期注册在香港，一直为中国用户提供优质的翻墙软件。对于中国网络环境也比较了解，官网和VPN软件全中文支持。
-
-![purevpn官网](https://qiangup.com/wp-content/uploads/2023/03/purevpn-homepage.jpg)
-
-对20多种常见设备平台的支持，使得[PureVPN](https://qiangup.com/purevpn-review/)提供的应用程序覆盖Windows、 Mac、Linux、iOS、Android、路由器以及Firefox和Chrome浏览器扩展。客户端翻墙VPN软件简单易用，Streaming视频和Internet Freedom模式可以分别用于观看视频和科学上网。
-
-全球78个国家/地区的6500+台服务器不仅可以作为翻墙软件，还可以解锁国外流媒体Netflix、Disney+、BBC iPlayer、Hulu。
-
-快速稳定的服务器可以提供高质量的播放体验，不管是观看直播、观看视频、P2P种子下载或者游戏都是不错的选择。我平时用下来，觉得香港、台湾节点延迟最低。专用IP可以用来稳定使用Facebook，避免被封号。
-
-![purevpn价格](https://qiangup.com/wp-content/uploads/2023/03/purevpn-price.jpg)
-
-PureVPN价格相对便宜，同样提供31天退款保证，一个账号允许同时连接10台设备支持。支持Visa信用卡、银联信用卡、PayPal等支持方式。多加几美元还可获得专用IP、端口转发、DDos保护等功能。
-
-安全性自然不用说，Kill Switch可以保证VPN意外断开连接的时候数据不会泄露。军用机256位加密算法，让用户在连接公共WiFi的时候更加安全。
-
-DNS泄露保护可以避免数据泄露，并且隐藏你的真实IP地址，Web RTC可以保护浏览器访问数据。客户端软件提供也不存在IPV6泄露的问题。
-
-___
-
-### 3.[Surfshark](https://qiangup.com/go/surfshark) —— 不限设备数量的VPN
-
-Surfshark这两年发展非常快，名气直逼一线知名VPN翻墙软件。官网全中文支持对中国用户也比较友好，独具特色的翻墙功能，也是[Surfshark](https://qiangup.com/surfshark-review/)在中国翻墙稳定的原因。
-
-![surfshark官网](https://qiangup.com/wp-content/uploads/2021/12/surfshark-homepage.jpg)
-
-全球65个国家/地区拥有超过3200台服务器，可以满足你任何自由上网的需求。每台VPN服务器都有专用DNS服务器，并且不会记录用户浏览日志。
-
-中国大陆近距离服务器香港、日本、[台湾](https://qiangup.com/taiwan-vpn/)、新加坡等IP节点都是日常翻墙的首选，阿根廷、土耳其节点可以用来低价订阅Netflix，英国、法国、德国等节点可以用来解锁Disney+、Hulu、HBO、BBC iPlayer受地理限制的内容。
-
-不限制设备数量的特色服务得到了很多用户的好评，Surfshark的VPN软件支持的翻墙设备有macOS、Windows、Linux、iOS、Android以及Firefox/Chrome浏览器。唯一的缺点是不支持在路由器VPN翻墙，不过对于普通用户来说确实用不到。
-
-在科学上网之前，确保开启Camouflage或者NoBorders模式，开启之后可以混淆流量，才能达到翻墙的目的。相比之前Surfshark的ShadowSocks协议，这种方式更加安全，连接速度和稳定性都有大幅提升。
-
-![surfshark价格](https://qiangup.com/wp-content/uploads/2022/01/surfshark-price.jpg)
-
-Surfshark算得上是一款[便宜的VPN](https://qiangup.com/cheap-vpn/)翻墙软件，包年套餐每月只需$2.49每月，每年黑五优惠活动期间价格低至$2.21。
-
-提供30天退款保证，以及24/7在线客服和邮件支持。支持Visa信用卡、PayPal等付款方式，如果你当前是香港IP，可以通过支付宝付款。还支持Google Pay、Amazon Pay以及加密货币。
-
-使用行业领先的AES-256-GCM加密算法，可以有效地保护个人数据，并且已经通过了Cure53安全机构的审查。
-
-采用经过混淆的IKEv2/IPsec、OpenVPN协议，可以在翻墙的基础上增加一层安全性。专用DNS服务器可以避免DNS污染，防止IP地址泄露，从而实现私密浏览和自由地科学上网。
-
-___
-
-### 4.[PrivateVPN](https://qiangup.com/go/privatevpn) —— 运行稳定且注重隐私的翻墙软件
-
-从2009年创立以来，PrivateVPN始终坚守本心，将用户的使用体验放在第一位，它们承诺不记录任何用户个人信息，同时也拒绝为政府及其他机构提供用户的真实IP。
-
-![PrivateVPN官网](https://qiangup.com/wp-content/uploads/2022/03/privatevpn-homepage.jpg)
-
-在中国需要翻墙时，首先你得确保已经打开隐形VPN模式(StealthVPN模式)。该模式相当于混淆功能，能够隐藏你的VPN流量，足以避免被互联网服务提供商(ISP)和其他第三方识别。这也是PrivateVPN能绕过中国防火长城和解锁VPN封禁的关键。
-
-![privatevpn下载页面](https://qiangup.com/wp-content/uploads/2022/05/privatevpn-download-app-link.jpg)
-
-一般来说，用户需要的翻墙软件都是便于操作的。就这一点而言，我十分推荐新手使用PrivateVPN，因为它的苹果、安卓、Linux等系统的APP使用方式都很傻瓜，在选择好服务器后便能一键连接。
-
-所有PrivateVPN皆提供种子下载服务、私密传输大文件。你可以通过PrivateVPN访问ThePirateBay、LimeTorrents和BitTorrent、Deluge 等知名的种子站点快速下载种子文件和音频文件。除此之外，PrivateVPN还能支持Tor浏览器。
-
-![PrivateVPN价格](https://qiangup.com/wp-content/uploads/2022/03/privatevpn-price.jpg)
-
-因为PrivateVPN能同时连接6台不同的设备，这样看来其性价比也是挺高的。你每月只用支付$2就能享受稳定隐秘的翻墙服务。倘若在使用过程中有什么不理解的可以直接滴滴实时客服，你需要知道的是，不管购买什么套餐你都能在30天内免费退款。
-
-PrivateVPN的所有服务器均使用美国军用级别的AES-256位加密技术以及和2048位DH密钥来确保用户的安全。除了加密方式先进之外，PrivateVPN应用程序还配备了DNS和IPv6泄露防护，以免翻墙时出现信息泄露的危机。
-
-尽管PrivateVPN的服务器规模较小，但其合理的分布于全球的各个角落。这样既可以有效避免用户过度导致服务器拥堵，又能保障世界各国用户在连接到远程或附近服务器时能体验优秀的速度。
-
-___
-
-### 4.[Private Internet Access](https://qiangup.com/go/pia) —— 安全性高的VPN软件
-
-Private Internet Access(简称PIA)提供了最新的混淆模式，专门用于在中国翻墙使用，很多关于Private Internet Access的测评其实已经过时，在完成技术升级之后Private Internet Access大幅提升了翻墙软件的稳定性和速度。
-
-![private internet access官网](https://qiangup.com/wp-content/uploads/2022/12/pia-homepage.jpg)
-
-在60个国家/地区部署的5210+服务器可以满足众多需求，固定IP地址适合外贸人士、海外留学生在中国访问Facebook等特殊场景。还可以用于解锁Spotify、Apple Music、Tidal等国外听歌软件，对[Netflix](https://qiangup.com/netflix-vpn/)、Disney+、BBC iPlayer、Hulu等国外流媒体支持也非常好。
-
-Private Internet Access为大量的设备提供VPN软件支持，包括常见的Android、 Windows、macOS、iOS(iPhone/iPad)、Linux，还支持Xbox、PS、NS等游戏设备，甚至是路由器。
-
-可以在服务器列表中选择具有混淆模式的服务器，用于在中国科学上网。拆分隧道功能(Split Tunneling)可以用于翻墙访问国外网站的同时，绕过国内网站，从而提高网络访问体验。
-
-![](https://qiangup.com/wp-content/uploads/2023/03/pia-price.jpg)
-
-Private Internet Access的2年套餐性价比非常高，在黑五、圣诞节、周年庆期间都有相当大的优惠，Visa信用卡、银联信用卡也方便中国用户购买。
-
-在购买页面会默认添加附加产品密码管理软件，不需要的话可以取消勾选。充分利用30天退款保证，不满意可以申请退款。
-
-高级别的安全性得到了许多用户和第三方机构的认可，通过AES-256加密的数据可以保护网络数据。其具有专利的混淆协议不仅具有高安全性，并且也比WireGuard协议更快。
-
-CyberSec功能在屏蔽广告，过滤病毒软件方面都有良好的表现。Onion Over VPN多跳服务器，具备Tor类似的多服务器转发，可以完全隐藏IP地址。
-
-___
-
-## 不推荐的翻墙软件
-
-翻墙已经成为中国大陆网民获取互联网上各种信息的必要手段，而在中国境内，由于防火长城的阻拦，需要使用VPN等翻墙工具才能访问境外网站科学上网。然而，市面上的翻墙软件N种类繁多，质量良莠不齐。在这里，我将介绍一些不推荐在中国使用的VPN，帮助大家避免购买低质量的VPN浪费时间和金钱。
-
-### 1.PandaVPN(已跑路)
-
-熊猫VPN在2018年成立，曾经表现出色但后来跑路了，类似的还有光年VPN。因此购买国内VPN需谨慎，尽量选择海外知名大品牌的翻墙VPN。
-
-Panda VPN(也被称作熊猫VPN)比较特殊，可以说是翻墙VPN和机场的结合，并且技术团队都在国外，不管是安全性，还是翻墙软件本身的连接速度、稳定性都非常不错。
-
-设备支持方面算不上多，为Mac、Windows、Linux、iOS、Android以安卓电视提供VPN软件。[Panda VPN](https://qiangup.com/pandavpn-review/)内置的代理协议类似于SSR、V2ray，在电脑端会自动代理浏览器实现科学上网，如果要全局翻墙可以切换为OpenVPN协议或者模式。
-
-一个账号允许3台不同设备同时连接。为了解决大陆地区Apple Store无法访问的问题，Panda VPN提供了iOS测试包，可以配合TestFlight苹果官方测试平台使用，另外也可以通过修改Apple 账号地区解决，Panda VPN官网下载页面提供了相应[iOS翻墙](https://qiangup.com/iphone-vpn/)教程。
-
-Panda VPN在全球80个国家/地区拥有超过3000台服务器，VPN软件提供的香港、日本、美国节点很多，也是中国用户科学上网经常用到的IP节点。根据不同的使用场景，Panda VPN将线路分为了解锁Netflix、Hulu、HBO、AbemaTV、Disney+的流媒体节点。
-
-用于解决特殊时期防火长城封杀IP严重而准备的备用节点。游戏节点可以提供低延迟的体验，大多集中在日本地区。P2P种子下载速度也不错。
-
-如果选择12个月套餐，Panda VPN价格还算便宜，每月不到$3。当然如果你想试用以下，也可以选择1个月、3个月、6个月的短时长套餐，所有套餐都提供7天退款保证，虽然相比其他全球知名VPN来说提供的退款时间不算长，但你完全可以在这期间充分试用。
-
-虽然Panda VPN属于翻墙机场，但是却具备翻墙VPN的安全性。通过ECC安全加密技术，可以保护用户的访问数据。无日志记录策略，确保了用户的隐私安全。
-
-而且由于服务器和团队都不在中国大陆境内，因此不用担心法律法规问题。在注册账号的时候，甚至可以不用邮箱，而使用服务器生成数字账户，还可以通过比特币支付，进一步提升隐私性。
-
-### 1.Astrill VPN
-
-Astrill VPN是中国用户中比较流行的VPN服务提供商之一。尽管Astrill VPN 提供的美国、香港等线路，也具备伪装流量的功能，可以绕过GFW的封锁检测，但它在中国使用的速度并不理想，通常无法满足用户的需求。此外，该应用程序VPN软件的界面设计简陋、反应迟钝，可能存在数据泄露问题或潜在的bug，而且价格贵得离谱，如果以月付方式，每个月需要支付30美元，如果是购买包年套餐，则需一次性支付180美元，远高于其他VPN服务提供商的价格。
-
-### 2.Lantern（蓝灯VPN）
-
-Lantern是一个免费VPN软件，多年来一直备受用户欢迎，但现在已经失效并停止了维护。如果你尝试连接这个VPN，可能会遇到无法连接的问题，从Github的开源页面可以看到，这些VPN甚至早已停止了维护。另外官网也存在被钓鱼网站替换的风险，可能会收集个人数据，使用需谨慎。
-
-### 3.VyprVPN
-
-VyprVPN是一款在国外市场比较受欢迎的VPN，它的变色龙协议可以对抗中国、俄罗斯、土耳其等国家的互联网审查，但VyprVPN连接速度比较慢，VPN软件的服务器列表中显示的延迟也很高。翻墙VPN在Windows电脑端登录时可能会出现故障，苹果手机只能使用传统的OpenVPN、IKev2、L2TP/IPsec等未经技术升级的VPN协议，变色龙协议无法使用。虽然VyprVPN官网的中文支持比较好，但是最近几年中国VPN用户普遍反映VyprVPN连接不上。
-
-### 4.NordVPN
-
-[NordVPN](https://qiangup.com/nordvpn-review/)曾经是比较火的中国VPN之一，因安全技术先进，已经成为国内外很多用户的首选VPN。但是在中国大陆，由于更新VPN节点不及时，且提供的混淆服务器不多，经过我的测试后发现在中国无法连接。其次NordVPN的价格已经不算便宜了，购买方式也相对不方便，因此也不推荐在中国使用。
-
-总的来说，选择好的翻墙VPN提供商至关重要，需要寻找速度快、稳定、兼容性好、价格实惠并提供良好售后服务的VPN。在选择VPN时，需要注意是否具备翻墙能力，有关伪装流量的功能是否可用，以及官网是否介绍了绕过互联网审查的相关信息。要避免选择价格贵、速度慢或无法稳定运行的VPN服务，这些都会造成浪费时间、金钱和资源。
 
 ## 免费翻墙软件靠谱吗？
 
@@ -461,46 +322,125 @@ VPN即虚拟专用网络（Virtual Private Network）的缩写，最开始的应
 
 如果你在前往中国大陆之前，希望能够继续使用Twitter、Instagram、Facebook、Gmail、WhatApp等服务，那么提前下载安装VPN软件将非常重要。
 
-## 翻墙后可以做什么？
+## VPN 如何工作的？
 
-很多朋友不知道翻墙后可以做什么，也不知道翻墙后看什么，以下整理了一些最流行的国外网站。
+VPN 通过加密你的互联网流量来隐藏你的在线活动。也就是说，你的电脑、手机或其他联网设备与你的 ISP 运行的互联网服务器之间有一条隧道，你在网上所做的任何事情——访问网站、搜索内容、观看视频等都会在这条隧道里，被 ISP 或黑客看到，不仅可以看到你在网上做什么，还可以截获你通过隧道发送给 ISP 的密码和其他信息。
 
--   搜索引擎：
+而 VPN 就会通过加密这条隧道，确保你的隐私得到一定的保障。你的互联网的各种欣慰首先将其发送到 VPN 的服务器，然后再通过**安全隧道**将你的互联网行为发送到你的 ISP 的服务器，在这个 VPN**安全隧道里，**伪装成来自 VPN 的 IP 地址之一的流量，这样 ISP 的服务器就无法获得你的真实 IP 地址。
 
-Google、Bing、Yahoo、Duckduckgo
+## 翻墙后全球软件、网站推荐
 
--   社交软件：
+全世界用什么软件看电影、刷视频、听音乐、交友？下面这些网站快快收藏保存！
 
-Facebook、Twitter、Instagram、Pinterest、Reddit、LinkedIn、Tumblr、Snapchat、Tiktok、Quora
+<table><tbody><tr><td>社交网站</td><td><a href="https://www.facebook.com/" target="_blank" rel="noreferrer noopener">Facebook</a>，<a href="https://twitter.com/" target="_blank" rel="noreferrer noopener">Twitter</a>, <a href="https://www.instagram.com/" target="_blank" rel="noreferrer noopener">Instagram</a>, <a href="https://www.tumblr.com/" target="_blank" rel="noreferrer noopener">Tumblr</a>, <a href="https://www.snapchat.com/" target="_blank" rel="noreferrer noopener">Snapchat</a>, <a href="https://www.reddit.com/" target="_blank" rel="noreferrer noopener">Tumblr</a></td></tr><tr><td>日常使用网站</td><td><a href="https://www.google.com/" target="_blank" rel="noreferrer noopener">Google</a>, <a href="https://mail.google.com/" target="_blank" rel="noreferrer noopener">Gmail</a>, <a href="https://www.amazon.com/" target="_blank" rel="noreferrer noopener">Amazon</a>, <a href="https://www.ask.com/" target="_blank" rel="noreferrer noopener">Ask</a>, <a href="https://duckduckgo.com/" target="_blank" rel="noreferrer noopener">DuckDuckGo</a>, <a href="https://www.bing.com/" target="_blank" rel="noreferrer noopener">Bing</a>, <a href="https://www.quora.com/" target="_blank" rel="noreferrer noopener">Quora</a>, <a href="https://www.youtube.com/" target="_blank" rel="noreferrer noopener">Youtube</a></td></tr><tr><td>音乐网站</td><td><a href="https://tidal.com/" target="_blank" rel="noreferrer noopener">Tidal</a>, <a href="https://open.spotify.com/" target="_blank" rel="noreferrer noopener">Spotify</a>, <a href="https://www.amazon.com/music/unlimited" target="_blank" rel="noreferrer noopener">Amazon Music Unlimited</a>, <a href="https://soundcloud.com/" target="_blank" rel="noreferrer noopener">Soundcloud</a>, <a href="https://us.pandora.net/" target="_blank" rel="noreferrer noopener">Pandora</a>, <a href="https://www.apple.com/apple-music/" target="_blank" rel="noreferrer noopener">Apple Music</a>, <a href="https://www.boomplay.com/" target="_blank" rel="noreferrer noopener">Boomplay</a></td></tr><tr><td>新闻网站</td><td><a href="https://www.nytimes.com/" target="_blank" rel="noreferrer noopener">纽约时报</a>, <a href="https://www.reuters.com/" target="_blank" rel="noreferrer noopener">路透社</a>, <a href="https://www.wsj.com/" target="_blank" rel="noreferrer noopener">华尔街日报</a>, <a href="https://news.yahoo.com/" target="_blank" rel="noreferrer noopener">Yahoo! News</a>, <a href="https://www.bbc.co.uk/" target="_blank" rel="noreferrer noopener">BBC</a>, <a href="https://www.bloomberg.com/" target="_blank" rel="noreferrer noopener">Bloomberg</a>, <a href="https://www.foxnews.com/" target="_blank" rel="noreferrer noopener">Foxnews</a></td></tr><tr><td>流媒体网站</td><td><a href="https://www.disneyplus.com/" target="_blank" rel="noreferrer noopener">Disney+</a>, <a href="https://www.netflix.com/" target="_blank" rel="noreferrer noopener">Netflix</a>, <a href="https://www.hbo.com/" target="_blank" rel="noreferrer noopener">HBO</a>, <a href="https://www.imdb.com/" target="_blank" rel="noreferrer noopener">IMBD</a>, <a href="https://www.hulu.com/" target="_blank" rel="noreferrer noopener">Hulu</a>, <a href="https://www.hotstar.com/" target="_blank" rel="noreferrer noopener">HotStar</a>, <a href="https://www.espn.com/" target="_blank" rel="noreferrer noopener">ESPN</a></td></tr><tr><td>学习网站</td><td><a href="https://www.udemy.com/" target="_blank" rel="noreferrer noopener">Udemy</a>, <a href="https://www.kadenze.com/" target="_blank" rel="noreferrer noopener">Kadenze</a>, <a href="https://www.udacity.com/" target="_blank" rel="noreferrer noopener">Udacity</a>, <a href="https://www.coursera.org/" target="_blank" rel="noreferrer noopener">Coursera</a>, <a href="https://www.ewant.org/" target="_blank" rel="noreferrer noopener">Ewant</a>, <a href="https://www.ted.com/" target="_blank" rel="noreferrer noopener">TED</a>, <a href="https://www.edx.org/" target="_blank" rel="noreferrer noopener">edX</a></td></tr></tbody></table>
 
--   视频流媒体：
+## 免费科学上网靠谱吗？
 
-YouTube、Netflix、BBC iPlayer、Hulu、HBO、Amazon Prime Video、ESPN
+我们面对价格低廉，甚至免费产品时，常常容易心动。如果是免费纸巾、免费锅碗瓢盆等免费日常用品，那可以较为安全去使用。但如果你在选择各种付费 APP、翻墙软件时，请务必谨慎那些免费的东西，因为网传有各种网友使用免费科学上网工具被抓的案子。
 
--   音乐听歌软件：
+都说“便宜没好货”，**你最好不要选择免费科学上网工具**，因为一款良好的科学上网工具需要开发者花大量金钱和时间去维护各个服务器，因此需要收费去维持公司正常运营。同时免费软件在连接上不够稳定，能够被黑客简单侵入，甚至被防火墙发现并禁止；**另外用户数据安全和隐私保护的功能也没有付费翻墙软件做得好，常常会泄露用户个人上网数据、或者真实 IP 地址。**
 
-Spotify、Pandora、Apple Music、Soundcloud、Amazon Music、YouTube Music
+**另外也尽量不要选择小那些打着“纯中文”的海外市场翻墙软件**，因为一款科学上网软件只针对中文市场，它钓鱼的概率会相比同类软件大，可靠的商业翻墙工具不可能只针对中国市场运营，它们一定是国际化程度很高的 APP。
 
--   即时通讯：
+## 翻墙软件、技术黑名单
 
-WhatsApp、Telegram、Skype、Gmail、LINE、Google Chat
+对于中国境内的翻墙用户而言，浏览器搜索关键词，便会出现五花八门的翻墙工具。对于一些不懂行的用户而言，很容易就被套路，上当受骗。**以下翻墙软件或者技术都存在钓鱼嫌疑、泄漏隐私、卷款跑路等问题**，不能保证电脑和手机的安全性，请注意识别、使用。
 
--   新闻媒体：
+-   酷鸟浏览器
+-   Tuber浏览器
+-   绿光浏览器
+-   光年 VPN
+-   老王 VPN
+-   Turbo VPN
+-   VPN Master
+-   SkyVPN
 
-美联社、路透社、法新社，还有纽约时报、英国卫报、华盛顿邮报
+-   SuperVPN
+-   SkyVPN
+-   蚂蚁VPN
+-   佛跳墙VPN7
+-   QuickFox
+-   Bean VPN
+-   LimeVPN
 
--   游戏平台：
+## 翻墙/科学上网注意事项
 
-Steam、战网、Twitch
+翻墙、科学上网、VPN、梯子等都是同一个意思，就是通过技术来绕过中国防火长城的监管和限制，去访问一些国外的网站和服务。那在翻墙出去以后，是不是就可以随心所欲，畅所欲言？需要注意一些什么呢？
 
--   在线课程：
+-   1、**不要自己租用服务器搭建 VPN 或 SSL**，更不要将你搭建的翻墙工具分享或者售卖给其他人，一旦被发现，很有可能会面临罚款或者监禁。
+-   2、**不要使用中国国内的小服务商的 VPN**，以及警惕网上所谓“免费科学上网 VPN”、“免费科学上网节点”，因为这些虽然免费省钱，但你的各种账号密码、个人信息存在着巨大的泄露风险。
+-   3、翻墙后**不要将国内不允许的国外内容转发至国内**，特别是转发至微信、微博、博客、QQ 等社交平台。同时不要试图对身边的人给他们讲自己在翻墙这些事，以及国外的一些事情，避免被有心之人利用。后果轻则删贴封号，重则被请喝茶、罚款、牢狱之灾等等。
+-   4、**翻墙后，定期更改国内网站、APP 等重要的账户密码**，以防使用梯子的时候被上传密码导致盗号；
+-   5、尽量不要用国内的手机号绑定国外的各种网站、平台账号，比如说 YouTube、Facebook、Twitter等网站；以及尽量不要留下个人的身份信息，名字，照片，亲戚家属的等个人信息；
+-   6、**尽量使用 Google 等内核浏览器浏览网页，且使用无痕模式进行访问**（这样使访问信息不被记录）。切勿使用如 360安全浏览器、QQ浏览器等国产浏览器，这些浏览器可能会上传你的访问信息到后台服务器；
+-   7、**注意科学上网敏感时期**，如每年春节期间、开大会期间、每年六月上旬、各种突发事件（如香港事件、新冠疫情等），这些时候翻墙可能会出现连接不上、卡顿情况，同时更要注意自己的言论发表和传播。
 
-Coursera、Udemy、TED
+## 科学上网常见问题
 
-## 翻墙与科学上网总结
+以下是一些科学上网/实用翻墙 VPN 的一些问题，希望可以帮助到你。
 
-防火长城一直以来都在不断封锁VPN，但是这是个猫鼠游戏，不用担心哪天没有翻墙软件可用的情况。当然，在如此严格的封杀VPN之下，也不可能每款翻墙VPN软件都那么好用，本文也会持续更新好用的翻墙软件，并持续关注最新的翻墙技术。
+### _**问：个人使用 VPN 违法吗？**_
 
-不要在国内网络平台发表政治言论是底线，除了浏览政治内容，其实翻墙能做的事情还很多，看视频、玩游戏、听音乐哪个都比关心政治更香。
+根据《中华人民共和国计算机信息网络国际联网管理暂行规定》里第六条所说，计算机信息网络直接进行国际联网，必须使用邮电部国家公用电信网提供的国际出入口信道。任何单位和个人不得自行建立或者使用其他信道进行国际联网。也就是说，在中国个人使用和建立VPN是违法行为。
 
-慎用”免费VPN”，天下没有免费的午餐。除了无法在中国使用之外，免费VPN还会植入木马病毒或弹窗广告。因此为了长期稳定地科学上网，并且远离各种危险因素，付费订阅翻墙VPN永远是最优解。
+但中国有上千万的国际贸易从业者、海外投资从业者、留学生等人群，而对于这些人来说，“翻墙”对他们来说是必需品，他们必须要借助 Google、Facebook、Youtube、Skype 和 Whatsapp 等工具去开展工作**。这种不会危害国家安全的性质的翻墙一般不会遭到处罚**，不过偶尔还是有倒霉蛋因使用 VPN 被罚。但如果你科学上网的目的是访问或者讨论一些跟政治、文化和宗教相关的网站、话题，或者是观看色情网站等。那么这种翻墙性质是犯法的，一旦被发现，就会受到处罚。
+
+### _**问：用 VPN 会被发现吗？**_
+
+网络运营商是可以随时监控网民的互联网使用情况的。理论上说，使用 VPN 是可以被运营商发现的，而且你还是用了国产浏览器、设备、软件的话将会更容易被发现。但目前有些 VPN 加入了伪装、混淆功能来避免 VPN 流量被发现，是有一定安全保障的。只要你使用 VPN 做一些正面的事，就不用担心用 VPN 或其它翻墙梯子就不会被发现。
+
+### _**问：代理与 VPN 哪个更好？**_
+
+VPN 和代理都执行相同的任务来保护在线用户的身份。但使用不同的操作模式。VPN 提供了广泛的功能，如终止开关、拆分隧道、SmartDNS、协议部分等代理。**它可以帮助用户有选择地允许/阻止单个应用程序访问 Internet，VPN 翻墙工具提供更好的安全性、数据加密和可靠的连接。**而代理服务只隐藏你的身份，并且使用时非常不稳定的，容易暴露身份。因此你可以根据需要选择。不过可以说的是，凭借众多可用和安全功能，**VPN 更占优势**。
+
+### _**问：自己搭建梯子可以吗？**_
+
+首先根据工信部的规定：“未经电信主管部门批准，不得自行建立或租用专线（含虚拟专用网络VPN）等其他信道开展跨境经营活动。”，所以自己搭建梯子是违法的。除此之外，防火长城 GFW 对那些十分普通、甚至劣质的 VPN 服务封杀很严格，而一些优质的翻墙服务又很昂贵，于是很多热心网友或者相关技术人员也开始搭建梯子自用。但并不推荐使用这种方法。因为首先你需要具备一定的技术经验，如果是个技术新人，那么搭建过程十分复杂麻烦。**其次你还需要去购买或者租用国外 VPS，这个价格也许比订阅 VPN 服务还贵。**
+
+另外自己搭建的梯子，一旦 IP 被封，购买的 VPN 服务器或者换 IP 都需要花钱。而使用付费 VPN则可以避免这些麻烦，不用自己搭建 VPN 服务器，不用配置客户端，还有大量备用 IP 可以切换使用。最后，价格还比自己搭建梯子便宜。
+
+### _**问：VPN 会减慢我的设备速度吗？**_
+
+是的，VPN 可能会稍微减慢你的设备速度。发生这种情况是因为你的连接是通过 VPN 服务器路由和加密的。数据到达目的地需要更长的时间。如果你选择口碑好、有一定实力的 VPN 服务提供商，你的速度不会受到太大影响。
+
+### _**问：如何提升科学上网速度?**_
+
+影响科学上网速度的原因是多种多样的，比如本地网络的带宽速度、数据路由方式、科学上网工具的质量、服务器节点的物理距离等。如果想要自己在翻墙时体验高速的网络速度，可以尝试以下几点：
+
+**1、选择良好的网络带宽**：网络带宽是指在单位时间内传输的数据量，高带宽可以提供比低带宽更高的数据传输率，可以说，本地网络带宽速度直接影响了你的科学上网速度。因此首先需要提升本地的网络宽带。
+
+**2、选择优质科学上网工具**：像上文提到的 PandaVPN、ExpressVPN 两款翻墙软件，都是经过自己和广大用户实际使用情况，结合口碑、功能等推荐的，而且都能在中国使用。
+
+**3、选择离物理最近的服务器节点**：选择中国香港、中国台湾、日本、韩国、新加坡等地区的服务节点。如果你是中国用户的话，中国周边地区的服务器节点就是最佳的科学上网节点。
+
+**4、打开科学上网工具的拆分隧道功能**：优秀的科学上网工具具有拆分隧道功能，为了提高上网速度，你可以打开该功能，这样当你访问海外网站时会使用 VPN 流量、宽带速度，当你访问国内的网站和 APP 时，你的数据流量不会经过翻墙 VPN 的服务器。
+
+点击获取优质科学上网工具
+
+### _**问：连接 VPN 时，可以用国内安全卫士/杀毒软件/浏览器吗？**_
+
+尽量不要使用各种国产杀毒软件和浏览器，因为等他们自己有弹窗提醒网站风险功能，能够在后台看到你的一举一动。当你用百度浏览器等访问 Google 等网站，他们能够知道你在使用代理或者 VPN 等方式科学上网。然后再查询下你的 IP 地址，或许这个 IP 很快就被封了。**因此请使用谷歌浏览器或者其他隐私浏览器上网，用国外的杀毒软件等。**
+
+### _**问：VPN 可以玩游戏吗？和加速器一样吗？**_
+
+严格意义上来说，**游戏加速器不属于 VPN，也不是翻墙软件。**大部分游戏加速器只能为特定的游戏加速，提高游戏体验感，而没有翻墙功能，无法用于访问海外 Google、Youtube 等网站。而VPN等大量翻墙软件一般都具有高速功能，甚至游戏专线，可以当作游戏加速器使用。
+
+但免费的 VPN 等翻墙软件通常会限制数据和速度，并且不具有伪装流量的协议，无法在中国稳定使用。如果你想玩《GTA5》、《绝地求生PUBG》这些海外游戏，且不需要翻墙的话，可以选择低延迟的专业游戏加速器。
+
+### _**问：可以用免费破解版的 VPN 吗？**_
+
+尽量**不要使用免费破解版 VPN**，因为它们可能是伪装的各种木马病毒软件，会偷偷收集你的游戏、社交等账号信息，甚至家庭住址、银行账号密码等，**存在非常大的安全风险**。而且换句话说，那些付费 VPN 都是由高端科技人才打造的，被他人破解的难度十分高，要破解这些 VPN 可以说几乎不可能。另外上文也提到了免费 VPN 的缺点和风险，破解版翻墙软件就更没有好用和稳定性可言。
+
+### _**问：有绝对的不被发现的科学上网吗？**_
+
+任何事情都没有绝对的说话，想要匿名上网是可以通过各种措施达到的，比如采取以下措施：
+
+-   注册独立的网络帐号，不要使用 Google、Facebook 等。
+-   使用独立的端对端加密的**匿名电子邮箱**（或者临时邮箱/一次性邮箱），用于注册国外社交网站或网络论坛，且邮箱帐号中不包含姓名、生日等个人信息。不要使用 163、QQ 邮箱等国产电子邮箱。
+-   尽量不要使用需要手机号的软件或服务，不要将自己使用的真实手机号码绑定社交账号，尤其是采用实名制的中国 +86 号码和香港 +852 号码，使用**临时性短信验证码接受平台**（全程使用 Tor）。
+-   可配合使用 VeraCrypt 创建的虚拟加密盘保存密码、密码库。
+-   使用独立的、未安装中资软件的桌面级装置访问，尽可能使用虚拟机 / Live USB 系统。
+-   不要同时在该装置上安装使用微信等任何国产 App 。
+-   如使用 iOS，应自始至终使用非中国区 Apple ID，同时不要在中国区与非中国区 Apple ID 之间相互切换，iCloud 云上贵州存在网络监控隐患。
+
+以上只是简单的一小部分匿名科学上网步骤，但对于普通人十分麻烦且没有必要，因为我们只是简单的翻墙上网而已，不存在国家之间的间谍行为，因此仅作了解，也不要尝试以身试法
