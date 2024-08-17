@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95a1a22c-52bd-4b0d-9840-b4bd9f5217c7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="95a1a22c-52bd-4b0d-9840-b4bd9f5217c7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/home/work/vpnfast.github.io",
+    "last_opened_file_path": "C:/Users/baiyu/Documents/GitHub/workspace",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1714215541384</updated>
       <workItem from="1714215542785" duration="16000" />
-      <workItem from="1723885082184" duration="5519000" />
+      <workItem from="1723885082184" duration="5829000" />
     </task>
     <servers />
   </component>
