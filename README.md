@@ -14,7 +14,7 @@
 
 ![翻墙](https://overwallvpn.com/wp-content/uploads/2024/08/the-great-firewall-of-china.jpg)
 
-这一切都要从防火长城说起，防火长城是从Great Firewall翻译过来的，是国外对中国网络防火墙的称呼，**也被称做”GFW”，中国网民更喜欢称它为”墙”**。
+这一切都要从防火长城说起，[防火长城是从Great Firewall](https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)翻译过来的，是国外对中国网络防火墙的称呼，**也被称做”GFW”，中国网民更喜欢称它为”墙”**。
 
 那么什么是科学上网呢？科学上网的意思是，通过科学技术的方法绕过防火长城的封锁，也被称做”翻墙”。而根据不同的技术，不同的科学上网工具又被称做**翻墙VPN、翻墙梯子**。
 
