@@ -1,43 +1,59 @@
--   翻墙软件现状与趋势
-    -   免费VPN已经极不可靠
-    -   付费VPN翻墙仍是主流
-    -   技术人群更喜欢SSR/V2Ray自助翻墙软件
-    -   蓝灯不再可靠
--   好用的中国VPN推荐
-    -   ExpressVPN
-    -   PrivateVPN
-    -   StrongVPN
-    -   Astrill VPN
-    -   SurfShark
-    -   PureVPN
-    -   Ivacy VPN
-    -   NordVPN
--   寻找可靠的翻墙软件
-    -   Lightyear VPN（光年VPN）– 已跑路
-    -   Just my socks
-    -   F-Secure Freedome
-    -   StrongVPN
-    -   ibVPN
-    -   快连VPN，你敢用么？
-    -   GreenVPN已关闭，天行VPN呢？
-    -   继续寻找可靠的翻墙软件
--   关于翻墙回国
--   关于游戏VPN
--   FAQ
-    -   为什么要小心免费VPN？
-    -   什么是DNS防泄漏保护？
-    -   除了翻墙，VPN还能做什么？
-    -   为什么你架设的VPN无法翻墙，且很快被墙？
-    -   为什么一线VPN没有被墙
-    -   同设备安装多个翻墙软件的问题
-    -   为什么翻墙失败有时导致断网
--   如何在打开VPN时正常访问国内网站
--   购买付费VPN有哪些误区？
-    -   别购买国内的付费vpn服务，哪怕它们的服务器都在国外
-    -   别购买太便宜的付费vpn
-    -   尽量别购买国内买不到的付费vpn
-    -   如果有选择，别购买VPS自己搭建VPN服务，别低估墙的威力
-    -   谨慎选择非知名但支持P2P的付费VPN，因为这样的服务长期保证不了质量
+- [翻墙软件现状与趋势](#翻墙软件现状与趋势)
+  - [免费VPN已经极不可靠](#免费vpn已经极不可靠)
+  - [付费VPN翻墙仍是主流](#付费vpn翻墙仍是主流)
+  - [技术人群更喜欢SSR/V2Ray自助翻墙软件](#技术人群更喜欢ssrv2ray自助翻墙软件)
+  - [蓝灯不再可靠](#蓝灯不再可靠)
+  - [1.ExpressVPN](#1expressvpn)
+    - [为什么ExpressVPN是最好用的中国VPN翻墙软件？](#为什么expressvpn是最好用的中国vpn翻墙软件)
+    - [如何获取ExpressVPN？](#如何获取expressvpn)
+  - [2.PrivateVPN](#2privatevpn)
+  - [3.StrongVPN](#3strongvpn)
+    - [StrongVPN的优缺点和适用场景](#strongvpn的优缺点和适用场景)
+    - [如何获取StrongVPN](#如何获取strongvpn)
+  - [4.Surfshark](#4surfshark)
+    - [优缺点](#优缺点)
+    - [如何获取SurfShark](#如何获取surfshark)
+  - [5.PureVPN](#5purevpn)
+    - [优缺点](#优缺点-1)
+    - [如何获得PureVPN](#如何获得purevpn)
+  - [Astrill VPN](#astrill-vpn)
+    - [优点](#优点)
+    - [缺点](#缺点)
+  - [Ivacy VPN](#ivacy-vpn)
+  - [NordVPN](#nordvpn)
+    - [如何在中国使用NordVPN](#如何在中国使用nordvpn)
+- [寻找可靠的翻墙软件](#寻找可靠的翻墙软件)
+  - [~Lightyear VPN（光年VPN）~– **已跑路**](#lightyear-vpn光年vpn-已跑路)
+  - [Just my socks](#just-my-socks)
+  - [F-Secure Freedome](#f-secure-freedome)
+  - [StrongVPN](#strongvpn)
+  - [ibVPN](#ibvpn)
+  - [快连VPN，你敢用么？](#快连vpn你敢用么)
+  - [GreenVPN已关闭，天行VPN呢？](#greenvpn已关闭天行vpn呢)
+  - [继续寻找可靠的翻墙软件](#继续寻找可靠的翻墙软件)
+    - [在中国能用](#在中国能用)
+    - [购买与下载方便](#购买与下载方便)
+    - [速度快](#速度快)
+    - [安全可靠](#安全可靠)
+    - [填写收录表单](#填写收录表单)
+- [关于翻墙回国](#关于翻墙回国)
+- [关于游戏VPN](#关于游戏vpn)
+- [FAQ](#faq)
+  - [为什么要小心免费VPN？](#为什么要小心免费vpn)
+  - [什么是DNS防泄漏保护？](#什么是dns防泄漏保护)
+  - [除了翻墙，VPN还能做什么？](#除了翻墙vpn还能做什么)
+  - [为什么你架设的VPN无法翻墙，且很快被墙？](#为什么你架设的vpn无法翻墙且很快被墙)
+  - [为什么一线VPN没有被墙](#为什么一线vpn没有被墙)
+  - [同设备安装多个翻墙软件的问题](#同设备安装多个翻墙软件的问题)
+  - [为什么翻墙失败有时导致断网](#为什么翻墙失败有时导致断网)
+- [如何在打开VPN时正常访问国内网站](#如何在打开vpn时正常访问国内网站)
+- [购买付费VPN有哪些误区？](#购买付费vpn有哪些误区)
+  - [别购买国内的付费vpn服务，哪怕它们的服务器都在国外](#别购买国内的付费vpn服务哪怕它们的服务器都在国外)
+  - [别购买太便宜的付费vpn](#别购买太便宜的付费vpn)
+  - [尽量别购买国内买不到的付费vpn](#尽量别购买国内买不到的付费vpn)
+  - [如果有选择，别购买VPS自己搭建VPN服务，别低估墙的威力](#如果有选择别购买vps自己搭建vpn服务别低估墙的威力)
+  - [谨慎选择非知名但支持P2P的付费VPN，因为这样的服务长期保证不了质量](#谨慎选择非知名但支持p2p的付费vpn因为这样的服务长期保证不了质量)
+- [网友评论](#网友评论)
 
 676条评论 | 最近一次更新：2024年11月03日
 
