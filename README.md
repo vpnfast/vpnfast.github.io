@@ -48,7 +48,7 @@ VPN一开始是为企业提供安全数据加密的，后面被中国网友用�
 
 ![PrivateVPN连接成功](https://overwallvpn.com/wp-content/uploads/2024/08/privatevpn-windows-simple-connected-hongkong.jpg)
 
-在中国需要翻墙时，首先**你得确保已经打开隐形VPN模式(StealthVPN模式)**。该模式相当于混淆功能，能够隐藏你的VPN流量，足以避免被互联网服务提供商(ISP)和其他第三方识别。这也是PrivateVPN能绕过中国防火长城和解锁VPN封禁的关键。
+在中国需要翻墙时，首先**你得确保已经打开隐形VPN模式(StealthVPN模式)**。该模式相当于混淆功能，能够隐藏你的VPN流量，足以避免被互联网服务提供商(ISP)和其他第三方识别。且大部分IP地址都可以绕过ChatGPT的检测，在中国大陆和香港注册和平时使用ChatGPT的时候，主要不要频繁切换IP地址。尽量使用美国IP地址，避免账号被封。这也是PrivateVPN能绕过中国防火长城和解锁VPN封禁的关键。
 
 这是一种相当有效的代理翻墙协议，当你打开APP的时候，会出现小飞机的图标。这表明PrivateVPN应用了国产的翻墙技术，并将其内置到了VPN软件之中。**在首次连接VPN时，它会询问你是否位于中国境内**，你的需求是翻墙软件还是要绕过奈飞Netflix的地理位置封锁。当然选择在中国之后，PrivateVPN就会自动开启TCP+443端口的VPN梯子模式。
 
