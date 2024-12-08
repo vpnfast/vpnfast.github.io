@@ -54,7 +54,7 @@ StrongVPN能够有效绕过防火长城等网络审查，访问被封锁的网�
 
 #### 一、购买 StrongVPN
 
-1. **访问官网**：打开 [StrongVPN 官方网站]([https://www.strongvpn.com](https://overwallvpn.com/go/strongvpn))。
+1. **访问官网**：打开 [StrongVPN 官方网站](https://overwallvpn.com/go/strongvpn)，并点击"START NOW"。
 
 ![StrongVPN官网](https://overwallvpn.com/wp-content/uploads/2024/11/strong-homepage.jpg)
 
