@@ -50,6 +50,53 @@ StrongVPN能够有效绕过防火长城等网络审查，访问被封锁的网�
 
 它提供全球 30 多个国家的 950+ 台高速服务器，支持 OpenVPN、WireGuard 等协议，连接稳定且速度快，非常适合流媒体播放、在线游戏或大文件下载。此外，StrongVPN 支持多设备同时连接（最多 12 台），兼容 Windows、macOS、iOS、Android 等多平台，甚至可以配置在路由器上，翻墙体验更灵活。对于需要翻墙的用户来说，StrongVPN 的混淆技术和不限流量的特点非常实用，同时提供 24/7 客服支持和 30 天退款保障，翻墙效果和性价比都相当出色。如果你正在寻找稳定、安全、好用的 VPN 来翻墙，StrongVPN 是一个值得尝试的选择。
 
+购买、安装、注册和使用 StrongVPN 的流程相对简单，以下是详细步骤：  
+
+#### 一、购买 StrongVPN
+
+1. **访问官网**：打开 [StrongVPN 官方网站]([https://www.strongvpn.com](https://overwallvpn.com/go/strongvpn))。
+
+![StrongVPN官网](https://overwallvpn.com/wp-content/uploads/2024/11/strong-homepage.jpg)
+
+2. **选择订阅计划**：通常提供月付或年付两种计划，年付更优惠。  
+
+![StrongVPN选择套餐](https://overwallvpn.com/wp-content/uploads/2024/12/strongvpn-price-1.jpg)
+
+3. **创建账户**：输入邮箱地址和密码，创建 StrongVPN 账户。  
+
+![StrongVPN购买](https://overwallvpn.com/wp-content/uploads/2024/12/strongvpn-payment.jpg)
+
+4. **完成支付**：支持多种支付方式，包括信用卡、PayPal、支付宝 和部分加密货币。  
+5. **获取确认邮件**：支付完成后，你会收到一封确认邮件，包含账户信息和登录链接。  
+
+#### 二、下载和安装 StrongVPN
+
+1. **选择设备**：进入官网的“Apps”或“Download”页面，根据使用设备选择合适的客户端版本。支持 Windows、macOS、iOS、Android 等平台，也可以配置在路由器上。
+
+![StrongVPN购买](https://overwallvpn.com/wp-content/uploads/2024/12/strongvpn-download.jpg)
+
+2. **下载安装包**：点击下载对应的安装包，并根据提示完成安装。  
+3. **登录账户**：打开应用，使用购买时创建的账户登录。  
+
+#### **三、注册和激活账户（如果未在官网完成注册）**  
+1. 如果登录时提示需要激活账户，可以根据注册邮箱中的激活邮件完成激活。  
+2. 确保激活后，账户即可正常使用。  
+
+#### 四、设置和使用 StrongVPN
+
+1. **选择服务器**：  
+   - 登录应用后，你可以看到服务器列表。根据需要选择服务器所在地（如美国、日本等）。  
+   - 为更快的速度，可以选择距离较近或延迟较低的服务器。  
+
+![StrongVPN客户端](https://overwallvpn.com/wp-content/uploads/2024/12/strongvpn-windows.jpg)
+
+2. **连接 VPN**：点击“Connect”按钮，等待连接完成。连接成功后，所有流量都会通过 VPN 服务器。  
+3. **访问目标网站**：打开浏览器或应用，访问你需要的被封锁网站（如 Google、YouTube、Netflix）。  
+4. **协议切换（可选）**：  
+   - 如果遇到无法连接的问题，可以在设置中切换协议（推荐使用 OpenVPN、IKEv2 或 WireGuard）。  
+   - 混淆模式也适用于网络审查更严格的地区。  
+5. **断开连接**：使用完后，点击“Disconnect”按钮断开连接，恢复到普通网络状态。  
+
 ### 2.[PrivateVPN](https://overwallvpn.com/go/privatevpn) - 具备隐形VPN协议的翻墙软件
 
 从2009年创立以来，PrivateVPN始终坚守本心，将用户的使用体验放在第一位，它们承诺不记录任何用户个人信息，同时也拒绝为政府及其他机构提供用户的真实IP。
