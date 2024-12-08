@@ -52,6 +52,8 @@
 
 1.**[StrongVPN](https://kanvpn.com/go/strongvpn) – 中国VPN翻墙首选**
 
+![StrongVPN](https://overwallvpn.com/wp-content/uploads/2024/11/strongvpn-logo.png)
+
 -   StrongVPN 全球覆盖服务器广泛，业内最可靠最快最稳定的老牌VPN
 -   躲避中国防火墙VPN首选，连接快速度和稳定性都不错
 -   对V中国VPN用户友好，易于使用VPN不需要太多设置
@@ -59,11 +61,15 @@
 
 2.**[PureVPN](https://kanvpn.com/go/purevpn) – 中国VPN排名第二，解锁流媒体极佳轻量型VPN**
 
+![PureVPN](https://overwallvpn.com/wp-content/uploads/2022/11/purevpn-logo-black.png)
+
 -   对于中国用户解锁网站和一般互联网使用来说相当可靠
 -   VPN价格也比较适中。
 -   良好的客户服务支持，该VPN在中国市场很有前景
 
 3.**[SurfShark](https://kanvpn.com/go/surfshark) – 易于使用 物超所值 唯一不限设备数的VPN**
+
+![SurfShark](https://overwallvpn.com/wp-content/uploads/2021/12/surfshark-logo.png)
 
 -   以非常合理的价格提供速度和安全性保障
 -   VPN每月只需 2.50 美元，超级简单易用
