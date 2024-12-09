@@ -183,17 +183,17 @@ PureVPN提供很多备选服务器，一是为了避免用户同时使用流量�
 ## PureVPN速度怎么样？
 
 PureVPN速度非常快，如果你非常在乎速度和稳定性，PureVPN是你最佳选择，提供许多近距离中国大陆地区的低延迟超快服务器，以及远距离美国，英国，澳大利亚，加拿大可观看Netflix流媒体节点IP服务器。以下是我们基于中国大陆实地测试PureVPN不同服务器速度。
-
+<div class="table-container">
 <table><tbody><tr><td>平均连接速度 – 台湾</td><td>196 Mbps</td></tr><tr><td>平均连接速度 – 美国</td><td>205 Mbps</td></tr><tr><td>平均连接速度 – 英国</td><td>172 Mbps</td></tr><tr><td>平均连接速度 – 香港</td><td>265 Mbps</td></tr><tr><td>平均连接速度 – 欧洲</td><td>208 Mbps</td></tr><tr><td>平均连接速度 – 日韩</td><td>174 Mbps</td></tr></tbody></table>
-
+</div>
 ## PureVPN安全吗？
 
 PureVPN不仅使用方便，而且非常安全，为了很好地应对不断复杂变化的防火长城的干扰，PureVPN为每台服务器使用行业最高级别的AES 256 位元加密技术，值得一提的是，AES 256 位元加密被认为是业内最安全的加密技术，其加密算法也被美国政府用来存储军事敏感数据，所以使用PureVPN非常安全，你的个人隐私和网络在线活动难以被追踪。
 
 PureVPN在不同设备内置9种vpn协议，每种协议都有自己特有的功能和优势，如果你在不同设备使用，这些协议的速度和安全性表现也会不同，具体用什么协议，你可以根据实际上网需求选择：
-
+<div class="table-container">
 <table><tbody><tr><td>VPN协议</td><td>速度</td><td>隐私和安全</td></tr><tr><td>PPTP</td><td>非常快</td><td>差</td></tr><tr><td>IPSec</td><td>一般</td><td>强</td></tr><tr><td>L2TP/IPSec</td><td>一般</td><td>一般</td></tr><tr><td>IKEv2/IPSec</td><td>快</td><td>强</td></tr><tr><td>OpenVPN TCP</td><td>非常快</td><td>强</td></tr><tr><td>OpenVPN UDP</td><td>非常快</td><td>强</td></tr><tr><td>SSTP</td><td>中</td><td>强</td></tr><tr><td>WireGuard</td><td>快</td><td>强</td></tr><tr><td>SoftEther</td><td>快</td><td>强</td></tr></tbody></table>
-
+</div>
 ## PureVPN与流媒体（Netflix，Disney+）
 
 PureVPN解锁流媒体能力出色，可以以最快的速度突破流媒体受版权限制和地理封锁的内容，包括Netflix奈飞，Disney+，Hulu，HBO，BBC IPlayer，Amazon Prime Video，DAZN…

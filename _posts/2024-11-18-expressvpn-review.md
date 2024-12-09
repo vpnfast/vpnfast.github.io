@@ -209,9 +209,9 @@ StrongVPN启动连接速度可能会受地理位置影响，海外用户普遍�
 因为从近期的StrongVPN评测数据来看，StrongVPN确实存在连接速度慢（我们分别在中国上海，福建厦门等地测试过，启动连接速度大概是半分钟左右，还是可以接受的）和掉线情况偶发（今天一天出现两次），好在StrongVPN有Kill Switch功能加持，后台运行默默自动帮你续连，工作上没有受到太大影响。
 
 StrongVPN和PureVPN，PandaVPN一样，不限流量和带宽，我们分别通过专门的测速软件speed test以及在Netflix，Hulu，Disney Plus以及amazon prime等流媒体平台播放视频测试了网速，透过下图的数据来看，表现还不错。
-
+<div class="table-container">
 <table><tbody><tr><td>平均连接速度 – 台湾</td><td>196 Mbps</td></tr><tr><td>平均连接速度 – 美国</td><td>205 Mbps</td></tr><tr><td>平均连接速度 – 英国</td><td>172 Mbps</td></tr><tr><td>平均连接速度 – 香港</td><td>265 Mbps</td></tr><tr><td>平均连接速度 – 欧洲</td><td>208 Mbps</td></tr><tr><td>平均连接速度 – 日韩</td><td>174 Mbps</td></tr></tbody></table>
-
+</div>
 如果你也想测试你的VPN网速，推荐这款测速软件speed test，第三方测速服务，相对比较可靠。电脑端直接访问这个网址，点击“开始”，测试结果主要看这3项：Ping 值，下载速度和上传速度。
 
 测出的下载与上传速度基本就是你家的出口带宽。手机端想要测速，直接在谷歌商店或者苹果商店下载speed test APP，也是相同的操作方法。

@@ -105,9 +105,9 @@ MalusVPN适用于 Windows、Android、MacOS 和 iOS，安卓TV，浏览器插件
 这么多年，PureVPN也在不断优化自己产品以随时应对中国防火墙的升级，我们在中国每年的几个敏感时期有专门测试，速度没有受影响。
 
 PureVPN最早也是提供中国大陆服务器，但是由于中国防火墙封锁，目前PureVPN已不再提供中国节点，仅提供美国，英国，加拿大，日本，韩国，香港，台湾等海外服务器，你可以使用PureVPN浏览海外内容，访问中国屏蔽的YouTube，Facebook，Netflix，Disney+，Twitter等海外社交媒体软件。
-
+<div class="table-container">
 <table><tbody><tr><td>平均连接速度 – 台湾</td><td>196 Mbps</td></tr><tr><td>平均连接速度 – 美国</td><td>205 Mbps</td></tr><tr><td>平均连接速度 – 英国</td><td>172 Mbps</td></tr><tr><td>平均连接速度 – 香港</td><td>265 Mbps</td></tr><tr><td>平均连接速度 – 欧洲</td><td>208 Mbps</td></tr><tr><td>平均连接速度 – 日韩</td><td>174 Mbps</td></tr></tbody></table>
-
+</div>
 PureVPN拥有大量服务器，分布在全球78个国家/地区的6500多个服务器，支持同时在任意的10台设备上连接使用，并且还提供专线，即一个人独享一个IP，可以有效的提高网络安全性和快速连接速度。
 
 在安全性方面，PureVPN提供标准的256位AES加密，以及Kill Switch终止开关，预防连接失败或短暂掉线导致的DNS泄露风险，以及分割隧道，允许端口转发附加组件和零日志记录也未注重隐私的用户提供双重保险。
@@ -157,9 +157,9 @@ StrongVPN的安全性能非常好，不需要你手动设置，连接线路以�
 -   港澳台地区的IP并不能助你访问中国大陆境内app，所以如果是需要追剧听音乐需要用到中国本地应用，如QQ，腾讯视频，爱奇艺，网易云，CCTV等，还是需要找那种带有中国大陆IP的VPN翻墙回国。
 
 ## **热门而有趣的中国大陆app汇总**
-
+<div class="table-container">
 <table><tbody><tr><td>Bilibili</td><td>动漫视频弹幕平台</td></tr><tr><td>豆瓣</td><td>该网站提供图书、电影、音乐唱片的推荐、测评和价格比较</td></tr><tr><td>抖音</td><td>国际版的Tik Tok</td></tr><tr><td>QQ音乐</td><td>听音乐软件</td></tr><tr><td>网易云音乐</td><td>听音乐软件</td></tr><tr><td>爱奇艺</td><td>看视频软件</td></tr><tr><td>QQ</td><td>腾讯QQ是一个即时通讯的社交媒体软件</td></tr><tr><td>小红书</td><td>购物和社交平台</td></tr><tr><td>微博</td><td>分享日常新鲜事</td></tr><tr><td>淘宝</td><td>购物平台</td></tr><tr><td>今日头条</td><td>看新闻/资讯平台</td></tr><tr><td>微信</td><td>聊天通话软件</td></tr><tr><td>优酷视频</td><td>看视频软件</td></tr><tr><td>腾讯视频</td><td>看视频软件</td></tr><tr><td>知乎</td><td>问答社区</td></tr></tbody></table>
-
+</div>
 ## **常见问题**
 
 ### **最适合中国大陆地区用户使用的翻墙VPN推荐**

@@ -287,7 +287,9 @@ StrongVPN所有服务器都允许种子下载，使用StrongVPN可以安全访�
 
 这么多年，PureVPN也在不断优化自己产品以随时应对中国防火墙的升级，我们基于最新VPN中国大陆测试，在中国每年的几个敏感时期使用，速度没有受影响。
 
+<div class="table-container">
 <table><tbody><tr><td>平均连接速度 – 台湾</td><td>196 Mbps</td></tr><tr><td>平均连接速度 – 美国</td><td>205 Mbps</td></tr><tr><td>平均连接速度 – 英国</td><td>172 Mbps</td></tr><tr><td>平均连接速度 – 香港</td><td>265 Mbps</td></tr><tr><td>平均连接速度 – 欧洲</td><td>208 Mbps</td></tr><tr><td>平均连接速度 – 日韩</td><td>174 Mbps</td></tr></tbody></table>
+</div>
 
 PureVPN拥有大量服务器，分布在全球78个国家/地区的6500多个服务器，PureVPN支持同时在任意的10台设备上连接使用，并且还提供专线，即一个人独享一个IP，可以有效的提高网络安全性和快速连接速度。此外，PureVPN可顽强抵抗中国封锁，在中国大陆非常好用，翻墙性价比最高，VPN中国推荐热门选择。
 
@@ -487,7 +489,9 @@ PandaVPN兼容多种设备，支持同时连接三台设备，提供7天退款�
 
 ## **国外主流社交媒体软件推荐**
 
+<div class="table-container">
 <table><tbody><tr><td><a href="https://www.youtube.com/" target="_blank" rel="noreferrer noopener">Youtube</a></td><td>YouTube 是世界上最大的视频分享社交网站，用户可以通过它上传和分享视频、观看、评论和点赞。</td></tr><tr><td><a href="https://www.facebook.com/" target="_blank" rel="noreferrer noopener">Facebook</a></td><td>世界上最大的社交网站，也是使用最广泛的社交网站之一</td></tr><tr><td><a href="https://www.instagram.com/" target="_blank" rel="noreferrer noopener">Instagram</a></td><td>Instagram 是偏向共享照片和视频，区别于其他社交软件</td></tr><tr><td><a href="https://mail.google.com/" target="_blank" rel="noreferrer noopener">Gmail</a></td><td>全球最受欢迎的邮箱</td></tr><tr><td><a href="https://www.pinterest.com/" target="_blank" rel="noreferrer noopener">Pinterest</a></td><td>这是一个照片共享的社交媒体网站或应用程序</td></tr><tr><td><a href="https://www.snapchat.com/" target="_blank" rel="noreferrer noopener">Snap Chat</a></td><td>这是一个图片社交软件，与朋友聊天发送图片。还可以浏览新闻，甚至查看世界各地发生的实时故事.</td></tr><tr><td><a href="https://www.linkedin.com/" target="_blank" rel="noreferrer noopener">Lindkedin</a></td><td>LinkedIn 是最受欢迎的专业社交网站，可以与不同的企业联系、寻找和雇用理想的候选人</td></tr><tr><td><a href="https://www.whatsapp.com/" target="_blank" rel="noreferrer noopener">Whatsapp</a></td><td>可以与朋友或企业之间即时交流和分享，还有通话功能。</td></tr><tr><td><a href="https://twitter.com/" target="_blank" rel="noreferrer noopener">Twitter</a></td><td>这个社交网站类似中国的微博，用户创建账户以后可以发送图片或文本消息（推文），也可以关注大V</td></tr><tr><td><a href="https://www.tiktok.com/" target="_blank" rel="noreferrer noopener">Tik Tok</a></td><td>TikTok 是一款社交视频应用程序</td></tr></tbody></table>
+</div>
 
 ## **VPN中国常见问题**
 
