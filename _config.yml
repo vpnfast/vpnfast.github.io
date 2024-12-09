@@ -1,3 +1,56 @@
-theme: jekyll-theme-cayman
-title: 快翻墙
-description: 持续关注在中国还能用的翻墙VPN排行榜，测评快速稳定的翻墙软件，涵盖电脑以及苹果安卓手机，为中国VPN用户推荐好用的VPN。
+title: "快翻墙"
+email: gmail@gmail.com
+timezone: UTC
+baseurl: "/"
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Sal
+paginate: 30
+disqus: 'demowebsite'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: G-5TMYE2E6M5
+
+# Authors
+authors:
+  sal:
+    name: Sal
+    display_name: Sal
+    avatar: 'assets/images/sal.png'
+    email: 1@gmail.com
+    web: https://vpnfast.github.io/
+    twitter: https://vpnfast.github.io/
+    description: "This is the author box."
+  john:
+    name: John
+    display_name: John
+    avatar: 'assets/images/john.png'
+    email: 2@gmail.com
+    web: https://vpnfast.github.io/
+    twitter: https://vpnfast.github.io/
+    description: "This is the author box."
+
+# Social
+social:
+  instagram: https://vpnfast.github.io/
+  facebook: https://vpnfast.github.io/
+  twitter: https://vpnfast.github.io/
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives

@@ -1,0 +1,96 @@
+---
+layout: default
+disqus: false
+archive: false
+post_class: post-template
+---
+
+<!-- Begin Article
+================================================== -->
+
+<div class="row">
+  <!-- Post -->
+  {% assign first_page = site.posts | reverse | first" %}
+
+  <div class="col-sm-8">
+    <!-- Post Featured Image -->
+    {% if first_page.image %}<img class="featured-image img-fluid rounded" src="{{ first_page.image }}" alt="{{ first_page.title }}">{% endif %}
+    <!-- End Featured Image -->
+    <div class="mainheading">
+
+      <!-- Post Categories -->
+      <div class="after-post-tags">
+        <ul class="tags">
+          {% assign sortedCategories = first_page.categories | sort %}
+          {% for category in sortedCategories %}
+          <li>
+            <a href="{{ site.baseurl }}/categories#{{ category | slugify }}">{{ category }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <!-- End Categories -->
+
+      <!-- Post Title -->
+      <h1 class="posttitle">{{ first_page.title }}</h1>
+
+    </div>
+
+
+    <!-- Post Date -->
+    <p>
+      <small>
+        <span class="post-date"><time class="post-date" datetime="{{ first_page.date | date:"%Y年%-m月%-d日" }}">{{ first_page.date | date:"%Y年%-m月%-d日" }}</time></span>
+        {% if first_page.last_modified_at %}
+        (Updated: <time datetime="{{ first_page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ first_page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+        {% endif %}
+      </small>
+    </p>
+
+    <!-- Post Content -->
+    <div class="article-post serif-font">
+      {{first_page.content}}
+      <div class="clearfix"></div>
+    </div>
+
+    <!-- Prev/Next -->
+    <div class="row PageNavigation mt-4 prevnextlinks d-flex justify-content-between">
+      <!-- {% if first_page.previous.url %}
+      <div class="col-md-6 rightborder pl-0">
+        <a class="thepostlink" href="{{first_page.previous.url | absolute_url}}">&laquo; {{first_page.previous.title}}</a>
+      </div>
+      {% endif %}
+      {% if first_page.next.url %}
+      <div class="col-md-6 text-right pr-0">
+        <a class="thepostlink" href="{{first_page.next.url | absolute_url}}">{{first_page.next.title}} &raquo;</a>
+      </div>
+      {% endif %} -->
+
+      {% for post in site.posts %}
+		{% unless forloop.last %}
+		<div class="col-md-6 text-right pr-0">
+			<a class="thepostlink" href="{{post.url | absolute_url}}">{{post.title}} &raquo;</a>
+			<span>({{ post.date | date: "%Y-%m-%d" }})</span>
+		</div>
+		{% endunless %}
+      {% endfor %}
+    </div>
+    <!-- End Prev/Next -->
+
+  </div>
+  <!-- End Post -->
+
+
+
+
+  <!-- Sidebar -->
+  <div class="col-sm-4">
+    {% include sidebar.html %}
+  </div>
+
+
+
+</div>
+
+<!-- End Article
+================================================== -->
