@@ -2,7 +2,7 @@
 layout: post
 title:  "看完这篇文章，别再问你的种子为什么下载不动了！"
 author: sal
-image: https://overwallvpn.com/wp-content/uploads/2023/04/%E7%A7%8D%E5%AD%90%E4%B8%8B%E8%BD%BD.jpg
+image: 
 ---
 
 **说正事之前先给大家科普两个很重要的基础概念，BT 种子和磁力链接！**

@@ -2,7 +2,7 @@
 layout: post
 title:  "2024年StrongVPN中国详细测评，家喻户晓的StrongVPN怎么样"
 author: sal
-image: https://overwallvpn.com/wp-content/uploads/2023/04/img_express.jpeg
+image: 
 ---
 ![strongvpn](https://kanvpn.com/wp-content/uploads/2022/12/strongvpn-homepage.jpg)
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "2024年反向逆翻墙回国VPN加速器推荐"
 author: sal
-image: https://overwallvpn.com/wp-content/uploads/2024/11/kuaifan.jpg
+image: 
 ---
 如果您是海外留学生或者在海外短期旅行，您可能会发现手机里面的中国大陆app，如深受中国大陆年轻人喜爱的爱奇艺，优酷，土豆网，芒果TV，网易云音乐，腾讯视频，QQ音乐，甚至哔哩哔哩(bilibili)以及许多中国境内网站已无法使用，均提示“由于版权限制，您所在国家/地区无法观看该视频”。
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "PureVPN中国测评：PureVPN怎么样？PureVPN好用吗？"
 author: sal
-image: https://overwallvpn.com/wp-content/uploads/2023/04/img_express.jpeg
+image: 
 ---
 ![purevpn](https://kanvpn.com/wp-content/uploads/2023/06/purevpn-website.jpg)
 
