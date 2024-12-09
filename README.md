@@ -1,5 +1,7 @@
 # 2024年翻墙软件大全，几款中国还能用的VPN推荐
 
+![翻墙](https://overwallvpn.com/wp-content/uploads/2024/08/the-great-firewall-of-china.jpg)
+
 写本篇文章的初衷是基于我购买VPN被骗的经历，于是想写一篇翻墙软件扫盲的帖子，**避免新手小白在翻墙的时候上当受骗**。另外，我也基于目前网上目前最新的信息，汇总一些目前最流行的科学上网技术🪜️。
 
 在我最开始尝试翻墙的时候，也是浏览了很多VPN测评网站。当时发现**❌很多博主都在推荐诸如PureVPN或者NordVPN之类的VPN**。表面上分析的头头是道，但实际上完全经不起推敲。在购买了一年的NordVPN包年会员之后，发现根本就连不上。什么换节点、高级协议之类的不过都是销售话术，请大家擦亮眼睛。
@@ -9,18 +11,6 @@
 而目前最稳定的方式还是使用具有代理协议的VPN梯子。原理就是**把请求伪装成访问国外正规网站**（不在黑名单之内的，比如[本篇文章Github页面](https://github.com/vpnfast/vpnfast.github.io)就没有被墙），然后防火长城就会以为，你访问外网是为了翻墙出去学习科学技术，强国兴邦的。所以就叫做代理，理解起来其实非常简单。
 
 最开始开发这种技术的是Shaowdowsocks的作者，不过由于翻墙效果太好，用的人太多。该作者已经被请喝茶，Github上的原始项目已被删除。不过这事儿开了个好头，从那之后，与防火长城斗智斗勇的历史开启了。后续有源源不断地热心网友贡献了翻墙协议的开发，比如大家耳熟能详的SSR、[V2ray](https://www.v2ray.com/chapter_00/install.html)、[Xray](https://github.com/XTLS/Xray-core)、[Trojan](https://github.com/trojan-gfw/trojan)和[Hysteria](https://v2.hysteria.network/zh/)等。
-
-## 翻墙和防火长城是什么？
-
-![翻墙](https://overwallvpn.com/wp-content/uploads/2024/08/the-great-firewall-of-china.jpg)
-
-这一切都要从防火长城说起，[防火长城是从Great Firewall](https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)翻译过来的，是国外对中国网络防火墙的称呼，**也被称做”GFW”，中国网民更喜欢称它为”墙”**。
-
-那么什么是科学上网呢？科学上网的意思是，通过科学技术的方法绕过防火长城的封锁，也被称做”翻墙”。而根据不同的技术，不同的科学上网工具又被称做**翻墙VPN、翻墙梯子**。
-
-曾几何时，翻墙并没有那么难。你可以通过翻墙、VPN等词汇在百度、知乎甚至安卓、苹果应用商店找到翻墙VPN。不过自从相关法律法规颁布以来，事情就变得困难了，所有这些词汇都遭到屏蔽，已经变成了敏感词，所以你几乎很难从国内的网络平台找到有关的内容。
-
-之所以有**科学上网、翻墙、自由上网、梯子、机场、VPN软件**这些称呼，都是为了**绕过敏感词检测**找到一款好用的翻墙软件，为了突破大陆网络限制不得已而为之。然而随着时间的推移，这些擦边球的词汇最后也变成了敏感词。因此这些词汇虽然无法在国内搜索引擎找到，但是在国外内容平台却保留了下来。
 
 ## 翻墙方法有哪些？
 
@@ -42,25 +32,130 @@ VPN一开始是为企业提供安全数据加密的，后面被中国网友用�
 
 **🚀🚀🚀🚀以下翻墙软件经过我的测试，在中国的稳定性、速度都不错，有些是翻墙VPN软件**，有些是安全的机场/梯子，可以根据自己需求选择合适的科学上网工具。在本篇在[中国VPN推荐](https://vpnfast.github.io/)指南中，我将详细测评每款科学上网软件的使用情况。
 
-### 1.[PrivateVPN](https://overwallvpn.com/go/privatevpn) - 具备隐形VPN协议的翻墙软件
+### 1.[StrongVPN](https://overwallvpn.com/go/strongvpn) - 目前唯一支持支付宝的VPN
+
+StrongVPN能够有效绕过防火长城等网络审查，访问被封锁的网站如 Google、YouTube、Facebook 等。
+
+![StrongVPN官网](https://overwallvpn.com/wp-content/uploads/2024/11/strong-homepage.jpg)
+
+它提供全球 30 多个国家的 950+ 台高速服务器，支持 OpenVPN、WireGuard 等协议，连接稳定且速度快，非常适合流媒体播放、在线游戏或大文件下载。此外，StrongVPN 支持多设备同时连接（最多 12 台），兼容 Windows、macOS、iOS、Android 等多平台，甚至可以配置在路由器上，翻墙体验更灵活。对于需要翻墙的用户来说，StrongVPN 的混淆技术和不限流量的特点非常实用，同时提供 24/7 客服支持和 30 天退款保障，翻墙效果和性价比都相当出色。如果你正在寻找稳定、安全、好用的 VPN 来翻墙，StrongVPN 是一个值得尝试的选择。
+
+购买、安装、注册和使用 StrongVPN 的流程相对简单，以下是详细步骤：  
+
+#### 一、购买 StrongVPN
+
+1. **访问官网**：打开 [StrongVPN 官方网站](https://overwallvpn.com/go/strongvpn)，并点击"START NOW"。
+
+![StrongVPN官网](https://overwallvpn.com/wp-content/uploads/2024/12/strongvpn-step-homepage.jpg)
+
+2. **选择订阅计划**：通常提供月付或年付两种计划，年付更优惠。  
+
+![StrongVPN选择套餐](https://overwallvpn.com/wp-content/uploads/2024/12/strongvpn-price-1.jpg)
+
+3. **创建账户**：输入邮箱地址和密码，创建 StrongVPN 账户。  
+
+![StrongVPN购买](https://overwallvpn.com/wp-content/uploads/2024/12/strongvpn-payment.jpg)
+
+4. **完成支付**：支持多种支付方式，包括信用卡、PayPal、支付宝 和部分加密货币。  
+5. **获取确认邮件**：支付完成后，你会收到一封确认邮件，包含账户信息和登录链接。  
+
+#### 二、下载和安装 StrongVPN
+
+1. **选择设备**：进入官网的“Apps”或“Download”页面，根据使用设备选择合适的客户端版本。支持 Windows、macOS、iOS、Android 等平台，也可以配置在路由器上。
+
+![StrongVPN购买](https://overwallvpn.com/wp-content/uploads/2024/12/strongvpn-download.jpg)
+
+2. **下载安装包**：点击下载对应的安装包，并根据提示完成安装。  
+3. **登录账户**：打开应用，使用购买时创建的账户登录。  
+
+#### **三、注册和激活账户（如果未在官网完成注册）**  
+1. 如果登录时提示需要激活账户，可以根据注册邮箱中的激活邮件完成激活。  
+2. 确保激活后，账户即可正常使用。  
+
+#### 四、设置和使用 StrongVPN
+
+1. **选择服务器**：  
+   - 登录应用后，你可以看到服务器列表。根据需要选择服务器所在地（如美国、日本等）。  
+   - 为更快的速度，可以选择距离较近或延迟较低的服务器。  
+
+![StrongVPN客户端](https://overwallvpn.com/wp-content/uploads/2024/12/strongvpn-windows.jpg)
+
+2. **连接 VPN**：点击“Connect”按钮，等待连接完成。连接成功后，所有流量都会通过 VPN 服务器。  
+3. **访问目标网站**：打开浏览器或应用，访问你需要的被封锁网站（如 Google、YouTube、Netflix）。  
+4. **协议切换（可选）**：  
+   - 如果遇到无法连接的问题，可以在设置中切换协议（推荐使用 OpenVPN、IKEv2 或 WireGuard）。  
+   - 混淆模式也适用于网络审查更严格的地区。  
+5. **断开连接**：使用完后，点击“Disconnect”按钮断开连接，恢复到普通网络状态。  
+
+---
+
+### 2.[PrivateVPN](https://overwallvpn.com/go/privatevpn) - 具备隐形VPN协议的翻墙软件
 
 从2009年创立以来，PrivateVPN始终坚守本心，将用户的使用体验放在第一位，它们承诺不记录任何用户个人信息，同时也拒绝为政府及其他机构提供用户的真实IP。
 
-![PrivateVPN连接成功](https://overwallvpn.com/wp-content/uploads/2024/08/privatevpn-windows-simple-connected-hongkong.jpg)
+![PrivateVPN官网](https://overwallvpn.com/wp-content/uploads/2024/11/privatevpn-homepage.jpg)
 
 > 大部分IP地址都可以绕过ChatGPT的检测，在中国大陆和香港注册和平时使用ChatGPT的时候，主要不要频繁切换IP地址。尽量使用美国IP地址，避免账号被封。
 
 在中国需要翻墙时，首先**你得确保已经打开隐形VPN模式(StealthVPN模式)**。该模式相当于混淆功能，能够隐藏你的VPN流量，足以避免被互联网服务提供商(ISP)和其他第三方识别。 这也是PrivateVPN能绕过中国防火长城和解锁VPN封禁的关键。这是一种相当有效的代理翻墙协议，当你打开APP的时候，会出现小飞机的图标。这表明PrivateVPN应用了国产的翻墙技术，并将其内置到了VPN软件之中。**在首次连接VPN时，它会询问你是否位于中国境内**，你的需求是翻墙软件还是要绕过奈飞Netflix的地理位置封锁。当然选择在中国之后，PrivateVPN就会自动开启TCP+443端口的VPN梯子模式。
 
-![privatevpn Windows客户端软件](https://overwallvpn.com/wp-content/uploads/2024/08/privatevpn-windows-protocol.jpg)
-
 一般来说，用户需要的翻墙软件都是便于操作的。就这一点而言，我十分推荐新手使用PrivateVPN，因为它的苹果、安卓、Linux等系统的APP使用方式都很傻瓜，在选择好服务器后便能一键连接。
 
 因为PrivateVPN能同时连接6台不同的设备，这样看来其性价比也是挺高的。你每月只用支付$2就能享受稳定隐秘的翻墙服务。倘若在使用过程中有什么不理解的可以直接滴滴实时客服，你需要知道的是，不管购买什么套餐你都能在30天内免费退款。
 
-尽管PrivateVPN的服务器规模较小，每台服务器都具备[绕过中国审查制度的混淆协议](https://privatevpn.com/blog/vpn-service/686/obfuscated-servers-and-how-privatevpn-can-help-you-do-that)。其合理的分布于全球的各个角落，这样既可以有效避免用户过度导致服务器拥堵，又能保障世界各国用户在连接到远程或附近服务器时能体验优秀的速度。
+以下是关于 **PrivateVPN** 的购买、安装、注册和使用指南：  
 
-### 2.[ExpressVPN](https://overwallvpn.com/go/expressvpn) - 自主研发的高速翻墙技术
+#### 一、购买 PrivateVPN
+
+1. **访问 PrivateVPN 官网**：进入 [PrivateVPN 官方网站](https://overwallvpn.com/go/privatevpn)。
+
+![PrivateVPN 官网](https://overwallvpn.com/wp-content/uploads/2024/12/privatevpn-step-homepage.jpg)
+  
+2. **选择合适的套餐**：PrivateVPN 提供按月、3 个月或 12 个月的订阅计划，长期套餐通常价格更优惠。  
+
+![PrivateVPN价格](https://overwallvpn.com/wp-content/uploads/2024/12/privatevpn-price.jpg)
+
+3. **填写账户信息**：输入有效的电子邮箱，用于账户创建和收取订单确认信息。  
+
+![PrivateVPN邮箱账号](https://overwallvpn.com/wp-content/uploads/2024/12/privatevpn-email.jpg)
+
+4. **选择支付方式**：支持多种支付方式，包括信用卡、PayPal 和比特币，适合希望保持匿名的用户。  
+
+![PrivateVPN支付方式](https://overwallvpn.com/wp-content/uploads/2024/12/privatevpn-paymethodjpg.jpg)
+
+5. **完成购买**：提交支付后，PrivateVPN 会发送一封确认邮件，包含登录信息和设置指导。  
+
+#### 二、下载和安装 PrivateVPN  
+
+1. **下载客户端**：前往官网“Downloads”页面，选择对应设备的应用程序。PrivateVPN 支持广泛的设备，包括 Windows、macOS、iOS、Android、Linux 和部分路由器。  
+
+![PrivateVPN下载](https://overwallvpn.com/wp-content/uploads/2024/12/privatevpn-download.jpg)
+
+2. **安装应用程序**：运行下载的安装包，按照提示完成安装。iOS 和 Android 用户可直接从 App Store 或 Google Play 下载。  
+3. **配置额外设备（如路由器）**：官网提供详细的配置教程，帮助用户在路由器上设置 VPN，保护全网络流量。  
+
+#### 三、使用 PrivateVPN 的详细步骤  
+
+1. **登录账户**：安装完成后，打开应用，输入你的账户信息进行登录。并选择"帮我从中国等受限地区连接"。
+
+![PrivateVPN从中国连接](https://overwallvpn.com/wp-content/uploads/2024/11/privatevpn-bypass-setting.jpg)
+  
+2. **选择服务器位置**：  
+   - 在服务器列表中选择目标地区（例如美国、日本、新加坡等），PrivateVPN 提供超过 63 个国家的服务器供选择。  
+   - 如果想观看流媒体（如 Netflix 或 Hulu），选择标注有 "Stream" 的服务器，优化观看体验。  
+3. **一键连接**：点击“Connect”按钮，应用会自动连接到选定服务器。连接成功后，你的 IP 地址会显示为目标服务器的 IP，确保匿名性和安全性。  
+4. **启用 Stealth VPN 模式**：  
+   - 对于受限制的网络（如中国），可以在设置中启用“Stealth VPN”模式，隐藏 VPN 流量，让其看起来像普通 HTTPS 流量，从而绕过审查。   
+
+![PrivateVPN隐形VPN](https://overwallvpn.com/wp-content/uploads/2024/11/privatevpn-stealthvpn-opened.jpg)
+
+5. **切换连接类型**：如果遇到连接失败的问题，可以试着切换连接类型。推荐使用TCP+443组合。
+
+![PrivateVPN切换连接类型](https://overwallvpn.com/wp-content/uploads/2024/11/privatevpn-windows-protocol.jpg)
+
+---
+
+### 3.[ExpressVPN](https://overwallvpn.com/go/expressvpn) - 自主研发的高速翻墙技术
 
 ExpressVPN的大名想必已经无人不知无人不晓了。既然能在中国市场屹立十多年不到，它自然是有两把刷子的。**不过对于其口碑实际上两极分化**。有些人认为ExpressVPN在国内翻墙并不怎么样。而有些人则觉得虽然ExpressVPN贵有贵的道理。
 
@@ -72,11 +167,13 @@ ExpressVPN的大名想必已经无人不知无人不晓了。既然能在中国�
 
 香港IP节点不算多，目前只有两个选择，不过这并不代表只有两台。而美国VPN服务器要多得多，这应该是全球用户都钟爱的节点。VPN软件本身设计的很好用，在电脑、手机或其他任何平台，**都是只需要点击最大那个按钮就可连接VPN**。当然Linux命令行和路由器配置要复杂很多，那是给高级玩家预留了。
 
-隐私方面我觉得完全不用担忧，ExpressVPN由于总部在英属维京群岛，不可能泄露数据给中国，也就不用担心使用ExpressVPN因为违法被抓的问题。虽然在中国个人使用VPN很可能会违法，但是**只要使用安全的VPN把IP隐藏好，基本不会查水表到你身上**。何况ExpressVPN的TrustedServers无磁盘服务根本不会记录你的个人信息，你大可放一万个心，它的无日志记录政策在国外是[经过普华永道安全认证](https://www.expressvpn.com/blog/pwc-audits-expressvpn-servers-to-confirm-essential-privacy-protections/)的。
+隐私方面我觉得完全不用担忧，ExpressVPN由于总部在英属维京群岛，不可能泄露数据给中国，也就不用担心使用ExpressVPN因为违法被抓的问题。虽然在中国个人使用VPN很可能会违法，但是**只要使用安全的VPN把IP隐藏好，基本不会查水表到你身上**。何况ExpressVPN的TrustedServers无磁盘服务根本不会记录你的个人信息，你大可放一万个心，它的无日志记录政策在国外是经过普华永道安全认证的。
 
 然而，市面上的翻墙软件种类繁多，质量良莠不齐。在这里，我将介绍一些**❌❌❌❌不推荐在中国使用的VPN**，帮助大家避免购买低质量的VPN浪费时间和金钱。
 
-### 3.PandaVPN(已跑路)
+---
+
+### 4.PandaVPN(已跑路)
 
 > 熊猫VPN在2018年成立，曾经表现出色但后来跑路了，类似的还有光年VPN。因此购买国内VPN需谨慎，尽量选择海外知名大品牌的翻墙VPN。
 
@@ -98,7 +195,9 @@ Panda VPN在全球80个国家/地区拥有超过3000台服务器，VPN软件提�
 
 而且由于服务器和团队都不在中国大陆境内，因此不用担心法律法规问题。在注册账号的时候，甚至可以不用邮箱，而使用服务器生成数字账户，还可以通过比特币支付，进一步提升隐私性。
 
-### 4.[Astrill VPN](https://overwallvpn.com/go/astrill)
+---
+
+### 5.[Astrill VPN](https://overwallvpn.com/go/astrill)
 
 Astrill VPN是中国用户中比较流行的VPN服务提供商之一。尽管Astrill VPN 提供的美国、香港等线路，也具备伪装流量的功能，可以绕过GFW的封锁检测，但它在中国使用的速度并不理想，通常无法满足用户的需求。
 
@@ -107,8 +206,9 @@ Astrill VPN是中国用户中比较流行的VPN服务提供商之一。尽管Ast
 
 此外，该应用程序VPN软件的界面设计简陋、反应迟钝，可能存在数据泄露问题或潜在的bug，而且价格贵得离谱，如果以月付方式，每个月需要支付30美元，如果是购买包年套餐，则需一次性支付180美元，远高于其他VPN服务提供商的价格。
 
+---
 
-### 5.[VyprVPN](https://overwallvpn.com/go/vyprvpn)
+### 6.[VyprVPN](https://overwallvpn.com/go/vyprvpn)
 
 VyprVPN是一款在国外市场比较受欢迎的VPN，它的变色龙协议可以对抗中国、俄罗斯、土耳其等国家的互联网审查，但VyprVPN连接速度比较慢，VPN软件的服务器列表中显示的延迟也很高。
 
@@ -116,11 +216,15 @@ VyprVPN是一款在国外市场比较受欢迎的VPN，它的变色龙协议可�
 
 翻墙VPN在Windows电脑端登录时可能会出现故障，苹果手机只能使用传统的OpenVPN、IKev2、L2TP/IPsec等未经技术升级的VPN协议，变色龙协议无法使用。虽然VyprVPN官网的中文支持比较好，但是最近几年中国VPN用户普遍反映VyprVPN连接不上。
 
-#### 6.[NordVPN](https://overwallvpn.com/go/nordvpn)
+---
+
+#### 7.[NordVPN](https://overwallvpn.com/go/nordvpn)
 
 NordVPN曾经是比较火的中国VPN之一，因安全技术先进，已经成为国内外很多用户的首选VPN。但是在中国大陆，由于更新VPN节点不及时，且提供的混淆服务器不多，经过我的测试后发现在中国无法连接。其次NordVPN的价格已经不算便宜了，购买方式也相对不方便，因此也不推荐在中国使用。
 
 ![NordVPN 电脑VPN软件连接到台湾](https://overwallvpn.com/wp-content/uploads/2024/08/nordvpn-windows-connected-taiwan.jpg)
+
+---
 
 ### 7.[Lantern（蓝灯VPN）](https://lantern.io/zh)
 
@@ -171,6 +275,16 @@ ___
 > -   而自建梯子并不是免费的，甚至要比购买付费翻墙VPN贵很多。因为你必须租用国外VPS主机，然后在服务器上安装SSR、V2ray、Trojan这些代理协议，这样代理服务器才能加密你的访问网站请求，而速度良好的线路和**香港、新加坡价格都超过100元每月**。
 > -   一台VPS主机如果只用来运营翻墙梯子其实很浪费的，大部分时间带宽、CPU、内存以及磁盘都处于空闲状态。付费翻墙VPN之所以价格便宜，就是因为人家一台服务器可以分配给多个用户使用，只要做好负载均衡，可以充分利用资源降低成本。
 > -   实际上**配置代理客户端软件也是很麻烦的**，不同的翻墙协议需要搭配不同的软件，而客户端软件在电脑、手机、平板、路由器上也有不同的版本兼容性。只要一个参数没有配置正确，都无法让翻墙服务器和客户端连接成功。
+
+## 翻墙和防火长城是什么？
+
+这一切都要从防火长城说起，[防火长城是从Great Firewall](https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)翻译过来的，是国外对中国网络防火墙的称呼，**也被称做”GFW”，中国网民更喜欢称它为”墙”**。
+
+那么什么是科学上网呢？科学上网的意思是，通过科学技术的方法绕过防火长城的封锁，也被称做”翻墙”。而根据不同的技术，不同的科学上网工具又被称做**翻墙VPN、翻墙梯子**。
+
+曾几何时，翻墙并没有那么难。你可以通过翻墙、VPN等词汇在百度、知乎甚至安卓、苹果应用商店找到翻墙VPN。不过自从相关法律法规颁布以来，事情就变得困难了，所有这些词汇都遭到屏蔽，已经变成了敏感词，所以你几乎很难从国内的网络平台找到有关的内容。
+
+之所以有**科学上网、翻墙、自由上网、梯子、机场、VPN软件**这些称呼，都是为了**绕过敏感词检测**找到一款好用的翻墙软件，为了突破大陆网络限制不得已而为之。然而随着时间的推移，这些擦边球的词汇最后也变成了敏感词。因此这些词汇虽然无法在国内搜索引擎找到，但是在国外内容平台却保留了下来。
 
 ## 翻墙VPN软件可以干什么？
 
@@ -347,7 +461,7 @@ VPN即虚拟专用网络（Virtual Private Network）的缩写，最开始的应
 
 VPN 通过加密你的互联网流量来隐藏你的在线活动。也就是说，你的电脑、手机或其他联网设备与你的 ISP 运行的互联网服务器之间有一条隧道，你在网上所做的任何事情——访问网站、搜索内容、观看视频等都会在这条隧道里，被 ISP 或黑客看到，不仅可以看到你在网上做什么，还可以截获你通过隧道发送给 ISP 的密码和其他信息。
 
-而 VPN 就会通过加密这条隧道，确保你的隐私得到一定的保障。你的互联网的各种欣慰首先将其发送到 VPN 的服务器，然后再通过**安全隧道**将你的互联网行为发送到你的 ISP 的服务器，在这个 VPN**安全隧道里，**伪装成来自 VPN 的 IP 地址之一的流量，这样 ISP 的服务器就无法获得你的真实 IP 地址。
+而 VPN 就会通过加密这条隧道，确保你的隐私得到一定的保障。你的互联网的各种欣慰首先将其发送到 VPN 的服务器，然后再通过**安全隧道**将你的互联网行为发送到你的 ISP 的服务器，在这个 VPN**安全隧道里，**伪装成来自 VPN 的 IP 地址之一的流量。这样 ISP 的服务器就无法获得你的真实 IP 地址。
 
 ## 翻墙后全球软件、网站推荐
 
@@ -398,7 +512,7 @@ VPN 通过加密你的互联网流量来隐藏你的在线活动。也就是说�
 
 ## 科学上网常见问题
 
-以下是一些科学上网/实用翻墙 VPN 的一些问题，希望可以帮助到你。
+以下是一些科学上网/实用[翻墙 VPN](https://topvpntool.github.io/) 的一些问题，希望可以帮助到你。
 
 ### _**问：个人使用 VPN 违法吗？**_
 
