@@ -249,13 +249,25 @@ StrongVPN所有服务器都允许种子下载，使用StrongVPN可以安全访�
 
 **StrongVPN中国购买安装使用教程：**
 
--   1.访问StrongVPN中国官网，注册账号，购买套餐（通过本文链接进入免费赠送3个月，优惠将通过链接进入自动抵扣）
--   2.在网站下载页面选择你需要使用的设备进行下载
--   3.打开VPN软件，输入激活码登录，激活码查询路径：StrongVPN官网—我的账户—激活码
--   4.选择服务器连接，推荐使用香港，美国等，速度比较快（基于VPN中国大陆实测）
--   5.现在你可以享受中国VPN的乐趣了。
+- 1.访问StrongVPN官网，注册账号，购买套餐（通过本文链接进入免费赠送3个月，优惠将通过链接进入自动抵扣）
 
-阅读我们完整的**StrongVPN**评测。
+![StrongVPN官网](https://overwallvpn.com/wp-content/uploads/2024/12/strongvpn-step-homepage.jpg)
+
+
+- 2.选择套餐时长，包年立省$96.19美元，每月算下来便宜到$3美元。
+
+![StrongVPN价格](https://overwallvpn.com/wp-content/uploads/2024/12/strongvpn-price-1.jpg)
+
+- 3.在网站下载页面选择你需要使用的设备进行下载
+
+![StrongVPN下载](https://overwallvpn.com/wp-content/uploads/2024/12/strongvpn-download.jpg)
+
+- 4.打开VPN软件，直接输入账号密码登录。不像ExpressVPN那样还需要激活码。
+
+![StrongVPN使用](https://overwallvpn.com/wp-content/uploads/2024/12/strongvpn-windows.jpg)
+
+- 5.选择服务器连接，推荐使用香港，美国等，速度比较快（基于VPN中国大陆实测）
+- 6.现在你可以享受中国VPN的乐趣了。
 
 **2. [PureVPN](https://overwallvpn.com/go/purevpn) – 解锁流媒体极佳轻量型VPN，每月仅需$1.99，物超所值**
 
