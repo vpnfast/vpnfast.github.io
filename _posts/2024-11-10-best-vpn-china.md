@@ -113,7 +113,7 @@ VPN主要功能就是隐藏并重定向你的IP地址，VPN服务商通常会从
 -   IPVanish VPN
 -   Buffered VPN
 -   WannaFlix
--   StrongVPN
+-   Private Internet Access
 
 ## 付费VPN还是免费VPN？
 
