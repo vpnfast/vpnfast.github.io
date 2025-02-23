@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PureVPN中国测评：PureVPN怎么样？PureVPN好用吗？"
+title:  "2025年PureVPN中国测评：PureVPN怎么样？PureVPN好用吗？"
 author: sal
 image: 
 ---
