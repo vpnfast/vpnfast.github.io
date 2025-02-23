@@ -1,4 +1,4 @@
-# 2024年翻墙软件大全，几款中国还能用的VPN推荐
+# 2025年翻墙软件大全，几款中国还能用的VPN推荐
 
 ![翻墙](https://overwallvpn.com/wp-content/uploads/2024/08/the-great-firewall-of-china.jpg)
 
