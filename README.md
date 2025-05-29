@@ -228,7 +228,7 @@ NordVPN曾经是比较火的中国VPN之一，因安全技术先进，已经成�
 
 ### 7.[Lantern（蓝灯VPN）](https://lantern.io/zh)
 
-![Lantern](https://overwallvpn.com/wp-content/uploads/2025/02/lantern-homepage.jpg)
+![Lantern](https://overwallvpn.com/wp-content/uploads/2025/05/lantern-poster.png)
 
 Lantern是一个免费VPN软件，多年来一直备受用户欢迎，但现在已经失效并停止了维护。如果你尝试连接这个VPN，可能会遇到无法连接的问题，从Github的开源页面可以看到，这些VPN甚至早已停止了维护。另外官网也存在被钓鱼网站替换的风险，可能会收集个人数据，使用需谨慎。
 
@@ -245,7 +245,7 @@ Lantern是一个免费VPN软件，多年来一直备受用户欢迎，但现在�
 
 ### 8.[Just My Socks](https://overwallvpn.com/go/justmysocks)
 
-![Just My Socks](https://overwallvpn.com/wp-content/uploads/2025/05/justmysocks.jpg)
+![Just My Socks](https://overwallvpn.com/wp-content/uploads/2025/05/justmysocks-poster.png)
 
 Just My Socks 是一家运营多年的海外 SSR/V2Ray 机场，支持 PayPal、支付宝和银联卡付款（更推荐 PayPal），并提供工单客服。官方套餐以洛杉矶、伦敦、香港、东京等节点为主：例如 LA 500 方案月流量 500 GB、带宽 2.5 Gbps，月费 5.88 美元；LA 1000 则 1 TB 流量、带宽 5 Gbps，月费 9.88 美元。虽然性价比在 10 美元以下的档位仍值得考虑，但服务早已被墙，国内无法直购，通常需要自行翻墙或找朋友代购。面板功能多年几乎没有更新，缺少一键订阅等便捷特性，新用户上手可能稍显麻烦。
 
