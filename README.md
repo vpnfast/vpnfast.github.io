@@ -241,6 +241,10 @@ Lantern是一个免费VPN软件，多年来一直备受用户欢迎，但现在�
 
 不能用的翻墙工具非常多，罗列它们并非本文重点，以后慢慢补充吧。
 
+### 8.[Just My Socks](https://overwallvpn.com/go/justmysocks)
+
+Just My Socks 是一家运营多年的海外 SSR/V2Ray 机场，支持 PayPal、支付宝和银联卡付款（更推荐 PayPal），并提供工单客服。官方套餐以洛杉矶、伦敦、香港、东京等节点为主：例如 LA 500 方案月流量 500 GB、带宽 2.5 Gbps，月费 5.88 美元；LA 1000 则 1 TB 流量、带宽 5 Gbps，月费 9.88 美元。虽然性价比在 10 美元以下的档位仍值得考虑，但服务早已被墙，国内无法直购，通常需要自行翻墙或找朋友代购。面板功能多年几乎没有更新，缺少一键订阅等便捷特性，新用户上手可能稍显麻烦。
+
 ## （二）、国内机场梯子(推荐，但有风险)
 
 ![翻墙机场](https://overwallvpn.com/wp-content/uploads/2024/08/bypass-tizi.jpg)
