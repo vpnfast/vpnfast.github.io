@@ -1,4 +1,4 @@
-title: "快翻墙"
+title: "快翻�?
 email: gmail@gmail.com
 timezone: UTC
 baseurl: "/"
@@ -46,7 +46,7 @@ social:
   twitter: https://vpnfast.github.io/
 
 # Plugins
-plugins: 
+plugins:
 - jekyll-paginate
 - jekyll-sitemap
 - jekyll-feed
