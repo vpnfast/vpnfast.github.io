@@ -40,7 +40,7 @@ post_class: post-template
     <!-- Post Date -->
     <p>
       <small>
-        <span class="post-date"><time class="post-date" datetime="{{ first_page.date | date:"%Yå¹?-mæœ?-dæ—? }}">{{ first_page.date | date:"%Yå¹?-mæœ?-dæ—? }}</time></span>
+        <span class="post-date"><time class="post-date" datetime="{{ first_page.date | date:"%Yå¹´%-mæœˆ%-dæ—¥" }}">{{ first_page.date | date:"%Yå¹´%-mæœˆ%-dæ—¥" }}</time></span>
         {% if first_page.last_modified_at %}
         (Updated: <time datetime="{{ first_page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ first_page.last_modified_at | date: "%b %-d, %Y" }}</time>)
         {% endif %}

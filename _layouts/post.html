@@ -18,16 +18,16 @@ post_class: post-template
 			{% if page.image %}<img class="featured-image img-fluid rounded" src="{{ page.image }}" alt="{{ page.title }}">{% endif %}
 			<!-- End Featured Image -->
 			<div class="mainheading">
-               
+                
                 <!-- Post Title -->
-				<h1 class="posttitle">{{ page.title }}</h1>
-               
+				<h1 class="posttitle">{{ page.title }}</h1> 
+                
 			</div>
 
             <!-- Post Date -->
             <p>
                 <small>
-                    <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Yå¹?-mæœ?-dæ—? }}">{{ page.date | date:"%Yå¹?-mæœ?-dæ—? }}</time></span>
+                    <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Yå¹´%-mæœˆ%-dæ—¥" }}">{{ page.date | date:"%Yå¹´%-mæœˆ%-dæ—¥" }}</time></span>
                     {% if page.last_modified_at %}
                     (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
                     {% endif %}
@@ -39,9 +39,9 @@ post_class: post-template
 				{{content}}
                 <div class="clearfix"></div>
 			</div>
-           
+            
 			
-           
+            
             <!-- Prev/Next -->
             <div class="row PageNavigation mt-4 prevnextlinks d-flex justify-content-between">
               <!-- {% if page.previous.url %}
@@ -70,14 +70,14 @@ post_class: post-template
 		<!-- End Post -->
 
 
-       
+        
 
 		<!-- Sidebar -->
         <div class="col-sm-4">
             {% include sidebar.html %}
             </div>
-       
-       
+        
+        
 
 	</div>
 
