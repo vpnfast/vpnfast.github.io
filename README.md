@@ -32,9 +32,9 @@
 
 **🚀🚀🚀🚀下面我提到的翻墙软件均是我长期自用的，在中国网络环境下稳定性和速度都是相当优秀的。**这其中的翻墙VPN软件都格外包含翻墙模式，机场/梯子也是相对安全，加密功能强大的。无论你是想实现科学上网还是无碍访问海外网站，甚至是**长期在中国翻墙使用都是完全OK的**。在本篇在[中国VPN推荐](https://vpnfast.github.io/)测评指南中，我会详细分享每款科学上网软件的**节点情况以及翻墙效果**。
 
-### 1.[StrongVPN](https://overwallvpn.com/go/strongvpn) - 目前唯一支持支付宝的VPN
+### 1.[StrongVPN](https://overwallvpn.com/go/strongvpn) - 目前唯一支持支付宝（Alipay）付款的中国VPN
 
-StrongVPN能够有效绕过防火长城等网络审查，访问被封锁的网站如 Google、YouTube、Facebook 等。
+作为大厂翻墙VPN，StrongVPN在应对防火长城（GFW）的干扰与封锁时发挥出色，它能提供稳定的网络连接，无碍访问如 Google、YouTube、Facebook、Instagram等被封锁限制的网站，同时还会**加密个人数据流，优化用户科学上网体验**。
 
 ![StrongVPN官网](https://overwallvpn.com/wp-content/uploads/2024/11/strong-homepage.jpg)
 
