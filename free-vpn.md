@@ -366,7 +366,11 @@ Netflix出于版权考虑对VPN以及各种科学上网翻墙工具严厉打击�
 
 推荐大家购买本文提到的付费VPN免费试用，利用这些付费VPN的7-45天无理由退款保障承诺实现免费VPN翻墙，合理合法虽然有失道德，但是如果你觉得还不错，你也可以成为他们长期付费用户，而且这类VPN都提供推广给好友使用可以免费获得会员时长，也可以让你获得真正不花一分钱体验免费VPN服务。
 
-**StrongVPN**：免费使用30天，中国翻墙首选，速度最快免费VPN  
-**PureVPN：**免费使用31天，中国可用，流媒体解锁能力超强，支持P2P共享，提供专用IP地址  
-**PandaVPN：**免费使用7天，中国可用，提供专用SVIP服务器，Torrent 友好型VPN，专注于解锁受限制的网站，专线IP独享，功能齐全  
-**SurfShark：**免费使用30天，中国可用，提供无限制的设备数量同时在线，提供私密浏览
+**相关文章：**
+
+- [安卓VPN](https://vpnfast.github.io/android-vpn/)
+- [电脑VPN](https://vpnfast.github.io/pc-vpn/)
+- [免费VPN](https://vpnfast.github.io/free-vpn/)
+- [中国VPN](https://vpnfast.github.io/pc-vpn/)
+- [苹果VPN](https://vpnfast.github.io/ios-vpn/)
+- [翻墙科学上网](https://github.com/vpnfast/vpnfast.github.io)

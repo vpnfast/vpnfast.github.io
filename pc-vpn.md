@@ -267,3 +267,12 @@ IOS苹果手机VPN：需要在APP stores登录非中国大陆Apple ID，然后�
 ## 电脑VPN翻墙总结
 
 电脑翻墙方法有很多，目前大家常用的还是购买付费VPN，因为自建梯子成本高，IP随时都会被GFW封锁，非常不稳定，耗时耗力。免费VPN内置流氓软件，不安全。本文推荐的付费VPN非常简单易于使用，祝大家翻墙愉快。
+
+**相关文章：**
+
+- [安卓VPN](https://vpnfast.github.io/android-vpn/)
+- [电脑VPN](https://vpnfast.github.io/pc-vpn/)
+- [免费VPN](https://vpnfast.github.io/free-vpn/)
+- [中国VPN](https://vpnfast.github.io/pc-vpn/)
+- [苹果VPN](https://vpnfast.github.io/ios-vpn/)
+- [翻墙科学上网](https://github.com/vpnfast/vpnfast.github.io)

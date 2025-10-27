@@ -596,3 +596,12 @@ VPN本身是合法的。中国使用VPN的人口基数挺大的，如果你使�
 **中国VPN推荐 总结**
 
 目前在中国大陆翻墙越来越难，随着中国防火墙不断升级对VPN打压，好用的VPN翻墙软件越来越少，我们会定期更新中国可用的VPN排行，帮助您了解哪些VPN在中国仍然好用，哪些无法使用。
+
+**相关文章：**
+
+- [安卓VPN](https://vpnfast.github.io/android-vpn/)
+- [电脑VPN](https://vpnfast.github.io/pc-vpn/)
+- [免费VPN](https://vpnfast.github.io/free-vpn/)
+- [中国VPN](https://vpnfast.github.io/pc-vpn/)
+- [苹果VPN](https://vpnfast.github.io/ios-vpn/)
+- [翻墙科学上网](https://github.com/vpnfast/vpnfast.github.io)
