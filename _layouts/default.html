@@ -1,102 +1,43 @@
 <!DOCTYPE html>
-<html lang="zh-Hans">
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="icon" href="{{ site.baseurl }}/{{site.favicon}}">
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
-  <title>{{ page.title }} | {{site.title}}</title>
+    
+    <meta name="keywords" content="翻墙软件,科学上网,vpn中国,好用的vpn,vpn推荐,翻墙vpn" />
+    
 
-  {% seo %}
+  </head>
+  <body>
 
-  <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+      {% endif %}
+      {% if site.show_downloads %}
+        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+      {% endif %}
+    </header>
 
-  <!-- custom CSS - Remove this if you don't use it or choose to customize the stylesheet with sass-->
-  <link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
-  <!-- custom CSS end-->
+    <main id="content" class="main-content" role="main">
+      {{ content }}
 
-  {% if jekyll.environment == "production" %}
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{site.ganalytics}}"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-    gtag('config', '{{site.ganalytics}}');
-  </script>
-  {% endif %}
-
-</head>
-
-{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
-
-<body class="{{ layout }}">
-
-
-  <!-- Menu Navigation
-================================================== -->
-  <div class="navigation-wrap start-header start-style">
-    <nav class="navbar navbar-expand-lg">
-      <div class="container">
-
-        <a class="navbar-brand text-dark font-weight-bold big d-flex align-items-center" href="{{site.baseurl}}/">
-          {% if site.logo %}
-          <img class="mr-2" src="{{site.baseurl}}/{{site.logo}}" alt="logo">
-          {% else %}
-          <span class="d-none d-md-inline-block">{{ site.title }}</span>
-          {% endif %}
-        </a>
-
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
-          aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor"
-            class="bi bi-three-dots-vertical" viewBox="0 0 16 16">
-            <path
-              d="M9.5 13a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z" />
-          </svg>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav ml-auto font-weight-bold d-flex align-items-center">
-            {% for item in site.data.menus.topmenu %}
-            <li class="nav-item">
-              <a class="nav-link px-3 {% if item.class %}{{item.class}}{% endif %}"
-                href="{% unless item.external %}{{site.baseurl}}/{% endunless %}{{item.url}}"
-                alt="{{item.title}}">{{item.title}}</a>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-
-      </div>
-    </nav>
-  </div>
-
-
-  <!-- Container
-================================================== -->
-  <main class="container">
-    <div class="notification-bar">
-      🚀翻墙软件购买注册安装详细教程，<a href="https://topvpntool.github.io/">点击此处查看</a>！
-    </div>
-    {{ content }}
-  </main>
-
-  <!-- Footer
-================================================== -->
-  <footer class="footer container text-center">
-    <div class="copyright small">
-      Copyright © {{site.title}}. All rights reserved.
-    </div>
-  </footer>
-
-  <!-- JavaScript
-================================================== -->
-  <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-  <script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
-  <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
-
+      <footer class="site-footer">
+        {% if site.github.is_project_page %}
+          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+        {% endif %}
+        <span class="site-footer-credits">版权所有 <a href="https://vpnfast.github.io/">vpnfast.github.io</a>.</span>
+      </footer>
+    </main>
+<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5c796aba5371be1d"></script>
 </body>
-
 </html>

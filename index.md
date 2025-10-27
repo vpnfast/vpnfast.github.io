@@ -1,12 +1,8 @@
----
-layout: post
-title:  "2025年中国VPN推荐，翻墙最好用的VPN软件(VPN排行榜)"
-author: sal
-image: https://kanvpn.com/wp-content/uploads/2023/06/great-fire-wall.jpg
----
+# 2025年中国VPN推荐，翻墙最好用的VPN软件(VPN排行榜)
+
 如果你正在寻找最好用的中国VPN，我们的中国VPN推荐指南将帮助你突破中国防火长城（GFW）封锁和干扰限制，让你在中国可以轻松访问Google，YouTube（油管），Facebook（脸书），拨打WhatsApp语音电话，Skype，以及解锁Netflix，Disney Plus，HBO，Hulu等流媒体视频服务。
 
-**我的翻墙经历**
+## 我的翻墙经历
 
 我在中国的翻墙经历，我是在2004年左右开始翻墙，主要是为了查询国外的专业学术资料，坦白说，那时候除了经常关注国外媒体和新闻网站的人以外，没有多少人知道“墙”的存在。
 
