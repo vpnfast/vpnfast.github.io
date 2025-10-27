@@ -263,9 +263,9 @@ Netflix，Disney+等一些流媒体由于中国防火墙屏蔽无法在中国直
 
 **相关文章：**
 
-- [安卓VPN](https://vpnfast.github.io/android-vpn)
-- [电脑VPN](https://vpnfast.github.io/pc-vpn)
-- [免费VPN](https://vpnfast.github.io/free-vpn)
-- [中国VPN](https://vpnfast.github.io)
-- [苹果VPN](https://vpnfast.github.io/ios-vpn)
+- [安卓VPN](https://vpnfast.github.io/posts/android-vpn)
+- [电脑VPN](https://vpnfast.github.io/posts/pc-vpn)
+- [免费VPN](https://vpnfast.github.io/posts/free-vpn)
+- [中国VPN](https://vpnfast.github.io/)
+- [苹果VPN](https://vpnfast.github.io/posts/ios-vpn)
 - [翻墙科学上网](https://github.com/vpnfast/vpnfast.github.io)
