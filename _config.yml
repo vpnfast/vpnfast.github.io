@@ -1,4 +1,1 @@
-plugins:
-  - jekyll-sitemap
-
 theme: jekyll-theme-cayman
