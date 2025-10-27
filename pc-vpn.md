@@ -273,6 +273,6 @@ IOS苹果手机VPN：需要在APP stores登录非中国大陆Apple ID，然后�
 - [安卓VPN](https://vpnfast.github.io/android-vpn)
 - [电脑VPN](https://vpnfast.github.io/pc-vpn)
 - [免费VPN](https://vpnfast.github.io/free-vpn)
-- [中国VPN](https://vpnfast.github.io/pc-vpn)
+- [中国VPN](https://vpnfast.github.io)
 - [苹果VPN](https://vpnfast.github.io/ios-vpn)
 - [翻墙科学上网](https://github.com/vpnfast/vpnfast.github.io)
