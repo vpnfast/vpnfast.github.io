@@ -368,9 +368,9 @@ Netflix出于版权考虑对VPN以及各种科学上网翻墙工具严厉打击�
 
 **相关文章：**
 
-- [安卓VPN](https://vpnfast.github.io/android-vpn/)
-- [电脑VPN](https://vpnfast.github.io/pc-vpn/)
-- [免费VPN](https://vpnfast.github.io/free-vpn/)
-- [中国VPN](https://vpnfast.github.io/pc-vpn/)
-- [苹果VPN](https://vpnfast.github.io/ios-vpn/)
+- [安卓VPN](https://vpnfast.github.io/android-vpn)
+- [电脑VPN](https://vpnfast.github.io/pc-vpn)
+- [免费VPN](https://vpnfast.github.io/free-vpn)
+- [中国VPN](https://vpnfast.github.io/pc-vpn)
+- [苹果VPN](https://vpnfast.github.io/ios-vpn)
 - [翻墙科学上网](https://github.com/vpnfast/vpnfast.github.io)
