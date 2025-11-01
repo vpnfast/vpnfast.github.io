@@ -48,31 +48,32 @@ Strong VPN 是当下在中国地区十分受欢迎的一款中国可用的资深
 
 #### 一、购买 StrongVPN
 
-1. **访问官网**：打开 [StrongVPN 官方网站](https://overwallvpn.com/go/strongvpn)，并点击"START NOW"。
+1. **访问官网**：打开 [StrongVPN 官方网站](https://overwallvpn.com/go/strongvpn)，并点击"START NOW"开始注册。个人更推荐直接VPN官网购买，有售后保障且没有被骗风险。
 
 ![StrongVPN官网](https://overwallvpn.com/wp-content/uploads/2024/12/strongvpn-step-homepage.jpg)
 
-2. **选择订阅计划**：通常提供月付或年付两种计划，年付更优惠。  
+2. **选择订阅计划**：StrongVPN通常提供月付或年付两种计划，当然，肉眼可见的是年付更优惠，但不推荐短期翻墙用户购买，不划算。**长期在中国翻墙，那这个套餐非常值得剁手。**
 
 ![StrongVPN选择套餐](https://overwallvpn.com/wp-content/uploads/2024/12/strongvpn-price-1.jpg)
 
-3. **创建账户**：输入邮箱地址和密码，创建 StrongVPN 账户。  
+3. **创建账户**：输入邮箱地址和密码，即可创建StrongVPN账户，没有复杂验证，注册简单。
 
 ![StrongVPN购买](https://overwallvpn.com/wp-content/uploads/2024/12/strongvpn-payment.jpg)
 
-4. **完成支付**：支持多种支付方式，包括信用卡、PayPal、支付宝 和部分加密货币。  
-5. **获取确认邮件**：支付完成后，你会收到一封确认邮件，包含账户信息和登录链接。  
+4. **完成支付**：支持多种中国国内及国际支付方式，包括信用卡、PayPal、大陆常用的支付宝和部分加密货币。**现接受支付宝付款的中国VPN软件真的是屈指可数，StrongVPN在支付方式这一块完胜其他翻墙梯子**。
+5. **获取确认邮件**：支付完成后，你会收到一封确认邮件，包含VPN账户信息和登录链接以及VPN快速安装指南。
 
 #### 二、下载和安装 StrongVPN
 
-1. **选择设备**：进入官网的“Apps”或“Download”页面，根据使用设备选择合适的客户端版本。支持 Windows、macOS、iOS、Android 等平台，也可以配置在路由器上。
+1. **选择设备**：进入StrongVPN官网的“Apps”或“Download”页面，根据当前个人使用设备选择合适的客户端版本。StrongVPN可兼容Windows、macOS、iOS、Android 等操作系统，也可以通过手动配置安装在路由器上。像我之前提到的，在路由器后台配置，可以让所有联网设备同时走VPN流量，特别适合爱追剧、打游戏的中国大陆用户。
 
 ![StrongVPN购买](https://overwallvpn.com/wp-content/uploads/2024/12/strongvpn-download.jpg)
 
-2. **下载安装包**：点击下载对应的安装包，并根据提示完成安装。  
-3. **登录账户**：打开应用，使用购买时创建的账户登录。  
+2. **下载安装包**：点击下载对应的安装包，并根据提示完成安装，根据安装指引整个安装过程不会超过两分钟，对新手极其友好。
+3. **登录账户**：打开StrongVPN应用程序，使用购买时创建的账户登录。一旦成功登录，你就能在其首页看到所有的服务器节点，Ping延迟与VPN当前的连接状态。
 
 #### **三、注册和激活账户（如果未在官网完成注册）**  
+
 1. 如果登录时提示需要激活账户，可以根据注册邮箱中的激活邮件完成激活。  
 2. 确保激活后，账户即可正常使用。  
 
