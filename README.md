@@ -44,7 +44,7 @@ Strong VPN 是当下在中国地区十分受欢迎的一款中国可用的资深
 
 除了访问Netflix、Disney+、YouTube等流媒体网站以外，我还会翻墙使用ChatGPT、Google Scholar等学术类的网站。有一说一，ChatGPT才是我的百事通，感觉他能解决我生活中百分之九十的疑问。Strong VPN让我心水的另外一大原因是**它不会限制我的流量和带宽，开局不卡、连线稳、延迟低打开Steam游戏后就能开启神仙生活**。
 
-购买、安装、注册和使用 StrongVPN 的流程相对简单，以下是详细步骤：  
+在中国购买、安装、注册和使用StrongVPN 翻墙的流程相对简单，以下是详细步骤：  
 
 #### 一、购买 StrongVPN
 
