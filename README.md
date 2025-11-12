@@ -117,53 +117,53 @@ PrivateVPN之所以在中翻墙稳定性方面表现卓有成效，这完全归�
 此外，**PrivateVPN支持最多6台设备同时连接，每月费用不到$2美元，也能在高性价比VPN中占有一席之地。**
 如果使用过程中遇到问题，还可以直接联系24小时在线客服。当下PrivateVPN主要就三种订阅套餐，如果是学习、工作等需长期翻墙的中国用户，我还是更建议冲长期计划，这样日均费用比较合适。当然，它家退款政策也挺人性化的，所有用户都能享受30天无理由退款保障，你完全可以先试用，再购买！毕竟谁的钱都不是大风刮来的。
 
-以下是关于 **PrivateVPN** 的购买、安装、注册和使用指南：  
+🗝️**PrivateVPN**全面使用指南： 全流程图文解析教你如何购买-下载-安装-初次使用翻墙
 
-#### 一、购买 PrivateVPN
+#### 🛒一、购买 PrivateVPN
 
-1. **访问 PrivateVPN 官网**：进入 [PrivateVPN 官方网站](https://overwallvpn.com/go/privatevpn)。
+> 1. **点击PrivateVPN官网**：进入[PrivateVPN 官方网站](https://overwallvpn.com/go/privatevpn)，官网首页便能开启购买流程。
 
 ![PrivateVPN 官网](https://overwallvpn.com/wp-content/uploads/2024/12/privatevpn-step-homepage.jpg)
   
-2. **选择合适的套餐**：PrivateVPN 提供按月、3 个月或 12 个月的订阅计划，长期套餐通常价格更优惠。  
+> 2. **选择合适的套餐**：目前PrivateVPN一共有三种VPN套餐，分别是月度、季度、以及三年计划。现下最受欢迎且性价比最高的是三年计划，但是不需要长期使用翻墙VPN的用户还是按月购买比较妥当。
 
 ![PrivateVPN价格](https://overwallvpn.com/wp-content/uploads/2024/12/privatevpn-price.jpg)
 
-3. **填写账户信息**：输入有效的电子邮箱，用于账户创建和收取订单确认信息。  
+> 3. **填写账户信息**：输入有效的电子邮箱，用于接受VPN登录凭证和相关验证信息（获取验证信息时不要忘了查看垃圾邮件）。 
 
 ![PrivateVPN邮箱账号](https://overwallvpn.com/wp-content/uploads/2024/12/privatevpn-email.jpg)
 
-4. **选择支付方式**：支持多种支付方式，包括信用卡、PayPal 和比特币，适合希望保持匿名的用户。  
+> 4. **选择支付方式**：PrivateVPN支持多种支付方式，包括银联卡、信用卡、PayPal和比特币。银联支付对中国大陆用户极度友好，可解决大部分人的支付难题。此外，加密货币、国际第三方在线支付平台等付款渠道更能保护用户个人隐私，可以让用户实现无痕付费。 
 
 ![PrivateVPN支付方式](https://overwallvpn.com/wp-content/uploads/2024/12/privatevpn-paymethodjpg.jpg)
 
-5. **完成购买**：提交支付后，PrivateVPN 会发送一封确认邮件，包含登录信息和设置指导。  
+> 5. **完成购买与激活账户**：VPN购买流程结束后，你会收到一封PrivateVPN发送的确认邮件，其中会提到登录信息以及简单的新手使用指南。
 
-#### 二、下载和安装 PrivateVPN  
+#### ⚙️二、下载和安装PrivateVPN  
 
-1. **下载客户端**：前往官网“Downloads”页面，选择对应设备的应用程序。PrivateVPN 支持广泛的设备，包括 Windows、macOS、iOS、Android、Linux 和部分路由器。  
+> 1. **下载客户端**：前往官网“Downloads”页面，对应你使用的操作系统下载相应的PrivateVPN应用程序。这款中国翻墙VPN的兼容性还是挺不错的，支持Windows、macOS、iOS、Android、Linux等主流系统，以及部分智能路由器、智能电视。
 
 ![PrivateVPN下载](https://overwallvpn.com/wp-content/uploads/2024/12/privatevpn-download.jpg)
 
-2. **安装应用程序**：运行下载的安装包，按照提示完成安装。iOS 和 Android 用户可直接从 App Store 或 Google Play 下载。  
-3. **配置额外设备（如路由器）**：官网提供详细的配置教程，帮助用户在路由器上设置 VPN，保护全网络流量。  
+> 2. **安装应用程序**：双击安装包，根据提示完成安装，安装过程极快，不需另外设置参数。；iOS和Android等移动端用户可直接前往App Store或Google Play下载PrivateVPN软件。
+> 3. **配置额外设备（如路由器、智能电视）**：路由器和智能电视连接PrivateVPN需要一些非常基础的设置，用户只需下载安装对应客户端或路由器后台导入VPN配置文件，登录账户、选择VPN服务器节点一键连接后就能实现全屋科学上网。（中国大陆地区，优选选择支持 Stealth模式或TCP 443端口的IP节点，以提升被封的容错率。）不会配置的用户也不需要担心，PrivateVPN官网提供详细的路由器教程，保姆级教程，新手也能一看就会。
 
-#### 三、使用 PrivateVPN 的详细步骤  
+#### 📌三、PrivateVPN的使用教程（实用技巧） 
 
-1. **登录账户**：安装完成后，打开应用，输入你的账户信息进行登录。并选择"帮我从中国等受限地区连接"。
+> 1. **登录账户**：安装完成后，打开应用，输入邮箱与密码，首次启动建议勾选「帮我从中国等受限地区连接」。因为勾选这个选项后，PrivateVPN会自动启用其Stealth VPN模式（隐形模式）或等效混淆协议，可提升中国翻墙的有效性。
 
 ![PrivateVPN从中国连接](https://overwallvpn.com/wp-content/uploads/2024/11/privatevpn-bypass-setting.jpg)
   
-2. **选择服务器位置**：  
-   - 在服务器列表中选择目标地区（例如美国、日本、新加坡等），PrivateVPN 提供超过 63 个国家的服务器供选择。  
-   - 如果想观看流媒体（如 Netflix 或 Hulu），选择标注有 "Stream" 的服务器，优化观看体验。  
-3. **一键连接**：点击“Connect”按钮，应用会自动连接到选定服务器。连接成功后，你的 IP 地址会显示为目标服务器的 IP，确保匿名性和安全性。  
-4. **启用 Stealth VPN 模式**：  
-   - 对于受限制的网络（如中国），可以在设置中启用“Stealth VPN”模式，隐藏 VPN 流量，让其看起来像普通 HTTPS 流量，从而绕过审查。   
+> 2. **选择服务器位置**：  
+   - 提供63+国家服务器，中国用户可选择美国、日本、新加坡等高速节点。
+   - 想解锁流媒体（Netflix、Hulu 等）？请选择标有“Stream”的专用服务器，可优化视频质量，播放更流畅。
+> 3. **一键连接**：点击“Connect”按钮，应用会自动连接到选定服务器。连接成功后，你的IP将变更为目标国家IP，实现匿名加密上网。  
+> 4. **启用 Stealth VPN 模式**：  
+   - 若你在中国等受限制网络环境下，请务必启用“Stealth VPN 模式”。该模式能将VPN流量伪装成普通HTTPS流量，有效避开防火长城（GFW）深包检测。 
 
 ![PrivateVPN隐形VPN](https://overwallvpn.com/wp-content/uploads/2024/11/privatevpn-stealthvpn-opened.jpg)
 
-5. **切换连接类型**：如果遇到连接失败的问题，可以试着切换连接类型。推荐使用TCP+443组合。
+> 5. **切换连接类型**：若遇连接不畅，可尝试手动切换VPN协议（个人尝试后更推荐TCP+443组合），该协议和端口的组合可以提升VPN速度与抗封锁能力。
 
 ![PrivateVPN切换连接类型](https://overwallvpn.com/wp-content/uploads/2024/11/privatevpn-windows-protocol.jpg)
 
