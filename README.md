@@ -150,7 +150,7 @@ ExpressVPN之所以在中翻墙稳定性方面表现卓有成效，这完全归�
 
 > 1. **登录账户**：安装完成后，打开应用，输入邮箱与密码，首次启动建议勾选「帮我从中国等受限地区连接」。因为勾选这个选项后，ExpressVPN会自动启用其Stealth VPN模式（隐形模式）或等效混淆协议，可提升中国翻墙的有效性。
 
-![ExpressVPN从中国连接](https://overwallvpn.com/wp-content/uploads/2024/08/expressvpn-windows-connected-hk.jpgg)
+![ExpressVPN从中国连接](https://overwallvpn.com/wp-content/uploads/2024/08/expressvpn-windows-connected-hk.jpg)
   
 > 2. **选择服务器位置**：  
    - 提供63+国家服务器，中国用户可选择美国、日本、新加坡等高速节点。
