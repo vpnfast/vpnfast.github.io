@@ -46,6 +46,8 @@
 > - 设备兼容性：多设备兼容，可直连Windows、macOS、iOS、Android、路由器
 > - 价格与优惠：$3.97/月，年付套餐赠送3个月免费使用
 
+---
+
 **🥈[ExpressVPN](https://overwallvpn.com/go/expressvpn) — 高端旗舰版中国VPN，扣分是因为价格稍贵**
 
 ![ExpressVPN 官网](https://overwallvpn.com/wp-content/uploads/2024/11/expressvpn-homepage.jpg)
@@ -55,6 +57,8 @@
 > - 设备兼容性：可支持设备同时连接，兼容Windows、macOS、Android、Linux等系统
 > - 客服支持：良好的售后支持，客服7×24小时全天候在线
 > - 价格与优惠：两年计划赠送4个月免费使用，算下来价格$3.49/月，同样包含30天退款政策
+
+---
 
 **🥉[PureVPN](https://overwallvpn.com/go/purevpn) — 功能全面，性价比最高的顶级中国VPN**
 
