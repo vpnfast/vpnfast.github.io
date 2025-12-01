@@ -266,7 +266,7 @@ PrivateVPN总部位于英属维京群岛——全球公认隐私保护最严格�
 
 ---
 
-### ⚠️⚠️⚠️ **最后：在中国千万别乱买VPN**（以下是❌不推荐使用的）
+## （二）、🚫不推荐使用的中国翻墙VPN（❌❌不建议使用，以下内容偏测评向，可参考）
 
 当前中国市面上的翻墙软件良莠不齐，新手小白在选购中国翻墙VPN时往往会遇到以下情况：
 
@@ -277,9 +277,7 @@ PrivateVPN总部位于英属维京群岛——全球公认隐私保护最严格�
 
 很多新手就是被这些低质量产品坑惨的！为避免你浪费钱、浪费时间，我后面会列出一些❌不推荐在中国使用的VPN（理由详细说明），让你少踩坑。
 
----
-
-### 5.PandaVPN(已跑路)
+### 1.PandaVPN(已跑路)
 
 > 熊猫VPN在2018年成立，曾经表现出色但后来跑路了，类似的还有光年VPN。因此购买国内VPN需谨慎，尽量选择海外知名大品牌的翻墙VPN。
 
@@ -303,7 +301,7 @@ Panda VPN在全球80个国家/地区拥有超过3000台服务器，VPN软件提�
 
 ---
 
-### 6.[Astrill VPN](https://overwallvpn.com/go/astrill)
+### 2.[Astrill VPN](https://overwallvpn.com/go/astrill)
 
 Astrill VPN是中国用户中比较流行的VPN服务提供商之一。尽管Astrill VPN 提供的美国、香港等线路，也具备伪装流量的功能，可以绕过GFW的封锁检测，但它在中国使用的速度并不理想，通常无法满足用户的需求。
 
@@ -314,7 +312,7 @@ Astrill VPN是中国用户中比较流行的VPN服务提供商之一。尽管Ast
 
 ---
 
-### 7.[VyprVPN](https://overwallvpn.com/go/vyprvpn)
+### 3.[VyprVPN](https://overwallvpn.com/go/vyprvpn)
 
 VyprVPN是一款在国外市场比较受欢迎的VPN，它的变色龙协议可以对抗中国、俄罗斯、土耳其等国家的互联网审查，但VyprVPN连接速度比较慢，VPN软件的服务器列表中显示的延迟也很高。
 
@@ -324,7 +322,7 @@ VyprVPN是一款在国外市场比较受欢迎的VPN，它的变色龙协议可�
 
 ---
 
-#### 8.[NordVPN](https://overwallvpn.com/go/nordvpn)
+#### 4.[NordVPN](https://overwallvpn.com/go/nordvpn)
 
 NordVPN曾经是比较火的中国VPN之一，因安全技术先进，已经成为国内外很多用户的首选VPN。但是在中国大陆，由于更新VPN节点不及时，且提供的混淆服务器不多，经过我的测试后发现在中国无法连接。其次NordVPN的价格已经不算便宜了，购买方式也相对不方便，因此也不推荐在中国使用。
 
@@ -332,7 +330,7 @@ NordVPN曾经是比较火的中国VPN之一，因安全技术先进，已经成�
 
 ---
 
-### 9.[Lantern（蓝灯VPN）](https://lantern.io/zh)
+### 5.[Lantern（蓝灯VPN）](https://lantern.io/zh)
 
 ![Lantern](https://overwallvpn.com/wp-content/uploads/2025/05/lantern-poster.png)
 
@@ -349,13 +347,15 @@ Lantern是一个免费VPN软件，多年来一直备受用户欢迎，但现在�
 
 不能用的翻墙工具非常多，罗列它们并非本文重点，以后慢慢补充吧。
 
-### 10.[Just My Socks](https://overwallvpn.com/go/justmysocks)
+### 6.[Just My Socks](https://overwallvpn.com/go/justmysocks)
 
 ![Just My Socks](https://overwallvpn.com/wp-content/uploads/2025/05/justmysocks-poster.png)
 
 Just My Socks 是一家运营多年的海外 SSR/V2Ray 机场，支持 PayPal、支付宝和银联卡付款（更推荐 PayPal），并提供工单客服。官方套餐以洛杉矶、伦敦、香港、东京等节点为主：例如 LA 500 方案月流量 500 GB、带宽 2.5 Gbps，月费 5.88 美元；LA 1000 则 1 TB 流量、带宽 5 Gbps，月费 9.88 美元。虽然性价比在 10 美元以下的档位仍值得考虑，但服务早已被墙，国内无法直购，通常需要自行翻墙或找朋友代购。面板功能多年几乎没有更新，缺少一键订阅等便捷特性，新用户上手可能稍显麻烦。
 
-## （二）、国内机场梯子(推荐，但有风险)
+---
+
+## （三）、国内机场梯子(推荐，但有风险)
 
 ![翻墙机场](https://overwallvpn.com/wp-content/uploads/2024/08/bypass-tizi.jpg)
 
@@ -375,9 +375,9 @@ Just My Socks 是一家运营多年的海外 SSR/V2Ray 机场，支持 PayPal、
 
 总的来说，如果你想长期稳定地在中国使用VPN翻墙软件，**那么你最好让身边的朋友给你推荐好用的翻墙软件**，而不是网上搜索。因为都多网站都是推广文章，你很难分辨真假。而如果你只是平时偶尔Google查资料，那么机场/梯子或许也是个办法，建议购买月付套餐就行了，以免跑路。
 
-___
+---
 
-### （三）、自建翻墙梯子(需要技术经验)
+## （四）、自建翻墙梯子(需要技术经验)
 
 ![翻墙梯子搭建](https://overwallvpn.com/wp-content/uploads/2024/08/Linux-Command-Line-Interface.jpg)
 
