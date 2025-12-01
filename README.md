@@ -279,7 +279,7 @@ PrivateVPN总部位于英属维京群岛——全球公认隐私保护最严格�
 
 ### 1.PandaVPN(已跑路,望谨慎选择⚠️)
 
-![PandaVPN Logo](https://overwallvpn.com/wp-content/uploads/2025/12/pandavpn-logo.png)
+![PandaVPN Logo](https://overwallvpn.com/wp-content/uploads/2025/12/pandavpn-smalllogo.png)
 
 > 如果你是老翻墙选手，相信对PandaVPN（中国大陆一般称为熊猫VPN）这个名字不会陌生。它于2018年上线，起初凭着连接速度快、节点丰富、兼具机场灵活性在中国VPN圈内一度名声大噪，可惜后续出现跑路事件，与光年VPN结局类似。也正因如此，我必须强调一句：**国内团队运营的VPN风险偏高，入坑要谨慎，能选还是尽量选择海外大厂**。
 
