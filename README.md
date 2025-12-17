@@ -270,9 +270,11 @@ PrivateVPN总部位于英属维京群岛——全球公认隐私保护最严格�
 
 ![NordVPN 官网](https://overwallvpn.com/wp-content/uploads/2025/12/nordvpn-homepage.jpg)
 
-#### **NordVPN技术优势：主要集中在隐私、安全与底层架构
+#### NordVPN技术优势：主要集中在隐私、安全与底层架构
 
 与排名靠前的几款主打“中国翻墙成功率”的VPN梯子不同，NordVPN的定位路线从一开始就不是“激进对抗封锁”，而是围绕用户隐私保护、安全性与系统架构的长期可靠性的。这也是它能在全球市场长期稳居第一梯队、被大量海外媒体与机构认可的根本原因。当然，守护用户个人信息不是一个口号，是需要实际行动来体现的。**在底层安全上，NordVPN采用业界成熟的AES-256加密，此外，在WireGuard的场景中引入ChaCha20**（ChaCha20是为了在高速、低功耗和复杂网络环境下，提供更稳定、更高效的加密性能），这让NordVPN在性能与安全之间取得了较好的平衡。同时，它升级研发了自有的NordLynx协议，在保留WireGuard协议高速特性基础上，解决了原生WireGuard在隐私隔离上的潜在问题。这套方案在国际网络环境下表现非常成熟，这也是NordVPN 被广泛用于跨国办公、远程访问的重要原因之一。
+
+![NordVPN 安全](https://overwallvpn.com/wp-content/uploads/2025/12/nordvpn-safe.jpg)
 
 在功能层面，NordVPN提供了混淆服务器（Obfuscated Servers），用于应对学校、公司或部分国家的受限网络环境。与此同时，**NordVPN还支持双重VPN、Onion over VPN等偏隐私取向的高级功能，并配备完整的Kill Switch与DNS 防泄露机制**，这样一来，NordVPN安全性几乎无可挑剔。
 
@@ -280,7 +282,7 @@ PrivateVPN总部位于英属维京群岛——全球公认隐私保护最严格�
 
 （📣使用小贴士：**在中国大陆使用NordVPN时，务必手动开启混淆服务器，并首选NordLynx协议或OpenVPN TCP协议搭配443端口模式**；如果直接使用默认设置，翻墙成功率往往大大降低！）
 
-#### **庞大的服务器体量，但中国友好节点不占优势**
+#### 庞大的服务器体量，但中国友好节点不占优势
 
 ![NordVPN 服务器](https://overwallvpn.com/wp-content/uploads/2025/12/nordvpn-sever.jpg)
 
