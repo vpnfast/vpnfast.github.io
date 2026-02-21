@@ -1,4 +1,4 @@
-# 2025年中国VPN推荐，翻墙最好用的VPN软件(VPN排行榜)
+# 2026年中国VPN推荐，翻墙最好用的VPN软件(VPN排行榜)
 
 如果你正在寻找最好用的中国VPN，我们的中国VPN推荐指南将帮助你突破中国防火长城（GFW）封锁和干扰限制，让你在中国可以轻松访问Google，YouTube（油管），Facebook（脸书），拨打WhatsApp语音电话，Skype，以及解锁Netflix，Disney Plus，HBO，Hulu等流媒体视频服务。
 
