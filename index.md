@@ -16,8 +16,8 @@
 
 以下实测结果基于中国网络环境下的综合表现排序：
 
-<div style="max-width:1200px;margin:30px auto;font-family:Arial,'Microsoft YaHei',sans-serif;">
-  <table style="width:100%;border-collapse:collapse;background:#fff;border-radius:14px;overflow:hidden;box-shadow:0 8px 24px rgba(0,0,0,0.08);font-size:15px;color:#222;">
+<div style="max-width:1200px;margin:30px auto;font-family:Arial,'Microsoft YaHei',sans-serif;overflow-x:auto;-webkit-overflow-scrolling:touch;">
+  <table style="min-width:1050px;width:100%;border-collapse:collapse;background:#fff;border-radius:14px;overflow:hidden;box-shadow:0 8px 24px rgba(0,0,0,0.08);font-size:15px;color:#222;">
     <thead>
       <tr style="background:linear-gradient(135deg,#0f766e,#14b8a6);color:#fff;text-align:left;">
         <th style="padding:16px;border:1px solid #e5e7eb;">VPN 品牌</th>
@@ -32,7 +32,9 @@
     </thead>
     <tbody>
       <tr style="background:#f0fdfa;">
-        <td style="padding:15px;border:1px solid #e5e7eb;font-weight:bold;">StrongVPN</td>
+        <td style="padding:15px;border:1px solid #e5e7eb;font-weight:bold;">
+          <a href="https://overwallvpn.com/go/strongvpn" target="_blank" rel="noopener noreferrer" style="color:#0f766e;text-decoration:none;">StrongVPN</a>
+        </td>
         <td style="padding:15px;border:1px solid #e5e7eb;color:#059669;font-weight:bold;">98%</td>
         <td style="padding:15px;border:1px solid #e5e7eb;">300–800 Mbps</td>
         <td style="padding:15px;border:1px solid #e5e7eb;">可稳定访问 ChatGPT、Claude、Gemini 等</td>
@@ -43,7 +45,9 @@
       </tr>
 
       <tr>
-        <td style="padding:15px;border:1px solid #e5e7eb;font-weight:bold;">ExpressVPN</td>
+        <td style="padding:15px;border:1px solid #e5e7eb;font-weight:bold;">
+          <a href="https://overwallvpn.com/go/expressvpn" target="_blank" rel="noopener noreferrer" style="color:#0f766e;text-decoration:none;">ExpressVPN</a>
+        </td>
         <td style="padding:15px;border:1px solid #e5e7eb;">85%</td>
         <td style="padding:15px;border:1px solid #e5e7eb;">400–900 Mbps</td>
         <td style="padding:15px;border:1px solid #e5e7eb;">是</td>
@@ -54,7 +58,9 @@
       </tr>
 
       <tr style="background:#f9fafb;">
-        <td style="padding:15px;border:1px solid #e5e7eb;font-weight:bold;">PureVPN</td>
+        <td style="padding:15px;border:1px solid #e5e7eb;font-weight:bold;">
+          <a href="https://overwallvpn.com/go/purevpn" target="_blank" rel="noopener noreferrer" style="color:#0f766e;text-decoration:none;">PureVPN</a>
+        </td>
         <td style="padding:15px;border:1px solid #e5e7eb;">82%</td>
         <td style="padding:15px;border:1px solid #e5e7eb;">200–600 Mbps</td>
         <td style="padding:15px;border:1px solid #e5e7eb;">是</td>
@@ -65,7 +71,9 @@
       </tr>
 
       <tr>
-        <td style="padding:15px;border:1px solid #e5e7eb;font-weight:bold;">Surfshark</td>
+        <td style="padding:15px;border:1px solid #e5e7eb;font-weight:bold;">
+          <a href="https://overwallvpn.com/go/surfshark" target="_blank" rel="noopener noreferrer" style="color:#0f766e;text-decoration:none;">Surfshark</a>
+        </td>
         <td style="padding:15px;border:1px solid #e5e7eb;">80%</td>
         <td style="padding:15px;border:1px solid #e5e7eb;">350–950 Mbps</td>
         <td style="padding:15px;border:1px solid #e5e7eb;">是</td>
