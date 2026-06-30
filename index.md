@@ -47,7 +47,7 @@
 以下实测结果基于中国网络环境下的综合表现排序：
 
 <div style="max-width:1200px;margin:30px auto;font-family:Arial,'Microsoft YaHei',sans-serif;overflow-x:auto;-webkit-overflow-scrolling:touch;">
-  <table style="min-width:1050px;width:100%;border-collapse:collapse;background:#fff;border-radius:14px;overflow:hidden;box-shadow:0 8px 24px rgba(0,0,0,0.08);font-size:15px;color:#222;">
+  <table style="min-width:1100px;width:100%;border-collapse:collapse;background:#fff;border-radius:14px;overflow:hidden;box-shadow:0 8px 24px rgba(0,0,0,0.08);font-size:15px;color:#222;">
     <thead>
       <tr style="background:linear-gradient(135deg,#0f766e,#14b8a6);color:#fff;text-align:left;">
         <th style="padding:16px;border:1px solid #e5e7eb;">VPN 品牌</th>
@@ -60,10 +60,16 @@
         <th style="padding:16px;border:1px solid #e5e7eb;">综合评分</th>
       </tr>
     </thead>
+
     <tbody>
       <tr style="background:#f0fdfa;">
-        <td style="padding:15px;border:1px solid #e5e7eb;font-weight:bold;">
-          <a href="https://overwallvpn.com/go/strongvpn" target="_blank" rel="noopener noreferrer" style="color:#0f766e;text-decoration:none;">StrongVPN</a>
+        <td style="padding:18px;border:1px solid #e5e7eb;min-width:190px;">
+          <div style="font-size:18px;font-weight:700;color:#111827;margin-bottom:8px;">StrongVPN</div>
+          <div style="display:inline-block;background:#ecfeff;color:#0f766e;font-size:12px;font-weight:700;padding:5px 10px;border-radius:999px;margin-bottom:14px;">🏆 编辑推荐</div>
+          <br>
+          <a href="https://overwallvpn.com/go/strongvpn" target="_blank" rel="noopener noreferrer" style="display:inline-block;width:100%;box-sizing:border-box;padding:12px 16px;background:linear-gradient(135deg,#0f766e,#14b8a6);color:#fff;font-weight:700;font-size:15px;text-align:center;text-decoration:none;border-radius:10px;box-shadow:0 4px 12px rgba(20,184,166,.25);">
+            🔥 查看官网优惠 →
+          </a>
         </td>
         <td style="padding:15px;border:1px solid #e5e7eb;color:#059669;font-weight:bold;">98%</td>
         <td style="padding:15px;border:1px solid #e5e7eb;">300–800 Mbps</td>
@@ -75,39 +81,54 @@
       </tr>
 
       <tr>
-        <td style="padding:15px;border:1px solid #e5e7eb;font-weight:bold;">
-          <a href="https://overwallvpn.com/go/expressvpn" target="_blank" rel="noopener noreferrer" style="color:#0f766e;text-decoration:none;">ExpressVPN</a>
+        <td style="padding:18px;border:1px solid #e5e7eb;min-width:190px;">
+          <div style="font-size:18px;font-weight:700;color:#111827;margin-bottom:8px;">ExpressVPN</div>
+          <div style="display:inline-block;background:#fff7ed;color:#c2410c;font-size:12px;font-weight:700;padding:5px 10px;border-radius:999px;margin-bottom:14px;">⚡ 极速体验</div>
+          <br>
+          <a href="https://overwallvpn.com/go/expressvpn" target="_blank" rel="noopener noreferrer" style="display:inline-block;width:100%;box-sizing:border-box;padding:12px 16px;background:linear-gradient(135deg,#0f766e,#14b8a6);color:#fff;font-weight:700;font-size:15px;text-align:center;text-decoration:none;border-radius:10px;box-shadow:0 4px 12px rgba(20,184,166,.25);">
+            🔥 查看官网优惠 →
+          </a>
         </td>
         <td style="padding:15px;border:1px solid #e5e7eb;">85%</td>
         <td style="padding:15px;border:1px solid #e5e7eb;">400–900 Mbps</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">是</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">是</td>
+        <td style="padding:15px;border:1px solid #e5e7eb;">是，可访问 ChatGPT、Claude 等</td>
+        <td style="padding:15px;border:1px solid #e5e7eb;">支持 Netflix、Disney+、YouTube 等</td>
         <td style="padding:15px;border:1px solid #e5e7eb;"><strong>$3.99/月</strong><br>信用卡、Google Pay、PayPal</td>
         <td style="padding:15px;border:1px solid #e5e7eb;color:#f59e0b;">★★★★★</td>
         <td style="padding:15px;border:1px solid #e5e7eb;font-weight:bold;">4.5/5</td>
       </tr>
 
       <tr style="background:#f9fafb;">
-        <td style="padding:15px;border:1px solid #e5e7eb;font-weight:bold;">
-          <a href="https://overwallvpn.com/go/purevpn" target="_blank" rel="noopener noreferrer" style="color:#0f766e;text-decoration:none;">PureVPN</a>
+        <td style="padding:18px;border:1px solid #e5e7eb;min-width:190px;">
+          <div style="font-size:18px;font-weight:700;color:#111827;margin-bottom:8px;">PureVPN</div>
+          <div style="display:inline-block;background:#fefce8;color:#a16207;font-size:12px;font-weight:700;padding:5px 10px;border-radius:999px;margin-bottom:14px;">💰 性价比高</div>
+          <br>
+          <a href="https://overwallvpn.com/go/purevpn" target="_blank" rel="noopener noreferrer" style="display:inline-block;width:100%;box-sizing:border-box;padding:12px 16px;background:linear-gradient(135deg,#0f766e,#14b8a6);color:#fff;font-weight:700;font-size:15px;text-align:center;text-decoration:none;border-radius:10px;box-shadow:0 4px 12px rgba(20,184,166,.25);">
+            🔥 查看官网优惠 →
+          </a>
         </td>
         <td style="padding:15px;border:1px solid #e5e7eb;">82%</td>
         <td style="padding:15px;border:1px solid #e5e7eb;">200–600 Mbps</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">是</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">是</td>
+        <td style="padding:15px;border:1px solid #e5e7eb;">是，可访问主流 AI 工具</td>
+        <td style="padding:15px;border:1px solid #e5e7eb;">支持大部分主流流媒体</td>
         <td style="padding:15px;border:1px solid #e5e7eb;"><strong>$2.55/月</strong><br>信用卡、Google Pay、PayPal</td>
         <td style="padding:15px;border:1px solid #e5e7eb;color:#f59e0b;">★★★★☆</td>
         <td style="padding:15px;border:1px solid #e5e7eb;font-weight:bold;">4.2/5</td>
       </tr>
 
       <tr>
-        <td style="padding:15px;border:1px solid #e5e7eb;font-weight:bold;">
-          <a href="https://overwallvpn.com/go/surfshark" target="_blank" rel="noopener noreferrer" style="color:#0f766e;text-decoration:none;">Surfshark</a>
+        <td style="padding:18px;border:1px solid #e5e7eb;min-width:190px;">
+          <div style="font-size:18px;font-weight:700;color:#111827;margin-bottom:8px;">Surfshark</div>
+          <div style="display:inline-block;background:#eff6ff;color:#1d4ed8;font-size:12px;font-weight:700;padding:5px 10px;border-radius:999px;margin-bottom:14px;">👨‍👩‍👧 无限设备</div>
+          <br>
+          <a href="https://overwallvpn.com/go/surfshark" target="_blank" rel="noopener noreferrer" style="display:inline-block;width:100%;box-sizing:border-box;padding:12px 16px;background:linear-gradient(135deg,#0f766e,#14b8a6);color:#fff;font-weight:700;font-size:15px;text-align:center;text-decoration:none;border-radius:10px;box-shadow:0 4px 12px rgba(20,184,166,.25);">
+            🔥 查看官网优惠 →
+          </a>
         </td>
         <td style="padding:15px;border:1px solid #e5e7eb;">80%</td>
         <td style="padding:15px;border:1px solid #e5e7eb;">350–950 Mbps</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">是</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">是</td>
+        <td style="padding:15px;border:1px solid #e5e7eb;">是，可访问主流 AI 工具</td>
+        <td style="padding:15px;border:1px solid #e5e7eb;">支持 Netflix、Disney+、YouTube 等</td>
         <td style="padding:15px;border:1px solid #e5e7eb;"><strong>$4.79/月</strong><br>信用卡、Apple Pay、Google Pay、加密货币</td>
         <td style="padding:15px;border:1px solid #e5e7eb;color:#f59e0b;">★★★★☆</td>
         <td style="padding:15px;border:1px solid #e5e7eb;font-weight:bold;">4.0/5</td>
