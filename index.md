@@ -65,7 +65,7 @@
       <tr style="background:#f0fdfa;">
         <td style="padding:18px;border:1px solid #e5e7eb;min-width:190px;">
           <div style="font-size:18px;font-weight:700;color:#111827;margin-bottom:8px;">StrongVPN</div>
-          <div style="display:inline-block;background:#ecfeff;color:#0f766e;font-size:12px;font-weight:700;padding:5px 10px;border-radius:999px;margin-bottom:14px;">🏆 编辑推荐</div>
+          <div style="display:inline-block;background:#ecfeff;color:#0f766e;font-size:12px;font-weight:700;padding:5px 10px;border-radius:999px;margin-bottom:14px;">🏆 翻墙最稳</div>
           <br>
           <a href="https://overwallvpn.com/go/strongvpn" target="_blank" rel="noopener noreferrer" style="display:inline-block;width:100%;box-sizing:border-box;padding:12px 16px;background:linear-gradient(135deg,#0f766e,#14b8a6);color:#fff;font-weight:700;font-size:15px;text-align:center;text-decoration:none;border-radius:10px;box-shadow:0 4px 12px rgba(20,184,166,.25);">
             🔥 查看官网优惠
