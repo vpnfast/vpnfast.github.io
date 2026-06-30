@@ -68,7 +68,7 @@
           <div style="display:inline-block;background:#ecfeff;color:#0f766e;font-size:12px;font-weight:700;padding:5px 10px;border-radius:999px;margin-bottom:14px;">🏆 编辑推荐</div>
           <br>
           <a href="https://overwallvpn.com/go/strongvpn" target="_blank" rel="noopener noreferrer" style="display:inline-block;width:100%;box-sizing:border-box;padding:12px 16px;background:linear-gradient(135deg,#0f766e,#14b8a6);color:#fff;font-weight:700;font-size:15px;text-align:center;text-decoration:none;border-radius:10px;box-shadow:0 4px 12px rgba(20,184,166,.25);">
-            🔥 查看官网优惠 →
+            🔥 查看官网优惠
           </a>
         </td>
         <td style="padding:15px;border:1px solid #e5e7eb;color:#059669;font-weight:bold;">98%</td>
@@ -86,7 +86,7 @@
           <div style="display:inline-block;background:#fff7ed;color:#c2410c;font-size:12px;font-weight:700;padding:5px 10px;border-radius:999px;margin-bottom:14px;">⚡ 极速体验</div>
           <br>
           <a href="https://overwallvpn.com/go/expressvpn" target="_blank" rel="noopener noreferrer" style="display:inline-block;width:100%;box-sizing:border-box;padding:12px 16px;background:linear-gradient(135deg,#0f766e,#14b8a6);color:#fff;font-weight:700;font-size:15px;text-align:center;text-decoration:none;border-radius:10px;box-shadow:0 4px 12px rgba(20,184,166,.25);">
-            🔥 查看官网优惠 →
+            🔥 查看官网优惠
           </a>
         </td>
         <td style="padding:15px;border:1px solid #e5e7eb;">85%</td>
@@ -104,7 +104,7 @@
           <div style="display:inline-block;background:#fefce8;color:#a16207;font-size:12px;font-weight:700;padding:5px 10px;border-radius:999px;margin-bottom:14px;">💰 性价比高</div>
           <br>
           <a href="https://overwallvpn.com/go/purevpn" target="_blank" rel="noopener noreferrer" style="display:inline-block;width:100%;box-sizing:border-box;padding:12px 16px;background:linear-gradient(135deg,#0f766e,#14b8a6);color:#fff;font-weight:700;font-size:15px;text-align:center;text-decoration:none;border-radius:10px;box-shadow:0 4px 12px rgba(20,184,166,.25);">
-            🔥 查看官网优惠 →
+            🔥 查看官网优惠
           </a>
         </td>
         <td style="padding:15px;border:1px solid #e5e7eb;">82%</td>
@@ -122,7 +122,7 @@
           <div style="display:inline-block;background:#eff6ff;color:#1d4ed8;font-size:12px;font-weight:700;padding:5px 10px;border-radius:999px;margin-bottom:14px;">👨‍👩‍👧 无限设备</div>
           <br>
           <a href="https://overwallvpn.com/go/surfshark" target="_blank" rel="noopener noreferrer" style="display:inline-block;width:100%;box-sizing:border-box;padding:12px 16px;background:linear-gradient(135deg,#0f766e,#14b8a6);color:#fff;font-weight:700;font-size:15px;text-align:center;text-decoration:none;border-radius:10px;box-shadow:0 4px 12px rgba(20,184,166,.25);">
-            🔥 查看官网优惠 →
+            🔥 查看官网优惠
           </a>
         </td>
         <td style="padding:15px;border:1px solid #e5e7eb;">80%</td>
