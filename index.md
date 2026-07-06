@@ -154,39 +154,31 @@
   </p>
 </div>
 
-<h3 style="font-size:22px;line-height:1.4;color:#111827;margin:28px 0 16px;font-weight:800;font-family:Arial,'Microsoft YaHei',sans-serif;">
-  本文的VPN推荐原则与排名依据
-</h3>
+<div style="background:#f8fffd;border:1px solid #d1fae5;border-radius:14px;padding:24px;margin:28px 0;font-family:Arial,'Microsoft YaHei',sans-serif;">
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px;margin:16px 0 30px;font-family:Arial,'Microsoft YaHei',sans-serif;">
+<div style="font-size:22px;font-weight:800;color:#111827;margin-bottom:18px;">
+本文的 VPN 推荐原则与排名依据
+</div>
 
-  <div style="background:#fff;border:1px solid #e5e7eb;border-radius:14px;padding:18px;box-shadow:0 6px 18px rgba(0,0,0,0.06);">
-    <div style="font-size:24px;margin-bottom:8px;">🛡️</div>
-    <div style="font-size:16px;font-weight:700;color:#0f766e;line-height:1.6;">
-      优先推荐能绕过中国防火墙的稳定翻墙VPN
-    </div>
-  </div>
+<div style="display:flex;align-items:flex-start;margin-bottom:16px;">
+<span style="color:#10b981;font-size:22px;font-weight:bold;margin-right:12px;">✓</span>
+<span style="font-size:16px;line-height:1.8;">优先推荐能绕过中国防火墙的稳定翻墙 VPN。</span>
+</div>
 
-  <div style="background:#fff;border:1px solid #e5e7eb;border-radius:14px;padding:18px;box-shadow:0 6px 18px rgba(0,0,0,0.06);">
-    <div style="font-size:24px;margin-bottom:8px;">⚡</div>
-    <div style="font-size:16px;font-weight:700;color:#0f766e;line-height:1.6;">
-      重点关注节点访问速度，并结合长期真实体验进行评测
-    </div>
-  </div>
+<div style="display:flex;align-items:flex-start;margin-bottom:16px;">
+<span style="color:#10b981;font-size:22px;font-weight:bold;margin-right:12px;">✓</span>
+<span style="font-size:16px;line-height:1.8;">重点关注节点访问速度，并结合长期真实体验进行评测。</span>
+</div>
 
-  <div style="background:#fff;border:1px solid #e5e7eb;border-radius:14px;padding:18px;box-shadow:0 6px 18px rgba(0,0,0,0.06);">
-    <div style="font-size:24px;margin-bottom:8px;">🔄</div>
-    <div style="font-size:16px;font-weight:700;color:#0f766e;line-height:1.6;">
-      VPN推荐榜单状况根据最新测试结果持续更新
-    </div>
-  </div>
+<div style="display:flex;align-items:flex-start;margin-bottom:16px;">
+<span style="color:#10b981;font-size:22px;font-weight:bold;margin-right:12px;">✓</span>
+<span style="font-size:16px;line-height:1.8;">VPN 推荐榜单会根据最新测试结果持续更新。</span>
+</div>
 
-  <div style="background:#fff;border:1px solid #e5e7eb;border-radius:14px;padding:18px;box-shadow:0 6px 18px rgba(0,0,0,0.06);">
-    <div style="font-size:24px;margin-bottom:8px;">⚖️</div>
-    <div style="font-size:16px;font-weight:700;color:#0f766e;line-height:1.6;">
-      不以翻墙梯子的品牌知名度、推广合作或佣金高低作为推荐依据
-    </div>
-  </div>
+<div style="display:flex;align-items:flex-start;">
+<span style="color:#10b981;font-size:22px;font-weight:bold;margin-right:12px;">✓</span>
+<span style="font-size:16px;line-height:1.8;">不以品牌知名度、推广合作或佣金高低作为推荐依据。</span>
+</div>
 
 </div>
 
