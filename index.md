@@ -261,7 +261,7 @@
 
 > - 中国网络环境适应能力优秀
 
-！[strongvpn-net](https://overwallvpn.com/wp-content/uploads/2026/07/strongvpn-net.jpg)
+![strongvpn-net](https://overwallvpn.com/wp-content/uploads/2026/07/strongvpn-net.jpg)
 
 相比优化重心放在欧美市场的VPN来说，**StrongVPN在中国大陆网络环境下表现更加稳定**。无论是中国电信、中国联通还是中国移动网络，在日常浏览网页、跨境办公以及访问海外网站时，都能够保持较高的可用性，更适合作为长期使用的科学上网工具。
 
