@@ -46,98 +46,138 @@
 
 以下实测结果基于中国网络环境下的综合表现排序：
 
-<div style="max-width:1200px;margin:30px auto;font-family:Arial,'Microsoft YaHei',sans-serif;overflow-x:auto;-webkit-overflow-scrolling:touch;">
-  <table style="min-width:1100px;width:100%;border-collapse:collapse;background:#fff;border-radius:14px;overflow:hidden;box-shadow:0 8px 24px rgba(0,0,0,0.08);font-size:15px;color:#222;">
-    <thead>
-      <tr style="background:linear-gradient(135deg,#0f766e,#14b8a6);color:#fff;text-align:left;">
-        <th style="padding:16px;border:1px solid #e5e7eb;">VPN 品牌</th>
-        <th style="padding:16px;border:1px solid #e5e7eb;">中国翻墙成功率</th>
-        <th style="padding:16px;border:1px solid #e5e7eb;">连接速度</th>
-        <th style="padding:16px;border:1px solid #e5e7eb;">AI 工具</th>
-        <th style="padding:16px;border:1px solid #e5e7eb;">主流流媒体</th>
-        <th style="padding:16px;border:1px solid #e5e7eb;">价格与支付方式</th>
-        <th style="padding:16px;border:1px solid #e5e7eb;">售后表现</th>
-        <th style="padding:16px;border:1px solid #e5e7eb;">综合评分</th>
-      </tr>
-    </thead>
+<section class="vpn-comparison" aria-labelledby="vpn-ranking-title">
+  <div class="vpn-comparison__heading">
+    <div>
+      <p class="vpn-comparison__eyebrow">2026 中国网络实测</p>
+      <h2 id="vpn-ranking-title">VPN 综合对比速览</h2>
+      <p>按连接成功率、速度、AI 与流媒体可用性、价格和售后综合排序。</p>
+    </div>
+    <div class="vpn-comparison__updated">
+      <span>数据更新</span>
+      <strong>2026.07.22</strong>
+    </div>
+  </div>
 
-    <tbody>
-      <tr style="background:#f0fdfa;">
-        <td style="padding:18px;border:1px solid #e5e7eb;min-width:190px;">
-          <div style="font-size:18px;font-weight:700;color:#111827;margin-bottom:8px;">StrongVPN</div>
-          <div style="display:inline-block;background:#ecfeff;color:#0f766e;font-size:12px;font-weight:700;padding:5px 10px;border-radius:999px;margin-bottom:14px;">🏆 翻墙最稳</div>
-          <br>
-          <a href="https://overwallvpn.com/go/strongvpn" target="_blank" rel="noopener noreferrer" style="display:inline-block;width:100%;box-sizing:border-box;padding:12px 16px;background:linear-gradient(135deg,#0f766e,#14b8a6);color:#fff;font-weight:700;font-size:15px;text-align:center;text-decoration:none;border-radius:10px;box-shadow:0 4px 12px rgba(20,184,166,.25);">
-            🔥 查看官网优惠
-          </a>
-        </td>
-        <td style="padding:15px;border:1px solid #e5e7eb;color:#059669;font-weight:bold;">98%</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">300–800 Mbps</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">可稳定访问 ChatGPT、Claude、Gemini 等</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">可解锁 Netflix、Disney+、YouTube 等</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;"><strong>$3.97/月</strong><br>信用卡、PayPal、支付宝</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;color:#f59e0b;">★★★★★</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;font-weight:bold;color:#059669;">4.9/5</td>
-      </tr>
+  <div class="vpn-comparison__highlights" aria-label="榜单重点">
+    <span>🏆 稳定性首选：StrongVPN</span>
+    <span>⚡ 速度首选：ExpressVPN</span>
+    <span>💰 低价首选：PureVPN</span>
+    <span>👨‍👩‍👧 多设备首选：Surfshark</span>
+  </div>
 
-      <tr>
-        <td style="padding:18px;border:1px solid #e5e7eb;min-width:190px;">
-          <div style="font-size:18px;font-weight:700;color:#111827;margin-bottom:8px;">ExpressVPN</div>
-          <div style="display:inline-block;background:#fff7ed;color:#c2410c;font-size:12px;font-weight:700;padding:5px 10px;border-radius:999px;margin-bottom:14px;">⚡ 极速体验</div>
-          <br>
-          <a href="https://overwallvpn.com/go/expressvpn" target="_blank" rel="noopener noreferrer" style="display:inline-block;width:100%;box-sizing:border-box;padding:12px 16px;background:linear-gradient(135deg,#0f766e,#14b8a6);color:#fff;font-weight:700;font-size:15px;text-align:center;text-decoration:none;border-radius:10px;box-shadow:0 4px 12px rgba(20,184,166,.25);">
-            🔥 查看官网优惠
-          </a>
-        </td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">85%</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">400–900 Mbps</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">是，可访问 ChatGPT、Claude 等</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">支持 Netflix、Disney+、YouTube 等</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;"><strong>$3.99/月</strong><br>信用卡、Google Pay、PayPal</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;color:#f59e0b;">★★★★★</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;font-weight:bold;">4.5/5</td>
-      </tr>
+  <div class="vpn-table-wrap">
+    <table class="vpn-table">
+      <thead>
+        <tr>
+          <th scope="col">排名与品牌</th>
+          <th scope="col">成功率</th>
+          <th scope="col">连接速度</th>
+          <th scope="col">AI 工具</th>
+          <th scope="col">主流流媒体</th>
+          <th scope="col">价格与支付</th>
+          <th scope="col">售后</th>
+          <th scope="col">综合评分</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="vpn-table__winner">
+          <td data-label="排名与品牌">
+            <div class="vpn-brand">
+              <span class="vpn-brand__rank">1</span>
+              <div>
+                <strong>StrongVPN</strong>
+                <span class="vpn-tag vpn-tag--green">🏆 翻墙最稳</span>
+              </div>
+            </div>
+            <a class="vpn-cta" href="https://overwallvpn.com/go/strongvpn" target="_blank" rel="noopener noreferrer">查看官网优惠 <span aria-hidden="true">→</span></a>
+          </td>
+          <td data-label="中国连接成功率">
+            <strong class="vpn-success">98%</strong>
+            <span class="vpn-meter" aria-label="成功率 98%"><span style="width:98%"></span></span>
+          </td>
+          <td data-label="连接速度"><strong>300–800</strong><small>Mbps</small></td>
+          <td data-label="AI 工具"><span class="vpn-status">✓</span> ChatGPT、Claude、Gemini 等</td>
+          <td data-label="主流流媒体"><span class="vpn-status">✓</span> Netflix、Disney+、YouTube 等</td>
+          <td data-label="价格与支付"><strong class="vpn-price">$3.97<small>/月</small></strong><small>信用卡 · PayPal · 支付宝</small></td>
+          <td data-label="售后"><span class="vpn-stars" aria-label="5 星">★★★★★</span></td>
+          <td data-label="综合评分"><strong class="vpn-score">4.9</strong><small>/ 5</small></td>
+        </tr>
 
-      <tr style="background:#f9fafb;">
-        <td style="padding:18px;border:1px solid #e5e7eb;min-width:190px;">
-          <div style="font-size:18px;font-weight:700;color:#111827;margin-bottom:8px;">PureVPN</div>
-          <div style="display:inline-block;background:#fefce8;color:#a16207;font-size:12px;font-weight:700;padding:5px 10px;border-radius:999px;margin-bottom:14px;">💰 性价比高</div>
-          <br>
-          <a href="https://overwallvpn.com/go/purevpn" target="_blank" rel="noopener noreferrer" style="display:inline-block;width:100%;box-sizing:border-box;padding:12px 16px;background:linear-gradient(135deg,#0f766e,#14b8a6);color:#fff;font-weight:700;font-size:15px;text-align:center;text-decoration:none;border-radius:10px;box-shadow:0 4px 12px rgba(20,184,166,.25);">
-            🔥 查看官网优惠
-          </a>
-        </td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">82%</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">200–600 Mbps</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">是，可访问主流 AI 工具</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">支持大部分主流流媒体</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;"><strong>$2.55/月</strong><br>信用卡、Google Pay、PayPal</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;color:#f59e0b;">★★★★☆</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;font-weight:bold;">4.2/5</td>
-      </tr>
+        <tr>
+          <td data-label="排名与品牌">
+            <div class="vpn-brand">
+              <span class="vpn-brand__rank">2</span>
+              <div>
+                <strong>ExpressVPN</strong>
+                <span class="vpn-tag vpn-tag--orange">⚡ 极速体验</span>
+              </div>
+            </div>
+            <a class="vpn-cta" href="https://overwallvpn.com/go/expressvpn" target="_blank" rel="noopener noreferrer">查看官网优惠 <span aria-hidden="true">→</span></a>
+          </td>
+          <td data-label="中国连接成功率">
+            <strong class="vpn-success">85%</strong>
+            <span class="vpn-meter" aria-label="成功率 85%"><span style="width:85%"></span></span>
+          </td>
+          <td data-label="连接速度"><strong>400–900</strong><small>Mbps</small></td>
+          <td data-label="AI 工具"><span class="vpn-status">✓</span> ChatGPT、Claude 等</td>
+          <td data-label="主流流媒体"><span class="vpn-status">✓</span> Netflix、Disney+、YouTube 等</td>
+          <td data-label="价格与支付"><strong class="vpn-price">$3.99<small>/月</small></strong><small>信用卡 · Google Pay · PayPal</small></td>
+          <td data-label="售后"><span class="vpn-stars" aria-label="5 星">★★★★★</span></td>
+          <td data-label="综合评分"><strong class="vpn-score">4.5</strong><small>/ 5</small></td>
+        </tr>
 
-      <tr>
-        <td style="padding:18px;border:1px solid #e5e7eb;min-width:190px;">
-          <div style="font-size:18px;font-weight:700;color:#111827;margin-bottom:8px;">Surfshark</div>
-          <div style="display:inline-block;background:#eff6ff;color:#1d4ed8;font-size:12px;font-weight:700;padding:5px 10px;border-radius:999px;margin-bottom:14px;">👨‍👩‍👧 无限设备</div>
-          <br>
-          <a href="https://overwallvpn.com/go/surfshark" target="_blank" rel="noopener noreferrer" style="display:inline-block;width:100%;box-sizing:border-box;padding:12px 16px;background:linear-gradient(135deg,#0f766e,#14b8a6);color:#fff;font-weight:700;font-size:15px;text-align:center;text-decoration:none;border-radius:10px;box-shadow:0 4px 12px rgba(20,184,166,.25);">
-            🔥 查看官网优惠
-          </a>
-        </td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">80%</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">350–950 Mbps</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">是，可访问主流 AI 工具</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;">支持 Netflix、Disney+、YouTube 等</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;"><strong>$4.79/月</strong><br>信用卡、Apple Pay、Google Pay、加密货币</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;color:#f59e0b;">★★★★☆</td>
-        <td style="padding:15px;border:1px solid #e5e7eb;font-weight:bold;">4.0/5</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+        <tr>
+          <td data-label="排名与品牌">
+            <div class="vpn-brand">
+              <span class="vpn-brand__rank">3</span>
+              <div>
+                <strong>PureVPN</strong>
+                <span class="vpn-tag vpn-tag--yellow">💰 性价比高</span>
+              </div>
+            </div>
+            <a class="vpn-cta" href="https://overwallvpn.com/go/purevpn" target="_blank" rel="noopener noreferrer">查看官网优惠 <span aria-hidden="true">→</span></a>
+          </td>
+          <td data-label="中国连接成功率">
+            <strong class="vpn-success">82%</strong>
+            <span class="vpn-meter" aria-label="成功率 82%"><span style="width:82%"></span></span>
+          </td>
+          <td data-label="连接速度"><strong>200–600</strong><small>Mbps</small></td>
+          <td data-label="AI 工具"><span class="vpn-status">✓</span> 主流 AI 工具</td>
+          <td data-label="主流流媒体"><span class="vpn-status">✓</span> 大部分主流平台</td>
+          <td data-label="价格与支付"><strong class="vpn-price">$2.55<small>/月</small></strong><small>信用卡 · Google Pay · PayPal</small></td>
+          <td data-label="售后"><span class="vpn-stars" aria-label="4 星">★★★★☆</span></td>
+          <td data-label="综合评分"><strong class="vpn-score">4.2</strong><small>/ 5</small></td>
+        </tr>
 
-> **最后更新时间：2026年7月22日**
+        <tr>
+          <td data-label="排名与品牌">
+            <div class="vpn-brand">
+              <span class="vpn-brand__rank">4</span>
+              <div>
+                <strong>Surfshark</strong>
+                <span class="vpn-tag vpn-tag--blue">👨‍👩‍👧 无限设备</span>
+              </div>
+            </div>
+            <a class="vpn-cta" href="https://overwallvpn.com/go/surfshark" target="_blank" rel="noopener noreferrer">查看官网优惠 <span aria-hidden="true">→</span></a>
+          </td>
+          <td data-label="中国连接成功率">
+            <strong class="vpn-success">80%</strong>
+            <span class="vpn-meter" aria-label="成功率 80%"><span style="width:80%"></span></span>
+          </td>
+          <td data-label="连接速度"><strong>350–950</strong><small>Mbps</small></td>
+          <td data-label="AI 工具"><span class="vpn-status">✓</span> 主流 AI 工具</td>
+          <td data-label="主流流媒体"><span class="vpn-status">✓</span> Netflix、Disney+、YouTube 等</td>
+          <td data-label="价格与支付"><strong class="vpn-price">$4.79<small>/月</small></strong><small>信用卡 · Apple Pay · Google Pay · 加密货币</small></td>
+          <td data-label="售后"><span class="vpn-stars" aria-label="4 星">★★★★☆</span></td>
+          <td data-label="综合评分"><strong class="vpn-score">4.0</strong><small>/ 5</small></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p class="vpn-comparison__note"><strong>说明：</strong>成功率与速度来自帖子记录的中国网络环境测试结果；实际体验会受地区、运营商、节点负载和测试时段影响。价格以页面记录的长期套餐折算价为准，购买前请以官网显示为准。</p>
+</section>
 
 ## 为什么推荐这几款VPN？
 

@@ -1,0 +1,413 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+:root {
+  --vpn-ink: #0f172a;
+  --vpn-muted: #64748b;
+  --vpn-line: #dbe5e3;
+  --vpn-soft: #f1f8f6;
+  --vpn-green: #087f6b;
+  --vpn-green-dark: #076356;
+  --vpn-mint: #2dd4bf;
+  --vpn-gold: #f59e0b;
+}
+
+.main-content {
+  max-width: 74rem;
+}
+
+.vpn-comparison {
+  margin: 2rem 0;
+  color: var(--vpn-ink);
+  font-family: Inter, "PingFang SC", "Microsoft YaHei", Arial, sans-serif;
+}
+
+.vpn-comparison__heading {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1.5rem;
+  padding: 1.5rem 1.6rem;
+  border-radius: 1.25rem 1.25rem 0 0;
+  background:
+    radial-gradient(circle at 85% 10%, rgba(45, 212, 191, .28), transparent 30%),
+    linear-gradient(135deg, #073b35, #087f6b);
+  color: #fff;
+}
+
+.vpn-comparison__heading h2 {
+  margin: .2rem 0 .45rem;
+  color: #fff;
+  border: 0;
+  font-size: clamp(1.4rem, 3vw, 2rem);
+  font-weight: 800;
+}
+
+.vpn-comparison__heading p {
+  margin: 0;
+  color: rgba(255, 255, 255, .82);
+  line-height: 1.65;
+}
+
+.vpn-comparison__eyebrow {
+  font-size: .75rem;
+  font-weight: 800;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+}
+
+.vpn-comparison__updated {
+  flex: 0 0 auto;
+  padding: .65rem .85rem;
+  border: 1px solid rgba(255, 255, 255, .22);
+  border-radius: .8rem;
+  background: rgba(255, 255, 255, .1);
+  text-align: right;
+  backdrop-filter: blur(8px);
+}
+
+.vpn-comparison__updated span,
+.vpn-comparison__updated strong {
+  display: block;
+}
+
+.vpn-comparison__updated span {
+  margin-bottom: .15rem;
+  color: rgba(255, 255, 255, .7);
+  font-size: .68rem;
+}
+
+.vpn-comparison__highlights {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: .55rem;
+  padding: .8rem;
+  border: 1px solid var(--vpn-line);
+  border-top: 0;
+  background: #fff;
+}
+
+.vpn-comparison__highlights span {
+  padding: .6rem .7rem;
+  border-radius: .6rem;
+  background: var(--vpn-soft);
+  color: #28534c;
+  font-size: .74rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.vpn-table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--vpn-line);
+  border-top: 0;
+  background: #fff;
+  box-shadow: 0 18px 45px rgba(15, 23, 42, .09);
+  -webkit-overflow-scrolling: touch;
+}
+
+.vpn-table {
+  width: 100%;
+  min-width: 1050px;
+  margin: 0;
+  border: 0;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: .79rem;
+}
+
+.vpn-table th,
+.vpn-table td {
+  border: 0;
+  border-right: 1px solid #e8efed;
+  border-bottom: 1px solid #e8efed;
+  vertical-align: middle;
+}
+
+.vpn-table th:last-child,
+.vpn-table td:last-child {
+  border-right: 0;
+}
+
+.vpn-table thead th {
+  padding: .8rem .7rem;
+  background: #eaf5f2;
+  color: #345c55;
+  font-size: .7rem;
+  font-weight: 800;
+  letter-spacing: .03em;
+  white-space: nowrap;
+}
+
+.vpn-table tbody td {
+  padding: 1rem .7rem;
+  color: #334155;
+  line-height: 1.5;
+}
+
+.vpn-table tbody tr:nth-child(even) {
+  background: #fbfdfc;
+}
+
+.vpn-table tbody tr:hover {
+  background: #f3faf8;
+}
+
+.vpn-table__winner {
+  background: linear-gradient(90deg, #edfbf7, #fff) !important;
+}
+
+.vpn-table small {
+  display: block;
+  margin-top: .2rem;
+  color: var(--vpn-muted);
+  font-size: .68rem;
+  line-height: 1.45;
+}
+
+.vpn-brand {
+  display: flex;
+  align-items: flex-start;
+  gap: .65rem;
+  min-width: 8.5rem;
+}
+
+.vpn-brand strong {
+  display: block;
+  margin-bottom: .4rem;
+  color: var(--vpn-ink);
+  font-size: .95rem;
+}
+
+.vpn-brand__rank {
+  display: inline-grid;
+  flex: 0 0 1.8rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  place-items: center;
+  border-radius: .55rem;
+  background: #d8ede8;
+  color: var(--vpn-green-dark);
+  font-weight: 900;
+}
+
+.vpn-table__winner .vpn-brand__rank {
+  background: linear-gradient(135deg, #fcd34d, #f59e0b);
+  color: #713f12;
+  box-shadow: 0 5px 12px rgba(245, 158, 11, .25);
+}
+
+.vpn-tag {
+  display: inline-block;
+  padding: .22rem .45rem;
+  border-radius: 999px;
+  font-size: .63rem;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.vpn-tag--green { background: #d9f7ef; color: #087461; }
+.vpn-tag--orange { background: #fff0df; color: #b45309; }
+.vpn-tag--yellow { background: #fff8cf; color: #92610a; }
+.vpn-tag--blue { background: #e7f0ff; color: #1d4ed8; }
+
+.vpn-cta {
+  display: block;
+  margin-top: .75rem;
+  padding: .5rem .65rem;
+  border-radius: .55rem;
+  background: var(--vpn-green);
+  color: #fff !important;
+  font-size: .72rem;
+  font-weight: 800;
+  text-align: center;
+  text-decoration: none;
+  transition: transform .18s ease, background .18s ease, box-shadow .18s ease;
+}
+
+.vpn-cta:hover {
+  background: var(--vpn-green-dark);
+  box-shadow: 0 7px 15px rgba(8, 127, 107, .2);
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+.vpn-success {
+  display: block;
+  margin-bottom: .35rem;
+  color: var(--vpn-green);
+  font-size: 1rem;
+}
+
+.vpn-meter {
+  display: block;
+  width: 4.2rem;
+  height: .32rem;
+  overflow: hidden;
+  border-radius: 999px;
+  background: #dfeae7;
+}
+
+.vpn-meter span {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--vpn-green), var(--vpn-mint));
+}
+
+.vpn-status {
+  display: inline-grid;
+  width: 1.1rem;
+  height: 1.1rem;
+  margin-right: .18rem;
+  place-items: center;
+  border-radius: 50%;
+  background: #d9f7ef;
+  color: var(--vpn-green);
+  font-size: .7rem;
+  font-weight: 900;
+}
+
+.vpn-price {
+  display: block;
+  color: var(--vpn-ink);
+  font-size: .95rem;
+}
+
+.vpn-price small {
+  display: inline;
+  font-weight: 500;
+}
+
+.vpn-stars {
+  color: var(--vpn-gold);
+  font-size: .8rem;
+  letter-spacing: .02em;
+  white-space: nowrap;
+}
+
+.vpn-score {
+  color: var(--vpn-green);
+  font-size: 1.15rem;
+}
+
+.vpn-comparison__note {
+  margin: 0;
+  padding: .85rem 1rem;
+  border: 1px solid var(--vpn-line);
+  border-top: 0;
+  border-radius: 0 0 1.25rem 1.25rem;
+  background: #f8fbfa;
+  color: var(--vpn-muted);
+  font-size: .72rem;
+  line-height: 1.65;
+}
+
+@media (max-width: 760px) {
+  .vpn-comparison__heading {
+    align-items: flex-start;
+    padding: 1.25rem;
+  }
+
+  .vpn-comparison__updated {
+    display: none;
+  }
+
+  .vpn-comparison__highlights {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .vpn-table-wrap {
+    overflow: visible;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+
+  .vpn-table,
+  .vpn-table tbody,
+  .vpn-table tr,
+  .vpn-table td {
+    display: block;
+    width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+  }
+
+  .vpn-table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+  }
+
+  .vpn-table tbody tr {
+    margin-top: .8rem;
+    overflow: hidden;
+    border: 1px solid var(--vpn-line);
+    border-radius: 1rem;
+    background: #fff !important;
+    box-shadow: 0 10px 26px rgba(15, 23, 42, .07);
+  }
+
+  .vpn-table tbody td {
+    display: grid;
+    grid-template-columns: minmax(7rem, 38%) 1fr;
+    gap: .8rem;
+    padding: .7rem 1rem;
+    border: 0;
+    border-bottom: 1px solid #e8efed;
+    text-align: right;
+  }
+
+  .vpn-table tbody td::before {
+    content: attr(data-label);
+    color: var(--vpn-muted);
+    font-size: .72rem;
+    font-weight: 700;
+    text-align: left;
+  }
+
+  .vpn-table tbody td:first-child {
+    display: block;
+    padding: 1rem;
+    background: #f3faf8;
+    text-align: left;
+  }
+
+  .vpn-table tbody td:first-child::before {
+    display: none;
+  }
+
+  .vpn-table tbody td:last-child {
+    border-bottom: 0;
+  }
+
+  .vpn-brand {
+    align-items: center;
+  }
+
+  .vpn-cta {
+    margin-top: .9rem;
+    padding: .68rem;
+  }
+
+  .vpn-meter {
+    margin-left: auto;
+  }
+
+  .vpn-comparison__note {
+    margin-top: .8rem;
+    border-top: 1px solid var(--vpn-line);
+    border-radius: 1rem;
+  }
+}
+
+@media (max-width: 430px) {
+  .vpn-comparison__highlights {
+    grid-template-columns: 1fr;
+  }
+}
