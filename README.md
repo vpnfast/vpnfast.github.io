@@ -60,7 +60,7 @@
 |---|---|
 | 官方网站 | [starfirewall.com](https://starfirewall.com/) |
 | 服务类型 | 机场订阅服务 |
-| 套餐周期 | 包月68元/月，包年39元/月 |
+| 套餐周期 | 包月89元，包年329元 |
 | 代理协议 | VLESS + REALITY |
 | 支持设备 | Windows、macOS、Android、iOS |
 | 兼容客户端 | v2rayN、Shadowrocket、FlClash 等 |
@@ -76,7 +76,7 @@ Starfirewall 使用 VLESS + REALITY 等代理技术。简单来说，这套方�
 
 另外，机场通常需要自己安装客户端、导入订阅链接。第一次使用可能稍微麻烦一点，但熟悉之后其实并不复杂。像 v2rayN 这类客户端还支持规则分流，可以让国内网站直接连接，海外网站再走代理。我个人更喜欢这种方式，毕竟访问国内网站也绕一圈海外服务器，既增加延迟，又浪费套餐流量，实在没什么必要。
 
-![Starfirewall价格](https://overwallvpn.com/wp-content/uploads/2026/10/starfirewall-price.jpg)
+![Starfirewall价格](https://overwallvpn.com/wp-content/uploads/2026/10/starfirewall-price-new.jpg)
 > 实际价格以官网最新信息为准。
 
 根据我的测速来说，Starfirewall的价格其实算不上特别贵，毕竟延迟和带宽给的都还不错。Starfirewall基本上都能抗过敏感时间，目前五折优惠算下来性价比其实是还是可以的。购买Starfirewall步骤非常简单，就不多说了。选择好套餐填好邮箱密码之后，用支付宝或者微信付款，然后点击收到的邮件链接就可以登录个人中心了，如果没收到邮件用账号密码登录也可以。后台图文教程写的比较清楚，小白也可以两分钟上手。
