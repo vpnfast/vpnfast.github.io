@@ -85,7 +85,7 @@ Starfirewall 使用 VLESS + REALITY 等代理技术。简单来说，这套方�
 
 ### 2.[StrongVPN](https://overwallvpn.com/go/strongvpn)
 
-> 最近StrongVPN网络不太理想，还是推荐选择Starfirewall更靠谱一些。
+> 最近StrongVPN网络不太理想，还是推荐选择[Starfirewall](https://starfirewall.com/)更靠谱一些。
 
 作为大厂翻墙VPN，StrongVPN在应对防火长城（GFW）的干扰与封锁时发挥出色，它能提供稳定的网络连接，无碍访问如 Google、YouTube、Facebook、Instagram等被封锁限制的网站，同时还会**加密个人数据流，优化用户科学上网体验**。
 
