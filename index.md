@@ -72,7 +72,7 @@
             Starfirewall
           </div>
           <div style="display:inline-block;background:#dcfce7;color:#15803d;font-size:12px;font-weight:700;padding:5px 10px;border-radius:999px;margin-bottom:14px;">
-            🏆 翻墙黑马
+            🏆 翻墙最稳
           </div>
           <br>
           <a href="https://starfirewall.com/"
@@ -120,7 +120,7 @@
             StrongVPN
           </div>
           <div style="display:inline-block;background:#ecfeff;color:#0f766e;font-size:12px;font-weight:700;padding:5px 10px;border-radius:999px;margin-bottom:14px;">
-            🏆 翻墙最稳
+            🏆 大品牌（最近稳定性有所下降，推荐将Starfirewall作为首选）
           </div>
           <br>
           <a href="https://overwallvpn.com/go/strongvpn"
