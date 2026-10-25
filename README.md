@@ -81,6 +81,8 @@ Starfirewall 使用 VLESS + REALITY 等代理技术。简单来说，这套方�
 
 根据我的测速来说，Starfirewall的价格其实算不上特别贵，毕竟延迟和带宽给的都还不错。Starfirewall基本上都能抗过敏感时间，目前三折优惠算下来性价比其实是还是可以的。购买Starfirewall步骤非常简单，就不多说了。选择好套餐填好邮箱密码之后，用支付宝或者微信付款，然后点击收到的邮件链接就可以登录个人中心了，如果没收到邮件用账号密码登录也可以。后台图文教程写的比较清楚，小白也可以两分钟上手。
 
+---
+
 ### 2.[StrongVPN](https://overwallvpn.com/go/strongvpn)
 
 > 最近StrongVPN网络不太理想，还是推荐选择Starfirewall更靠谱一些。
