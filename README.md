@@ -75,7 +75,9 @@
 
 #### 一、购买 Starfirewall
 
-打开[Starfirewall官网](https://starfirewall.com/)，选择适合自己的订阅套餐开始注册。个人更推荐直接在官网购买，有售后保障且没有被骗风险。Starfirewall 通常提供月付或年付两种计划，肉眼可见的是年付更优惠，推荐大多数翻墙用户购买，非常划算。**长期在中国翻墙，那这个套餐非常值得剁手**。
+打开[Starfirewall官网](https://starfirewall.com/)，选择适合自己的订阅套餐开始注册。
+
+个人更推荐直接在官网购买，有售后保障且没有被骗风险。Starfirewall 通常提供月付或年付两种计划，肉眼可见的是年付更优惠，推荐大多数翻墙用户购买，非常划算。**长期在中国翻墙，那这个套餐非常值得剁手**。
 
 ![Starfirewall购买](https://overwallvpn.com/wp-content/uploads/2026/11/starfirewall-pay.jpg)
 
