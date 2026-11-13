@@ -119,6 +119,8 @@
 
 * > **测试说明**：实际速度和连接效果会受到所在地区、网络运营商、设备、节点负载以及测试时间等因素影响，因此以上数据仅代表近期的实际测试结果，不同用户的实际使用表现可能存在一定的差异。
 
+[>> 访问Starfirewall官网查看最新资讯和优惠信息](https://starfirewall.com/)
+
 ---
 
 ### 2.[StrongVPN](https://overwallvpn.com/go/strongvpn)
