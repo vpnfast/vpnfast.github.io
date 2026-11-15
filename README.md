@@ -95,15 +95,13 @@
 
 进入 Starfirewall个人中心，根据当前个人使用设备选择合适的客户端版本。Starfirewall 可兼容 Windows、macOS、iOS、Android 等操作系统，也可以通过手动配置安装在路由器上。像我之前提到的，在路由器后台配置，可以让所有联网设备同时走代理流量，特别适合爱追剧、打游戏的中国大陆用户。点击下载对应的安装包，并根据提示完成安装，根据安装指引整个安装过程不会超过两分钟，对新手极其好用。打开 Starfirewall 应用程序，导入订阅链接，你就能在其首页看到所有的服务器节点，延迟与当前的连接状态。
 
-![Starfirewall电脑客户端](https://overwallvpn.com/wp-content/uploads/2026/11/flclash-windows-dashboard3.jpg)
+![Starfirewall电脑客户端](https://overwallvpn.com/wp-content/uploads/2026/11/flclash-windows-dashboard4.jpg)
 
 #### 四、设置和使用 Starfirewall
 
 个人登录后到成功翻墙前最关键的一步应该就是选择最适合的服务器节点了。这是因为，一个理想的节点不仅可以优化流量路径、降低网络延迟、同时还能保障连接的稳定性。
 > * 首页展示了可选的全球服务器列表（美国、日本、新加坡、马来西亚，香港，台湾等多个地区的常用翻墙节点。）
 > * 根据个人使用意图合理选择不同国家的节点。（观看 Netflix、Disney+、Hulu 等流媒体，建议直接选择位于美国的节点，可减少视频加载时间。如有高速下载需求，则优先使用地理位置距中国较近的服务器，例如好用的日本、新加坡等地的 IP 节点。对于那些追求稳定翻墙的中国用户来说，Starfirewall的混淆技术能有效应对中国防火长城的封锁，让数据流量看起来更像普通加密通信，从而保持连接稳定不中断。）
-
-![Starfirewall访问ChatGPT](https://overwallvpn.com/wp-content/uploads/2026/11/starfirewall-chatgpt.jpg)
 
 点击首页最大那个按钮按钮，等待几秒钟会自动建立安全加密通道。一经连接成功后，你的所有上网流量都会被加密转发，可确保一定的安全性。IP 位置重置后，你便能正常访问一切被墙的网站和社交平台了（如 Google、YouTube、Facebook、Twitter/X以及各种AI平台，比如ChatGPT,Claude或者Gemini等）。
 
